@@ -488,48 +488,79 @@ def calculate_threat_score(analysis_results):
     # --- JavaScript Analysis ---
     js_findings = analysis_results.get("javascript", [])
 
+    # Track counts for saturation
+    counts = {
+        "eval": 0,
+        "new_func": 0,
+        "parsing_error": 0,
+        "long_string": 0,
+        "high_entropy": 0,
+        "exfiltration": 0,
+        "dangerous_dom": 0,
+    }
+
     for finding in js_findings:
         if finding["type"] == "suspicious_call" and finding["value"] == "eval":
-            score += 40
-            threat_report.append(
-                f"Uses eval() in {finding['file']} (line {finding['line']})"
-            )
+            counts["eval"] += 1
+            if counts["eval"] <= 1:  # Only report first few to avoid spam
+                threat_report.append(
+                    f"Uses eval() in {finding['file']} (line {finding['line']})"
+                )
 
         if finding["type"] == "suspicious_call" and finding["value"] == "new Function":
-            score += 30
-            threat_report.append(
-                f"Uses new Function() in {finding['file']} (line {finding['line']})"
-            )
+            counts["new_func"] += 1
+            if counts["new_func"] <= 1:
+                threat_report.append(
+                    f"Uses new Function() in {finding['file']} (line {finding['line']})"
+                )
 
         if finding["type"] == "parsing_error":
-            score += 10
-            threat_report.append(
-                f"Failed to parse {finding['file']}, (line {finding['line']}), likely minified or obfuscated"
-            )
+            counts["parsing_error"] += 1
+            if counts["parsing_error"] <= 1:
+                threat_report.append(
+                    f"Failed to parse {finding['file']}, (line {finding['line']}), likely minified or obfuscated"
+                )
 
         if finding["type"] == "long_string":
-            score += 10
-            threat_report.append(
-                f"Found potential packed code (long string) in {finding['file']} (line {finding['line']})"
-            )
+            counts["long_string"] += 1
+            if counts["long_string"] <= 1:
+                threat_report.append(
+                    f"Found potential packed code (long string) in {finding['file']} (line {finding['line']})"
+                )
 
         if finding["type"] == "high_entropy_string":
-            score += 15
-            threat_report.append(
-                f"Found high entropy string (potential obfuscation) in {finding['file']} (line {finding['line']})"
-            )
+            counts["high_entropy"] += 1
+            if counts["high_entropy"] <= 1:
+                threat_report.append(
+                    f"Found high entropy string (potential obfuscation) in {finding['file']} (line {finding['line']})"
+                )
 
         if finding["type"] == "exfiltration_risk":
-            score += 10
-            threat_report.append(
-                f"Potential data exfiltration using {finding['value']} in {finding['file']} (line {finding['line']})"
-            )
+            counts["exfiltration"] += 1
+            if counts["exfiltration"] <= 5:
+                threat_report.append(
+                    f"Potential data exfiltration using {finding['value']} in {finding['file']} (line {finding['line']})"
+                )
 
         if finding["type"] == "dangerous_dom":
-            score += 20
-            threat_report.append(
-                f"Dangerous DOM operation {finding['value']} in {finding['file']} (line {finding['line']})"
-            )
+            counts["dangerous_dom"] += 1
+            if counts["dangerous_dom"] <= 5:
+                threat_report.append(
+                    f"Dangerous DOM operation {finding['value']} in {finding['file']} (line {finding['line']})"
+                )
+
+    # Apply scores with saturation (caps)
+    score += min(
+        counts["eval"] * 40, 40
+    )  # Max 40 for eval (it's bad, but 10 evals isn't 10x worse than 1)
+    score += min(counts["new_func"] * 30, 30)  # Max 30
+    score += min(
+        counts["parsing_error"] * 10, 20
+    )  # Max 20 (a few errors ok, many is suspicious but capped)
+    score += min(counts["long_string"] * 10, 30)  # Max 30 (minified code has many)
+    score += min(counts["high_entropy"] * 15, 45)  # Max 45
+    score += min(counts["exfiltration"] * 10, 50)  # Max 50
+    score += min(counts["dangerous_dom"] * 20, 60)  # Max 60
 
     # --- Network Analysis ---
     net_findings = analysis_results.get("network", [])
@@ -549,14 +580,16 @@ def calculate_threat_score(analysis_results):
     return {"score": score, "report": threat_report}
 
 
-def main(path):
+def analyze_extension(path):
     """
-    Main function to orchestrate the extension analysis.
+    Analyzes a single extension and returns the results dict.
 
     Args:
         path (str): The file path to the unpacked extension directory.
+
+    Returns:
+        dict: The analysis results, or None if analysis failed.
     """
-    # Use os.path.normpath to handle trailing slashes, then basename
     extension_id = os.path.basename(os.path.normpath(path))
     # Print to stderr
     print(f"--- Starting analysis for extension: {extension_id} ---", file=sys.stderr)
@@ -574,21 +607,21 @@ def main(path):
     except FileNotFoundError:
         # Print errors to stderr
         print(f"Error: 'manifest.json' not found at {manifest_path}", file=sys.stderr)
-        return  # Exit the function
+        return None
     except json.JSONDecodeError:
         # Print errors to stderr
         print(
             f"Error: Could not decode 'manifest.json' at {manifest_path}. Invalid JSON.",
             file=sys.stderr,
         )
-        return  # Exit the function
+        return None
     except Exception as e:
         # Print errors to stderr
         print(
             f"An unexpected error occurred while reading the manifest: {e}",
             file=sys.stderr,
         )
-        return
+        return None
 
     # Call placeholder analysis functions
     results["manifest"] = analyze_manifest(manifest_data)
@@ -608,9 +641,20 @@ def main(path):
 
     # Print status to stderr
     print(f"\n--- Analysis Complete for {extension_id} ---", file=sys.stderr)
+    return final_output
 
-    # *** THIS IS THE ONLY PRINT TO STDOUT ***
-    print(json.dumps(final_output, indent=2))
+
+def main(path):
+    """
+    Main function to orchestrate the extension analysis.
+
+    Args:
+        path (str): The file path to the unpacked extension directory.
+    """
+    result = analyze_extension(path)
+    if result:
+        # *** THIS IS THE ONLY PRINT TO STDOUT ***
+        print(json.dumps(result, indent=2))
 
     # Print status to stderr
     print("-------------------------------------------------", file=sys.stderr)

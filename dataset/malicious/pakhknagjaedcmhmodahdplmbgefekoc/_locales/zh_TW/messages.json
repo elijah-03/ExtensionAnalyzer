@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "關於"
+},
+"background": {
+"message": "背景"
+},
+"better_click": {
+"message": "點擊它，更改背景"
+},
+"better_down": {
+"message": "下載當前壁紙"
+},
+"better_fb": {
+"message": "分享至Facebook"
+},
+"better_google": {
+"message": "分享到Google+"
+},
+"better_memu": {
+"message": "顯示設置菜單"
+},
+"better_pin": {
+"message": "你可以釘住當前壁紙"
+},
+"better_pinned": {
+"message": "你已經固定當前壁紙"
+},
+"better_print": {
+"message": "分享到Pinterest"
+},
+"better_qq": {
+"message": "分享到QQ區"
+},
+"better_sina": {
+"message": "分享到新浪"
+},
+"better_start": {
+"message": "進擊的巨人新標籤"
+},
+"better_twitter": {
+"message": "分享到Twitter"
+},
+"color": {
+"message": "純色"
+},
+"extDescription": {
+"message": "自動更新壁紙或從Google™圖片搜索壁紙來自定義您的Chrome新標籤頁。"
+},
+"extName": {
+"message": "進擊的巨人新標籤，定制壁紙HD"
+},
+"fivestar1": {
+"message": "你喜歡進擊的巨人 New Tab嗎？"
+},
+"fivestar2": {
+"message": "請給我們一個很好的評論在Chrome商店。"
+},
+"image": {
+"message": "本地圖像"
+},
+"library": {
+"message": "從庫更新"
+},
+"no": {
+"message": "沒有"
+},
+"not_now": {
+"message": "不是現在"
+},
+"pinned_confirm": {
+"message": "你固定當前壁紙，你確定要更新它嗎？"
+},
+"search": {
+"message": "搜索"
+},
+"setting": {
+"message": "設置"
+},
+"share": {
+"message": "分享給你的朋友"
+},
+"upload": {
+"message": "上傳"
+},
+"visit": {
+"message": "訪問最多的站點"
+},
+"yes": {
+"message": "是"
+},
+"today": {
+"message": "今天"
+},
+"mon": {
+"message": "星期一"
+},
+"tue": {
+"message": "星期二"
+},
+"wed": {
+"message": "星期三"
+},
+"thu": {
+"message": "星期四"
+},
+"fri": {
+"message": "星期五"
+},
+"sat": {
+"message": "星期六"
+},
+"sun": {
+"message": "星期日"
+},
+"upload_tip": {
+"message": "上傳的圖片尺寸太大！"
+},
+"upload_close": {
+"message": "關"
+},
+"unkownLocation": {
+"message": "未知位置"
+},
+"frequent": {
+"message": "更新頻率"
+},
+"fre_pin": {
+"message": "釘住當前背景"
+},
+"fre_never": {
+"message": "決不"
+},
+"fre_min": {
+"message": "每一分鐘"
+},
+"fre_hour": {
+"message": "每隔一小時"
+},
+"fre_day": {
+"message": "每天"
+},
+"search_tip1": {
+"message": "你將進入"
+},
+"search_tip2": {
+"message": "搜索"
+},
+"history1": {
+"message": "顯示訪問量最高的網站"
+},
+"history2": {
+"message": "您可以在設置中恢復訪問量最大的網站。"
+},
+"weather": {
+"message": "顯示天氣預報"
+},
+"self_add": {
+"message": "你已經添加了它。"
+},
+"self_travel": {
+"message": "輸入關鍵字來建立你自己的壁紙庫"
+},
+"self_search": {
+"message": "搜索"
+},
+"self_load": {
+"message": "已經加載"
+},
+"self_scroll": {
+"message": "向下滾動以加載更多。"
+},
+"self_customize": {
+"message": "自定義庫"
+},
+"self_selected": {
+"message": "選"
+},
+"self_finish": {
+"message": "構建壁紙庫"
+},
+"self_allow": {
+"message": "允許他人使用這個庫"
+},
+"recommend1": {
+"message": "藝術"
+},
+"recommend2": {
+"message": "愛"
+},
+"recommend3": {
+"message": "海灘"
+},
+"recommend4": {
+"message": "狼"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "貓"
+},
+"recommend7": {
+"message": "動畫片"
+},
+"Customize_Library": {
+"message": "自定義庫"
+},
+"wallpapers": {
+"message": "壁紙"
+},
+"delete": {
+"message": "你確定要刪除它嗎？"
+},
+"wordpress_title": {
+"message": "定制壁紙高清主題-進擊的巨人新標籤"
+},
+"wordpress_get": {
+"message": "獲取我的鉻合金的這個主題"
+},
+"better_customized": {
+"message": "建立你自己的壁紙庫"
+},
+"better_shares": {
+"message": "點擊它，分享給你的朋友"
+},
+"better_save": {
+"message": "添加到收藏夾"
+},
+"better_remove": {
+"message": "從收藏夾中刪除"
+},
+"share_tip": {
+"message": "成功添加到收藏夾，您也可以將此擴展程序分享到："
+},
+"login": {
+"message": "您需要登錄"
+}
+}

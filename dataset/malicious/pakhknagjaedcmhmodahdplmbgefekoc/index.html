@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+<title>New Tab</title>
+<meta name="keywords" content="#" />
+<meta name="description" content="#" />
+<meta name="author" content="#" />
+<link href="css/index.css" type="text/css" rel="stylesheet" />
+<link href="css/radiocheckbox.css" type="text/css" rel="stylesheet" />
+<base target="_blank"  />
+</head>
+<body style="zoom: 1;">
+	
+	<div id="sharepop">
+		<div align="right" class="deteles"><img src="../images/close.png"   id="closeShare"/></div>
+			<div style="padding-right: 100px;"><font class="sharelogin" msg-name = "share_tip"></font></div>
+	    <br />
+	    <div align="center">
+	    	<img src="images/fbshare.png"  width="64px" class="cursor"/>
+	    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    	<img src="images/googleshare.png"  width="64px" class="cursor"/>
+	    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    </div>
+	</div>	
+	
+	<div id="likepop">
+		<div align="right" class="deteles"><img src="../images/close.png" width="15px"  id="closeLike"/></div>
+		<div><font class="likelogin" msg-name = "login"> </font>&nbsp;<img src="image/main/FB.png" class="cursor" />&nbsp;&nbsp;<font class="likelogin">or</font>&nbsp;&nbsp;<img src="image/main/google3.png" style="padding-right: 15px;" class="cursor"/></div>
+	</div>
+		
+	<div id="back1">
+			<div align="right" class="deteles"><img src="../images/close.png"  id="closeUrls"/></div>
+		<div class="add">
+			
+			<font color="white" class="font_size1" msg-name = "self_add"></font>
+			
+			<br />
+			<!--<font color="white" size="3">&nbsp;&nbsp;&nbsp;please enter your favorite theme in the input box</font>-->
+       </div>
+      
+		</div>
+	<div id="back">
+			<div align="right" ><img src="../images/close.png" class="deteles" id="closeUrl"/></div>
+		<div align="center">
+			
+			<font color="white" class="font_size1" msg-name = "self_travel"> </font>
+			
+			<br />
+			<!--<font color="white" size="3">&nbsp;&nbsp;&nbsp;please enter your favorite theme in the input box</font>-->
+       </div>
+        <div class="input">
+        	 <form action="" method="get" target="_self" id="search2">
+		  &nbsp;&nbsp;&nbsp;&nbsp; <input type="search" id="input" align="left" /> <label class="confirm1" msg-name = "self_search"></label>
+		   </form>
+		</div>
+		<div align="center">
+			<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="recommends1" class="deteles"><font  class="font_size"  msg-name = "recommend1"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		    <span id="recommends2" class="deteles"><font  class="font_size"  msg-name = "recommend2"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		    <span id="recommends3" class="deteles"><font  class="font_size"  msg-name = "recommend3"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span id="recommends4" class="deteles"><font  class="font_size"  msg-name = "recommend4"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		    <span id="recommends5" class="deteles"><font  class="font_size"  msg-name = "recommend5"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span id="recommends6" class="deteles"><font  class="font_size"  msg-name = "recommend6"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span id="recommends7" class="deteles"><font  class="font_size"  msg-name = "recommend7"></font></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br />
+		</div>
+		</div>
+<div class="background">
+<div id="wrap">
+	<!-- header start -->
+	<div id="head">
+		<div id="menu">
+		    <ul class="metutabs">
+                <li id="topSiteMenu" >
+                    <img style="margin-top:10px" width="20px" height="20px" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTAgNTEwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGcgaWQ9Imhpc3RvcnkiPjxwYXRoIHN0eWxlPSJvcGFjaXR5OjAuOTtlbmFibGUtYmFja2dyb3VuZDpuZXcgICAgOyIgZD0iTTI2Ny43NSwxMi43NWMtODkuMjUsMC0xNjguMyw0OC40NS0yMDkuMSwxMjIuNEwwLDc2LjV2MTY1Ljc1aDE2NS43NSAgICBsLTcxLjQtNzEuNGMzMy4xNS02My43NSw5Ni45LTEwNy4xLDE3My40LTEwNy4xQzM3Mi4zLDYzLjc1LDQ1OSwxNTAuNDUsNDU5LDI1NXMtODYuNywxOTEuMjUtMTkxLjI1LDE5MS4yNSAgICBjLTg0LjE1LDAtMTUzLTUzLjU1LTE4MS4wNS0xMjcuNUgzMy4xNWMyOC4wNSwxMDIsMTIyLjQsMTc4LjUsMjM0LjYsMTc4LjVDNDAyLjksNDk3LjI1LDUxMCwzODcuNiw1MTAsMjU1ICAgIEM1MTAsMTIyLjQsNDAwLjM1LDEyLjc1LDI2Ny43NSwxMi43NXogTTIyOS41LDE0MC4yNVYyNzAuM2wxMTkuODUsNzEuNGwyMC40LTMzLjE1bC0xMDItNjEuMnYtMTA3LjFIMjI5LjV6IiBmaWxsPSIjRkZGRkZGIi8+PC9nPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48L3N2Zz4=" />
+                </li>
+                <li class="settingMenu" id="settingMenu">
+                	<img src="../image/main/menu.png" />
+                </li>
+            </ul>
+        </div>
+		<div id="setting_box" tabindex="2" style="overflow-x: hidden;">
+			<ul class="sel_tabs">
+				<li class="select_topsite select_now" msg-name='visit'></li>
+				<li class="select_set" msg-name='setting'></li>
+				<span class="close"></span>
+			</ul>
+			<div class="tab_conbox" id="tab_conbox">
+		    	
+		        <div class="tab_con">
+		          <div class="history_list">
+		          </div>
+		        </div> 
+		        <div class="tab_con">
+		        	<ul class="settingstab">
+		        		<li class="select_now" msg-name='background'></li>
+		        		<li msg-name="search"></li>
+		        		<li style="text-align:left;" msg-name='about'></li>
+		        	</ul>
+		        	<div class="tab_conbox2" id="tab_conbox2">
+		        		<div class="tab_con2">
+		        			 <div class="tab_con2_title"><input type="radio" name="radio" value="1" id = "library" checked="checked" disabled="disabled"><label for="library" msg-name='library'></label></div>
+		        			 <div class="updatefl" id="newurl">
+		        			 	<span><input id="checkboxlike" type="checkbox" name="checkboxlike" value="1" ><label for="checkboxlike">my favorite </label>&nbsp;&nbsp;(<font color="#0C4CB2" id="likecount">0</font>)&nbsp;&nbsp;<img src="image/main/Fb-r.png" id="fblogin" style="cursor: pointer;" />&nbsp;<font color="#0099F3" id="orlogin">or</font>&nbsp;<img src="image/main/google6.png" id="googlelogin" style="cursor: pointer;"/> </span> 
+		        			    <span><input id="checkbox1" type="checkbox" name="checkbox" value="1" ><label for="checkbox1">Attack on Titan</label></span> 
+						        <span><input id="checkbox2" type="checkbox" name="checkbox" value="2" ><label for="checkbox2">500px</label></span>
+<!--						        <span><input id="checkbox2" type="checkbox" name="checkbox" value="2"><label for="checkbox2">Google Earth</label></span>-->
+						        <span><input id="checkbox3" type="checkbox" name="checkbox" value="3"><label for="checkbox3">Google Art</label></span>
+						        <span><input id="checkbox4" type="checkbox" name="checkbox" value="4"><label for="checkbox4">Flickr</label></span>
+                                <span><input id="checkbox5" type="checkbox" name="checkbox" value="5" ><label for="checkbox5">Bing</label></span>
+                                
+						        <!--<span><input id="checkbox6" type="checkbox" name="checkbox" value="6"><label for="checkbox6">Live images</label></span>
+						        <span><input id="checkbox7" type="checkbox" name="checkbox" value="7"><label for="checkbox7">pretty girls</label></span>-->
+						      </div>
+						        <input type="button" class="settings_btn"  id="self_defs" />	
+						      
+						      <div class="tab_con2_title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label  msg-name='frequent'></label></div>
+		        			 <div class="updatefl">
+		        			 	<span><input id="checkbox45"  type="checkbox"  name ="fre_pin"><label for="checkbox45" msg-name='fre_pin'></label></span>
+		        			    <span>
+		        			    <div class = "fre"><input id="checkbox11"  type="radio" name="frequent" value="11" ><label for="checkbox11" msg-name='fre_never'></label>
+		        			    </div><div class = "fre2">
+		        			    	<input id="checkbox22" type="radio" name="frequent" value="22" ><label for="checkbox22" msg-name='fre_min'></label>
+		        			    </div> 
+						        </span>
+<!--						        <span><input id="checkbox2" type="checkbox" name="checkbox" value="2"><label for="checkbox2">Google Earth</label></span>-->
+						        <span>
+						        <div class = "fre">
+						            <input id="checkbox33"  type="radio" name="frequent" value="33"><label for="checkbox33" msg-name='fre_hour'></label>
+						         </div><div class = "fre2">
+						        	  <input id="checkbox44"  type="radio" name="frequent" value="44"><label for="checkbox44" msg-name='fre_day'></label>
+						         </div>
+						        </span>
+						        
+						        <!--<span><input id="checkbox6" type="checkbox" name="checkbox" value="6"><label for="checkbox6">Live images</label></span>
+						        <span><input id="checkbox7" type="checkbox" name="checkbox" value="7"><label for="checkbox7">pretty girls</label></span>-->
+						      </div>
+						      
+						      <div class="tab_con2_title"><input type="radio" name="radio" value="2" id="color_set"   disabled="disabled"><label for="color_set" msg-name='color'></label></div>
+						      <div class="solidcolor">
+								<ul>
+									<li class="c1"></li>
+									<li class="c2"></li>
+									<li class="c3"></li>
+									<li class="c4"></li>
+									<li class="c5"></li>
+									<li class="c6"></li>
+									<li class="c7"></li>
+									<li class="c8"></li>
+									<li class="c9"></li>
+									<li class="c10"></li>
+									<li class="c11"></li>
+									<li class="c12"></li>
+									<li class="c13"></li>
+									<li class="c14"></li>
+									<li class="c15"></li>
+									<li class="c16"></li>
+								</ul>
+						      </div>
+						      <div class="tab_con2_title"><input type="radio" name="radio" value="3" id="local_set" disabled="disabled"><label for="local_set" msg-name='image'></label></div>
+						      <input type="file" id="realfile" />
+						      <input type="button" class="settings_btn" value="Upload" id="uploadbutton" />						
+						      <!--<div class="tab_con2_title1"><input type="checkbox" name="history" value="history" id="history" ><label for="radios" msg-name='history'></label></div>--> 
+		        		      <div></div>
+		        		      <div class="tab_con2_title1"><input id="history"  type="checkbox"  name ="history"><label  msg-name='history1' for ="history"></label>
+		        		      <br />
+		        		      <div class="tab_con2_title2"><input id="weather"  type="checkbox"  name ="weather"><label for="weather" msg-name='weather'  ></label>
+		        		      </div>
+                               <br />
+		        		      </div>
+		        		</div>
+		        		 
+		        		
+		        		<!--test-->
+		        		<div class="tab_con2">
+		        			 <div class="searchright">
+		        			 	<div class="tab_search_title"><input type="radio" name="searchradio" checked="checked" values="1" value ="google" id="searchradio1"><label for="searchradio1" >Google</label></div>
+			        			<div class="tab_search_title"><input type="radio" name="searchradio" values="2" value="bing" id="searchradio2"><label for="searchradio2" >Bing</label></div>
+			        			<div class="tab_search_title"><input type="radio" name="searchradio" values="3" value="yahoo" id="searchradio3"><label for="searchradio3" >Yahoo</label></div>
+			        			<div class="tab_search_title"><input type="radio" name="searchradio" values="4" value="baidu" id="searchradio4"><label for="searchradio4" >Baidu</label></div>
+		        			 </div>
+		        			 
+		        		</div>
+		        		
+		        		<div class="tab_con2">
+		        			<a href="http://www.ppvpn.net/public/stall/QLife_New_Tab_User_Guide.htm" target="_blank">
+		        			    <div class="about_logo">
+		        			        <img src="../image/main/LOGO.png" style="width:100%; height:100%" />
+		        			    </div>
+		        			    </a>
+		        			<a href="http://www.ppvpn.net/public/stall/QLife_New_Tab_User_Guide.htm" target="_blank"><div class="about_text"  id="left1"></div></a>
+		        			<div class="share_right" msg-name='share'></div>
+		        			<div class="share_icon">
+		        				<a target="_blank" href="http://www.facebook.com/sharer.php?u=https://chrome.google.com/webstore/detail/better-start-new-tab/foblenpmbgfbpompfjophgobpfgbmoni" alt="Facebook"><img src="image/main/Fb-r.png" /></a>                            
+                                <a target="_blank" href="https://twitter.com/intent/tweet?text=Discovered%20from%20Better%20Start%20New%20Tab.&tw_p=tweetbutton&url=https://chrome.google.com/webstore/detail/better-start-new-tab-hd-w/foblenpmbgfbpompfjophgobpfgbmoni" alt="Twitter"><img src="image/main/twitter-r.png" /></a>
+                                <a target="_blank" href="https://plus.google.com/share?url=https://chrome.google.com/webstore/detail/better-start-new-tab/foblenpmbgfbpompfjophgobpfgbmoni?utm_source=plus" alt="Google"><img src="../image/main/google6.png" /></a>                        
+		        			</div>
+		        			<br />
+		        			<!--<div class="about_text" style="">Contact us:<br /><span>betterchrome@foxmail.com</span></div>-->
+		        		</div>
+		        		
+		        	</div>
+		        </div>
+			</div>
+		</div>
+	</div>
+	<!-- header end -->
+  
+	<!-- body start --> 
+	<div id="main">
+		<div id="search_box">
+		    <form action="" method="get" target="_self" id="search1">
+    			<input type="text" value="" tabindex="0" placeholder="search" class="search_input" id = "search_bar"/>
+    		    <i class="glyphicon glyphicon-search cursor" id="search_bars"></i>
+<!--    			<input type="submit" value="&nbsp;" class="search_btn" />-->
+			</form>
+			<br />
+			<br />
+			
+		    
+		</div>
+		
+	<div id="history_show">
+	<div class="history_sign">
+		<img src="image/main/history_close.png"  id="history_sign" />
+	</div>
+	<br />
+	<br />
+	<div>
+	<div id="history_display">
+	</div>
+     </div>
+</div>
+		
+	
+		<div>
+			
+			
+		</div>
+		
+		<div id="share_box">
+			<div class="bunny_box cursor"></div>
+			<div class="bunny_box2 cursor"></div>
+			<div class="bunny_box3 cursor"></div>
+			<div class="share_title" msg-name='better_start'></div>
+			<ul class="share_list">
+				<li class="pin cursor" id="sign"></li>
+				<li class="settingsicon cursor"></li>
+				<a id="downloadUrl" download="Attack on Titan New Tab"><li class="download cursor"></li></a>
+				<li id = "like" class="like1"></li>
+				<li class="customized cursor"></li>
+				
+				<li class="share cursor"></li>
+				<li class="fb cursor"></li>
+                <li class="pint cursor"></li>
+				<li class="twitter cursor"></li>
+				<li class="google cursor"></li>			
+			</ul>
+			
+		</div>
+		
+		<script id="weather_template" type="text/x-handlebars-template">
+		    {{#each forecast}}
+		      <dl title="{{this.text}}">
+		          <dt>{{this.day}}</dt>
+		          <dd data-icon="{{this.code}}"></dd>
+		          <span>{{this.high}}°/{{this.low}}°</span>
+	          </dl>
+		    {{/each}}
+		</script>
+		
+		<div id="weather_list" class="hovereff">
+			<input type="checkbox" name="check-1" value="4" class="lcs_check" autocomplete="off" />
+			<div class="weather_dl">
+				
+			</div>
+		</div>
+		
+		
+		<div id="weather_Big" style="display: none;">
+			<dl>
+			    <div id="weather_today_candition">
+    				<dd class="web-font cursor">24°</dd>
+    				<dt  data-icon="1" ></dt>
+				</div>
+                <span ><img class="editPng" src="image/edit.png" /></span>
+				<span id="location" tabindex="1">San Francisco</span>
+			</dl>
+		</div>
+		
+	</div> 
+  	<!-- body end --> 
+  
+ 	 <!-- floor start -->
+	<div id="foot">
+	</div> 
+	<!-- floor end --> 
+<div class="clear"></div>
+</div>
+
+<script src="js/jquery-1.11.1.js"></script>
+<script src="js/global.js"></script>
+    
+<script src="js/lc_switch.js" ></script>
+<script src="js/jquery.easing.1.3.js" ></script>
+<script src="js/handlebars.js" ></script>
+<script type="text/javascript" src="js/BackgroundImageManager.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/weather.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script type="text/javascript" src="js/suggestion.js"></script>
+<script src="js/self_def.js"></script>
+
+
+
+</div>
+
+</body>
+<link href="css/jquery-ui.css" type="text/css" rel="stylesheet" />
+</html>

@@ -1,0 +1,1540 @@
+{
+   "appName": {
+     "message": "Nimble capture"
+   },
+   "appNameMini": {
+     "message": "Nimble capture"
+   },
+   "appDesc": {
+     "message": "ሙሉ ገጽ ስክሪንሾቶችን ይያዙ። ስክሪንሾቶችን ያርትዑ እና ያስቀምጡ። ስክሪንካስቶችን ይቅዱ - ከስክሪንዎ ቪዲዮ ይቅዱ። እንዴት እንደሚሰራ መመሪያዎችን ይቅዱ።"
+   },
+   "welcomePageTitle": {
+     "message": "ወደ ኒምብል ስክሪንሾት እንኳን ደህና መጡ"
+   },
+   "btnVisiblePage": {
+     "message": "የሚታየው የገጽ ክፍል"
+   },
+   "btnDelayedScreen": {
+     "message": "የዘገየ ስክሪን"
+   },
+   "btnCaptureFragment": {
+     "message": "ቁራጭ ይያዙ"
+   },
+   "btnCaptureFragmentScroll": {
+     "message": "ሊሸበለል የሚችል ቁራጭ ይያዙ"
+   },
+   "btnSelectedArea": {
+     "message": "የተመረጠ ቦታ"
+   },
+   "btnSelectedScroll": {
+     "message": "ይምረጡ እና ይሸብልሉ"
+   },
+   "btnEntirePage": {
+     "message": "ሙሉ ገጽ"
+   },
+   "btnBrowserWindow": {
+     "message": "የዴስክቶፕ ስክሪንሾት"
+   },
+   "btnDesktop": {
+     "message": "ከዴስክቶፕ ይያዙ"
+   },
+   "btnBlankScreen": {
+     "message": "ባዶ ስክሪን"
+   },
+   "btnAndroidVersion": {
+     "message": "የአንድሮይድ ስሪት"
+   },
+   "btnCaptureVideo": {
+     "message": "ቪዲዮ መቅዳት"
+   },
+   "tooltipOptions": {
+     "message": "ቅንብሮች"
+   },
+   "tooltipOptionsWatermark": {
+     "message": "የውሃ ምልክት ቅንብሮች"
+   },
+   "btnConnectSlack": {
+     "message": "ስላክን አገናኝ"
+   },
+   "btnEnableCopy": {
+     "message": "ወደ ቅንጥብ ሰሌዳ ቅዳ"
+   },
+   "btnAccessMic": {
+     "message": "ወደ ማይክሮፎን እና ካሜራ መዳረሻ"
+   },
+   "btnReadyVideo": {
+     "message": "ቪዲዮ ለመቅዳት ዝግጁ ነኝ"
+   },
+   "btnManual": {
+     "message": "መመሪያ"
+   },
+   "btnOkGotIt": {
+     "message": "እሺ፣ ገባኝ"
+   },
+   "btnCancel": {
+     "message": "ሰርዝ"
+   },
+   "btnLearnMore": {
+     "message": "ተጨማሪ ይወቁ"
+   },
+   "popupTitle": {
+     "message": "ኒምብል መያዣ"
+   },
+   "popupVideoTitle": {
+     "message": "ቪዲዮ መቅዳት"
+   },
+   "popupVideoLimitMessage": {
+     "message": "<b>በአንድ ቪዲዮ 5 ደቂቃ ገደብ።</b> ያልተገደበ ቅጂ እና ሌሎች ፕሪሚየም ባህሪያት ለማግኘት ያሻሽሉ።"
+   },
+   "popupButtonAdvertising": {
+     "message": "ኒምበስ ክሊፐር - ሁሉንም ነገር ይቁረጡ!"
+   },
+   "popupLabelSetting": {
+     "message": "ቅንብር"
+   },
+   "popupLabelRecordMic": {
+     "message": "የማይክ ድምጽ መቅዳት"
+   },
+   "popupLabelRecordCamera": {
+     "message": "ዌብካም መቅዳት"
+   },
+   "popupLabelRecordTab": {
+     "message": "የታብ ድምጽ መቅዳት"
+   },
+   "popupLabelVideoSetting": {
+     "message": "የቪዲዮ ቅንብሮች"
+   },
+   "popupLabelCursorAnimate": {
+     "message": "የተንቀሳቀሰ ከርሰር"
+   },
+   "popupLabelShowDrawingTools": {
+     "message": "የስዕል መሳሪያዎችን አሳይ"
+   },
+   "popupLabelCountdown": {
+     "message": "ቆጠራ"
+   },
+   "popupLabelVideoAnimationCursor": {
+     "message": "የጠቅ ሳል"
+   },
+   "popupRecordTypeTitle": {
+     "message": "ምን መቅዳት ይፈልጋሉ"
+   },
+   "popupSizeAutoLabel": {
+     "message": "ራስ-ሰር"
+   },
+   "popupSizeAutoDescription": {
+     "message": "(የአሁኑ ጥራት)"
+   },
+   "popupRecordVideoCoreLabel": {
+     "message": "ቪዲዮ መቅዳት"
+   },
+   "popupRecordAudioCoreLabel": {
+     "message": "ኦዲዮ መቅዳት"
+   },
+   "popupRecordCoreDefaultLabel": {
+     "message": "ነባሪ ውጤት"
+   },
+   "popupRecordCoreAdvancedLabel": {
+     "message": "የላቀ"
+   },
+   "popupBitrateAudioLabel": {
+     "message": "የኦዲዮ ቢትሬት"
+   },
+   "popupBitrateVideoLabel": {
+     "message": "የቪዲዮ ቢትሬት"
+   },
+   "popupFrameRateLabel": {
+     "message": "የፍሬም ድግግሞሽ"
+   },
+   "popupAutoDeleteDrawing": {
+     "message": "ስዕልን በራስ-ሰር ሰርዝ"
+   },
+   "popupAutoDeleteDrawingDescription": {
+     "message": "ቪዲዮ በሚቀዱበት ጊዜ የተሳሉት ቅርጾች የሚሰረዙበትን የጊዜ ገደብ መወሰን ይችላሉ"
+   },
+   "popupSelectMicLabel": {
+     "message": "ማይክሮፎን"
+   },
+   "popupSelectWebCamLabel": {
+     "message": "ዌብካም"
+   },
+   "popupBtnTabRecord": {
+     "message": "ታብ"
+   },
+   "popupBtnDesktopRecord": {
+     "message": "ዴስክቶፕ"
+   },
+   "popupBtnCameraRecord": {
+     "message": "ዌብካም ብቻ"
+   },
+   "popupBtnBack": {
+     "message": "ተመለስ"
+   },
+   "popupVideoQualityTitle": {
+     "message": "የቪዲዮ እና የኦዲዮ ጥራት"
+   },
+   "popupRecordTitle": {
+     "message": "ቪዲዮ እየተቀዳ ነው"
+   },
+   "popupRecordWantTitle": {
+     "message": "እንዴት መቅዳት ይፈልጋሉ"
+   },
+   "popupLabelPrivateUpload": {
+     "message": "የግል ሰቀላ"
+   },
+   "popupLabelSelectWorkspace": {
+     "message": "የስራ ቦታ ይምረጡ"
+   },
+   "popupBtnUploadOptionShow": {
+     "message": "የዥረት አማራጮችን አሳይ"
+   },
+   "popupBtnUploadOptionHide": {
+     "message": "የዥረት አማራጮችን ደብቅ"
+   },
+   "popupBtnStopRecord": {
+     "message": "ቅጂን አቁም"
+   },
+   "popupBtnStopPause": {
+     "message": "ለአፍታ አቁም"
+   },
+   "popupBtnStopResume": {
+     "message": "ቀጥል"
+   },
+   "popupBtnStartRecord": {
+     "message": "ቅጂ ጀምር"
+   },
+   "popupBtnStartStream": {
+     "message": "ወዲያውኑ መቅዳት ጀምር"
+   },
+   "popupBtnResetVideoSetting": {
+     "message": "ቅንብሮችን ዳግም አስጀምር"
+   },
+   "popupAfterCapture": {
+     "message": "ከመያዝ በኋላ የሚደረግ እርምጃ"
+   },
+   "popupSec": {
+     "message": "ሰከንድ"
+   },
+   "popupMyNotes": {
+     "message": "የእኔ ሰቀላዎች"
+   },
+   "popupCapturingProgress": {
+     "message": "በመያዝ ላይ..."
+   },
+   "popupWelcomeVideo": {
+     "message": "ወደ ቪዲዮ ቅጂ እንኳን በደህና መጡ"
+   },
+   "popupAccessMic": {
+     "message": "ለመጀመሪያ፣ ወደ ማይክሮፎንዎ መዳረሻ መፍቀድ አለብዎት"
+   },
+   "popupReadManual": {
+     "message": "በተጨማሪም፣ መተግበሪያውን ለመጠቀም መመሪያዎችን ማንበብ ይችላሉ"
+   },
+   "popupVideoReEncoding": {
+     "message": "የቪዲዮ ዳግም-ኢንኮዲንግን አንቃ"
+   },
+   "popupVideoReEncodingTitle": {
+     "message": "ይህ አማራጭ የጊዜ መስመር ርዝመትን ያስተካክላል። ይህን አማራጭ ካጠፉት፣ ቪዲዮ ማቀነባበር (ቅጂውን ሲያቆሙ) ለዝግተኛ ኮምፒውተሮች በጣም ፈጣን ይሆናል ነገር ግን በአንዳንድ ሁኔታዎች የጊዜ መስመር ማሸብለል አይሰራም። (ለዝግተኛ ኮምፒውተሮች ወይም ክሮም ቡክስ የሚመከር)"
+   },
+   "popupErrorLocalFileTitle": {
+     "message": "የፋይል መዳረሻ ያስፈልጋል"
+   },
+   "popupErrorLocalFileMessage": {
+     "message": "እባክዎ ወደ የእርስዎ ክሮም ቅጥያ ቅንብሮች ይሂዱና <strong>'ወደ ፋይል URLs መዳረሻን ፍቀድ'</strong> ያንቁ፣ ስለዚህ ቅጥያው ወደዚህ ገጽ መዳረሻ ሊኖረው ይችላል።"
+   },
+   "popupOpenExtensions": {
+     "message": "የቅጥያ ቅንብሮች"
+   },
+   "popupVideoEditorWelcomeTitle": {
+     "message": "ወደ ቪዲዮ አርታዒ እንኳን በደህና መጡ!"
+   },
+   "popupVideoEditorWelcomeDescription": {
+     "message": "እዚህ፣ ቪዲዮዎችዎን በቀላሉ መቁረጥና ማስተካከል ይችላሉ። አርታዒውን እንዴት መጠቀም እንደሚችሉ ለመማር <a href='https://nimblecapture.com/help' target='_blank'>የተጠቃሚ መመሪያውን ያንብቡ</a>።"
+   },
+   "popupVideoEditorCrop": {
+     "message": "መቁረጥ የሚፈልጉትን ክልል ይምረጡና በምልክት ላይ ይጫኑ።"
+   },
+   "popupVideoErrorConvert": {
+     "message": "ስህተት ተከስቷል። እባክዎ እንደገና ይሞክሩ።"
+   },
+   "popupVideoGifNotSupport": {
+     "message": "ይህ ድርጊት ለGIF ፋይሎች አይደገፍም።"
+   },
+   "popupVideoEditorTrim": {
+     "message": "ሰማያዊ ምልክቶችን በመጠቀም፣ መቁረጥ የሚያስፈልገውን የቪዲዮ ክፍል ይምረጡና በተመረጠውን አስወግድ ላይ ጠቅ ያድርጉ።"
+   },
+   "popupVideoEditorTrimNoSelect": {
+     "message": "ለመቁረጥ የተመረጠ ነገር የለም።"
+   },
+   "popupAutomationWelcome": {
+     "message": "በደስታ እናበስራለን ቪዲዮዎችን በቀጥታ ወደ Github ቲኬቶች ለመቅዳትና ለማስገባት አዲስ ባህሪ አክለናል።"
+   },
+   "popupAutomationWelcomeButton": {
+     "message": "አንቃ"
+   },
+   "popupAutomationHideButton": {
+     "message": "ደብቅ"
+   },
+   "popupAutomationCancelButton": {
+     "message": "አቁም"
+   },
+   "popupAutomationUpload": {
+     "message": "ትንሽ ትዕግስት ... በመጫን ላይ ..."
+   },
+   "popupAutomationUploadStream": {
+     "message": "ትንሽ ትዕግስት... የእርስዎን የዥረት ቪዲዮ ወደ ኒምበስ እያቀነባበርን ነው።"
+   },
+   "popupAutomationStorageLimit": {
+     "message": "በዲስኩ ላይ ትንሽ ነፃ ቦታ ብቻ አለ። የተረጋጋ የቪዲዮ ቅጂ እንደሚኖር አናረጋግጥም። እባክዎ የዲስክ ቦታዎን ያጽዱና ቅጂ ቀጥል ላይ ይጫኑ። ቅጂውን ማጠናቀቅ ከፈለጉ አቁም ላይ ይጫኑ።"
+   },
+   "popupAutomationGuideError": {
+     "message": "ይቅርታ፣ የቅጂ አገልጋዩ በአሁኑ ጊዜ አይገኝም።"
+   },
+   "popupAutomationStreamError": {
+     "message": "ይቅርታ፣ የቅጂ አገልጋዩ በአሁኑ ጊዜ አይገኝም። እባክዎ በኋላ ላይ እንደገና ይሞክሩ ወይም የአካባቢ ቅጂን ይጠቀሙ።"
+   },
+   "popupLabelQuickVideoCaptureEnable": {
+     "message": "ባህሪው ንቁ ከሆነ፣ በሁለት የመዳፊት ጠቋሚ ጠቆማዎች ቪዲዮ መቅዳትና ማስቀመጥ ይችላሉ፣ የመጀመሪያው ቅጂውን ለመጀመር፣ እና ሁለተኛው ቅጂውን ለማቆምና ለማስቀመጥ። በጣም ቀላል ነው!"
+   },
+   "popupLabelVideoStorageLimit": {
+     "message": "በዲስኩ ላይ ከ500 MB በታች ነፃ ቦታ ካለ የቪዲዮ ቅጂ ይቆማል። ለክሮምቡክ የሚመከር።"
+   },
+   "popupLabelQuickVideoCaptureGithubEnable": {
+     "message": "በGithub ውስጥ ቪዲዮ መቅዳት በጣም ቀላል ነው! በመጀመሪያው ጠቆማ፣ ገጹን መቅዳት ይጀምራሉ፣ እና በሁለተኛው ጠቆማ፣ በቀጥታ ወደ Github ቲኬት ይጨምሩታል!"
+   },
+   "popupLabelAnalyticsEnable": {
+     "message": "ንቁ ከሆነ፣ የምርት ተግባራዊነት አጠቃቀም ላይ ስም-አልባ ስታቲስቲክስ ወደ ኒምበስ ይላካል።"
+   },
+   "popupActionMessageCrop": {
+     "message": "የመዳፊት ጠቋሚ አዝራርን ይዘው፣ የሚፈልጉትን ቁራጭ ይምረጡ። ከዚያ ያስቀምጡት ወይም ወደ አርታዒው ይላኩት።"
+   },
+   "popupActionMessageFragmentScroll": {
+     "message": "የሚፈልጉትን ቁራጭ ይምረጡና ጠቅ ያድርጉበት። ከዚያ ያስቀምጡት ወይም ወደ አርታዒው ይላኩት።"
+   },
+   "popupYoutubeChannel": {
+     "message": "የዩቲዩብ ቻናል ያስፈልግዎታል"
+   },
+   "popupYoutubeChannelCreates": {
+     "message": "የተቀዱ ቪዲዮዎችን ወደ ዩቲዩብ ለመጫን፣ የዩቲዩብ ቻናል መፍጠር ያስፈልግዎታል።"
+   },
+   "optionsTitle": {
+     "message": "ቅንብሮች"
+   },
+   "optionsGeneral": {
+     "message": "አጠቃላይ"
+   },
+   "optionsWatermark": {
+     "message": "የውሃ ምልክት"
+   },
+   "optionsVideo": {
+     "message": "ቪዲዮ"
+   },
+   "optionsSettingImage": {
+     "message": "የምስል ቅንብሮች"
+   },
+   "optionsCaptureSettings": {
+     "message": "የስክሪንሾት ቅንብሮች"
+   },
+   "optionsVideoCaptureSettings": {
+     "message": "የስክሪንካስት ቅንብሮች"
+   },
+   "optionsVideoCaptureGithub": {
+     "message": "Github"
+   },
+   "optionsSettingsSave": {
+     "message": "ቅንብሮችን አስቀምጥ"
+   },
+   "optionsMainMenu": {
+     "message": "ዋና ምናሌ ቅንብሮች"
+   },
+   "optionsShortcutSettings": {
+     "message": "የአቋራጭ ቁልፎች ቅንብሮች"
+   },
+   "optionLabelEnableWatermark": {
+     "message": "የእርስዎን የውሃ ምልክት ያክሉ"
+   },
+   "optionLabelWatermarkImage": {
+     "message": "ምስል"
+   },
+   "optionLabelWatermarkText": {
+     "message": "ጽሑፍ"
+   },
+   "optionLabelEnableWatermarkTimer": {
+     "message": "በቪዲዮው ላይ የውሃ ምልክቱን ከዚህ በኋላ ደብቅ"
+   },
+   "optionLabelWatermarkTimer1": {
+     "message": "1 ሰከንድ"
+   },
+   "optionLabelWatermarkTimer5": {
+     "message": "5 ሰከንድ"
+   },
+   "optionLabelWatermarkTimer10": {
+     "message": "10 ሰከንድ"
+   },
+   "optionLabelWatermarkTimer30": {
+     "message": "30 ሰከንድ"
+   },
+   "optionLabelWatermarkTimer60": {
+     "message": "1 ደቂቃ"
+   },
+   "optionLabelWatermarkSelectFile": {
+     "message": "ፋይል ይምረጡ"
+   },
+   "optionLabelWatermarkFont": {
+     "message": "ቅርጸ-ቁምፊ"
+   },
+   "optionLabelWatermarkFontSize": {
+     "message": "መጠን"
+   },
+   "optionLabelWatermarkFontColor": {
+     "message": "ቀለም"
+   },
+   "optionLabelWatermarkSelectPosition": {
+     "message": "የእርስዎን የውሃ ምልክት ቦታ ይምረጡ"
+   },
+   "optionLabelWatermarkSize": {
+     "message": "የውሃ ምልክት መጠን፡"
+   },
+   "optionLabelWatermarkSizeSmall": {
+     "message": "ትንሽ"
+   },
+   "optionLabelWatermarkSizeLarge": {
+     "message": "ትልቅ"
+   },
+   "optionLabelWatermarkTransparent": {
+     "message": "የውሃ ምልክት ግልጽነት፡"
+   },
+   "optionLabelWatermarkTransparentSmall": {
+     "message": "ግልጽነት የለም"
+   },
+   "optionLabelWatermarkTransparentLarge": {
+     "message": "ትልቅ"
+   },
+   "optionsLabelImageFormat": {
+     "message": "ቅርጸት"
+   },
+   "optionsLabelImageQuality": {
+     "message": "ጥራት"
+   },
+   "optionsLabelSaveAs": {
+     "message": "'እንደ አስቀምጥ' የንግግር ሳጥን አሳይ"
+   },
+   "optionsLabelFilenameTemplateScreenshot": {
+     "message": "የስክሪንሾት የፋይል ስም ቅጥ"
+   },
+   "optionsLabelFilenameTemplateScreencast": {
+     "message": "የስክሪንካስት የፋይል ስም ቅጥ"
+   },
+   "optionsLabelCanUse": {
+     "message": "የሚገኙ ምልክቶች፡"
+   },
+   "optionsLabelDelayedScreenshotTime": {
+     "message": "የዘገየ ስክሪንሾት ጊዜ (ሰከንዶች)"
+   },
+   "optionsLabelTimeScrollEntirePage": {
+     "message": "የገጽ ማሸብለል መዘግየት ጊዜ (ሚሊ ሰከንዶች)"
+   },
+   "optionsLabelDepthScreenshot": {
+     "message": "የቀለም ጥልቀት ማጣሪያ (1 - ተሰናክሏል)"
+   },
+   "optionsLabelHideFixedElements": {
+     "message": "ቋሚ ንጥሎችን ደብቅ"
+   },
+   "optionsLabelShowInfoPrint": {
+     "message": "URL/ቀን በህትመት አሳይ"
+   },
+   "optionsLabelSaveCropPosition": {
+     "message": "የተመረጠውን አካባቢ ቦታ አስቀምጥ"
+   },
+   "optionsLabelShowContentMenu": {
+     "message": "በዓውድ ምናሌ አሳይ"
+   },
+   "optionsLabelShowNewButton": {
+     "message": "መተግበሪያው ከዘመነ በኋላ 'አዲስ' አሳይ"
+   },
+   "optionsLabelKeepOriginalResolution": {
+     "message": "የመጀመሪያውን ጥራት ጠብቅ (ለሬቲና)"
+   },
+   "optionsLabelAutoShortUrl": {
+     "message": "ከሰቀላ በኋላ ራስ-ሰር አጭር url"
+   },
+   "optionsLabelQuickCaptureEnable": {
+     "message": "ፈጣን ስክሪንሾት አንቃ (ምናሌውን ሳይከፍቱ)"
+   },
+   "optionsLabelQuickVideoCaptureEnable": {
+     "message": "ፈጣን ቅጂ አንቃ (የቪዲዮ ቅጂ ምናሌ ሁልጊዜ መጀመሪያ ይታያል)"
+   },
+   "optionsLabelVideoStorageLimit": {
+     "message": "በዲስኩ ላይ ቦታ ከሌለ የቪዲዮ ቅጂን አቁም"
+   },
+   "optionsLabelQuickVideoCaptureGithubEnable": {
+     "message": "ኒምበስን በGithub አሳይ"
+   },
+   "optionsLabelAnalyticsEnable": {
+     "message": "ስም-አልባ የአጠቃቀም ስታቲስቲክስ ወደ ኒምበስ ላክ"
+   },
+   "optionsLabelStreamMenuEnable": {
+     "message": "ወዲያውኑ መቅዳትን አንቃ"
+   },
+   "optionsLabelAfterClicking": {
+     "message": "በምልክቱ ላይ ከጠቆሙ በኋላ"
+   },
+   "optionsLabelWantCapture": {
+     "message": "ስክሪንሾት ያድርጉ"
+   },
+   "optionsLabelWantVideoCapture": {
+     "message": "ይቅዱ"
+   },
+   "optionsLabelAndThen": {
+     "message": "እና ከዚያ"
+   },
+   "optionsLabelLoadToNS": {
+     "message": "ወደ ኒምበስ/ስላክ ላክ"
+   },
+   "optionsLabelTabVideo": {
+     "message": "ታብ/ገጽ መቅዳት ጀምር"
+   },
+   "optionsLabelDesktopVideo": {
+     "message": "ዴስክቶፕ መቅዳት ጀምር"
+   },
+   "optionsLabelStopVideo": {
+     "message": "የቪዲዮ ቅጂን አቁም"
+   },
+   "optionsLabelPauseVideo": {
+     "message": "የቪዲዮ ቅጂን ለአፍታ አቁም/ቀጥል"
+   },
+   "optionSelectSendSave": {
+     "message": "አውርድ"
+   },
+   "optionSelectSendDownload": {
+     "message": "ወደ Google/Slack/Dropbox ላክ"
+   },
+   "optionSelectSendGoogle": {
+     "message": "ወደ Google ላክ"
+   },
+   "optionSelectSendDropbox": {
+     "message": "ወደ Dropbox ላክ"
+   },
+   "optionSelectSendYoutube": {
+     "message": "ወደ Youtube ላክ"
+   },
+   "optionSelectSendNimbus": {
+     "message": "ወደ ኒምበስ ላክ"
+   },
+   "optionSelectSendDone": {
+     "message": "የሰቀላ መስኮትን ክፈት"
+   },
+   "optionSelectSendQuick": {
+     "message": "ፈጣን ሰቀላ"
+   },
+   "optionSelectSendDoneVideo": {
+     "message": "የሰቀላ/የመለወጥ ገጽ ክፈት"
+   },
+   "optionSelectSendEdit": {
+     "message": "አርትዕ"
+   },
+   "optionSelectGithubSend": {
+     "message": "በ Github አማካኝነት አስቀምጥ"
+   },
+   "optionSelectGithubSendNimbus": {
+     "message": "በ Github ውስጥ ከሆነ በኋላ ወደ Nimbus ላክ"
+   },
+   "labelDropImage": {
+     "message": "ምስሉን እዚህ ጣል"
+   },
+   "labelCaptureHelper": {
+     "message": "ለመያዝ ከስክሪኖቹ አንዱን ይምረጡ!"
+   },
+   "panelSize": {
+     "message": "መጠን"
+   },
+   "panelTools": {
+     "message": "የስዕል መሳሪያዎች"
+   },
+   "panelActions": {
+     "message": "ድርጊቶች"
+   },
+   "panelParameters": {
+     "message": "መለኪያዎች"
+   },
+   "panelShadow": {
+     "message": "ጥላ"
+   },
+   "panelWidth": {
+     "message": "ስፋት"
+   },
+   "panelHeight": {
+     "message": "ቁመት"
+   },
+   "panelProportional": {
+     "message": "ተመጣጣኝ"
+   },
+   "panelCancel": {
+     "message": "ሰርዝ"
+   },
+   "panelChange": {
+     "message": "ለውጥ"
+   },
+   "panelAlfaChanel": {
+     "message": "ግልጽነትን ለመለወጥ ተንሸራታቹን ያንቀሳቅሱ"
+   },
+   "tooltipZoomPlus": {
+     "message": "አጉላ +"
+   },
+   "tooltipZoomMinus": {
+     "message": "አጉላ -"
+   },
+   "tooltipChangeZoom": {
+     "message": "ማጉላትን ለውጥ"
+   },
+   "tooltipResize": {
+     "message": "መጠን ቀይር"
+   },
+   "tooltipCrop": {
+     "message": "ቁረጥ"
+   },
+   "tooltipTrim": {
+     "message": "ቆረጥ"
+   },
+   "tooltipPen": {
+     "message": "እስኪብርቶ"
+   },
+   "tooltipMarker": {
+     "message": "ማርከር"
+   },
+   "tooltipSquare": {
+     "message": "ካሬ"
+   },
+   "tooltipRounded": {
+     "message": "ክብ ማዕዘን"
+   },
+   "tooltipCircle": {
+     "message": "ክብ"
+   },
+   "tooltipEllipse": {
+     "message": "타원"
+   },
+   "tooltipArrowLine": {
+     "message": "ቀጥ ያለ ቀስት"
+   },
+   "tooltipArrowCurve": {
+     "message": "ቅርፅ ያለው ቀስት"
+   },
+   "tooltipArrowDouble": {
+     "message": "ድርብ ቀስት"
+   },
+   "tooltipLine": {
+     "message": "መስመር"
+   },
+   "tooltipLineCurve": {
+     "message": "ቅርፅ ያለው መስመር"
+   },
+   "tooltipLineDotted": {
+     "message": "ነጥብ መስመር"
+   },
+   "tooltipTextArrow": {
+     "message": "የጽሑፍ ቀስት"
+   },
+   "tooltipNoteText": {
+     "message": "የገጽ ጽሑፍ"
+   },
+   "tooltipText": {
+     "message": "ጽሑፍ"
+   },
+   "tooltipBlur": {
+     "message": "አካባቢውን አደብዝዝ"
+   },
+   "tooltipLineWidth": {
+     "message": "የመስመር ስፋት"
+   },
+   "tooltipFontAndSize": {
+     "message": "ቅርጸ-ቁምፊ እና መጠን"
+   },
+   "tooltipColorLineAndText": {
+     "message": "የመስመር እና ጽሑፍ ቀለም"
+   },
+   "tooltipColorFull": {
+     "message": "ሙሉ ቀለም"
+   },
+   "tooltipColorAndSizeShadow": {
+     "message": "የጥላ ቀለም እና መጠን"
+   },
+   "tooltipLock": {
+     "message": "ቅርጾችን ቆልፍ"
+   },
+   "tooltipUndo": {
+     "message": "ቀልብስ"
+   },
+   "tooltipRedo": {
+     "message": "እንደገና አድርግ"
+   },
+   "tooltipUndoAll": {
+     "message": "ሁሉንም ቀልብስ"
+   },
+   "tooltipNumber": {
+     "message": "የቁጥር ምልክቶች"
+   },
+   "tooltipNumbers": {
+     "message": "ራስ-ሰር ቁጥር አስገባ"
+   },
+   "tooltipCopy": {
+     "message": "ወደ ቅንጥብ ሰሌዳ ቅዳ"
+   },
+   "tooltipShortUrl": {
+     "message": "አጭር url"
+   },
+   "tooltipWrongEmail": {
+     "message": "ትክክል ያልሆነ ኢሜይል"
+   },
+   "tooltipPassInfo": {
+     "message": "የይለፍ ቃሉ ቢያንስ 8 ምልክቶች መሆን አለበት"
+   },
+   "tooltipPassMatch": {
+     "message": "የይለፍ ቃሎቹ አይዛመዱም"
+   },
+   "tooltipOpenFile": {
+     "message": "ምስል አስገባ"
+   },
+   "tooltipFormula": {
+     "message": "ቀመር አስገባ"
+   },
+   "tooltipMakeScreenshot": {
+     "message": "ስክሪንሾት አንሳ"
+   },
+   "tooltipclassroomSend": {
+     "message": "ወደ Google Classroom ላክ"
+   },
+   "tooltipVideoEditor": {
+     "message": "ቁረጥ/ቆረጥ"
+   },
+   "cropBtnEdit": {
+     "message": "አርትዕ"
+   },
+   "cropBtnSave": {
+     "message": "አስቀምጥ"
+   },
+   "cropBtnCancel": {
+     "message": "ሰርዝ"
+   },
+   "cropBtnCopy": {
+     "message": "ወደ ቅንጥብ ሰሌዳ ቅዳ"
+   },
+   "cropBtnNimbus": {
+     "message": "ወደ Nimbus ላክ"
+   },
+   "cropBtnSavePdf": {
+     "message": "ወደ PDF አስቀምጥ"
+   },
+   "notificationCrop": {
+     "message": "ገጹን ጎትተህ ያዝ (ለመውጣት Esc ን ጫን)"
+   },
+   "notificationCopy": {
+     "message": "ምስሉ ወደ ቅንጥብ ሰሌዳ ተቀድቷል።"
+   },
+   "notificationInsertInfo": {
+     "message": "ምስል ብቻ ማስገባት ይችላሉ።"
+   },
+   "notificationWrong": {
+     "message": "የሆነ ስህተት አለ። እባክዎ እንደገና ይሞክሩ።"
+   },
+   "notificationLoginFail": {
+     "message": "ትክክል ያልሆነ መግቢያ ወይም የይለፍ ቃል። እባክዎ እንደገና ይሞክሩ"
+   },
+   "notificationEmailFail": {
+     "message": "ይህ ኢሜይል አድራሻ አስቀድሞ ተመዝግቧል።"
+   },
+   "notificationRegisterFail": {
+     "message": "ምዝገባ አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+   },
+   "notificationRestoreSent": {
+     "message": "የመልሶ ማስጀመሪያ መመሪያዎች ወደ ኢሜይልዎ ተልከዋል።"
+   },
+   "notificationEmailIncorrect": {
+     "message": "ትክክል ያልሆነ ኢሜይል። እባክዎ እንደገና ይሞክሩ።"
+   },
+   "notificationUrlCopied": {
+     "message": "URL ወደ ቅንጥብ ሰሌዳ ተቀድቷል"
+   },
+   "notificationImageCopied": {
+     "message": "ተቀድቷል"
+   },
+   "notificationImageNotCopied": {
+     "message": "መቅዳት አልተሳካም"
+   },
+   "notificationUploaded": {
+     "message": "ሰቀላው ተጠናቅቋል።"
+   },
+   "notificationReachedLimit": {
+     "message": "የወርዎን የትራፊክ ገደብ (100 MB) ደርሰዋል። ለመቀጠል፣ Nimbus Pro መግዛት አለብዎት።"
+   },
+   "notificationNetworkError": {
+     "message": "በአገልጋይ ወይም በኢንተርኔት ግንኙነትዎ ላይ ችግር አለ። እባክዎ እንደገና ይሞክሩ።"
+   },
+   "notificationErrorActiveTab": {
+     "message": "Nimble capture ሲጀመር መቅዳት መጀመር አይችልም። ቅጥያውን ለማንቃት በፓነሉ ላይ ያለውን የ Nimble capture አዶ መጫን አለብዎት።"
+   },
+   "notificationErrorChromeTab": {
+     "message": "የውስጥ Chrome ገጾችን ወይም የመተግበሪያ ገጾችን መቅዳት በአሁኑ ጊዜ አይደገፍም።"
+   },
+   "notificationDesktopTabSound": {
+     "message": "የስርዓት ድምጽ በዴስክቶፕ መቅዳት ሁነታ ውስጥ አይገኝም። በምትኩ Tab Record ን ይጠቀሙ።"
+   },
+   "notificationDesktopDrawingTools": {
+     "message": "የስዕል መሳሪያዎች በዴስክቶፕ መቅዳት ሁነታ ውስጥ አይገኙም። በምትኩ Tab Record ን ይጠቀሙ።"
+   },
+   "notificationDesktopVideoCamera": {
+     "message": "የቪዲዮ ካሜራ በዴስክቶፕ መቅዳት ሁነታ ውስጥ አይገኝም። በምትኩ Tab Record ን ይጠቀሙ።"
+   },
+   "tooltipEditBtnBack": {
+     "message": "ተመለስ"
+   },
+   "tooltipEditBtnNimbus": {
+     "message": "ወደ Nimbus ላክ"
+   },
+   "tooltipEditBtnDrive": {
+     "message": "ወደ Google Drive ላክ"
+   },
+   "tooltipEditBtnDropbox": {
+     "message": "ወደ Dropbox ላክ"
+   },
+   "tooltipEditBtnYoutube": {
+     "message": "በ Youtube ላይ አትም"
+   },
+   "tooltipEditBtnSlack": {
+     "message": "ወደ Slack ላክ"
+   },
+   "tooltipBtnQuickShare": {
+     "message": "ወደ Nimble ላክ"
+   },
+   "editVideoTitle": {
+     "message": "የቪዲዮ አርታዒ"
+   },
+   "editBtnDone": {
+     "message": "ተጠናቅቋል"
+   },
+   "editBtnDiscard": {
+     "message": "አስወግድ"
+   },
+   "editBtnBack": {
+     "message": "ተመለስ"
+   },
+   "editBtnNimbusScreen": {
+     "message": "ስክሪንሾት ስቀል"
+   },
+   "editBtnNimbusVideo": {
+     "message": "ቪዲዮ ስቀል"
+   },
+   "editBtnSave": {
+     "message": "እንደ ምስል አስቀምጥ"
+   },
+   "editBtnSavePDF": {
+     "message": "እንደ PDF አስቀምጥ"
+   },
+   "editBtnSaveVideo": {
+     "message": "ቪዲዮ አስቀምጥ"
+   },
+   "editBtnQuickShare": {
+     "message": "ፈጣን ማጋራት"
+   },
+   "editBtnQuickShare2": {
+     "message": "ወደ ፎልደር ስቀል"
+   },
+   "editBtnDrive": {
+     "message": "Google Drive"
+   },
+   "editBtnDropbox": {
+     "message": "Dropbox"
+   },
+   "editBtnCopy": {
+     "message": "ወደ ክሊፕቦርድ ቅዳ"
+   },
+   "editBtnPrint": {
+     "message": "አትም"
+   },
+   "editBtnYoutube": {
+     "message": "Youtube"
+   },
+   "editBtnSlack": {
+     "message": "Slack"
+   },
+   "nimbusYoutubeSend": {
+     "message": "በ Youtube ላይ አትም"
+   },
+   "nimbusSlackSend": {
+     "message": "ወደ Slack ላክ"
+   },
+   "nimbusSlackWelcome": {
+     "message": "ለማንበብ ትንሽ ጊዜ ይውሰዱ፡"
+   },
+   "nimbusSlackWelcome2": {
+     "message": "Nimble Screenshot በቻት ክፍሎች ውስጥ ያሉ መልእክቶችን መድረስ አይችልም። ሁሉም ውይይቶችዎ የግል ይሆናሉ። Nimble Screenshot በ Slack ውስጥ ስክሪንሾቶችን ብቻ መጫን ይችላል"
+   },
+   "nimbusSlackWelcome3": {
+     "message": "ማንኛውም ጥያቄ ካለዎት እባክዎን በኢሜይል ይጻፉ"
+   },
+   "nimbusSend": {
+     "message": "ወደ Nimble ላክ"
+   },
+   "nimbusCommentPlaceholder": {
+     "message": "ስክሪንሾትዎን ያስተያዩ"
+   },
+   "nimbusRegistration": {
+     "message": "ምዝገባ"
+   },
+   "nimbusLabelEmail": {
+     "message": "ኢሜይል"
+   },
+   "nimbusLabelPassword": {
+     "message": "የይለፍ ቃል"
+   },
+   "nimbusLabelPasswordAndInfo": {
+     "message": "የይለፍ ቃል (ቢያንስ 8 ምልክት)"
+   },
+   "nimbusRemindPass": {
+     "message": "የይለፍ ቃል አስታውስ"
+   },
+   "nimbusLabelRetypePass": {
+     "message": "የይለፍ ቃል እንደገና ይተይቡ"
+   },
+   "nimbusPlaceholderPassword": {
+     "message": "የይለፍ ቃል"
+   },
+   "nimbusPlaceholderEmail": {
+     "message": "ኢሜይል"
+   },
+   "nimbusPlaceholderEnterText": {
+     "message": "ጽሑፍ ያስገቡ"
+   },
+   "nimbusSelectOrganization": {
+     "message": "ድርጅት"
+   },
+   "nimbusSelectWorkspace": {
+     "message": "የስራ ቦታ"
+   },
+   "nimbusSelectFolder": {
+     "message": "አቃፊ"
+   },
+   "nimbusPrivate": {
+     "message": "የግል"
+   },
+   "nimbusBtnLogin": {
+     "message": "ወደ FuseBase ይግቡ"
+   },
+   "nimbusBtnSignup": {
+     "message": "መለያ ይፍጠሩ"
+   },
+   "btnSignupUpToViewUpload": {
+     "message": "የተጫኑትን ለማየት ይመዝገቡ"
+   },
+   "nimbusBtnRemind": {
+     "message": "የይለፍ ቃልዎን ረሱ?"
+   },
+   "nimbusRate": {
+     "message": "Nimble Screenshot ይወዱታል? ደረጃ ይስጡት!"
+   },
+   "nimbusBad": {
+     "message": "መጥፎ"
+   },
+   "nimbusBeBetter": {
+     "message": "የተሻለ ይሁን"
+   },
+   "nimbusGood": {
+     "message": "ጥሩ!"
+   },
+   "nimbusDid": {
+     "message": "አድርጓል"
+   },
+   "nimbusEnter": {
+     "message": "ወደ FuseBase ይግቡ (ቀድሞ Nimbus)"
+   },
+   "nimbusViewUploads": {
+     "message": "FuseBase ዬን ይመልከቱ"
+   },
+   "nimbusViewUploadsToDropbox": {
+     "message": "ፋይሉን በ Dropbox ይክፈቱ"
+   },
+   "nimbusLimitUsage": {
+     "message": "አጠቃቀም፡"
+   },
+   "nimbusLimitOf": {
+     "message": "ከ"
+   },
+   "nimbusUpgradePro": {
+     "message": "Nimbus Pro ለምን የተሻለ ነው"
+   },
+   "nimbusCaptureUpgradePro": {
+     "message": "ከ Nimble capture Pro<br>ጋር ተጨማሪ ባህሪያት"
+   },
+   "nimbusCaptureUpgradePremium": {
+     "message": "ከ Nimble capture Business<br>ጋር ተጨማሪ ባህሪያት"
+   },
+   "nimbusLimitSpace": {
+     "message": "የወርሃዊ የውሂብ ገደብዎን 100 MB ለመድረስ ስለቀረቡ ይህን ፋይል መጫን አይችሉም።"
+   },
+   "nimbusLimitDescription": {
+     "message": "የወርሃዊ የውሂብ ገደብዎን ወደ 1 GB ለመጨመር ወደ Nimbus Pro መቀየር ይችላሉ።"
+   },
+   "nimbusGoPro": {
+     "message": "ወደ Nimbus Pro ያሻሽሉ"
+   },
+   "btnGoPremium": {
+     "message": "ወደ Nimbus for Business ያሻሽሉ"
+   },
+   "nimbusIsPro": {
+     "message": "Nimbus Pro አለኝ"
+   },
+   "nimbusIsBusiness": {
+     "message": "Nimbus Business አለኝ"
+   },
+   "nimbusThanksYou": {
+     "message": "ለመረጃው እናመሰግናለን"
+   },
+   "nimbusNoThanks": {
+     "message": "አይ፣ አመሰግናለሁ"
+   },
+   "nimbusOr": {
+     "message": "ወይም"
+   },
+   "nimbusSlackLogout": {
+     "message": "ከ Slack ውጣ"
+   },
+   "nimbusLimitVideoOrgFree": {
+     "message": "ይህ ቪዲዮ በጣም ትልቅ ነው! ግን አልጠፋም..."
+   },
+   "nimbusLimitVideoDestructionOrgFree": {
+     "message": "ፋይሉ ለነጻ መለያ የተፈቀደውን ከፍተኛ መጠን (10 MB) ያልፋል። ለተጨማሪ ዝርዝሮች የስራ ቦታ ባለቤትን ያነጋግሩ።"
+   },
+   "nimbusLimitVideoOrgPremium": {
+     "message": "ይህ ቪዲዮ በጣም ትልቅ ነው! ግን አልጠፋም..."
+   },
+   "nimbusLimitVideoDestructionOrgPremium": {
+     "message": "ፋይሉ ለመለያ የተፈቀደውን ከፍተኛ መጠን (1GB) ያልፋል። ለተጨማሪ ዝርዝሮች የስራ ቦታ ባለቤትን ያነጋግሩ።"
+   },
+   "nimbusLimitVideoOrgLimit": {
+     "message": "ይህ ቪዲዮ በጣም ትልቅ ነው! ግን አልጠፋም..."
+   },
+   "nimbusLimitVideoDestructionOrgLimit": {
+     "message": "የወርሃዊ የትራፊክ ገደብ (100MB) ስለደረሰ ፋይሉ በ FuseBase ውስጥ አይቀመጥም። ገደብዎን ለመጨመር ወደ ፕሪሚየም እቅድ ያሻሽሉ።"
+   },
+   "nimbusLimitVideo": {
+     "message": "ይህ ቪዲዮ በጣም ትልቅ ነው! ግን አልጠፋም..."
+   },
+   "nimbusLimitVideoDurationDestruction": {
+     "message": "የ7 ቀን ሙከራዎ ተጀምሯል። አሁን ያለ መጠን ገደብ ቪዲዮ መቅዳት ይችላሉ። ሙከራው ካለቀ በኋላ፣ ከ5 ደቂቃ ያልበለጠ ርዝመት ያለው ቪዲዮ መቅዳት ይችላሉ። ያልተገደበ ቀረጻን ለማንቃት ወደ Nimbus Pro ያሻሽሉ።"
+   },
+   "nimbusLimitVideoDestruction": {
+     "message": "ለ Nimbus Pro ከፍተኛው የፋይል መጠን = 1GB እባክዎን የፋይል ገደቡን ለማሳደግ ወደ <b>team@nimbusweb.co</b> ይጻፉ።"
+   },
+   "nimbusLimitVideoFree": {
+     "message": "ይህ ቪዲዮ በጣም ትልቅ ነው! ግን አልጠፋም..."
+   },
+   "nimbusLimitVideoDestructionFree": {
+     "message": "ለነጻ መለያዎች ከፍተኛው የፋይል መጠን = 10MB የፋይል ገደቡን ለማሳደግ ወደ Nimbus Pro ያሻሽሉ።"
+   },
+   "nimbusLimitVideoStreamTime": {
+     "message": "ከእንግዲህ መቅዳት አይችሉም ..."
+   },
+   "nimbusLimitVideoDestructionStreamTime": {
+     "message": "አስፈላጊ! በነጻ እቅድ ውስጥ እስከ 5 ደቂቃ ድረስ ቪዲዮ መቅዳት ይችላሉ። ረጅም ቪዲዮዎችን ለመቅዳት ወደ Nimbus Pro ያሻሽሉ።"
+   },
+   "nimbusLimitVideoStreamMonth": {
+     "message": "ከእንግዲህ መቅዳት አይችሉም ..."
+   },
+   "nimbusLimitVideoDestructionStreamMonth": {
+     "message": "በነጻ እቅድ ውስጥ በወር ከ60 ቪዲዮዎች በላይ መቅዳት አይችሉም። ገደቡን ለማስወገድ ወደ Nimbus Pro እቅድ ይሂዱ።"
+   },
+   "nimbusStreamTitle": {
+     "message": "ፍጥነት በስትሪሚንግ/ፈጣን ሁኔታ የስክሪን መቅጃን የመጠቀም ዋና ጥቅም ነው። መቅዳትን እንደሚያቆሙ ቪዲዮው አስቀድሞ በአገልጋዩ ላይ ይገኛል እና መጫኑ እስኪጠናቀቅ መጠበቅ አያስፈልግዎትም።"
+   },
+   "nimbusStreamDestruction": {
+     "message": "ስትሪሚንግ/ፈጣን ሁኔታን ለመጠቀም የ FuseBase መለያ ሊኖርዎት ይገባል።"
+   },
+   "nimbusStreamStartTitle": {
+     "message": "ስለተመዘገቡ እናመሰግናለን።<br>መቅዳት ለመጀመር፣ በቀላሉ በፈጣን መቅዳት ጀምር ላይ ጠቅ ያድርጉ።"
+   },
+   "nimbusStreamStartDestruction": {
+     "message": "Nimble capture ቪዲዮ ለመቅዳት የእርስዎን ማይክሮፎን እና ካሜራ መድረስ ይፈልጋል፣ ይህ አንድ ጊዜ ፈቃድ ነው።"
+   },
+   "nimbusFragmentScrollTitle": {
+     "message": "በዚህ ሁኔታ፣ በገጽ ውስጥ ሽብለላ ያላቸውን የተለያዩ ቁራጮችን ስክሪንሾት መውሰድ ይችላሉ። ለምሳሌ፣ የቻት መስኮት፣ የአገልግሎት መቆጣጠሪያ ፓነል ወይም በ Jira ውስጥ የተግባር መስኮት ሊሆን ይችላል። መተግበሪያችን እንደዚህ ዓይነት አካባቢዎችን በራስ-ሰር ይለያል፣ በዚህ ጊዜ የሚፈልጉትን መምረጥ ይችላሉ።"
+   },
+   "nimbusShareFriends": {
+     "message": "ስክሪንሾቶችን እና ስክሪንካስቶችን ለጓደኞች እና ለሥራ ባልደረቦች ይላኩ፤"
+   },
+   "nimbusAccessAnyTimes": {
+     "message": "ስክሪንሾቶችን እና ስክሪንካስቶችን በማንኛውም ጊዜ እና ከማንኛውም መሣሪያ ይድረሱ፤"
+   },
+   "nimbusOrganizeUploadFolders": {
+     "message": "የእርስዎን ሰነዶች በአቃፊዎች፣ በንዑስ አቃፊዎች እና በመለያዎች ያደራጁ፤"
+   },
+   "nimbusProVideoLimit": {
+     "message": "ያልተገደበ ቀረጻዎች"
+   },
+   "nimbusProConvertMP4": {
+     "message": "ቪዲዮን ወደ MP4 ይቀይሩ"
+   },
+   "nimbusProConvertGIF": {
+     "message": "ቪዲዮን ወደ GIF ይቀይሩ"
+   },
+   "nimbusProCropVideo": {
+     "message": "ቪዲዮዎን ይቁረጡ"
+   },
+   "nimbusProTrimVideo": {
+     "message": "ቪዲዮዎን ይቆራርጡ"
+   },
+   "nimbusProSendYoutube": {
+     "message": "ቪዲዮን ወደ Youtube ይላኩ"
+   },
+   "nimbusProSendGoogleDrive": {
+     "message": "ምስሎችን እና ቪዲዮዎችን ወደ Google Drive ይጫኑ"
+   },
+   "nimbusProSendGoogleDriveFirefox": {
+     "message": "ምስሎችን ወደ Google Drive ይጫኑ"
+   },
+   "nimbusProSendGoogleDrive2": {
+     "message": "እንደ ሕዝባዊ ወይም የግል ማስፈንጠሪያ ወደ Google Drive ይጫኑ"
+   },
+   "nimbusProSendDropbox": {
+     "message": "ምስሎችን እና ቪዲዮዎችን ወደ Dropbox ይላኩ"
+   },
+   "nimbusProAddWaterMark": {
+     "message": "ለብራንድ የውሃ ማክ ያክሉ"
+   },
+   "nimbusProSupport": {
+     "message": "ቅድሚያ የሚሰጠው ድጋፍ"
+   },
+   "nimbusLimitDeviceTitle": {
+     "message": "የእርስዎ Nimble capture መለያ አስቀድሞ በከፍተኛው የመሣሪያዎች ብዛት ላይ በመጠቀም ላይ ነው።"
+   },
+   "nimbusLimitDeviceDestruction": {
+     "message": "Nimble capture ን ከሁለት መሣሪያዎች በላይ መጠቀም ከፈለጉ፣ እቅድዎን ማሻሻል ይኖርብዎታል።"
+   },
+   "nimbusBannedDeviceDestruction": {
+     "message": "ይህ መሣሪያ በእርስዎ ታግዷል።"
+   },
+   "nimbusManageDevices": {
+     "message": "መሣሪያዎችን ያስተዳድሩ"
+   },
+   "nimbusIncreaseLimit": {
+     "message": "ገደብ ይጨምሩ"
+   },
+   "nimbusSaveScreenshot": {
+     "message": "ስክሪንሾት አስቀምጥ"
+   },
+   "nimbusSaveScreencast": {
+     "message": "ስክሪንካስት አስቀምጥ"
+   },
+   "nimbusComment": {
+     "message": "አስተያየት"
+   },
+   "nimbusRateUs": {
+     "message": "ደረጃ ይስጡን"
+   },
+   "nimbusSupportMenu": {
+     "message": "ድጋፍ"
+   },
+   "nimbusSupportMenu1": {
+     "message": "መመሪያዎች እና ተደጋጋሚ ጥያቄዎች"
+   },
+   "nimbusSupportMenu2": {
+     "message": "ድጋፍን ያግኙ"
+   },
+   "nimbusLogout": {
+     "message": "ከ FuseBase ውጣ"
+   },
+   "nimbusEducationDiscounts": {
+     "message": "ለትምህርት ቅናሾች"
+   },
+   "nimbusHelp": {
+     "message": "እገዛ"
+   },
+   "nimbusSlackHidePanel": {
+     "message": "የ Slack ፓነልን ደብቅ"
+   },
+   "nimbusChannels": {
+     "message": "ቻናሎች"
+   },
+   "nimbusPrivateMessage": {
+     "message": "የግል መልእክት"
+   },
+   "nimbusSelectChannel": {
+     "message": "ቻናል ይምረጡ"
+   },
+   "nimbusSlackAccount": {
+     "message": "Slack መለያ"
+   },
+   "nimbusAccount": {
+     "message": "Fusebase መለያ"
+   },
+   "nimbusSearch": {
+     "message": "ፍለጋ"
+   },
+   "nimbusEnvironmentInfo": {
+     "message": "ስለ ስርዓት እና ገጽ መረጃ ያክሉ"
+   },
+   "nimbusBtnAuthGoogle": {
+     "message": "Google በመጠቀም"
+   },
+   "nimbusBtnAuthFacebook": {
+     "message": "Facebook በመጠቀም"
+   },
+   "nimbusNotAccount": {
+     "message": "መለያ የለኝም"
+   },
+   "nimbusCreateAccount": {
+     "message": "ነጻ መለያ ይፍጠሩ"
+   },
+   "tooltipUploadTo": {
+     "message": "ወደ ላይ ጫን"
+   },
+   "nimbusNoteName": {
+     "message": "የገጽ ስም"
+   },
+   "nimbusInfoPage": {
+     "message": "ድር ገጽ"
+   },
+   "nimbusInfoScreen": {
+     "message": "የስክሪን ጥራት"
+   },
+   "nimbusInfoBrowser": {
+     "message": "የተጠቃሚ አሳሽ"
+   },
+   "nimbusInfoAgent": {
+     "message": "የተጠቃሚ ወኪል"
+   },
+   "nimbusInfoPlatform": {
+     "message": "የተጠቃሚ መድረክ"
+   },
+   "newReleaseTitle": {
+     "message": "እንኳን ወደ አዲሱ የ Nimble Screenshot ስሪት በደህና መጡ"
+   },
+   "newReleaseText": {
+     "message": "<li>አዲስ ንድፍ፤</li><li>አካላትን ከማርትዕ የሚከለክል ቁልፍ፤</li><li>የዘገየ ስክሪንሾት፤</li><li>ያልተፈለጉትን በማስወገድ ዋናውን ምናሌ የማስተካከል እድል፤</li><li>አስፈላጊ በሆኑ ቅርጾች አጠገብ ቁጥሮችን በሆነ ማከል እድል፤</li><li>ከአርታዒው Ctrl+Enter የቁልፍ ሰሌዳ አቋራጭን በመጠቀም በፍጥነት ወደ Nimbus/Slack የመላክ እድል፤</li><li>ሌሎች ስህተቶች ተስተካክለዋል፤</li>"
+   },
+   "rateText": {
+     "message": "Nimble capture ን ይወዳሉ?<br>እባክዎን ግምገማዎን ይጻፉ! እናመሰግናለን።"
+   },
+   "rateRate": {
+     "message": "Nimble capture ን ይገምግሙ"
+   },
+   "rateNotShow": {
+     "message": "እንደገና አታሳየው"
+   },
+   "disable": {
+     "message": "አሰናክል"
+   },
+   "gDriveLabelFolders": {
+     "message": "ስክሪንሾት ይቀመጣል"
+   },
+   "gDriveTitle": {
+     "message": "ወደ Google Drive ላክ"
+   },
+   "gDriveLabel": {
+     "message": "ስክሪንሾት ማስቀመጥ የሚፈልጉበትን አቃፊ ይምረጡ"
+   },
+   "gDriveMainFolder": {
+     "message": "ይህ ዋና አቃፊ ነው"
+   },
+   "gDriveNoItems": {
+     "message": "ምንም ንጥሎች የሉም"
+   },
+   "gDriveBtnDone": {
+     "message": "ተጠናቅቋል"
+   },
+   "gDriveNotAuthorized": {
+     "message": "ወደ መለያዎ አልገቡም"
+   },
+   "gDriveSendTo": {
+     "message": "ወደ ላክ"
+   },
+   "gDriveUploadPrivate": {
+     "message": "እንደ የግል ጫን"
+   },
+   "gDriveLogout": {
+     "message": "ውጣ"
+   },
+   "gDriveLogoutFrom": {
+     "message": "ከ ውጣ"
+   },
+   "labelPreviewLoading": {
+     "message": "በመጫን ላይ..."
+   },
+   "labelRedactorLoading": {
+     "message": "በመጫን ላይ... እባክዎ ይጠብቁ..."
+   },
+   "labelPreviewLoadingVideo": {
+     "message": "ቪዲዮ በማስኬድ ላይ - እባክዎ ይጠብቁ..."
+   },
+   "videoPanelSimpleCursor": {
+     "message": "ቀላል ጠቋሚ - Alt+S"
+   },
+   "videoPanelFocusMouse": {
+     "message": "አይጥን ያተኩሩ - Alt+G"
+   },
+   "videoPanelAnimatedCursor": {
+     "message": "የተንቀሳቀሰ ጠቋሚ - Alt+L"
+   },
+   "videoPanelPen": {
+     "message": "ብዕር - Alt+P"
+   },
+   "videoPanelArrow": {
+     "message": "ቀስት - Alt+A"
+   },
+   "videoPanelSquare": {
+     "message": "ካሬ - Alt+R"
+   },
+   "videoPanelBlur": {
+     "message": "ማደብዘዝ - Alt+B"
+   },
+   "videoPanelMark": {
+     "message": "ምልክት - Alt+M"
+   },
+   "videoPanelQuestion": {
+     "message": "ጥያቄ - Alt+Q"
+   },
+   "videoPanelCheckmark": {
+     "message": "ምልክት ማድረግ - Alt+C"
+   },
+   "videoCanvas": {
+     "message": "ባዶ ገጽ"
+   },
+   "videoPanelClear": {
+     "message": "አጽዳ - Alt+N"
+   },
+   "videoPanelClearAll": {
+     "message": "ሁሉንም አጽዳ - Alt+U"
+   },
+   "videoPanelCamera": {
+     "message": "ዌብካም አብራ/አጥፋ"
+   },
+   "videoPanelHideShowPanel": {
+     "message": "ፓነል ደብቅ/አሳይ - Alt+V"
+   },
+   "videoConvertOpen": {
+     "message": "ወደ MP4 ወይም Gif ቀይር"
+   },
+   "videoEditor": {
+     "message": "የቪዲዮ አርታዒ"
+   },
+   "videoConvertSize": {
+     "message": "መጠን"
+   },
+   "videoConvertSizeOptimal": {
+     "message": "ዝቅተኛ መጠን"
+   },
+   "videoConvertFrameRate": {
+     "message": "የፍሬም ፍጥነት"
+   },
+   "videoConvert": {
+     "message": "ቀይር"
+   },
+   "videoConvertInfo": {
+     "message": "ቪዲዮዎን ወደ MP4 ወይም GIF ቅርጸት ለመቀየር ጊዜ ሊወስድ ይችላል። ቅየራው እንደተጠናቀቀ ቪዲዮዎን ማስቀመጥ ይችላሉ።"
+   },
+   "videoEditorTrimApply": {
+     "message": "የተመረጠውን አስወግድ"
+   },
+   "videoEditorTrimCancel": {
+     "message": "ሰርዝ"
+   },
+   "videoEditorTimeline": {
+     "message": "የጊዜ መስመር ማጉላት"
+   },
+   "youtubeName": {
+     "message": "ስም"
+   },
+   "youtubePublic": {
+     "message": "ሕዝባዊ"
+   },
+   "youtubeUnlisted": {
+     "message": "ያልተዘረዘረ"
+   },
+   "youtubePrivate": {
+     "message": "የግል"
+   },
+   "youtubeCreate": {
+     "message": "ፍጠር"
+   },
+   "youtubePlaylist": {
+     "message": "የጨዋታ ዝርዝር"
+   },
+   "youtubeNoPlaylist": {
+     "message": "ያለ የጨዋታ ዝርዝር"
+   },
+   "hotKeys": {
+     "message": "የአቋራጭ ቁልፎች"
+   },
+   "onlyForChrome": {
+     "message": "ለChrome ብቻ"
+   },
+   "onlyForFirefox": {
+     "message": "ለChrome ብቻ"
+   },
+   "watermarkLimit": {
+     "message": "የውሃ ማህተም ከፍተኛ መጠን -1 mb"
+   },
+   "watermarkUnsupported": {
+     "message": "የማይደገፍ የፋይል ቅርጸት"
+   },
+   "labelInsertScreenshot": {
+     "message": "ስክሪንሾት ክፈት"
+   },
+   "labelInsertScreencast": {
+     "message": "ቪዲዮ ተመልከት"
+   },
+   "popupTextTrialScreenshot": {
+     "message": "የሙሉ ገጽ ወይም የገጽ ክፍሎችን ስክሪንሾት የመውሰድ ሙከራዎ ተጀምሯል። ሙከራው ካለቀ በኋላ፣ በነጻ መለያ ውስጥ በሙሉ ገጽ ወይም በተመረጠ እና በማንሸራተት ሁነታ ስክሪንሾት መውሰድ አይችሉም። ያልተገደበ ስክሪንሾቶችን ለማግኘት ወደ Nimbus Pro ያሻሽሉ።"
+   },
+   "labelCnameFree": {
+     "message": "አገናኝዎን ያብጁ"
+   },
+   "labelFileChangeShare": {
+     "message": "ምልክት ካደረጉ፣ የሕዝብ አገናኝ አይፈጠርም።"
+   },
+   "popupCnameFreeTitle": {
+     "message": "የ14 ቀን ነጻ ሙከራዎን ዛሬ ይጀምሩ"
+   },
+   "popupCnameFreeDesc": {
+     "message": "ለእርስዎ ማጋራቶች የራስዎን ዶሜይን (CNAME) ያክሉ። በተጨማሪም፣ እነዚህን ማድረግ ይችላሉ፡"
+   },
+   "popupCnameFreeDescList1": {
+     "message": "ከስክሪንሾቶችዎ እና ቪዲዮዎች ጋር ፋይሎችን፣ አገናኞችን እና ሌሎችንም ያያይዙ"
+   },
+   "popupCnameFreeDescList2": {
+     "message": "የሚጭኑትን በስራ ቦታዎች እና አቃፊዎች ያደራጁ"
+   },
+   "popupCnameFreeDescList3": {
+     "message": "ለቡድንዎ እና ደንበኞችዎ ዊኪዎችን ይፍጠሩ"
+   },
+   "popupCnameFreeDescList4": {
+     "message": "የተጋሩ ገጾችዎን በይለፍ ቃሎች ያስጠብቁ (አማራጭ)"
+   },
+   "popupCnameFreeDescList5": {
+     "message": "በእኛ ነጭ-መለያ መፍትሄ የእርስዎን ብራንድ ያስተዋውቁ"
+   },
+   "popupCnameFreeDescList6": {
+     "message": "የሚወዷቸውን የግብይት እና የትንታኔ መሳሪያዎች ያገናኙ"
+   },
+   "btnGetStarted": {
+     "message": "ጀምር"
+   },
+   "btnInjectGmailScreenshot": {
+     "message": "አዲስ ስክሪንሾት ይውሰዱ"
+   },
+   "btnInjectGmailScreencast": {
+     "message": "አዲስ ቪዲዮ ይቅዱ"
+   },
+   "btnInjectGmailMain": {
+     "message": "ቪዲዮ ወይም ስክሪንሾት አስገባ"
+   },
+   "optionsOtherSettings": {
+     "message": "ሌላ"
+   },
+   "optionsLabelInjectGmailScreenshot": {
+     "message": "Nimbus በGmail ውስጥ አሳይ"
+   },
+   "nimbusProScreenshotLimit": {
+     "message": "ያልተገደበ ስክሪንሾቶች"
+   },
+   "nimbusLogin": {
+     "message": "ግባ"
+   },
+   "welcomeThankYouChoosing": {
+     "message": "Nimble capture ን ስለመረጡ እናመሰግናለን!"
+   },
+   "welcomePleaseCreateAccount": {
+     "message": "እባክዎ ለሚከተሉት መለያ ይፍጠሩ፡"
+   },
+   "welcomeSaveVideosScreenshots": {
+     "message": "ቪዲዮዎችዎን እና ስክሪንሾቶችዎን ያስቀምጡ"
+   },
+   "welcomeAddOtherContent": {
+     "message": "ወደ ጭነቶችዎ ሌላ ይዘት ያክሉ"
+   },
+   "welcomeGetQuickLinks": {
+     "message": "በዶሜይንዎ ለማጋራት ፈጣን አገናኞችን ያግኙ"
+   },
+   "welcomeProtectYourQuick": {
+     "message": "ፈጣን አገናኞችዎን በይለፍ ቃሎች ይጠብቁ"
+   },
+   "welcomeEditVideo": {
+     "message": "ቪዲዮ ያርትዑ እና አዝራሮችን ያክሉ"
+   },
+   "welcomeMuchMoreCome": {
+     "message": "ብዙ ተጨማሪ ነገሮች በመንገድ ላይ ናቸው። ይጠብቁን!"
+   },
+   "welcomePinExtension": {
+     "message": "ቅጥያውን ይጠቅልሉ"
+   },
+   "welcomeNeedYourVideo": {
+     "message": "የቪዲዮ መቅዳት ትዕዛዝዎ እና የስክሪንሾት መሳሪያዎ ዝግጁ እንዲሆኑ ይፈልጋሉ?"
+   },
+   "welcomePleaseClickIcon": {
+     "message": "እባክዎ የፓዝል አዶውን ጠቅ ያድርጉ፣ Nimbus ን በዝርዝሩ ውስጥ ያግኙ እና Pin ን ጠቅ ያድርጉ። በቀኝ በኩል ያለው አጭር GIF ይረዳዎታል።"
+   },
+   "welcomeClickNextReady": {
+     "message": "ዝግጁ ሲሆኑ Next ን ጠቅ ያድርጉ።"
+   },
+   "welcomeNext": {
+     "message": "ቀጣይ"
+   },
+   "welcomeOneAccount": {
+     "message": "አንድ Nimbus መለያ"
+   },
+   "welcomeForSolutions": {
+     "message": "ለሁሉም መፍትሄዎቻችን"
+   },
+   "welcomeNimbusNotePromo": {
+     "message": "መረጃን ለማስተዳደር እና ለማጋራት የእርስዎ ዲጂታል ዋና መስሪያ ቤት"
+   },
+   "welcomeNimbusCapturePromo": {
+     "message": "ለየዕለት አጠቃቀም የቪዲዮ መቅዳት ትዕዛዝ እና የስክሪንሾት መፍትሄ"
+   },
+   "welcomeNimbusClarityPromo": {
+     "message": "ለተለዋዋጭ መልዕክት የቪዲዮ እና የድምጽ መቅዳት ትዕዛዝ (+Windows Desktop መተግበሪያ)"
+   },
+   "welcomeNimbusClipperPromo": {
+     "message": "ከድር ተዛማጅ መረጃን ብቻ ያስቀምጡ፡ ይምረጡ፣ ያስቀምጡ፣ ያጋሩ"
+   },
+   "welcomeStreamlineYour": {
+     "message": "የእርስዎን"
+   },
+   "welcomeInformationManagement": {
+     "message": "ትብብር እና የመረጃ አያያዝ ያቀላጥፉ"
+   },
+   "welcomeWantFreeUpgrade": {
+     "message": "ነጻ ማሻሻያ እፈልጋለሁ*"
+   },
+   "welcomeSettleLess": {
+     "message": "ለትንሹ እረካለሁ **"
+   },
+   "welcomeGetAccessAll": {
+     "message": "* ሁሉንም የNimbus መተግበሪያዎች ይጠቀሙ"
+   },
+   "welcomeStayCaptureOnly": {
+     "message": "** በNimble capture ብቻ ይቆዩ"
+   },
+   "welcomeReadyStart": {
+     "message": "ለመጀመር ዝግጁ ነዎት?"
+   },
+   "welcomeWellDone": {
+     "message": "ጥሩ ስራ!"
+   },
+   "welcomeCompletedAllSteps": {
+     "message": "ሁሉንም ደረጃዎች አጠናቀዋል። አሁን የመጀመሪያ ቪዲዮዎን መቅዳት ይችላሉ!"
+   },
+   "welcomeHereYouGo": {
+     "message": "እነሆ!"
+   },
+   "welcomeRecordVideo": {
+     "message": "ቪዲዮ ይቅዱ"
+   },
+   "welcomeMakeScreenshot": {
+     "message": "ስክሪንሾት ይውሰዱ"
+   },
+   "previewReload": {
+     "message": "ገጹን አድስ"
+   }
+ }
+ 
+ 

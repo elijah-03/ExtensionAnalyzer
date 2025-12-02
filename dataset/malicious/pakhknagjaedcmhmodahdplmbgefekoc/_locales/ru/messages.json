@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Около"
+},
+"background": {
+"message": "Задний план"
+},
+"better_click": {
+"message": "Щелкните по нему, измените фон"
+},
+"better_down": {
+"message": "Загрузить текущие обои"
+},
+"better_fb": {
+"message": "Поделиться в Facebook"
+},
+"better_google": {
+"message": "Поделиться в Google+"
+},
+"better_memu": {
+"message": "Показать меню настроек"
+},
+"better_pin": {
+"message": "Вы можете привязать текущие обои"
+},
+"better_pinned": {
+"message": "Вы привязали текущие обои"
+},
+"better_print": {
+"message": "Поделиться в Pinterest"
+},
+"better_qq": {
+"message": "Поделиться в QQ Zone"
+},
+"better_sina": {
+"message": "Поделиться с друзьями"
+},
+"better_start": {
+"message": "Новая вкладка Атака на Титан"
+},
+"better_twitter": {
+"message": "Поделиться в Twitter"
+},
+"color": {
+"message": "Твердый цвет"
+},
+"extDescription": {
+"message": "Автоматическое обновление обоев или поиск обоев из Google ™ Images для настройки новой закладки Chrome."
+},
+"extName": {
+"message": "Новая вкладка Атака на Титан, обои HD"
+},
+"fivestar1": {
+"message": "Вам нравится Атака на Титан New Tab?"
+},
+"fivestar2": {
+"message": "Пожалуйста, дайте нам хороший обзор в Chrome Store."
+},
+"image": {
+"message": "Локальное изображение"
+},
+"library": {
+"message": "Обновление из библиотеки"
+},
+"no": {
+"message": "НЕТ"
+},
+"not_now": {
+"message": "Не сейчас"
+},
+"pinned_confirm": {
+"message": "Вы прикрепляли текущие обои, вы уверены, что обновили его?"
+},
+"search": {
+"message": "Поиск"
+},
+"setting": {
+"message": "настройки"
+},
+"share": {
+"message": "Поделитесь с друзьями"
+},
+"upload": {
+"message": "Загрузить"
+},
+"visit": {
+"message": "Самый посещаемый"
+},
+"yes": {
+"message": "да"
+},
+"today": {
+"message": "Cегодня"
+},
+"mon": {
+"message": "понедельник"
+},
+"tue": {
+"message": "вторник"
+},
+"wed": {
+"message": "среда"
+},
+"thu": {
+"message": "Четверг"
+},
+"fri": {
+"message": "пятница"
+},
+"sat": {
+"message": "суббота"
+},
+"sun": {
+"message": "Воскресенье"
+},
+"upload_tip": {
+"message": "Размер загруженного изображения слишком велик!"
+},
+"upload_close": {
+"message": "Закрыть"
+},
+"unkownLocation": {
+"message": "Неизвестное место"
+},
+"frequent": {
+"message": "Частота обновления"
+},
+"fre_pin": {
+"message": "Чтобы привязать текущий фон"
+},
+"fre_never": {
+"message": "Никогда"
+},
+"fre_min": {
+"message": "Каждую минуту"
+},
+"fre_hour": {
+"message": "Каждый час"
+},
+"fre_day": {
+"message": "Каждый день"
+},
+"search_tip1": {
+"message": "Вы войдете"
+},
+"search_tip2": {
+"message": "поиск"
+},
+"history1": {
+"message": "Показать наиболее посещаемые сайты"
+},
+"history2": {
+"message": "Вы можете восстановить большинство посещенных веб-сайтов в настройках."
+},
+"weather": {
+"message": "Показывать прогноз погоды"
+},
+"self_add": {
+"message": "Вы добавили его."
+},
+"self_travel": {
+"message": "Введите ключевые слова для создания собственной галереи обоев"
+},
+"self_search": {
+"message": "поиск"
+},
+"self_load": {
+"message": "Загрузили"
+},
+"self_scroll": {
+"message": "прокрутите вниз, чтобы загрузить больше."
+},
+"self_customize": {
+"message": "Настройка библиотеки"
+},
+"self_selected": {
+"message": "выбранный"
+},
+"self_finish": {
+"message": "Создание галереи обоев"
+},
+"self_allow": {
+"message": "Разрешить другим использовать эту библиотеку"
+},
+"recommend1": {
+"message": "Изобразительное искусство"
+},
+"recommend2": {
+"message": "Люблю"
+},
+"recommend3": {
+"message": "пляж"
+},
+"recommend4": {
+"message": "волк"
+},
+"recommend5": {
+"message": "ЭКЗО"
+},
+"recommend6": {
+"message": "Кот"
+},
+"recommend7": {
+"message": "Мультфильм"
+},
+"Customize_Library": {
+"message": "Настройка библиотеки"
+},
+"wallpapers": {
+"message": "обои для рабочего стола"
+},
+"delete": {
+"message": "Вы уверены, что хотите удалить его?"
+},
+"wordpress_title": {
+"message": "Пользовательские обои HD Темы-Атака на Титан Новая вкладка"
+},
+"wordpress_get": {
+"message": "Получить эту тему для моего хрома"
+},
+"better_customized": {
+"message": "Создайте собственную библиотеку обоев"
+},
+"better_shares": {
+"message": "Нажмите на нее, поделитесь своими друзьями"
+},
+"better_save": {
+"message": "Добавить в избранное"
+},
+"better_remove": {
+"message": "Удалить из Избранного"
+},
+"share_tip": {
+"message": "В дополнение к избранному вы также можете поделиться этим расширением:"
+},
+"login": {
+"message": "Вам необходимо войти в систему"
+}
+}

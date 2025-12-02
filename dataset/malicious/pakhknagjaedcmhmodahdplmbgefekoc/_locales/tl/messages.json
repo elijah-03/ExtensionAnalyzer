@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Tungkol sa"
+},
+"background": {
+"message": "Background"
+},
+"better_click": {
+"message": "I-click ito, Baguhin ang Background"
+},
+"better_down": {
+"message": "I-download ang kasalukuyang wallpaper"
+},
+"better_fb": {
+"message": "Ibahagi sa Facebook"
+},
+"better_google": {
+"message": "Ibahagi sa Google+"
+},
+"better_memu": {
+"message": "Ipakita ang menu ng mga setting"
+},
+"better_pin": {
+"message": "Maaari mong i-pin ang kasalukuyang wallpaper"
+},
+"better_pinned": {
+"message": "Na-pin mo ang kasalukuyang wallpaper"
+},
+"better_print": {
+"message": "Ibahagi sa Pinterest"
+},
+"better_qq": {
+"message": "Ibahagi sa qq Zone"
+},
+"better_sina": {
+"message": "Ibahagi kay Sina"
+},
+"better_start": {
+"message": "Attack on Titan Bagong Tab"
+},
+"better_twitter": {
+"message": "Ibahagi sa Twitter"
+},
+"color": {
+"message": "Solid Color"
+},
+"extDescription": {
+"message": "Auto-update ang mga wallpaper o mga wallpaper ng paghahanap mula sa Mga Larawan ng Google ™ upang i-customize ang pahina ng iyong bagong tab ng Chrome."
+},
+"extName": {
+"message": "Attack on Titan Bagong Tab, Customized Wallpaper HD"
+},
+"fivestar1": {
+"message": "Gusto mo ba ng Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Mangyaring bigyan kami ng isang mahusay na pagsusuri sa Chrome Store."
+},
+"image": {
+"message": "Lokal na imahe"
+},
+"library": {
+"message": "Mag-update mula sa Library"
+},
+"no": {
+"message": "HINDI"
+},
+"not_now": {
+"message": "Hindi ngayon"
+},
+"pinned_confirm": {
+"message": "Pinindot mo ang kasalukuyang wallpaper, sigurado ka bang i-update ito?"
+},
+"search": {
+"message": "Paghahanap"
+},
+"setting": {
+"message": "mga setting"
+},
+"share": {
+"message": "Ibahagi sa iyong mga kaibigan"
+},
+"upload": {
+"message": "Mag-upload"
+},
+"visit": {
+"message": "Pinaka-Bisita"
+},
+"yes": {
+"message": "Oo"
+},
+"today": {
+"message": "Ngayon"
+},
+"mon": {
+"message": "Lunes"
+},
+"tue": {
+"message": "Martes"
+},
+"wed": {
+"message": "Miyerkules"
+},
+"thu": {
+"message": "Huwebes"
+},
+"fri": {
+"message": "Biyernes"
+},
+"sat": {
+"message": "Sabado"
+},
+"sun": {
+"message": "Linggo"
+},
+"upload_tip": {
+"message": "Masyadong malaki ang laki ng na-upload na larawan!"
+},
+"upload_close": {
+"message": "Isara"
+},
+"unkownLocation": {
+"message": "Hindi kilalang Lokasyon"
+},
+"frequent": {
+"message": "I-update ang Dalas"
+},
+"fre_pin": {
+"message": "Upang i-pin kasalukuyang background"
+},
+"fre_never": {
+"message": "Huwag kailanman"
+},
+"fre_min": {
+"message": "Bawat minuto"
+},
+"fre_hour": {
+"message": "Bawat oras"
+},
+"fre_day": {
+"message": "Araw-araw"
+},
+"search_tip1": {
+"message": "Ikaw ay papasok"
+},
+"search_tip2": {
+"message": "maghanap"
+},
+"history1": {
+"message": "Ipakita ang mga site na pinakahuling binisita"
+},
+"history2": {
+"message": "Maaari mong ibalik ang mga pinaka-binisitang website sa mga setting."
+},
+"weather": {
+"message": "Ipakita ang taya ng panahon"
+},
+"self_add": {
+"message": "Naidagdag mo ito."
+},
+"self_travel": {
+"message": "Magpasok ng mga keyword upang bumuo ng iyong sariling mga library ng wallpaper"
+},
+"self_search": {
+"message": "maghanap"
+},
+"self_load": {
+"message": "Naka-load"
+},
+"self_scroll": {
+"message": "mag-scroll pababa upang mag-load nang higit pa."
+},
+"self_customize": {
+"message": "I-customize ang Library"
+},
+"self_selected": {
+"message": "napili"
+},
+"self_finish": {
+"message": "Gumawa ng mga library ng wallpaper"
+},
+"self_allow": {
+"message": "Pahintulutan ang iba na gamitin ang library na ito"
+},
+"recommend1": {
+"message": "Sining"
+},
+"recommend2": {
+"message": "Pag-ibig"
+},
+"recommend3": {
+"message": "Beach"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Cartoon"
+},
+"Customize_Library": {
+"message": "I-customize ang Library"
+},
+"wallpapers": {
+"message": "mga wallpaper"
+},
+"delete": {
+"message": "Sigurado ka ba na tanggalin ito?"
+},
+"wordpress_title": {
+"message": "Customized Wallpaper HD Themes-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Kunin ang temang ito para sa aking chrome"
+},
+"better_customized": {
+"message": "Buuin ang iyong sariling library ng mga wallpaper"
+},
+"better_shares": {
+"message": "I-click ito, ibahagi sa iyong mga kaibigan"
+},
+"better_save": {
+"message": "Idagdag sa mga Paborito"
+},
+"better_remove": {
+"message": "Alisin mula sa Mga Paborito"
+},
+"share_tip": {
+"message": "Matagumpay na naidagdag sa paborito, maaari mo ring ibahagi ang extension na ito sa:"
+},
+"login": {
+"message": "Kailangan mong mag-login"
+}
+}

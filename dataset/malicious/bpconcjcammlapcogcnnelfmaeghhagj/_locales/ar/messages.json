@@ -1,0 +1,1540 @@
+{
+   "appName": {
+     "message": "Nimble capture"
+   },
+   "appNameMini": {
+     "message": "Nimble capture"
+   },
+   "appDesc": {
+     "message": "التقاط لقطات شاشة كاملة للصفحة. تحرير وحفظ لقطات الشاشة. تسجيل مقاطع فيديو الشاشة - تسجيل فيديو من شاشتك. تسجيل أدلة الاستخدام."
+   },
+   "welcomePageTitle": {
+     "message": "مرحبًا بك في Nimble Screenshot"
+   },
+   "btnVisiblePage": {
+     "message": "الجزء المرئي من الصفحة"
+   },
+   "btnDelayedScreen": {
+     "message": "شاشة مؤجلة"
+   },
+   "btnCaptureFragment": {
+     "message": "التقاط جزء"
+   },
+   "btnCaptureFragmentScroll": {
+     "message": "التقاط جزء قابل للتمرير"
+   },
+   "btnSelectedArea": {
+     "message": "المنطقة المحددة"
+   },
+   "btnSelectedScroll": {
+     "message": "تحديد وتمرير"
+   },
+   "btnEntirePage": {
+     "message": "الصفحة بأكملها"
+   },
+   "btnBrowserWindow": {
+     "message": "لقطة شاشة سطح المكتب"
+   },
+   "btnDesktop": {
+     "message": "التقاط من سطح المكتب"
+   },
+   "btnBlankScreen": {
+     "message": "شاشة فارغة"
+   },
+   "btnAndroidVersion": {
+     "message": "إصدار Android"
+   },
+   "btnCaptureVideo": {
+     "message": "تسجيل فيديو"
+   },
+   "tooltipOptions": {
+     "message": "الإعدادات"
+   },
+   "tooltipOptionsWatermark": {
+     "message": "إعدادات العلامة المائية"
+   },
+   "btnConnectSlack": {
+     "message": "الاتصال بـ Slack"
+   },
+   "btnEnableCopy": {
+     "message": "نسخ إلى الحافظة"
+   },
+   "btnAccessMic": {
+     "message": "الوصول إلى الميكروفون والكاميرا"
+   },
+   "btnReadyVideo": {
+     "message": "أنا جاهز لتسجيل الفيديو"
+   },
+   "btnManual": {
+     "message": "دليل"
+   },
+   "btnOkGotIt": {
+     "message": "حسنًا، فهمت"
+   },
+   "btnCancel": {
+     "message": "إلغاء"
+   },
+   "btnLearnMore": {
+     "message": "تعرف على المزيد"
+   },
+   "popupTitle": {
+     "message": "Nimble capture"
+   },
+   "popupVideoTitle": {
+     "message": "تسجيل فيديو"
+   },
+   "popupVideoLimitMessage": {
+     "message": "<b>الحد الأقصى 5 دقائق لكل فيديو.</b> قم بالترقية للحصول على تسجيل غير محدود وميزات متميزة أخرى."
+   },
+   "popupButtonAdvertising": {
+     "message": "Nimbus Clipper - قص كل شيء!"
+   },
+   "popupLabelSetting": {
+     "message": "الإعداد"
+   },
+   "popupLabelRecordMic": {
+     "message": "تسجيل صوت الميكروفون"
+   },
+   "popupLabelRecordCamera": {
+     "message": "تسجيل كاميرا الويب"
+   },
+   "popupLabelRecordTab": {
+     "message": "تسجيل صوت التبويب"
+   },
+   "popupLabelVideoSetting": {
+     "message": "إعدادات الفيديو"
+   },
+   "popupLabelCursorAnimate": {
+     "message": "مؤشر متحرك"
+   },
+   "popupLabelShowDrawingTools": {
+     "message": "إظهار أدوات الرسم"
+   },
+   "popupLabelCountdown": {
+     "message": "العد التنازلي"
+   },
+   "popupLabelVideoAnimationCursor": {
+     "message": "تحريك النقر"
+   },
+   "popupRecordTypeTitle": {
+     "message": "ماذا تريد تسجيله"
+   },
+   "popupSizeAutoLabel": {
+     "message": "تلقائي"
+   },
+   "popupSizeAutoDescription": {
+     "message": "(الدقة الحالية)"
+   },
+   "popupRecordVideoCoreLabel": {
+     "message": "تسجيل الفيديو"
+   },
+   "popupRecordAudioCoreLabel": {
+     "message": "تسجيل الصوت"
+   },
+   "popupRecordCoreDefaultLabel": {
+     "message": "الإخراج الافتراضي"
+   },
+   "popupRecordCoreAdvancedLabel": {
+     "message": "متقدم"
+   },
+   "popupBitrateAudioLabel": {
+     "message": "معدل البت الصوتي"
+   },
+   "popupBitrateVideoLabel": {
+     "message": "معدل البت للفيديو"
+   },
+   "popupFrameRateLabel": {
+     "message": "معدل الإطارات"
+   },
+   "popupAutoDeleteDrawing": {
+     "message": "حذف الرسم تلقائيًا"
+   },
+   "popupAutoDeleteDrawingDescription": {
+     "message": "يمكنك تحديد فترة زمنية سيتم بعدها حذف الأشكال المرسومة أثناء تسجيل الفيديو"
+   },
+   "popupSelectMicLabel": {
+     "message": "الميكروفون"
+   },
+   "popupSelectWebCamLabel": {
+     "message": "كاميرا الويب"
+   },
+   "popupBtnTabRecord": {
+     "message": "التبويب"
+   },
+   "popupBtnDesktopRecord": {
+     "message": "سطح المكتب"
+   },
+   "popupBtnCameraRecord": {
+     "message": "كاميرا الويب فقط"
+   },
+   "popupBtnBack": {
+     "message": "رجوع"
+   },
+   "popupVideoQualityTitle": {
+     "message": "جودة الفيديو والصوت"
+   },
+   "popupRecordTitle": {
+     "message": "جاري تسجيل الفيديو"
+   },
+   "popupRecordWantTitle": {
+     "message": "كيف تريد التسجيل"
+   },
+   "popupLabelPrivateUpload": {
+     "message": "تحميل خاص"
+   },
+   "popupLabelSelectWorkspace": {
+     "message": "اختر مساحة العمل"
+   },
+   "popupBtnUploadOptionShow": {
+     "message": "إظهار خيارات البث"
+   },
+   "popupBtnUploadOptionHide": {
+     "message": "إخفاء خيارات البث"
+   },
+   "popupBtnStopRecord": {
+     "message": "إيقاف التسجيل"
+   },
+   "popupBtnStopPause": {
+     "message": "إيقاف مؤقت"
+   },
+   "popupBtnStopResume": {
+     "message": "استئناف"
+   },
+   "popupBtnStartRecord": {
+     "message": "بدء التسجيل"
+   },
+   "popupBtnStartStream": {
+     "message": "بدء التسجيل الفوري"
+   },
+   "popupBtnResetVideoSetting": {
+     "message": "إعادة تعيين الإعدادات"
+   },
+   "popupAfterCapture": {
+     "message": "الإجراء بعد الالتقاط"
+   },
+   "popupSec": {
+     "message": "ثانية"
+   },
+   "popupMyNotes": {
+     "message": "تحميلاتي"
+   },
+   "popupCapturingProgress": {
+     "message": "جاري الالتقاط..."
+   },
+   "popupWelcomeVideo": {
+     "message": "مرحبًا بك في تسجيل الفيديو"
+   },
+   "popupAccessMic": {
+     "message": "للبدء، يجب عليك السماح بالوصول إلى الميكروفون الخاص بك"
+   },
+   "popupReadManual": {
+     "message": "يمكنك أيضًا قراءة تعليمات استخدام التطبيق"
+   },
+   "popupVideoReEncoding": {
+     "message": "تمكين إعادة ترميز الفيديو"
+   },
+   "popupVideoReEncodingTitle": {
+     "message": "يضبط هذا الخيار طول الجدول الزمني. إذا قمت بإيقاف تشغيل هذا الخيار، ستكون معالجة الفيديو (عند إيقاف التسجيل) أسرع بكثير للأجهزة البطيئة ولكن في بعض الحالات، لن يعمل تمرير الجدول الزمني. (موصى به للأجهزة البطيئة أو أجهزة Chromebook)"
+   },
+   "popupErrorLocalFileTitle": {
+     "message": "مطلوب الوصول إلى الملف"
+   },
+   "popupErrorLocalFileMessage": {
+     "message": "يرجى الانتقال إلى إعدادات ملحق Chrome الخاص بك وتمكين <strong>'السماح بالوصول إلى عناوين URL للملفات'</strong>، حتى يتمكن الملحق من الوصول إلى هذه الصفحة."
+   },
+   "popupOpenExtensions": {
+     "message": "إعدادات الملحق"
+   },
+   "popupVideoEditorWelcomeTitle": {
+     "message": "مرحبًا بك في محرر الفيديو!"
+   },
+   "popupVideoEditorWelcomeDescription": {
+     "message": "هنا، يمكنك بسهولة قص وتقليم مقاطع الفيديو الخاصة بك. <a href='https://nimblecapture.com/help' target='_blank'>اقرأ دليل المستخدم</a> لمعرفة كيفية العمل مع المحرر."
+   },
+   "popupVideoEditorCrop": {
+     "message": "حدد المنطقة التي تريد قصها واضغط على علامة الاختيار."
+   },
+   "popupVideoErrorConvert": {
+     "message": "حدث خطأ. يرجى المحاولة مرة أخرى."
+   },
+   "popupVideoGifNotSupport": {
+     "message": "هذا الإجراء غير مدعوم لملفات GIF."
+   },
+   "popupVideoEditorTrim": {
+     "message": "باستخدام العلامات الزرقاء، حدد جزءًا من الفيديو الذي يحتاج إلى التقليم وانقر على إزالة المحدد."
+   },
+   "popupVideoEditorTrimNoSelect": {
+     "message": "لم يتم تحديد شيء للتقليم."
+   },
+   "popupAutomationWelcome": {
+     "message": "يسرنا أن نعلن أننا أضفنا ميزة جديدة لتسجيل وإدراج مقاطع الفيديو مباشرة في تذاكر Github."
+   },
+   "popupAutomationWelcomeButton": {
+     "message": "تمكين"
+   },
+   "popupAutomationHideButton": {
+     "message": "إخفاء"
+   },
+   "popupAutomationCancelButton": {
+     "message": "إيقاف"
+   },
+   "popupAutomationUpload": {
+     "message": "قليل من الصبر ... جاري التحميل ..."
+   },
+   "popupAutomationUploadStream": {
+     "message": "قليل من الصبر... نحن نعالج فيديو البث الخاص بك إلى Nimbus."
+   },
+   "popupAutomationStorageLimit": {
+     "message": "لا يوجد سوى مساحة صغيرة متبقية على القرص. لا نضمن تسجيل فيديو مستقر. يرجى تحرير مساحة على القرص والنقر على متابعة التسجيل. انقر على إيقاف إذا كنت ترغب في إنهاء التسجيل."
+   },
+   "popupAutomationGuideError": {
+     "message": "عذرًا، خادم التسجيل غير متاح حاليًا."
+   },
+   "popupAutomationStreamError": {
+     "message": "عذرًا، خادم التسجيل غير متاح حاليًا. يرجى المحاولة مرة أخرى لاحقًا أو استخدام التسجيل المحلي."
+   },
+   "popupLabelQuickVideoCaptureEnable": {
+     "message": "إذا كانت الميزة نشطة، يمكنك تسجيل وحفظ فيديو بنقرتين على الماوس الأولى لبدء التسجيل، والثانية لإيقاف وحفظ الفيديو. إنه بسيط حقًا!"
+   },
+   "popupLabelVideoStorageLimit": {
+     "message": "يتم إيقاف تسجيل الفيديو إذا كان هناك أقل من 500 ميجابايت من المساحة الحرة على القرص. موصى به لأجهزة Chromebook."
+   },
+   "popupLabelQuickVideoCaptureGithubEnable": {
+     "message": "تسجيل فيديو في Github بسيط للغاية! بالنقرة الأولى، تبدأ في تسجيل الصفحة، وبالنقرة الثانية، تضيفها مباشرة إلى تذكرة Github!"
+   },
+   "popupLabelAnalyticsEnable": {
+     "message": "إذا كان نشطًا، يتم إرسال إحصائيات مجهولة عن استخدام وظائف المنتج إلى Nimbus."
+   },
+   "popupActionMessageCrop": {
+     "message": "مع الضغط على زر الماوس، حدد الجزء المطلوب. بعد ذلك، احفظه أو أرسله إلى المحرر."
+   },
+   "popupActionMessageFragmentScroll": {
+     "message": "حدد الجزء المطلوب وانقر عليه. بعد ذلك، احفظه أو أرسله إلى المحرر."
+   },
+   "popupYoutubeChannel": {
+     "message": "تحتاج إلى قناة Youtube"
+   },
+   "popupYoutubeChannelCreates": {
+     "message": "لتحميل مقاطع الفيديو المسجلة إلى Youtube، ستحتاج إلى إنشاء قناة Youtube."
+   },
+   "optionsTitle": {
+     "message": "الإعدادات"
+   },
+   "optionsGeneral": {
+     "message": "عام"
+   },
+   "optionsWatermark": {
+     "message": "العلامة المائية"
+   },
+   "optionsVideo": {
+     "message": "فيديو"
+   },
+   "optionsSettingImage": {
+     "message": "إعدادات الصورة"
+   },
+   "optionsCaptureSettings": {
+     "message": "إعدادات لقطة الشاشة"
+   },
+   "optionsVideoCaptureSettings": {
+     "message": "إعدادات تسجيل الشاشة"
+   },
+   "optionsVideoCaptureGithub": {
+     "message": "Github"
+   },
+   "optionsSettingsSave": {
+     "message": "حفظ الإعدادات"
+   },
+   "optionsMainMenu": {
+     "message": "إعدادات القائمة الرئيسية"
+   },
+   "optionsShortcutSettings": {
+     "message": "إعدادات اختصارات المفاتيح"
+   },
+   "optionLabelEnableWatermark": {
+     "message": "إضافة العلامة المائية الخاصة بك"
+   },
+   "optionLabelWatermarkImage": {
+     "message": "صورة"
+   },
+   "optionLabelWatermarkText": {
+     "message": "نص"
+   },
+   "optionLabelEnableWatermarkTimer": {
+     "message": "إخفاء العلامة المائية على الفيديو بعد"
+   },
+   "optionLabelWatermarkTimer1": {
+     "message": "1 ثانية"
+   },
+   "optionLabelWatermarkTimer5": {
+     "message": "5 ثوان"
+   },
+   "optionLabelWatermarkTimer10": {
+     "message": "10 ثوان"
+   },
+   "optionLabelWatermarkTimer30": {
+     "message": "30 ثانية"
+   },
+   "optionLabelWatermarkTimer60": {
+     "message": "1 دقيقة"
+   },
+   "optionLabelWatermarkSelectFile": {
+     "message": "اختر ملف"
+   },
+   "optionLabelWatermarkFont": {
+     "message": "الخط"
+   },
+   "optionLabelWatermarkFontSize": {
+     "message": "الحجم"
+   },
+   "optionLabelWatermarkFontColor": {
+     "message": "اللون"
+   },
+   "optionLabelWatermarkSelectPosition": {
+     "message": "حدد موضع العلامة المائية الخاصة بك"
+   },
+   "optionLabelWatermarkSize": {
+     "message": "حجم العلامة المائية:"
+   },
+   "optionLabelWatermarkSizeSmall": {
+     "message": "صغير"
+   },
+   "optionLabelWatermarkSizeLarge": {
+     "message": "كبير"
+   },
+   "optionLabelWatermarkTransparent": {
+     "message": "شفافية العلامة المائية:"
+   },
+   "optionLabelWatermarkTransparentSmall": {
+     "message": "بدون شفافية"
+   },
+   "optionLabelWatermarkTransparentLarge": {
+     "message": "كبير"
+   },
+   "optionsLabelImageFormat": {
+     "message": "التنسيق"
+   },
+   "optionsLabelImageQuality": {
+     "message": "الجودة"
+   },
+   "optionsLabelSaveAs": {
+     "message": "عرض مربع حوار 'حفظ باسم'"
+   },
+   "optionsLabelFilenameTemplateScreenshot": {
+     "message": "نمط اسم الملف للقطة الشاشة"
+   },
+   "optionsLabelFilenameTemplateScreencast": {
+     "message": "نمط اسم الملف لتسجيل الشاشة"
+   },
+   "optionsLabelCanUse": {
+     "message": "التسميات المتاحة:"
+   },
+   "optionsLabelDelayedScreenshotTime": {
+     "message": "وقت لقطة الشاشة المؤجلة (بالثواني)"
+   },
+   "optionsLabelTimeScrollEntirePage": {
+     "message": "وقت تأخير تمرير الصفحة (بالمللي ثانية)"
+   },
+   "optionsLabelDepthScreenshot": {
+     "message": "فلتر عمق اللون (1 - معطل)"
+   },
+   "optionsLabelHideFixedElements": {
+     "message": "إخفاء العناصر الثابتة"
+   },
+   "optionsLabelShowInfoPrint": {
+     "message": "عرض URL/التاريخ في الطباعة"
+   },
+   "optionsLabelSaveCropPosition": {
+     "message": "حفظ موضع المنطقة المحددة"
+   },
+   "optionsLabelShowContentMenu": {
+     "message": "إظهار في قائمة السياق"
+   },
+   "optionsLabelShowNewButton": {
+     "message": "إظهار 'جديد' بعد تحديث التطبيق"
+   },
+   "optionsLabelKeepOriginalResolution": {
+     "message": "الحفاظ على الدقة الأصلية (لشاشات Retina)"
+   },
+   "optionsLabelAutoShortUrl": {
+     "message": "اختصار الرابط تلقائيًا بعد التحميل"
+   },
+   "optionsLabelQuickCaptureEnable": {
+     "message": "تمكين لقطة الشاشة السريعة (بدون فتح القائمة)"
+   },
+   "optionsLabelQuickVideoCaptureEnable": {
+     "message": "تمكين التسجيل السريع (سيتم دائمًا عرض قائمة تسجيل الفيديو أولاً)"
+   },
+   "optionsLabelVideoStorageLimit": {
+     "message": "إيقاف تسجيل الفيديو إذا لم تكن هناك مساحة على القرص"
+   },
+   "optionsLabelQuickVideoCaptureGithubEnable": {
+     "message": "إظهار Nimbus في Github"
+   },
+   "optionsLabelAnalyticsEnable": {
+     "message": "إرسال إحصائيات استخدام مجهولة إلى Nimbus"
+   },
+   "optionsLabelStreamMenuEnable": {
+     "message": "تمكين التسجيل الفوري"
+   },
+   "optionsLabelAfterClicking": {
+     "message": "بعد النقر على الأيقونة"
+   },
+   "optionsLabelWantCapture": {
+     "message": "التقاط لقطة شاشة"
+   },
+   "optionsLabelWantVideoCapture": {
+     "message": "تسجيل"
+   },
+   "optionsLabelAndThen": {
+     "message": "ثم"
+   },
+   "optionsLabelLoadToNS": {
+     "message": "إرسال إلى Nimbus/Slack"
+   },
+   "optionsLabelTabVideo": {
+     "message": "بدء تسجيل التبويب/الصفحة"
+   },
+   "optionsLabelDesktopVideo": {
+     "message": "بدء تسجيل سطح المكتب"
+   },
+   "optionsLabelStopVideo": {
+     "message": "إيقاف تسجيل الفيديو"
+   },
+   "optionsLabelPauseVideo": {
+     "message": "إيقاف مؤقت/استئناف تسجيل الفيديو"
+   },
+   "optionSelectSendSave": {
+     "message": "تنزيل"
+   },
+   "optionSelectSendDownload": {
+     "message": "إرسال إلى Google/Slack/Dropbox"
+   },
+   "optionSelectSendGoogle": {
+     "message": "إرسال إلى Google"
+   },
+   "optionSelectSendDropbox": {
+     "message": "إرسال إلى Dropbox"
+   },
+   "optionSelectSendYoutube": {
+     "message": "إرسال إلى Youtube"
+   },
+   "optionSelectSendNimbus": {
+     "message": "إرسال إلى Nimbus"
+   },
+   "optionSelectSendDone": {
+     "message": "فتح نافذة التحميل"
+   },
+   "optionSelectSendQuick": {
+     "message": "تحميل سريع"
+   },
+   "optionSelectSendDoneVideo": {
+     "message": "فتح صفحة التحميل/التحويل"
+   },
+   "optionSelectSendEdit": {
+     "message": "تحرير"
+   },
+   "optionSelectGithubSend": {
+     "message": "حفظ عبر Github"
+   },
+   "optionSelectGithubSendNimbus": {
+     "message": "إرسال إلى Nimbus بعد Github"
+   },
+   "labelDropImage": {
+     "message": "أسقط الصورة هنا"
+   },
+   "labelCaptureHelper": {
+     "message": "حدد إحدى الشاشات للالتقاط!"
+   },
+   "panelSize": {
+     "message": "الحجم"
+   },
+   "panelTools": {
+     "message": "أدوات الرسم"
+   },
+   "panelActions": {
+     "message": "الإجراءات"
+   },
+   "panelParameters": {
+     "message": "المعلمات"
+   },
+   "panelShadow": {
+     "message": "الظل"
+   },
+   "panelWidth": {
+     "message": "العرض"
+   },
+   "panelHeight": {
+     "message": "الارتفاع"
+   },
+   "panelProportional": {
+     "message": "متناسب"
+   },
+   "panelCancel": {
+     "message": "إلغاء"
+   },
+   "panelChange": {
+     "message": "تغيير"
+   },
+   "panelAlfaChanel": {
+     "message": "حرك شريط التمرير لتغيير الشفافية"
+   },
+   "tooltipZoomPlus": {
+     "message": "تكبير +"
+   },
+   "tooltipZoomMinus": {
+     "message": "تصغير -"
+   },
+   "tooltipChangeZoom": {
+     "message": "تغيير التكبير"
+   },
+   "tooltipResize": {
+     "message": "تغيير الحجم"
+   },
+   "tooltipCrop": {
+     "message": "قص"
+   },
+   "tooltipTrim": {
+     "message": "تقليم"
+   },
+   "tooltipPen": {
+     "message": "قلم"
+   },
+   "tooltipMarker": {
+     "message": "قلم تحديد"
+   },
+   "tooltipSquare": {
+     "message": "مربع"
+   },
+   "tooltipRounded": {
+     "message": "مستدير"
+   },
+   "tooltipCircle": {
+     "message": "دائرة"
+   },
+   "tooltipEllipse": {
+     "message": "قطع ناقص"
+   },
+   "tooltipArrowLine": {
+     "message": "خط السهم"
+   },
+   "tooltipArrowCurve": {
+     "message": "منحنى السهم"
+   },
+   "tooltipArrowDouble": {
+     "message": "سهم مزدوج"
+   },
+   "tooltipLine": {
+     "message": "خط"
+   },
+   "tooltipLineCurve": {
+     "message": "خط منحني"
+   },
+   "tooltipLineDotted": {
+     "message": "خط منقط"
+   },
+   "tooltipTextArrow": {
+     "message": "سهم نصي"
+   },
+   "tooltipNoteText": {
+     "message": "نص الصفحة"
+   },
+   "tooltipText": {
+     "message": "نص"
+   },
+   "tooltipBlur": {
+     "message": "منطقة ضبابية"
+   },
+   "tooltipLineWidth": {
+     "message": "عرض الخط"
+   },
+   "tooltipFontAndSize": {
+     "message": "الخط والحجم"
+   },
+   "tooltipColorLineAndText": {
+     "message": "لون الخط والنص"
+   },
+   "tooltipColorFull": {
+     "message": "تعبئة اللون"
+   },
+   "tooltipColorAndSizeShadow": {
+     "message": "لون وحجم الظل"
+   },
+   "tooltipLock": {
+     "message": "قفل الأشكال"
+   },
+   "tooltipUndo": {
+     "message": "تراجع"
+   },
+   "tooltipRedo": {
+     "message": "إعادة"
+   },
+   "tooltipUndoAll": {
+     "message": "تراجع عن الكل"
+   },
+   "tooltipNumber": {
+     "message": "علامات مرقمة"
+   },
+   "tooltipNumbers": {
+     "message": "ترقيم تلقائي"
+   },
+   "tooltipCopy": {
+     "message": "نسخ إلى الحافظة"
+   },
+   "tooltipShortUrl": {
+     "message": "رابط قصير"
+   },
+   "tooltipWrongEmail": {
+     "message": "بريد إلكتروني خاطئ"
+   },
+   "tooltipPassInfo": {
+     "message": "يجب أن تكون كلمة المرور 8 رموز على الأقل"
+   },
+   "tooltipPassMatch": {
+     "message": "كلمات المرور غير متطابقة"
+   },
+   "tooltipOpenFile": {
+     "message": "إدراج صورة"
+   },
+   "tooltipFormula": {
+     "message": "إدراج معادلة"
+   },
+   "tooltipMakeScreenshot": {
+     "message": "التقاط لقطة شاشة"
+   },
+   "tooltipclassroomSend": {
+     "message": "إرسال إلى Google Classroom"
+   },
+   "tooltipVideoEditor": {
+     "message": "قص/تقليم"
+   },
+   "cropBtnEdit": {
+     "message": "تحرير"
+   },
+   "cropBtnSave": {
+     "message": "حفظ"
+   },
+   "cropBtnCancel": {
+     "message": "إلغاء"
+   },
+   "cropBtnCopy": {
+     "message": "نسخ إلى الحافظة"
+   },
+   "cropBtnNimbus": {
+     "message": "إرسال إلى Nimbus"
+   },
+   "cropBtnSavePdf": {
+     "message": "حفظ كملف PDF"
+   },
+   "notificationCrop": {
+     "message": "اسحب والتقط الصفحة (اضغط Esc للخروج)"
+   },
+   "notificationCopy": {
+     "message": "تم نسخ الصورة إلى الحافظة."
+   },
+   "notificationInsertInfo": {
+     "message": "يمكنك إدراج الصور فقط."
+   },
+   "notificationWrong": {
+     "message": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+   },
+   "notificationLoginFail": {
+     "message": "اسم المستخدم أو كلمة المرور غير صحيحة. يرجى المحاولة مرة أخرى"
+   },
+   "notificationEmailFail": {
+     "message": "هذا البريد الإلكتروني مسجل بالفعل."
+   },
+   "notificationRegisterFail": {
+     "message": "فشل التسجيل. يرجى المحاولة مرة أخرى."
+   },
+   "notificationRestoreSent": {
+     "message": "تم إرسال تعليمات استعادة كلمة المرور إلى بريدك الإلكتروني."
+   },
+   "notificationEmailIncorrect": {
+     "message": "بريد إلكتروني غير صحيح. يرجى المحاولة مرة أخرى."
+   },
+   "notificationUrlCopied": {
+     "message": "تم نسخ الرابط إلى الحافظة"
+   },
+   "notificationImageCopied": {
+     "message": "تم النسخ"
+   },
+   "notificationImageNotCopied": {
+     "message": "فشل النسخ"
+   },
+   "notificationUploaded": {
+     "message": "اكتمل الرفع."
+   },
+   "notificationReachedLimit": {
+     "message": "لقد وصلت إلى حد حركة المرور الشهري (100 ميجابايت). للمتابعة، يجب عليك شراء Nimbus Pro."
+   },
+   "notificationNetworkError": {
+     "message": "هناك مشكلة في الخادم أو اتصال الإنترنت الخاص بك. يرجى المحاولة مرة أخرى."
+   },
+   "notificationErrorActiveTab": {
+     "message": "لا يمكن لـ Nimble capture بدء التسجيل أثناء تهيئته. لتنشيط الإضافة، تحتاج إلى النقر على أيقونة Nimble capture في اللوحة."
+   },
+   "notificationErrorChromeTab": {
+     "message": "تسجيل صفحات Chrome الداخلية أو صفحات التطبيقات غير مدعوم حاليًا."
+   },
+   "notificationDesktopTabSound": {
+     "message": "صوت النظام غير متوفر في وضع تسجيل سطح المكتب. استخدم تسجيل التبويب بدلاً من ذلك."
+   },
+   "notificationDesktopDrawingTools": {
+     "message": "أدوات الرسم غير متوفرة في وضع تسجيل سطح المكتب. استخدم تسجيل التبويب بدلاً من ذلك."
+   },
+   "notificationDesktopVideoCamera": {
+     "message": "كاميرا الفيديو غير متوفرة في وضع تسجيل سطح المكتب. استخدم تسجيل التبويب بدلاً من ذلك."
+   },
+   "tooltipEditBtnBack": {
+     "message": "رجوع"
+   },
+   "tooltipEditBtnNimbus": {
+     "message": "إرسال إلى Nimbus"
+   },
+   "tooltipEditBtnDrive": {
+     "message": "إرسال إلى Google Drive"
+   },
+   "tooltipEditBtnDropbox": {
+     "message": "إرسال إلى Dropbox"
+   },
+   "tooltipEditBtnYoutube": {
+     "message": "نشر على Youtube"
+   },
+   "tooltipEditBtnSlack": {
+     "message": "إرسال إلى Slack"
+   },
+   "tooltipBtnQuickShare": {
+     "message": "إرسال إلى Nimble"
+   },
+   "editVideoTitle": {
+     "message": "محرر الفيديو"
+   },
+   "editBtnDone": {
+     "message": "تم"
+   },
+   "editBtnDiscard": {
+     "message": "تجاهل"
+   },
+   "editBtnBack": {
+     "message": "رجوع"
+   },
+   "editBtnNimbusScreen": {
+     "message": "رفع لقطة الشاشة"
+   },
+   "editBtnNimbusVideo": {
+     "message": "رفع الفيديو"
+   },
+   "editBtnSave": {
+     "message": "حفظ كصورة"
+   },
+   "editBtnSavePDF": {
+     "message": "حفظ كملف PDF"
+   },
+   "editBtnSaveVideo": {
+     "message": "حفظ الفيديو"
+   },
+   "editBtnQuickShare": {
+     "message": "مشاركة سريعة"
+   },
+   "editBtnQuickShare2": {
+     "message": "رفع إلى المجلد"
+   },
+   "editBtnDrive": {
+     "message": "Google Drive"
+   },
+   "editBtnDropbox": {
+     "message": "Dropbox"
+   },
+   "editBtnCopy": {
+     "message": "نسخ إلى الحافظة"
+   },
+   "editBtnPrint": {
+     "message": "طباعة"
+   },
+   "editBtnYoutube": {
+     "message": "Youtube"
+   },
+   "editBtnSlack": {
+     "message": "Slack"
+   },
+   "nimbusYoutubeSend": {
+     "message": "نشر على Youtube"
+   },
+   "nimbusSlackSend": {
+     "message": "إرسال إلى Slack"
+   },
+   "nimbusSlackWelcome": {
+     "message": "خذ لحظة للقراءة:"
+   },
+   "nimbusSlackWelcome2": {
+     "message": "لن يكون لـ Nimble Screenshot حق الوصول إلى الرسائل في غرف الدردشة. ستظل جميع محادثاتك خاصة. يمكن لـ Nimble Screenshot فقط رفع لقطات الشاشة في Slack"
+   },
+   "nimbusSlackWelcome3": {
+     "message": "إذا كان لديك أي أسئلة، يرجى الكتابة على البريد الإلكتروني"
+   },
+   "nimbusSend": {
+     "message": "إرسال إلى Nimble"
+   },
+   "nimbusCommentPlaceholder": {
+     "message": "علق على لقطة الشاشة الخاصة بك"
+   },
+   "nimbusRegistration": {
+     "message": "تسجيل"
+   },
+   "nimbusLabelEmail": {
+     "message": "البريد الإلكتروني"
+   },
+   "nimbusLabelPassword": {
+     "message": "كلمة المرور"
+   },
+   "nimbusLabelPasswordAndInfo": {
+     "message": "كلمة المرور (8 رموز على الأقل)"
+   },
+   "nimbusRemindPass": {
+     "message": "تذكير بكلمة المرور"
+   },
+   "nimbusLabelRetypePass": {
+     "message": "أعد كتابة كلمة المرور"
+   },
+   "nimbusPlaceholderPassword": {
+     "message": "كلمة المرور"
+   },
+   "nimbusPlaceholderEmail": {
+     "message": "البريد الإلكتروني"
+   },
+   "nimbusPlaceholderEnterText": {
+     "message": "أدخل النص"
+   },
+   "nimbusSelectOrganization": {
+     "message": "المنظمة"
+   },
+   "nimbusSelectWorkspace": {
+     "message": "مساحة العمل"
+   },
+   "nimbusSelectFolder": {
+     "message": "المجلد"
+   },
+   "nimbusPrivate": {
+     "message": "خاص"
+   },
+   "nimbusBtnLogin": {
+     "message": "تسجيل الدخول إلى FuseBase"
+   },
+   "nimbusBtnSignup": {
+     "message": "إنشاء حساب"
+   },
+   "btnSignupUpToViewUpload": {
+     "message": "قم بالتسجيل لعرض المرفوعات"
+   },
+   "nimbusBtnRemind": {
+     "message": "نسيت كلمة المرور؟"
+   },
+   "nimbusRate": {
+     "message": "هل أعجبك Nimble Screenshot؟ قم بتقييمه!"
+   },
+   "nimbusBad": {
+     "message": "سيء"
+   },
+   "nimbusBeBetter": {
+     "message": "يمكن أن يكون أفضل"
+   },
+   "nimbusGood": {
+     "message": "جيد!"
+   },
+   "nimbusDid": {
+     "message": "تم"
+   },
+   "nimbusEnter": {
+     "message": "تسجيل الدخول إلى FuseBase (سابقًا Nimbus)"
+   },
+   "nimbusViewUploads": {
+     "message": "عرض FuseBase الخاص بي"
+   },
+   "nimbusViewUploadsToDropbox": {
+     "message": "فتح الملف في Dropbox"
+   },
+   "nimbusLimitUsage": {
+     "message": "الاستخدام:"
+   },
+   "nimbusLimitOf": {
+     "message": "من"
+   },
+   "nimbusUpgradePro": {
+     "message": "لماذا Nimbus Pro أفضل"
+   },
+   "nimbusCaptureUpgradePro": {
+     "message": "المزيد من الميزات مع<br>Nimble capture Pro"
+   },
+   "nimbusCaptureUpgradePremium": {
+     "message": "المزيد من الميزات مع<br>Nimble capture Business"
+   },
+   "nimbusLimitSpace": {
+     "message": "لا يمكنك رفع هذا الملف لأنك قد وصلت تقريبًا إلى حد البيانات الشهري البالغ 100 ميجابايت."
+   },
+   "nimbusLimitDescription": {
+     "message": "يمكنك التحويل إلى Nimbus Pro لزيادة حد البيانات الشهري إلى 1 جيجابايت."
+   },
+   "nimbusGoPro": {
+     "message": "الترقية إلى Nimbus Pro"
+   },
+   "btnGoPremium": {
+     "message": "الترقية إلى Nimbus for Business"
+   },
+   "nimbusIsPro": {
+     "message": "لدي Nimbus Pro"
+   },
+   "nimbusIsBusiness": {
+     "message": "لدي Nimbus Business"
+   },
+   "nimbusThanksYou": {
+     "message": "شكرًا لك على المعلومات"
+   },
+   "nimbusNoThanks": {
+     "message": "لا شكرًا"
+   },
+   "nimbusOr": {
+     "message": "أو"
+   },
+   "nimbusSlackLogout": {
+     "message": "تسجيل الخروج من Slack"
+   },
+   "nimbusLimitVideoOrgFree": {
+     "message": "هذا الفيديو كبير جدًا! ولكنه لم يضع..."
+   },
+   "nimbusLimitVideoDestructionOrgFree": {
+     "message": "يتجاوز الملف الحجم الأقصى المسموح به للحساب المجاني (10 ميجابايت). اتصل بمالك مساحة العمل لمزيد من التفاصيل."
+   },
+   "nimbusLimitVideoOrgPremium": {
+     "message": "هذا الفيديو كبير جدًا! ولكنه لم يضع..."
+   },
+   "nimbusLimitVideoDestructionOrgPremium": {
+     "message": "يتجاوز الملف الحجم الأقصى المسموح به للحساب (1 جيجابايت). اتصل بمالك مساحة العمل لمزيد من التفاصيل."
+   },
+   "nimbusLimitVideoOrgLimit": {
+     "message": "هذا الفيديو كبير جدًا! ولكنه لم يضع..."
+   },
+   "nimbusLimitVideoDestructionOrgLimit": {
+     "message": "لن يتم حفظ الملف في FuseBase لأنه تم الوصول إلى حد حركة المرور الشهري (100 ميجابايت). قم بالترقية إلى خطة مميزة لزيادة الحد الخاص بك."
+   },
+   "nimbusLimitVideo": {
+     "message": "هذا الفيديو كبير جدًا! ولكنه لم يضع..."
+   },
+   "nimbusLimitVideoDurationDestruction": {
+     "message": "لقد بدأت فترة التجربة المجانية لمدة 7 أيام. يمكنك الآن تسجيل الفيديو بدون حد للحجم. بعد انتهاء فترة التجربة، يمكنك تسجيل فيديو بمدة لا تزيد عن 5 دقائق. قم بالترقية إلى Nimbus Pro لتفعيل التسجيل غير المحدود."
+   },
+   "nimbusLimitVideoDestruction": {
+     "message": "الحد الأقصى لحجم الملف لـ Nimbus Pro = 1 جيجابايت يرجى الكتابة إلى <b>team@nimbusweb.co</b> لزيادة حد الملف."
+   },
+   "nimbusLimitVideoFree": {
+     "message": "هذا الفيديو كبير جدًا! ولكنه لم يضع..."
+   },
+   "nimbusLimitVideoDestructionFree": {
+     "message": "الحد الأقصى لحجم الملف للحسابات المجانية = 10 ميجابايت قم بالترقية إلى Nimbus Pro لزيادة حد الملف."
+   },
+   "nimbusLimitVideoStreamTime": {
+     "message": "لم يعد بإمكانك التسجيل ..."
+   },
+   "nimbusLimitVideoDestructionStreamTime": {
+     "message": "هام! في الخطة المجانية، يمكنك تسجيل فيديو يصل إلى 5 دقائق. قم بالترقية إلى Nimbus Pro لتسجيل مقاطع فيديو أطول."
+   },
+   "nimbusLimitVideoStreamMonth": {
+     "message": "لم يعد بإمكانك التسجيل ..."
+   },
+   "nimbusLimitVideoDestructionStreamMonth": {
+     "message": "في الخطة المجانية، يمكنك تسجيل ما لا يزيد عن 60 فيديو في الشهر. انتقل إلى خطة Nimbus Pro لإزالة القيود."
+   },
+   "nimbusStreamTitle": {
+     "message": "السرعة هي الميزة الرئيسية لاستخدام مسجل الشاشة في وضع البث/الفوري. بمجرد توقفك عن التسجيل، يكون الفيديو بالفعل على الخادم ولا تحتاج إلى انتظار اكتمال الرفع."
+   },
+   "nimbusStreamDestruction": {
+     "message": "لاستخدام وضع البث/الفوري، تحتاج إلى امتلاك حساب FuseBase."
+   },
+   "nimbusStreamStartTitle": {
+     "message": "شكرًا لك على التسجيل.<br>لبدء التسجيل، ما عليك سوى النقر على بدء التسجيل الفوري."
+   },
+   "nimbusStreamStartDestruction": {
+     "message": "سيحتاج Nimble capture إلى الوصول إلى الميكروفون والكاميرا الخاصين بك من أجل تسجيل الفيديو وهذا إذن لمرة واحدة."
+   },
+   "nimbusFragmentScrollTitle": {
+     "message": "باستخدام هذا الوضع، يمكنك التقاط لقطة شاشة لأجزاء منفصلة مع التمرير داخل الصفحة. على سبيل المثال، يمكن أن تكون نافذة دردشة أو لوحة تحكم الخدمة أو نافذة المهام في Jira. سيكتشف تطبيقنا تلقائيًا هذه المناطق، وفي هذه النقطة ستتمكن من اختيار ما تحتاجه."
+   },
+   "nimbusShareFriends": {
+     "message": "إرسال لقطات الشاشة ومقاطع الفيديو إلى الأصدقاء والزملاء؛"
+   },
+   "nimbusAccessAnyTimes": {
+     "message": "الوصول إلى لقطات الشاشة ومقاطع الفيديو في أي وقت ومن أي جهاز؛"
+   },
+   "nimbusOrganizeUploadFolders": {
+     "message": "تنظيم المرفوعات الخاصة بك حسب المجلدات والمجلدات الفرعية والعلامات؛"
+   },
+   "nimbusProVideoLimit": {
+     "message": "تسجيلات غير محدودة"
+   },
+   "nimbusProConvertMP4": {
+     "message": "تحويل الفيديو إلى MP4"
+   },
+   "nimbusProConvertGIF": {
+     "message": "تحويل الفيديو إلى GIF"
+   },
+   "nimbusProCropVideo": {
+     "message": "قص الفيديو الخاص بك"
+   },
+   "nimbusProTrimVideo": {
+     "message": "تقليم الفيديو الخاص بك"
+   },
+   "nimbusProSendYoutube": {
+     "message": "إرسال الفيديو إلى Youtube"
+   },
+   "nimbusProSendGoogleDrive": {
+     "message": "رفع الصور ومقاطع الفيديو إلى Google Drive"
+   },
+   "nimbusProSendGoogleDriveFirefox": {
+     "message": "رفع الصور إلى Google Drive"
+   },
+   "nimbusProSendGoogleDrive2": {
+     "message": "رفع كرابط عام أو خاص إلى Google Drive"
+   },
+   "nimbusProSendDropbox": {
+     "message": "إرسال الصور ومقاطع الفيديو إلى Dropbox"
+   },
+   "nimbusProAddWaterMark": {
+     "message": "إضافة علامة مائية خاصة بك للعلامة التجارية"
+   },
+   "nimbusProSupport": {
+     "message": "دعم ذو أولوية"
+   },
+   "nimbusLimitDeviceTitle": {
+     "message": "يتم استخدام حساب Nimble capture الخاص بك بالفعل على الحد الأقصى لعدد الأجهزة."
+   },
+   "nimbusLimitDeviceDestruction": {
+     "message": "إذا كنت ترغب في استخدام Nimble capture على أكثر من جهازين، فستحتاج إلى ترقية خطتك."
+   },
+   "nimbusBannedDeviceDestruction": {
+     "message": "تم حظر هذا الجهاز من قبلك."
+   },
+   "nimbusManageDevices": {
+     "message": "إدارة الأجهزة"
+   },
+   "nimbusIncreaseLimit": {
+     "message": "زيادة الحد"
+   },
+   "nimbusSaveScreenshot": {
+     "message": "حفظ لقطة الشاشة"
+   },
+   "nimbusSaveScreencast": {
+     "message": "حفظ تسجيل الشاشة"
+   },
+   "nimbusComment": {
+     "message": "تعليق"
+   },
+   "nimbusRateUs": {
+     "message": "قيمنا"
+   },
+   "nimbusSupportMenu": {
+     "message": "الدعم"
+   },
+   "nimbusSupportMenu1": {
+     "message": "الأدلة والأسئلة الشائعة"
+   },
+   "nimbusSupportMenu2": {
+     "message": "الاتصال بالدعم"
+   },
+   "nimbusLogout": {
+     "message": "تسجيل الخروج من FuseBase"
+   },
+   "nimbusEducationDiscounts": {
+     "message": "خصومات للتعليم"
+   },
+   "nimbusHelp": {
+     "message": "المساعدة"
+   },
+   "nimbusSlackHidePanel": {
+     "message": "إخفاء لوحة Slack"
+   },
+   "nimbusChannels": {
+     "message": "القنوات"
+   },
+   "nimbusPrivateMessage": {
+     "message": "رسالة خاصة"
+   },
+   "nimbusSelectChannel": {
+     "message": "اختر القناة"
+   },
+   "nimbusSlackAccount": {
+     "message": "حساب Slack"
+   },
+   "nimbusAccount": {
+     "message": "حساب Fusebase"
+   },
+   "nimbusSearch": {
+     "message": "بحث"
+   },
+   "nimbusEnvironmentInfo": {
+     "message": "إضافة معلومات حول النظام والصفحة"
+   },
+   "nimbusBtnAuthGoogle": {
+     "message": "باستخدام Google"
+   },
+   "nimbusBtnAuthFacebook": {
+     "message": "باستخدام Facebook"
+   },
+   "nimbusNotAccount": {
+     "message": "ليس لدي حساب"
+   },
+   "nimbusCreateAccount": {
+     "message": "إنشاء حساب مجاني"
+   },
+   "tooltipUploadTo": {
+     "message": "رفع إلى"
+   },
+   "nimbusNoteName": {
+     "message": "اسم الصفحة"
+   },
+   "nimbusInfoPage": {
+     "message": "صفحة الويب"
+   },
+   "nimbusInfoScreen": {
+     "message": "دقة الشاشة"
+   },
+   "nimbusInfoBrowser": {
+     "message": "متصفح المستخدم"
+   },
+   "nimbusInfoAgent": {
+     "message": "وكيل المستخدم"
+   },
+   "nimbusInfoPlatform": {
+     "message": "منصة المستخدم"
+   },
+   "newReleaseTitle": {
+     "message": "مرحبًا بك في الإصدار الجديد من Nimble Screenshot"
+   },
+   "newReleaseText": {
+     "message": "<li>تصميم جديد؛</li><li>قفل يمنع تحرير العناصر؛</li><li>لقطة شاشة مؤجلة؛</li><li>إمكانية تخصيص القائمة الرئيسية بإزالة ما هو غير ضروري؛</li><li>إمكانية إضافة أرقام عمدًا بجانب الأشكال المطلوبة؛</li><li>إمكانية الإرسال السريع إلى Nimbus/Slack من المحرر باستخدام اختصار لوحة المفاتيح Ctrl+Enter؛</li><li>تم إصلاح بعض الأخطاء الأخرى؛</li>"
+   },
+   "rateText": {
+     "message": "هل أعجبك Nimble capture؟<br>يرجى كتابة تقييمك! شكرًا لك."
+   },
+   "rateRate": {
+     "message": "قيّم Nimble capture"
+   },
+   "rateNotShow": {
+     "message": "لا تظهر هذا مرة أخرى"
+   },
+   "disable": {
+     "message": "تعطيل"
+   },
+   "gDriveLabelFolders": {
+     "message": "سيتم حفظ لقطة الشاشة"
+   },
+   "gDriveTitle": {
+     "message": "إرسال إلى Google Drive"
+   },
+   "gDriveLabel": {
+     "message": "حدد المجلد الذي تريد حفظ لقطة الشاشة فيه"
+   },
+   "gDriveMainFolder": {
+     "message": "هذا هو المجلد الرئيسي"
+   },
+   "gDriveNoItems": {
+     "message": "لا توجد عناصر"
+   },
+   "gDriveBtnDone": {
+     "message": "تم"
+   },
+   "gDriveNotAuthorized": {
+     "message": "لم تقم بتسجيل الدخول إلى حسابك"
+   },
+   "gDriveSendTo": {
+     "message": "إرسال إلى"
+   },
+   "gDriveUploadPrivate": {
+     "message": "رفع كملف خاص"
+   },
+   "gDriveLogout": {
+     "message": "تسجيل الخروج"
+   },
+   "gDriveLogoutFrom": {
+     "message": "تسجيل الخروج من"
+   },
+   "labelPreviewLoading": {
+     "message": "جارٍ التحميل..."
+   },
+   "labelRedactorLoading": {
+     "message": "جارٍ التحميل... يرجى الانتظار..."
+   },
+   "labelPreviewLoadingVideo": {
+     "message": "جارٍ معالجة الفيديو - يرجى الانتظار..."
+   },
+   "videoPanelSimpleCursor": {
+     "message": "مؤشر بسيط - Alt+S"
+   },
+   "videoPanelFocusMouse": {
+     "message": "تركيز الماوس - Alt+G"
+   },
+   "videoPanelAnimatedCursor": {
+     "message": "مؤشر متحرك - Alt+L"
+   },
+   "videoPanelPen": {
+     "message": "قلم - Alt+P"
+   },
+   "videoPanelArrow": {
+     "message": "سهم - Alt+A"
+   },
+   "videoPanelSquare": {
+     "message": "مربع - Alt+R"
+   },
+   "videoPanelBlur": {
+     "message": "تمويه - Alt+B"
+   },
+   "videoPanelMark": {
+     "message": "تحديد - Alt+M"
+   },
+   "videoPanelQuestion": {
+     "message": "سؤال - Alt+Q"
+   },
+   "videoPanelCheckmark": {
+     "message": "علامة صح - Alt+C"
+   },
+   "videoCanvas": {
+     "message": "صفحة فارغة"
+   },
+   "videoPanelClear": {
+     "message": "مسح - Alt+N"
+   },
+   "videoPanelClearAll": {
+     "message": "مسح الكل - Alt+U"
+   },
+   "videoPanelCamera": {
+     "message": "تشغيل/إيقاف كاميرا الويب"
+   },
+   "videoPanelHideShowPanel": {
+     "message": "إخفاء/إظهار اللوحة - Alt+V"
+   },
+   "videoConvertOpen": {
+     "message": "تحويل إلى MP4 أو GIF"
+   },
+   "videoEditor": {
+     "message": "محرر الفيديو"
+   },
+   "videoConvertSize": {
+     "message": "الحجم"
+   },
+   "videoConvertSizeOptimal": {
+     "message": "الحجم الأمثل"
+   },
+   "videoConvertFrameRate": {
+     "message": "معدل الإطارات"
+   },
+   "videoConvert": {
+     "message": "تحويل"
+   },
+   "videoConvertInfo": {
+     "message": "قد يستغرق تحويل الفيديو إلى تنسيق MP4 أو GIF بعض الوقت. ستتمكن من حفظ الفيديو بمجرد انتهاء عملية التحويل."
+   },
+   "videoEditorTrimApply": {
+     "message": "إزالة المحدد"
+   },
+   "videoEditorTrimCancel": {
+     "message": "إلغاء"
+   },
+   "videoEditorTimeline": {
+     "message": "تكبير الجدول الزمني"
+   },
+   "youtubeName": {
+     "message": "الاسم"
+   },
+   "youtubePublic": {
+     "message": "عام"
+   },
+   "youtubeUnlisted": {
+     "message": "غير مدرج"
+   },
+   "youtubePrivate": {
+     "message": "خاص"
+   },
+   "youtubeCreate": {
+     "message": "إنشاء"
+   },
+   "youtubePlaylist": {
+     "message": "قائمة التشغيل"
+   },
+   "youtubeNoPlaylist": {
+     "message": "بدون قائمة تشغيل"
+   },
+   "hotKeys": {
+     "message": "مفاتيح الاختصار"
+   },
+   "onlyForChrome": {
+     "message": "فقط لـ Chrome"
+   },
+   "onlyForFirefox": {
+     "message": "فقط لـ Chrome"
+   },
+   "watermarkLimit": {
+     "message": "الحجم الأقصى للعلامة المائية - 1 ميجابايت"
+   },
+   "watermarkUnsupported": {
+     "message": "تنسيق ملف غير مدعوم"
+   },
+   "labelInsertScreenshot": {
+     "message": "فتح لقطة الشاشة"
+   },
+   "labelInsertScreencast": {
+     "message": "مشاهدة الفيديو"
+   },
+   "popupTextTrialScreenshot": {
+     "message": "لقد بدأت فترة التجربة لالتقاط لقطات شاشة للصفحة بأكملها أو أجزاء من الصفحة. بعد انتهاء فترة التجربة، لن تتمكن من التقاط لقطة شاشة في وضع الصفحة الكاملة أو التحديد والتمرير في حساب مجاني. قم بالترقية إلى Nimbus Pro للحصول على لقطات شاشة غير محدودة."
+   },
+   "labelCnameFree": {
+     "message": "تخصيص الرابط الخاص بك"
+   },
+   "labelFileChangeShare": {
+     "message": "إذا تم تمكين خانة الاختيار، فلن يتم إنشاء رابط عام."
+   },
+   "popupCnameFreeTitle": {
+     "message": "ابدأ فترة التجربة المجانية لمدة 14 يومًا اليوم"
+   },
+   "popupCnameFreeDesc": {
+     "message": "أضف نطاقك المخصص (CNAME) إلى مشاركاتك. بالإضافة إلى ذلك، يمكنك:"
+   },
+   "popupCnameFreeDescList1": {
+     "message": "إرفاق الملفات والروابط والمزيد بلقطات الشاشة والفيديو الخاصة بك"
+   },
+   "popupCnameFreeDescList2": {
+     "message": "تنظيم التحميلات الخاصة بك باستخدام مساحات العمل والمجلدات"
+   },
+   "popupCnameFreeDescList3": {
+     "message": "إنشاء ويكي لفرقك وعملائك"
+   },
+   "popupCnameFreeDescList4": {
+     "message": "تأمين الصفحات المشتركة بكلمات مرور (اختياري)"
+   },
+   "popupCnameFreeDescList5": {
+     "message": "الترويج لعلامتك التجارية باستخدام حل العلامة البيضاء الخاص بنا"
+   },
+   "popupCnameFreeDescList6": {
+     "message": "ربط أدوات التسويق والتحليلات المفضلة لديك"
+   },
+   "btnGetStarted": {
+     "message": "ابدأ الآن"
+   },
+   "btnInjectGmailScreenshot": {
+     "message": "التقاط لقطة شاشة جديدة"
+   },
+   "btnInjectGmailScreencast": {
+     "message": "تسجيل فيديو جديد"
+   },
+   "btnInjectGmailMain": {
+     "message": "إدراج فيديو أو لقطة شاشة"
+   },
+   "optionsOtherSettings": {
+     "message": "أخرى"
+   },
+   "optionsLabelInjectGmailScreenshot": {
+     "message": "إظهار Nimbus في Gmail"
+   },
+   "nimbusProScreenshotLimit": {
+     "message": "لقطات شاشة غير محدودة"
+   },
+   "nimbusLogin": {
+     "message": "تسجيل الدخول"
+   },
+   "welcomeThankYouChoosing": {
+     "message": "شكرًا لاختيارك Nimble capture!"
+   },
+   "welcomePleaseCreateAccount": {
+     "message": "يرجى إنشاء حساب لـ:"
+   },
+   "welcomeSaveVideosScreenshots": {
+     "message": "حفظ مقاطع الفيديو ولقطات الشاشة الخاصة بك"
+   },
+   "welcomeAddOtherContent": {
+     "message": "إضافة محتوى آخر إلى التحميلات الخاصة بك"
+   },
+   "welcomeGetQuickLinks": {
+     "message": "الحصول على روابط سريعة للمشاركة باستخدام نطاقك"
+   },
+   "welcomeProtectYourQuick": {
+     "message": "حماية الروابط السريعة الخاصة بك بكلمات مرور"
+   },
+   "welcomeEditVideo": {
+     "message": "تحرير الفيديو وإضافة أزرار"
+   },
+   "welcomeMuchMoreCome": {
+     "message": "المزيد قادم. ابق على اطلاع!"
+   },
+   "welcomePinExtension": {
+     "message": "تثبيت الإضافة"
+   },
+   "welcomeNeedYourVideo": {
+     "message": "هل تحتاج إلى أداة التقاط الفيديو ولقطات الشاشة جاهزة في متناول يدك؟"
+   },
+   "welcomePleaseClickIcon": {
+     "message": "يرجى النقر على أيقونة اللغز، والعثور على Nimbus في القائمة والنقر على تثبيت. ستساعدك صورة GIF القصيرة على اليمين."
+   },
+   "welcomeClickNextReady": {
+     "message": "انقر على التالي عندما تكون جاهزًا."
+   },
+   "welcomeNext": {
+     "message": "التالي"
+   },
+   "welcomeOneAccount": {
+     "message": "حساب Nimbus واحد"
+   },
+   "welcomeForSolutions": {
+     "message": "لجميع حلولنا"
+   },
+   "welcomeNimbusNotePromo": {
+     "message": "مقرك الرقمي لإدارة ومشاركة المعلومات"
+   },
+   "welcomeNimbusCapturePromo": {
+     "message": "حل التقاط الفيديو ولقطات الشاشة للاستخدام اليومي"
+   },
+   "welcomeNimbusClarityPromo": {
+     "message": "التقاط الفيديو والصوت للرسائل غير المتزامنة (+ تطبيق سطح المكتب لنظام Windows)"
+   },
+   "welcomeNimbusClipperPromo": {
+     "message": "احفظ المعلومات ذات الصلة فقط من الويب: حدد، احفظ، شارك"
+   },
+   "welcomeStreamlineYour": {
+     "message": "تبسيط"
+   },
+   "welcomeInformationManagement": {
+     "message": "التعاون وإدارة المعلومات"
+   },
+   "welcomeWantFreeUpgrade": {
+     "message": "أريد ترقية مجانية*"
+   },
+   "welcomeSettleLess": {
+     "message": "اكتفِ بأقل **"
+   },
+   "welcomeGetAccessAll": {
+     "message": "* احصل على وصول إلى جميع تطبيقات Nimbus"
+   },
+   "welcomeStayCaptureOnly": {
+     "message": "** ابق مع Nimble capture فقط"
+   },
+   "welcomeReadyStart": {
+     "message": "هل أنت مستعد للبدء؟"
+   },
+   "welcomeWellDone": {
+     "message": "أحسنت!"
+   },
+   "welcomeCompletedAllSteps": {
+     "message": "لقد أكملت جميع الخطوات. يمكنك الآن تسجيل أول فيديو لك!"
+   },
+   "welcomeHereYouGo": {
+     "message": "ها أنت ذا!"
+   },
+   "welcomeRecordVideo": {
+     "message": "تسجيل فيديو"
+   },
+   "welcomeMakeScreenshot": {
+     "message": "التقاط لقطة شاشة"
+   },
+   "previewReload": {
+     "message": "تحديث الصفحة"
+   }
+ }
+ 
+ 

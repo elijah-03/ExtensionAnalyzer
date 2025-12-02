@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Oko"
+},
+"background": {
+"message": "pozadina"
+},
+"better_click": {
+"message": "Kliknite na njega, Promijeni pozadinu"
+},
+"better_down": {
+"message": "Preuzmite trenutnu pozadinu"
+},
+"better_fb": {
+"message": "Podijeli na Facebooku"
+},
+"better_google": {
+"message": "Dijeljenje na Google+"
+},
+"better_memu": {
+"message": "Prikaži izbornik postavki"
+},
+"better_pin": {
+"message": "Možete prikvačiti trenutnu pozadinu"
+},
+"better_pinned": {
+"message": "Prikvačili ste trenutnu pozadinu"
+},
+"better_print": {
+"message": "Podijeli na Pinterest"
+},
+"better_qq": {
+"message": "Dijeli na QQ zonu"
+},
+"better_sina": {
+"message": "Podijeli na Sina"
+},
+"better_start": {
+"message": "Attack on Titan Nova kartica"
+},
+"better_twitter": {
+"message": "Dijelite na Twitter"
+},
+"color": {
+"message": "Čvrsta boja"
+},
+"extDescription": {
+"message": "Automatsko ažuriranje pozadina ili pretraživanje pozadine iz Google ™ slika kako biste prilagodili stranicu nove kartice Chrome."
+},
+"extName": {
+"message": "Attack on Titan Nova kartica, prilagođeni wallpaperi HD"
+},
+"fivestar1": {
+"message": "Sviđa vam se Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Pošaljite nam dobar pregled Chrome Storea."
+},
+"image": {
+"message": "Lokalna slika"
+},
+"library": {
+"message": "Ažuriraj iz biblioteke"
+},
+"no": {
+"message": "NE"
+},
+"not_now": {
+"message": "Ne sada"
+},
+"pinned_confirm": {
+"message": "Prikvačili ste trenutnu pozadinu, jeste li sigurni da je ažurirate?"
+},
+"search": {
+"message": "traži"
+},
+"setting": {
+"message": "postavke"
+},
+"share": {
+"message": "Podijelite s prijateljima"
+},
+"upload": {
+"message": "Učitaj"
+},
+"visit": {
+"message": "Najposjećenije"
+},
+"yes": {
+"message": "Da"
+},
+"today": {
+"message": "Danas"
+},
+"mon": {
+"message": "ponedjeljak"
+},
+"tue": {
+"message": "utorak"
+},
+"wed": {
+"message": "srijeda"
+},
+"thu": {
+"message": "četvrtak"
+},
+"fri": {
+"message": "petak"
+},
+"sat": {
+"message": "subota"
+},
+"sun": {
+"message": "nedjelja"
+},
+"upload_tip": {
+"message": "Veličina prenešene slike prevelika je!"
+},
+"upload_close": {
+"message": "Zatvoriti"
+},
+"unkownLocation": {
+"message": "Nepoznata lokacija"
+},
+"frequent": {
+"message": "Ažuriranje učestalosti"
+},
+"fre_pin": {
+"message": "Prikvačiti trenutnu pozadinu"
+},
+"fre_never": {
+"message": "Nikada"
+},
+"fre_min": {
+"message": "Svake minute"
+},
+"fre_hour": {
+"message": "Svaki sat"
+},
+"fre_day": {
+"message": "Svaki dan"
+},
+"search_tip1": {
+"message": "Ući ćete"
+},
+"search_tip2": {
+"message": "traži"
+},
+"history1": {
+"message": "Prikaži najposjećenije web stranice"
+},
+"history2": {
+"message": "Možete vratiti najposjećenije web stranice u postavkama."
+},
+"weather": {
+"message": "Pokažite vremensku prognozu"
+},
+"self_add": {
+"message": "Dodali ste je."
+},
+"self_travel": {
+"message": "Unesite ključne riječi za izgradnju vlastite biblioteke pozadine"
+},
+"self_search": {
+"message": "traži"
+},
+"self_load": {
+"message": "Učitavam"
+},
+"self_scroll": {
+"message": "pomaknite se prema dolje da biste učitali više."
+},
+"self_customize": {
+"message": "Prilagodba knjižnice"
+},
+"self_selected": {
+"message": "odabran"
+},
+"self_finish": {
+"message": "Izgradite biblioteku wallpapera"
+},
+"self_allow": {
+"message": "Dopustite drugima upotrebu ove biblioteke"
+},
+"recommend1": {
+"message": "Umjetnost"
+},
+"recommend2": {
+"message": "Ljubav"
+},
+"recommend3": {
+"message": "Plaža"
+},
+"recommend4": {
+"message": "Vuk"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Mačka"
+},
+"recommend7": {
+"message": "Crtani film"
+},
+"Customize_Library": {
+"message": "Prilagodba knjižnice"
+},
+"wallpapers": {
+"message": "pozadine"
+},
+"delete": {
+"message": "Jeste li sigurni da je izbrišete?"
+},
+"wordpress_title": {
+"message": "Prilagođene Wallpaper HD teme - Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Preuzmite ovu temu za moj krom"
+},
+"better_customized": {
+"message": "Izradite vlastitu zidnu knjižnicu"
+},
+"better_shares": {
+"message": "Kliknite je, podijelite s prijateljima"
+},
+"better_save": {
+"message": "Dodaj u favorite"
+},
+"better_remove": {
+"message": "Ukloni iz favorita"
+},
+"share_tip": {
+"message": "Dodano u omiljeni, možete i dijeliti ovo proširenje na:"
+},
+"login": {
+"message": "Trebate se prijaviti"
+}
+}

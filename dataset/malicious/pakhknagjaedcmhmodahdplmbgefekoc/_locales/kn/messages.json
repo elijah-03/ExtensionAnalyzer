@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "ಬಗ್ಗೆ"
+},
+"background": {
+"message": "ಹಿನ್ನೆಲೆ"
+},
+"better_click": {
+"message": "ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ, ಹಿನ್ನೆಲೆ ಬದಲಿಸಿ"
+},
+"better_down": {
+"message": "ಪ್ರಸ್ತುತ ವಾಲ್ಪೇಪರ್ ಡೌನ್ಲೋಡ್ ಮಾಡಿ"
+},
+"better_fb": {
+"message": "ಫೇಸ್ಬುಕ್ಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"better_google": {
+"message": "Google+ ಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"better_memu": {
+"message": "ಸೆಟ್ಟಿಂಗ್ಗಳ ಮೆನುವನ್ನು ತೋರಿಸಿ"
+},
+"better_pin": {
+"message": "ನೀವು ಪ್ರಸ್ತುತ ವಾಲ್ಪೇಪರ್ ಅನ್ನು ಪಿನ್ ಮಾಡಬಹುದು"
+},
+"better_pinned": {
+"message": "ನೀವು ಪ್ರಸ್ತುತ ವಾಲ್ಪೇಪರ್ ಅನ್ನು ಪಿನ್ ಮಾಡಿದ್ದೀರಿ"
+},
+"better_print": {
+"message": "Pinterest ಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"better_qq": {
+"message": "QQ ವಲಯಕ್ಕೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"better_sina": {
+"message": "ಸಿನಾಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"better_start": {
+"message": "ಕ್ಯೂಲೈಫ್ ಹೊಸ ಟ್ಯಾಬ್"
+},
+"better_twitter": {
+"message": "Twitter ಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"color": {
+"message": "ಗಾಢ ಬಣ್ಣ"
+},
+"extDescription": {
+"message": "ನಿಮ್ಮ Chrome ಹೊಸ ಟ್ಯಾಬ್ ಪುಟವನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಲು Google ™ ಇಮೇಜ್ಗಳಿಂದ ಸ್ವಯಂ ನವೀಕರಣ ವಾಲ್ಪೇಪರ್ಗಳು ಅಥವಾ ಹುಡುಕಾಟ ವಾಲ್ಪೇಪರ್ಗಳು."
+},
+"extName": {
+"message": "Attack on Titan ಹೊಸ ಟ್ಯಾಬ್, ಕಸ್ಟಮೈಸ್ ವಾಲ್ಪೇಪರ್ಗಳು ಎಚ್ಡಿ"
+},
+"fivestar1": {
+"message": "ನೀವು Attack on Titan ಹೊಸ ಟ್ಯಾಬ್ ಇಷ್ಟಪಡುತ್ತೀರಾ?"
+},
+"fivestar2": {
+"message": "ದಯವಿಟ್ಟು Chrome ಸ್ಟೋರ್ನಲ್ಲಿ ಉತ್ತಮ ವಿಮರ್ಶೆಯನ್ನು ನೀಡಿ."
+},
+"image": {
+"message": "ಸ್ಥಳೀಯ ಚಿತ್ರ"
+},
+"library": {
+"message": "ಲೈಬ್ರರಿಯಿಂದ ನವೀಕರಿಸಿ"
+},
+"no": {
+"message": "ಇಲ್ಲ"
+},
+"not_now": {
+"message": "ಈಗ ಸಾಧ್ಯವಿಲ್ಲ"
+},
+"pinned_confirm": {
+"message": "ನೀವು ಪ್ರಸ್ತುತ ವಾಲ್ಪೇಪರ್ ಅನ್ನು ಪಿನ್ ಮಾಡಿದ್ದೀರಿ, ಅದನ್ನು ನವೀಕರಿಸಲು ನೀವು ಖಚಿತವಾಗಿರುವಿರಾ?"
+},
+"search": {
+"message": "ಹುಡುಕಿ"
+},
+"setting": {
+"message": "ಸೆಟ್ಟಿಂಗ್ಗಳು"
+},
+"share": {
+"message": "ನಿಮ್ಮ ಸ್ನೇಹಿತರಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"upload": {
+"message": "ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+},
+"visit": {
+"message": "ಹೆಚ್ಚು ಭೇಟಿ ನೀಡಲಾಗಿದೆ"
+},
+"yes": {
+"message": "ಹೌದು"
+},
+"today": {
+"message": "ಇಂದು"
+},
+"mon": {
+"message": "ಸೋಮವಾರ"
+},
+"tue": {
+"message": "ಮಂಗಳವಾರ"
+},
+"wed": {
+"message": "ಬುಧವಾರ"
+},
+"thu": {
+"message": "ಗುರುವಾರ"
+},
+"fri": {
+"message": "ಶುಕ್ರವಾರ"
+},
+"sat": {
+"message": "ಶನಿವಾರ"
+},
+"sun": {
+"message": "ಭಾನುವಾರ"
+},
+"upload_tip": {
+"message": "ಅಪ್ಲೋಡ್ ಮಾಡಲಾದ ಚಿತ್ರದ ಗಾತ್ರ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ!"
+},
+"upload_close": {
+"message": "ಮುಚ್ಚಿ"
+},
+"unkownLocation": {
+"message": "ಅಜ್ಞಾತ ಸ್ಥಳ"
+},
+"frequent": {
+"message": "ಅಪ್ಡೇಟ್ ಆವರ್ತನ"
+},
+"fre_pin": {
+"message": "ಪ್ರಸ್ತುತ ಹಿನ್ನೆಲೆ ಪಿನ್ ಮಾಡಲು"
+},
+"fre_never": {
+"message": "ಎಂದಿಗೂ"
+},
+"fre_min": {
+"message": "ಪ್ರತಿ ನಿಮಿಷ"
+},
+"fre_hour": {
+"message": "ಪ್ರತಿ ಗಂಟೆ"
+},
+"fre_day": {
+"message": "ಪ್ರತಿ ದಿನ"
+},
+"search_tip1": {
+"message": "ನೀವು ನಮೂದಿಸಿರುವಿರಿ"
+},
+"search_tip2": {
+"message": "ಹುಡುಕು"
+},
+"history1": {
+"message": "ಹೆಚ್ಚು ಭೇಟಿ ನೀಡಿದ ಸೈಟ್ಗಳನ್ನು ತೋರಿಸಿ"
+},
+"history2": {
+"message": "ನೀವು ಹೆಚ್ಚು ಭೇಟಿ ನೀಡಿದ ವೆಬ್ಸೈಟ್ಗಳನ್ನು ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ ಮರುಸ್ಥಾಪಿಸಬಹುದು."
+},
+"weather": {
+"message": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ತೋರಿಸಿ"
+},
+"self_add": {
+"message": "ನೀವು ಅದನ್ನು ಸೇರಿಸಿದ್ದೀರಿ."
+},
+"self_travel": {
+"message": "ನಿಮ್ಮ ಸ್ವಂತ ವಾಲ್ಪೇಪರ್ಗಳ ಗ್ರಂಥಾಲಯವನ್ನು ನಿರ್ಮಿಸಲು ಇನ್ಪುಟ್ ಕೀವರ್ಡ್ಗಳನ್ನು"
+},
+"self_search": {
+"message": "ಹುಡುಕು"
+},
+"self_load": {
+"message": "ಲೋಡ್ ಮಾಡಿದ್ದಾರೆ"
+},
+"self_scroll": {
+"message": "ಇನ್ನಷ್ಟು ಲೋಡ್ ಮಾಡಲು ಕೆಳಗೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ."
+},
+"self_customize": {
+"message": "ಲೈಬ್ರರಿ ಕಸ್ಟಮೈಸ್"
+},
+"self_selected": {
+"message": "ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ"
+},
+"self_finish": {
+"message": "ವಾಲ್ಪೇಪರ್ಗಳು ಲೈಬ್ರರಿಯನ್ನು ನಿರ್ಮಿಸಿ"
+},
+"self_allow": {
+"message": "ಈ ಲೈಬ್ರರಿಯನ್ನು ಇತರರು ಬಳಸಲು ಅನುಮತಿಸಿ"
+},
+"recommend1": {
+"message": "ಕಲೆ"
+},
+"recommend2": {
+"message": "ಲವ್"
+},
+"recommend3": {
+"message": "ಬೀಚ್"
+},
+"recommend4": {
+"message": "ತೋಳ"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "ಕ್ಯಾಟ್"
+},
+"recommend7": {
+"message": "ಕಾರ್ಟೂನ್"
+},
+"Customize_Library": {
+"message": "ಲೈಬ್ರರಿ ಕಸ್ಟಮೈಸ್"
+},
+"wallpapers": {
+"message": "ವಾಲ್ಪೇಪರ್ಗಳು"
+},
+"delete": {
+"message": "ಅದನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+},
+"wordpress_title": {
+"message": "ಕಸ್ಟಮೈಸ್ಡ್ ವಾಲ್ಪೇಪರ್ ಎಚ್ಡಿ ಥೀಮ್ಗಳು -ಕ್ಲೈಫ್ ಹೊಸ ಟ್ಯಾಬ್"
+},
+"wordpress_get": {
+"message": "ನನ್ನ chrome ಗಾಗಿ ಈ ಥೀಮ್ ಪಡೆಯಿರಿ"
+},
+"better_customized": {
+"message": "ನಿಮ್ಮ ಸ್ವಂತ ವಾಲ್ಪೇಪರ್ಗಳ ಗ್ರಂಥಾಲಯವನ್ನು ನಿರ್ಮಿಸಿ"
+},
+"better_shares": {
+"message": "ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ, ನಿಮ್ಮ ಸ್ನೇಹಿತರಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+},
+"better_save": {
+"message": "ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಿ"
+},
+"better_remove": {
+"message": "ಮೆಚ್ಚಿನವುಗಳಿಂದ ತೆಗೆದುಹಾಕಿ"
+},
+"share_tip": {
+"message": "ಯಶಸ್ವಿಯಾಗಿ ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಲ್ಪಟ್ಟಿದೆ, ನೀವು ಈ ವಿಸ್ತರಣೆಯನ್ನು ಇವರಿಗೆ ಹಂಚಬಹುದು:"
+},
+"login": {
+"message": "ನೀವು ಲಾಗಿನ್ ಆಗಿರಬೇಕು"
+}
+}

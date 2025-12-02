@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Despre"
+},
+"background": {
+"message": "fundal"
+},
+"better_click": {
+"message": "Faceți clic pe acesta, schimbați fundalul"
+},
+"better_down": {
+"message": "Descărcați fundalul curent"
+},
+"better_fb": {
+"message": "Distribuie pe Facebook"
+},
+"better_google": {
+"message": "Distribuiți pe Google+"
+},
+"better_memu": {
+"message": "Afișați meniul de setări"
+},
+"better_pin": {
+"message": "Puteți fixa imaginea de fundal curentă"
+},
+"better_pinned": {
+"message": "Ați fixat imaginea de fundal curentă"
+},
+"better_print": {
+"message": "Împărțiți-vă la Pinterest"
+},
+"better_qq": {
+"message": "Distribuiți în zona QQ"
+},
+"better_sina": {
+"message": "Distribuiți-vă la Sina"
+},
+"better_start": {
+"message": "Attack on Titan Tabă nouă"
+},
+"better_twitter": {
+"message": "Distribuiți pe Twitter"
+},
+"color": {
+"message": "Culoare solida"
+},
+"extDescription": {
+"message": "Actualizați automat imaginile de fundal sau căutați imagini de fundal de pe Google ™ Images pentru a vă personaliza pagina filă nouă."
+},
+"extName": {
+"message": "Attack on Titan Tabulă nouă, Imagini de fundal personalizate HD"
+},
+"fivestar1": {
+"message": "Iti place Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Vă rugăm să ne oferiți o recenzie bună în Magazinul Chrome."
+},
+"image": {
+"message": "Imagine locală"
+},
+"library": {
+"message": "Actualizați din Bibliotecă"
+},
+"no": {
+"message": "NU"
+},
+"not_now": {
+"message": "Nu acum"
+},
+"pinned_confirm": {
+"message": "Ați fixat imaginea curentă, sunteți sigur că îl actualizați?"
+},
+"search": {
+"message": "Căutare"
+},
+"setting": {
+"message": "setări"
+},
+"share": {
+"message": "Distribuiți-vă prietenilor"
+},
+"upload": {
+"message": "Încărcați"
+},
+"visit": {
+"message": "Cel mai vizitat"
+},
+"yes": {
+"message": "da"
+},
+"today": {
+"message": "Astăzi"
+},
+"mon": {
+"message": "luni"
+},
+"tue": {
+"message": "marţi"
+},
+"wed": {
+"message": "miercuri"
+},
+"thu": {
+"message": "joi"
+},
+"fri": {
+"message": "vineri"
+},
+"sat": {
+"message": "sâmbătă"
+},
+"sun": {
+"message": "duminică"
+},
+"upload_tip": {
+"message": "Dimensiunea imaginii încărcate este prea mare!"
+},
+"upload_close": {
+"message": "Închide"
+},
+"unkownLocation": {
+"message": "Locație necunoscută"
+},
+"frequent": {
+"message": "Frecvență de actualizare"
+},
+"fre_pin": {
+"message": "Pentru a fixa fundalul curent"
+},
+"fre_never": {
+"message": "Nu"
+},
+"fre_min": {
+"message": "In fiecare minut"
+},
+"fre_hour": {
+"message": "Fiecare ora"
+},
+"fre_day": {
+"message": "In fiecare zi"
+},
+"search_tip1": {
+"message": "Veți intra"
+},
+"search_tip2": {
+"message": "căutare"
+},
+"history1": {
+"message": "Afișați cele mai multe site-uri vizitate"
+},
+"history2": {
+"message": "Puteți restabili site-urile web cele mai vizitate în setări."
+},
+"weather": {
+"message": "Afișați prognoza meteo"
+},
+"self_add": {
+"message": "Ați adăugat-o."
+},
+"self_travel": {
+"message": "Introduceți cuvintele cheie pentru a vă crea propria bibliotecă de imagini de fundal"
+},
+"self_search": {
+"message": "căutare"
+},
+"self_load": {
+"message": "Au încărcat-o"
+},
+"self_scroll": {
+"message": "derulați în jos pentru a încărca mai mult."
+},
+"self_customize": {
+"message": "Personalizați Biblioteca"
+},
+"self_selected": {
+"message": "selectat"
+},
+"self_finish": {
+"message": "Creați bibliotecă de imagini de fundal"
+},
+"self_allow": {
+"message": "Permiteți altora să folosească această bibliotecă"
+},
+"recommend1": {
+"message": "Artă"
+},
+"recommend2": {
+"message": "Dragoste"
+},
+"recommend3": {
+"message": "plajă"
+},
+"recommend4": {
+"message": "Lup"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Pisică"
+},
+"recommend7": {
+"message": "Desen animat"
+},
+"Customize_Library": {
+"message": "Personalizați Biblioteca"
+},
+"wallpapers": {
+"message": "imagini de fundal"
+},
+"delete": {
+"message": "Sigur îl ștergi?"
+},
+"wordpress_title": {
+"message": "Wallpaper personalizat HD Teme-Attack on Titan Tabă nouă"
+},
+"wordpress_get": {
+"message": "Obțineți această temă pentru cromul meu"
+},
+"better_customized": {
+"message": "Construiți-vă propria bibliotecă de imagini de fundal"
+},
+"better_shares": {
+"message": "Faceți clic pe acesta, partajați-vă prietenilor"
+},
+"better_save": {
+"message": "Adauga la favorite"
+},
+"better_remove": {
+"message": "Eliminați de la favorite"
+},
+"share_tip": {
+"message": "Adăugat la favorit cu succes, puteți, de asemenea, permite accesul la această extensie la:"
+},
+"login": {
+"message": "Aveți nevoie de conectare"
+}
+}

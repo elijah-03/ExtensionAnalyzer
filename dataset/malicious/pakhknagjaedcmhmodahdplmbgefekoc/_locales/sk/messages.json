@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "o"
+},
+"background": {
+"message": "Pozadie"
+},
+"better_click": {
+"message": "Kliknite naň, Zmeniť pozadie"
+},
+"better_down": {
+"message": "Stiahnite si aktuálnu tapetu"
+},
+"better_fb": {
+"message": "Zdieľať na Facebooku"
+},
+"better_google": {
+"message": "Zdieľať na Google+"
+},
+"better_memu": {
+"message": "Zobraziť ponuku nastavení"
+},
+"better_pin": {
+"message": "Môžete pripevniť aktuálnu tapetu"
+},
+"better_pinned": {
+"message": "Prilepili ste aktuálnu tapetu"
+},
+"better_print": {
+"message": "Zdieľať na Pinterest"
+},
+"better_qq": {
+"message": "Zdieľajte do zóny QQ"
+},
+"better_sina": {
+"message": "Zdieľať na Sina"
+},
+"better_start": {
+"message": "Attack on Titan Nová karta"
+},
+"better_twitter": {
+"message": "Zdieľať na službe Twitter"
+},
+"color": {
+"message": "Pevná farba"
+},
+"extDescription": {
+"message": "Automaticky aktualizujte tapety alebo vyhľadávajte tapety z aplikácií Google ™ Images, aby ste prispôsobili svoju kartu na novom karte Chrome."
+},
+"extName": {
+"message": "Attack on Titan Nová karta, prispôsobené tapety HD"
+},
+"fivestar1": {
+"message": "Páči sa vám Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Uveďte, prosím, dobrý prehľad v obchode Chrome."
+},
+"image": {
+"message": "Miestny obrázok"
+},
+"library": {
+"message": "Aktualizácia z knižnice"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Teraz nie"
+},
+"pinned_confirm": {
+"message": "Prilepili ste aktuálnu tapetu, určite ju aktualizujete?"
+},
+"search": {
+"message": "Vyhľadávanie"
+},
+"setting": {
+"message": "nastavenie"
+},
+"share": {
+"message": "Zdieľať s priateľmi"
+},
+"upload": {
+"message": "Nahrať"
+},
+"visit": {
+"message": "Najnavštevovanejšie"
+},
+"yes": {
+"message": "Áno"
+},
+"today": {
+"message": "dnes"
+},
+"mon": {
+"message": "pondelok"
+},
+"tue": {
+"message": "utorok"
+},
+"wed": {
+"message": "streda"
+},
+"thu": {
+"message": "štvrtok"
+},
+"fri": {
+"message": "piatok"
+},
+"sat": {
+"message": "sobota"
+},
+"sun": {
+"message": "nedeľa"
+},
+"upload_tip": {
+"message": "Odovzdaná veľkosť obrázka je príliš veľká!"
+},
+"upload_close": {
+"message": "Zavrieť"
+},
+"unkownLocation": {
+"message": "Neznáma lokalita"
+},
+"frequent": {
+"message": "Frekvencia aktualizácie"
+},
+"fre_pin": {
+"message": "Prilepiť aktuálne pozadie"
+},
+"fre_never": {
+"message": "nikdy"
+},
+"fre_min": {
+"message": "Každú minútu"
+},
+"fre_hour": {
+"message": "Každú hodinu"
+},
+"fre_day": {
+"message": "Každý deň"
+},
+"search_tip1": {
+"message": "Zadáte"
+},
+"search_tip2": {
+"message": "Vyhľadávanie"
+},
+"history1": {
+"message": "Zobraziť najnavštevovanejšie stránky"
+},
+"history2": {
+"message": "V nastaveniach môžete obnoviť najnavštevovanejšie webové stránky."
+},
+"weather": {
+"message": "Zobraziť predpoveď počasia"
+},
+"self_add": {
+"message": "Pridali ste ju."
+},
+"self_travel": {
+"message": "Vložte kľúčové slová na vytvorenie vlastnej knižnice tapiet"
+},
+"self_search": {
+"message": "Vyhľadávanie"
+},
+"self_load": {
+"message": "Nahrali ste"
+},
+"self_scroll": {
+"message": "prejdite nadol a načítajte viac."
+},
+"self_customize": {
+"message": "Prispôsobte knižnicu"
+},
+"self_selected": {
+"message": "vybraný"
+},
+"self_finish": {
+"message": "Vytvárajte knižnicu tapiet"
+},
+"self_allow": {
+"message": "Umožnite ostatným používať túto knižnicu"
+},
+"recommend1": {
+"message": "umenie"
+},
+"recommend2": {
+"message": "milovať"
+},
+"recommend3": {
+"message": "pláž"
+},
+"recommend4": {
+"message": "vlk"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "mačka"
+},
+"recommend7": {
+"message": "karikatúra"
+},
+"Customize_Library": {
+"message": "Prispôsobte knižnicu"
+},
+"wallpapers": {
+"message": "tapety"
+},
+"delete": {
+"message": "Naozaj ho chcete odstrániť?"
+},
+"wordpress_title": {
+"message": "Prispôsobená tapeta HD Themes-Attack on Titan Nová karta"
+},
+"wordpress_get": {
+"message": "Získajte túto tému pre svoj chróm"
+},
+"better_customized": {
+"message": "Vytvorte si vlastnú knižnicu tapiet"
+},
+"better_shares": {
+"message": "Kliknite naň, zdieľajte s priateľmi"
+},
+"better_save": {
+"message": "Pridať k obľúbeným"
+},
+"better_remove": {
+"message": "Odstrániť z obľúbených položiek"
+},
+"share_tip": {
+"message": "Pridaná do obľúbenosti úspešne, môžete toto rozšírenie zdieľať aj na:"
+},
+"login": {
+"message": "Potrebujete prihlásenie"
+}
+}

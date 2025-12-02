@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "பற்றி"
+},
+"background": {
+"message": "பின்னணி"
+},
+"better_click": {
+"message": "அதை சொடுக்க, பின்னணி மாற்றவும்"
+},
+"better_down": {
+"message": "தற்போதைய வால்பேப்பரைப் பதிவிறக்குக"
+},
+"better_fb": {
+"message": "பேஸ்புக்கில் பகிரலாம்"
+},
+"better_google": {
+"message": "Google+ இல் பகிர்"
+},
+"better_memu": {
+"message": "அமைப்புகள் மெனுவைக் காட்டு"
+},
+"better_pin": {
+"message": "தற்போதைய வால்பேப்பரை நீங்கள் முடக்கலாம்"
+},
+"better_pinned": {
+"message": "தற்போதைய வால்பேப்பரை நீங்கள் பின்தொடர்கிறீர்கள்"
+},
+"better_print": {
+"message": "Pinterest க்கு பகிரலாம்"
+},
+"better_qq": {
+"message": "QQ மண்டலத்தில் பகிர்"
+},
+"better_sina": {
+"message": "சினாக்கு பகிர்"
+},
+"better_start": {
+"message": "Attack on Titan புதிய தாவல்"
+},
+"better_twitter": {
+"message": "Twitter இல் பகிர்"
+},
+"color": {
+"message": "செறிவான நிறம்"
+},
+"extDescription": {
+"message": "உங்கள் Chrome புதிய தாவல் பக்கத்தைத் தனிப்பயனாக்க, Google புதுப்பிப்புகளில் இருந்து தானாக புதுப்பிப்பு வால்பேப்பர்கள் அல்லது தேடல் வால்பேப்பர்கள்."
+},
+"extName": {
+"message": "Attack on Titan புதிய தாவல், தனிப்பயனாக்கப்பட்ட படங்கள் HD"
+},
+"fivestar1": {
+"message": "நீங்கள் Attack on Titan புதிய தாவலை விரும்புகிறீர்களா?"
+},
+"fivestar2": {
+"message": "தயவுசெய்து எங்களுக்கு Chrome ஸ்டோரில் நல்ல மதிப்பாய்வு கொடுங்கள்."
+},
+"image": {
+"message": "உள்ளூர் படம்"
+},
+"library": {
+"message": "நூலகத்திலிருந்து புதுப்பிக்கவும்"
+},
+"no": {
+"message": "இல்லை"
+},
+"not_now": {
+"message": "இப்போது இல்லை"
+},
+"pinned_confirm": {
+"message": "தற்போதைய வால்பேப்பரைப் பின்தொடர்ந்துவிட்டீர்கள், அதைப் புதுப்பிக்குமா?"
+},
+"search": {
+"message": "தேடல்"
+},
+"setting": {
+"message": "அமைப்புகளை"
+},
+"share": {
+"message": "உங்கள் நண்பர்களிடம் பகிர்ந்து கொள்ளுங்கள்"
+},
+"upload": {
+"message": "பதிவேற்றம்"
+},
+"visit": {
+"message": "அதிகம் பார்த்த"
+},
+"yes": {
+"message": "ஆம்"
+},
+"today": {
+"message": "இன்று"
+},
+"mon": {
+"message": "திங்கட்கிழமை"
+},
+"tue": {
+"message": "செவ்வாய்க்கிழமை"
+},
+"wed": {
+"message": "புதன்கிழமை"
+},
+"thu": {
+"message": "வியாழக்கிழமை"
+},
+"fri": {
+"message": "வெள்ளி"
+},
+"sat": {
+"message": "சனிக்கிழமை"
+},
+"sun": {
+"message": "ஞாயிறு"
+},
+"upload_tip": {
+"message": "பதிவேற்றிய பட அளவு மிக அதிகமாக உள்ளது!"
+},
+"upload_close": {
+"message": "நெருக்கமான"
+},
+"unkownLocation": {
+"message": "தெரியாத இடம்"
+},
+"frequent": {
+"message": "அதிர்வெண் புதுப்பி"
+},
+"fre_pin": {
+"message": "தற்போதைய பின்னணியைப் பிடிக்க"
+},
+"fre_never": {
+"message": "ஒருபோதும்"
+},
+"fre_min": {
+"message": "ஒவ்வொரு நிமிடமும்"
+},
+"fre_hour": {
+"message": "ஒவ்வொரு மணி நேரமும்"
+},
+"fre_day": {
+"message": "தினமும்"
+},
+"search_tip1": {
+"message": "நீங்கள் உள்ளே வருவீர்கள்"
+},
+"search_tip2": {
+"message": "தேடல்"
+},
+"history1": {
+"message": "பார்வையிட்ட பெரும்பாலான தளங்களைக் காண்பி"
+},
+"history2": {
+"message": "நீங்கள் மிகவும் பார்வையிட்ட வலைத்தளங்களை அமைப்புகளில் மீட்டெடுக்கலாம்."
+},
+"weather": {
+"message": "வானிலை முன்னறிவிப்பு காட்டவும்"
+},
+"self_add": {
+"message": "நீங்கள் அதை சேர்த்துள்ளீர்கள்."
+},
+"self_travel": {
+"message": "உங்கள் சொந்த வால்பேப்பர்கள் நூலகத்தை உருவாக்க உள்ளீட்டு முக்கிய வார்த்தைகள்"
+},
+"self_search": {
+"message": "தேடல்"
+},
+"self_load": {
+"message": "ஏற்றப்பட்டிருக்கிறது"
+},
+"self_scroll": {
+"message": "மேலும் சுமை கீழே சுழற்று."
+},
+"self_customize": {
+"message": "நூலகத்தைத் தனிப்பயனாக்கு"
+},
+"self_selected": {
+"message": "தேர்ந்தெடுக்கப்பட்டுள்ளன"
+},
+"self_finish": {
+"message": "வால்பேப்பர்கள் நூலகத்தை உருவாக்கவும்"
+},
+"self_allow": {
+"message": "இந்த நூலகத்தைப் பயன்படுத்த மற்றவர்களை அனுமதிக்கவும்"
+},
+"recommend1": {
+"message": "கலை"
+},
+"recommend2": {
+"message": "லவ்"
+},
+"recommend3": {
+"message": "கடற்கரை"
+},
+"recommend4": {
+"message": "ஓநாய்"
+},
+"recommend5": {
+"message": ", EXO"
+},
+"recommend6": {
+"message": "பூனை"
+},
+"recommend7": {
+"message": "கார்ட்டூன்"
+},
+"Customize_Library": {
+"message": "நூலகத்தைத் தனிப்பயனாக்கு"
+},
+"wallpapers": {
+"message": "வால்பேப்பர்கள்"
+},
+"delete": {
+"message": "அதை நிச்சயமாக நீக்க வேண்டுமா?"
+},
+"wordpress_title": {
+"message": "தனிப்பயனாக்கப்பட்ட வால்பேப்பர் HD தீம்கள்- Attack on Titan புதிய தாவல்"
+},
+"wordpress_get": {
+"message": "என் குரோம் இந்த தீம் பெற"
+},
+"better_customized": {
+"message": "உங்கள் சொந்த வால்பேப்பர்கள் நூலகத்தை உருவாக்கவும்"
+},
+"better_shares": {
+"message": "அதை சொடுக்கி, உங்கள் நண்பர்களிடம் பகிர்ந்து கொள்ளுங்கள்"
+},
+"better_save": {
+"message": "பிடித்தவையில் சேர்"
+},
+"better_remove": {
+"message": "பிடித்தவர்களிடமிருந்து நீக்கு"
+},
+"share_tip": {
+"message": "வெற்றிகரமாக பிடித்ததில் சேர்க்கப்பட்டது, நீங்கள் இந்த நீட்டிப்பை பகிரலாம்:"
+},
+"login": {
+"message": "உள்நுழைய வேண்டும்"
+}
+}

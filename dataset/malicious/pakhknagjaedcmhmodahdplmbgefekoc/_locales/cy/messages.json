@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Amdanom ni"
+},
+"background": {
+"message": "Cefndir"
+},
+"better_click": {
+"message": "Cliciwch hi, Newid Cefndir"
+},
+"better_down": {
+"message": "Lawrlwythwch y papur wal cyfredol"
+},
+"better_fb": {
+"message": "Rhannwch i Facebook"
+},
+"better_google": {
+"message": "Rhannu i Google+"
+},
+"better_memu": {
+"message": "Dangoswch ddewislen gosodiadau"
+},
+"better_pin": {
+"message": "Gallwch chi bennu'r papur wal cyfredol"
+},
+"better_pinned": {
+"message": "Rydych wedi pinio'r papur wal cyfredol"
+},
+"better_print": {
+"message": "Rhannu i Pinterest"
+},
+"better_qq": {
+"message": "Rhannwch i'r Parth QQ"
+},
+"better_sina": {
+"message": "Rhannwch i Sina"
+},
+"better_start": {
+"message": "Tab Newydd Attack on Titan"
+},
+"better_twitter": {
+"message": "Rhannwch i Twitter"
+},
+"color": {
+"message": "Lliw Solet"
+},
+"extDescription": {
+"message": "Diweddaru papur wal awtomatig neu bapurau wal chwilio o Delweddau Google ™ i addasu eich tudalen tab newydd Chrome."
+},
+"extName": {
+"message": "Tab Newydd Attack on Titan, Papurau Wal Customized HD"
+},
+"fivestar1": {
+"message": "Ydych chi'n hoffi Tab Newydd Attack on Titan?"
+},
+"fivestar2": {
+"message": "Rhowch adolygiad da i ni ar Chrome Store."
+},
+"image": {
+"message": "Delwedd leol"
+},
+"library": {
+"message": "Diweddariad o'r Llyfrgell"
+},
+"no": {
+"message": "RHIF"
+},
+"not_now": {
+"message": "Ddim yn awr"
+},
+"pinned_confirm": {
+"message": "Rydych chi wedi pinio'r papur wal cyfredol, a ydych chi'n siŵr ei ddiweddaru?"
+},
+"search": {
+"message": "Chwilio"
+},
+"setting": {
+"message": "lleoliadau"
+},
+"share": {
+"message": "Rhannwch i'ch ffrindiau"
+},
+"upload": {
+"message": "Llwytho i fyny"
+},
+"visit": {
+"message": "Y rhan fwyaf o ymwelwyr"
+},
+"yes": {
+"message": "Ydw"
+},
+"today": {
+"message": "Heddiw"
+},
+"mon": {
+"message": "Dydd Llun"
+},
+"tue": {
+"message": "Dydd Mawrth"
+},
+"wed": {
+"message": "Dydd Mercher"
+},
+"thu": {
+"message": "Dydd Iau"
+},
+"fri": {
+"message": "Dydd Gwener"
+},
+"sat": {
+"message": "Sadwrn"
+},
+"sun": {
+"message": "Sul"
+},
+"upload_tip": {
+"message": "Mae'r maint delwedd wedi'i lwytho i fyny yn rhy fawr!"
+},
+"upload_close": {
+"message": "Yn agos"
+},
+"unkownLocation": {
+"message": "Lleoliad anhysbys"
+},
+"frequent": {
+"message": "Amlder Diweddariad"
+},
+"fre_pin": {
+"message": "I pinio'r cefndir cyfredol"
+},
+"fre_never": {
+"message": "Byth"
+},
+"fre_min": {
+"message": "Pob Cofnod"
+},
+"fre_hour": {
+"message": "Bob Awr"
+},
+"fre_day": {
+"message": "Pob dydd"
+},
+"search_tip1": {
+"message": "Byddwch yn mynd i mewn"
+},
+"search_tip2": {
+"message": "chwilio"
+},
+"history1": {
+"message": "Dangoswch y safleoedd mwyaf ymweliedig"
+},
+"history2": {
+"message": "Gallwch adfer gwefannau mwyaf poblogaidd mewn lleoliadau."
+},
+"weather": {
+"message": "Dangos rhagolygon y tywydd"
+},
+"self_add": {
+"message": "Rydych wedi ei ychwanegu."
+},
+"self_travel": {
+"message": "Allweddair allweddi i adeiladu'ch llyfrgell waliau eich hun"
+},
+"self_search": {
+"message": "chwilio"
+},
+"self_load": {
+"message": "Wedi llwytho"
+},
+"self_scroll": {
+"message": "sgroliwch i lawr i lwytho mwy."
+},
+"self_customize": {
+"message": "Addasu Llyfrgell"
+},
+"self_selected": {
+"message": "dewiswyd"
+},
+"self_finish": {
+"message": "Adeiladu llyfrgell waliau wal"
+},
+"self_allow": {
+"message": "Caniatáu i eraill ddefnyddio'r llyfrgell hon"
+},
+"recommend1": {
+"message": "Celf"
+},
+"recommend2": {
+"message": "Cariad"
+},
+"recommend3": {
+"message": "Traeth"
+},
+"recommend4": {
+"message": "Blaidd"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Cartwn"
+},
+"Customize_Library": {
+"message": "Addasu Llyfrgell"
+},
+"wallpapers": {
+"message": "papur wal"
+},
+"delete": {
+"message": "Ydych chi'n siŵr ei ddileu?"
+},
+"wordpress_title": {
+"message": "Themâu HD Papur Wal wedi'i Therfynu - Cylch Newydd Attack on Titan"
+},
+"wordpress_get": {
+"message": "Cael y thema hon ar gyfer fy chrome"
+},
+"better_customized": {
+"message": "Adeiladu eich llyfrgell waliau eich hun"
+},
+"better_shares": {
+"message": "Cliciwch hi, rhannwch â'ch ffrindiau"
+},
+"better_save": {
+"message": "Ychwanegu at ffefrynnau"
+},
+"better_remove": {
+"message": "Tynnwch o'r ffefrynnau"
+},
+"share_tip": {
+"message": "Ychwanegwyd at y ffefryn yn llwyddiannus, gallwch hefyd rannu'r estyniad hwn i:"
+},
+"login": {
+"message": "Mae angen i chi fewngofnodi"
+}
+}

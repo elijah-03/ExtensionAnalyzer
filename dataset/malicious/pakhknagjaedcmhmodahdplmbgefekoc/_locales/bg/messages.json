@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "относно"
+},
+"background": {
+"message": "Заден план"
+},
+"better_click": {
+"message": "Кликнете върху него, Промяна на фона"
+},
+"better_down": {
+"message": "Изтегляне на текущия тапет"
+},
+"better_fb": {
+"message": "Споделяне във Facebook"
+},
+"better_google": {
+"message": "Споделяне в Google+"
+},
+"better_memu": {
+"message": "Показване на менюто с настройки"
+},
+"better_pin": {
+"message": "Можете да закрепите текущия тапет"
+},
+"better_pinned": {
+"message": "Закачили сте текущия тапет"
+},
+"better_print": {
+"message": "Дял на Пинтерест"
+},
+"better_qq": {
+"message": "Споделяне в QQ зона"
+},
+"better_sina": {
+"message": "Сподели с Сина"
+},
+"better_start": {
+"message": "Attack on Titan Нов раздел"
+},
+"better_twitter": {
+"message": "Споделяне в Twitter"
+},
+"color": {
+"message": "Твърд цвят"
+},
+"extDescription": {
+"message": "Автоматично да актуализирате тапети или да търсите тапети от Google ™ Images, за да персонализирате страницата на новия си раздел в Chrome."
+},
+"extName": {
+"message": "Attack on Titan нов раздел, Персонализирани тапети HD"
+},
+"fivestar1": {
+"message": "Харесва ли ви Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Моля, дайте добър преглед в Chrome Store."
+},
+"image": {
+"message": "Местно изображение"
+},
+"library": {
+"message": "Актуализация от библиотеката"
+},
+"no": {
+"message": "НЕ"
+},
+"not_now": {
+"message": "Не сега"
+},
+"pinned_confirm": {
+"message": "Прикрепихте текущия тапет, сигурен ли сте, че го актуализирате?"
+},
+"search": {
+"message": "Търсене"
+},
+"setting": {
+"message": "настройки"
+},
+"share": {
+"message": "Споделете с приятелите си"
+},
+"upload": {
+"message": "Качи"
+},
+"visit": {
+"message": "Най-посещаван"
+},
+"yes": {
+"message": "да"
+},
+"today": {
+"message": "днес"
+},
+"mon": {
+"message": "понеделник"
+},
+"tue": {
+"message": "вторник"
+},
+"wed": {
+"message": "сряда"
+},
+"thu": {
+"message": "четвъртък"
+},
+"fri": {
+"message": "петък"
+},
+"sat": {
+"message": "събота"
+},
+"sun": {
+"message": "неделя"
+},
+"upload_tip": {
+"message": "Каченият размер на изображението е твърде голям!"
+},
+"upload_close": {
+"message": "Близо"
+},
+"unkownLocation": {
+"message": "Неизвестно местоположение"
+},
+"frequent": {
+"message": "Честота на актуализацията"
+},
+"fre_pin": {
+"message": "За да закрепите текущия фон"
+},
+"fre_never": {
+"message": "никога"
+},
+"fre_min": {
+"message": "Всяка минута"
+},
+"fre_hour": {
+"message": "Всеки час"
+},
+"fre_day": {
+"message": "Всеки ден"
+},
+"search_tip1": {
+"message": "Ще влезеш"
+},
+"search_tip2": {
+"message": "Търсене"
+},
+"history1": {
+"message": "Показване на най-посещаваните сайтове"
+},
+"history2": {
+"message": "Можете да възстановите най-посещаваните уебсайтове в настройките."
+},
+"weather": {
+"message": "Покажете прогнозата за времето"
+},
+"self_add": {
+"message": "Добавихте го."
+},
+"self_travel": {
+"message": "Въведете ключови думи за изграждане на собствена библиотека за тапети"
+},
+"self_search": {
+"message": "Търсене"
+},
+"self_load": {
+"message": "Заредени са"
+},
+"self_scroll": {
+"message": "превъртете надолу, за да заредите повече."
+},
+"self_customize": {
+"message": "Персонализирате библиотеката"
+},
+"self_selected": {
+"message": "подбран"
+},
+"self_finish": {
+"message": "Създайте библиотека за тапети"
+},
+"self_allow": {
+"message": "Позволете на другите да използват тази библиотека"
+},
+"recommend1": {
+"message": "Изкуство"
+},
+"recommend2": {
+"message": "обичам"
+},
+"recommend3": {
+"message": "плаж"
+},
+"recommend4": {
+"message": "вълк"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "котка"
+},
+"recommend7": {
+"message": "карикатура"
+},
+"Customize_Library": {
+"message": "Персонализирате библиотеката"
+},
+"wallpapers": {
+"message": "тапети"
+},
+"delete": {
+"message": "Наистина ли го изтривате?"
+},
+"wordpress_title": {
+"message": "Персонализиран тапет HD Themes-Attack on Titan Нов раздел"
+},
+"wordpress_get": {
+"message": "Вземи тази тема за моя хром"
+},
+"better_customized": {
+"message": "Създайте своя собствена библиотека за тапети"
+},
+"better_shares": {
+"message": "Кликнете върху него, споделете с приятелите си"
+},
+"better_save": {
+"message": "Добави към любими"
+},
+"better_remove": {
+"message": "Премахване от любимите"
+},
+"share_tip": {
+"message": "Добавени успешно към любимите, можете също да споделите това разширение на:"
+},
+"login": {
+"message": "Трябва да влезете"
+}
+}

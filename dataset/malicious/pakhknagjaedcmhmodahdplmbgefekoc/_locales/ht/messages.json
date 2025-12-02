@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Sou"
+},
+"background": {
+"message": "Istorik"
+},
+"better_click": {
+"message": "Klike sou li, Chanje Istorik"
+},
+"better_down": {
+"message": "Download aktyèl D '"
+},
+"better_fb": {
+"message": "Pataje Facebook"
+},
+"better_google": {
+"message": "Pataje Google +"
+},
+"better_memu": {
+"message": "Montre anviwònman meni an"
+},
+"better_pin": {
+"message": "Ou ka PIN papye aktyèl la"
+},
+"better_pinned": {
+"message": "Ou te estime papye aktyèl la"
+},
+"better_print": {
+"message": "Pataje pou Pinterest"
+},
+"better_qq": {
+"message": "Pataje nan Zòn QQ"
+},
+"better_sina": {
+"message": "Pataje Sinayi"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "Pataje Twitter"
+},
+"color": {
+"message": "Solid koulè"
+},
+"extDescription": {
+"message": "Auto aktyalizasyon wallpapers oswa wallpapers rechèch nan Google ™ Imaj yo Customize Chrome ou nouvo paj tab."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Customized Wallpapers HD"
+},
+"fivestar1": {
+"message": "Ou renmen Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Tanpri, ban nou yon revizyon bon sou Chrome Store."
+},
+"image": {
+"message": "Lokal imaj"
+},
+"library": {
+"message": "Mete ajou nan Bibliyotèk"
+},
+"no": {
+"message": "NON"
+},
+"not_now": {
+"message": "Pa kounye a"
+},
+"pinned_confirm": {
+"message": "Ou estime photo aktyèl la, se ou asire w ke ou mete ajou li?"
+},
+"search": {
+"message": "Search"
+},
+"setting": {
+"message": "anviwònman"
+},
+"share": {
+"message": "Pataje zanmi ou yo"
+},
+"upload": {
+"message": "Voye"
+},
+"visit": {
+"message": "Pifò vizite"
+},
+"yes": {
+"message": "Wi"
+},
+"today": {
+"message": "Jodi a"
+},
+"mon": {
+"message": "Lendi"
+},
+"tue": {
+"message": "Madi"
+},
+"wed": {
+"message": "Mèkredi"
+},
+"thu": {
+"message": "Jedi"
+},
+"fri": {
+"message": "Vandredi"
+},
+"sat": {
+"message": "Samdi"
+},
+"sun": {
+"message": "Dimanch"
+},
+"upload_tip": {
+"message": "Gwosè imaj la Uploaded se twò gwo!"
+},
+"upload_close": {
+"message": "Fèmen"
+},
+"unkownLocation": {
+"message": "Unknown Kote"
+},
+"frequent": {
+"message": "Mizajou frekans"
+},
+"fre_pin": {
+"message": "Pote aktyèl background"
+},
+"fre_never": {
+"message": "Pa janm"
+},
+"fre_min": {
+"message": "Chak minit"
+},
+"fre_hour": {
+"message": "Chak lè"
+},
+"fre_day": {
+"message": "Chak jou"
+},
+"search_tip1": {
+"message": "Ou pral antre"
+},
+"search_tip2": {
+"message": "rechèch"
+},
+"history1": {
+"message": "Montre sit ki pi vizite yo"
+},
+"history2": {
+"message": "Ou ka retabli pi vizite sit entènèt nan anviwònman."
+},
+"weather": {
+"message": "Montre pwedi move tan an"
+},
+"self_add": {
+"message": "Ou te ajoute li."
+},
+"self_travel": {
+"message": "Antre mo kle pou konstwi pwòp ou bibliyotèk wallpapers"
+},
+"self_search": {
+"message": "rechèch"
+},
+"self_load": {
+"message": "Gen chaje"
+},
+"self_scroll": {
+"message": "desann nan chaje plis."
+},
+"self_customize": {
+"message": "Customize Bibliyotèk"
+},
+"self_selected": {
+"message": "chwazi"
+},
+"self_finish": {
+"message": "Bati wallpapers bibliyotèk"
+},
+"self_allow": {
+"message": "Pèmèt lòt moun itilize bibliyotèk sa a"
+},
+"recommend1": {
+"message": "Atizay"
+},
+"recommend2": {
+"message": "Renmen"
+},
+"recommend3": {
+"message": "Beach"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Chat"
+},
+"recommend7": {
+"message": "Desen an"
+},
+"Customize_Library": {
+"message": "Customize Bibliyotèk"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Èske ou asire ou efase li?"
+},
+"wordpress_title": {
+"message": "Customized Wallpaper HD Themes-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Jwenn tèm sa a pou chrome mwen"
+},
+"better_customized": {
+"message": "Bati pwòp ou a bibliyotèk wallpapers"
+},
+"better_shares": {
+"message": "Klike sou li, pataje zanmi ou yo"
+},
+"better_save": {
+"message": "Ajoute sou favori yo"
+},
+"better_remove": {
+"message": "Retire soti nan favorites"
+},
+"share_tip": {
+"message": "Te ajoute nan pi renmen avèk siksè, ou ka pataje tou ekstansyon sa a nan:"
+},
+"login": {
+"message": "Ou bezwen konekte nan"
+}
+}

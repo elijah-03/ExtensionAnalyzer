@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<script src="../js/jquery-1.11.1.js"></script>
+    <script src="../js/global.js"></script>
+    
+    <style>
+    	.submit{
+    		padding-right: 15px;
+    		padding-left: 15px;
+    		padding-top: 5px;
+    		padding-bottom: 5px;
+    		background-color: #2C87FF;
+    		color: white;
+    		border-radius: .25em; 
+    		cursor: pointer; 
+    	}
+    	.cursor{
+    		cursor: pointer;
+    	}
+    	.font{
+    		padding-top: 8px;
+    		font-size: 20px;
+    		cursor: pointer;
+    	}
+    	.question{
+    		width: 600px;
+    		margin-left: 500px;
+    		/*padding-left:40%;*/
+    	}
+    	.question_text{
+    		padding-left: 15%;
+    	}
+    	.width{
+    		width: 300px;
+    		height: 50px;
+    	}
+    	.feedback{
+    		padding-left: 30%;
+    	}
+    	.re_top{
+    		 width: 600px;
+    		 height: 80px;
+    		 background-color: #0C4CB2;
+    		 /*margin-left:28%;*/
+    		 margin-top: 10px;
+    	}
+    	.re_top1{
+    		padding-top: 9px;
+    		padding-left: 155px;
+    	}
+    	.re_top2{
+    		padding-top: 6px;
+    		padding-left: 125px;
+    	}
+    	.re_app{
+    		width: 598px;
+    		height: 150px;
+    		border-left: solid 1px #7A7A7A;
+    		border-right: solid 1px #7A7A7A;
+    		border-bottom: solid 1px #7A7A7A;
+    	}
+    	.re_left{
+    		padding-left: 10px;
+    		float: left;
+    		height: 150px;
+    		width: 140px;
+    	}
+    	.re_lefts{
+    		float: left;
+    		height: 150px;
+    		width: 448px;
+    	}
+    	.detail{
+    		cursor: pointer;
+    		padding-left: 25px;
+    		padding-right: 25px;
+    		padding-top: 5px;
+    		padding-bottom: 5px;
+    		/*width: 250px;
+    		height: 50px;*/
+    		background-color: #0C4CB2;
+    		color: white;
+    	}
+    	.title{
+    		padding-top: 10px;
+    		height: 30px;
+    	}
+    	.title_text{
+    		font-size: 23px;
+    		color:  #000000;
+    		font-weight: bold;
+    	}
+    	.fivestar{
+    		padding-top: 2px;
+    		height: 30px;
+    	}
+    	.fivestar_text{
+    		color: #666666;
+    		
+    	}
+    	.desc{
+    		width: 445px;
+    		padding-top: 1px;
+    		height: 40px;
+    	}
+    	.desc_text{
+    		color:  #333333;
+    		font-style: italic;
+    	}
+    	.confirm{
+    		padding-top: 2px;
+    		height: 30px;
+    		padding-bottom: 5px;
+    		padding-left: 340px;
+    	}
+    	/*.all{
+    		margin-left: 500px;
+    	}*/
+    	#recommend{
+    		margin-left: 400px;
+    	}
+    	#title{
+    		margin-left: 450px;
+    	}
+    	a{
+    		text-decoration: none;
+    	}
+    </style>
+	<body>
+		<div class="all">
+			<div id="title"><font size="5px">Tell us why you dislike QQLife New Tab</font></div>
+		<div class="question" id="question">
+			
+			<br />
+			<br />
+			<form action="" method="get" target="_self">
+				<div class="font"><input id="checkbox4" type="checkbox" name="checkbox" value="1"><label for="checkbox4">Bad design/user interface</label></div>
+				<div class="font"><input id="checkbox1" type="checkbox" name="checkbox" value="2"><label for="checkbox1">It is unuseful</label></div>
+				<div class="font"><input id="checkbox2" type="checkbox" name="checkbox" value="2"><label for="checkbox2">I install a better extension</label></div>
+				<div class="font"><input id="checkbox3" type="checkbox" name="checkbox" value="3"><label for="checkbox3">Make my browser slow</label></div>
+				<br />
+				<div >
+				<font size="3px">other</font><br />
+				<textarea class="width"></textarea></div><br />
+				<div class="question_text"><label class="submit">submit</label></div>
+			</form>
+		</div>
+		
+		<div id="recommend">
+			
+			<div class="re_top">
+				<div class="re_top1"><font color="white" size="5">You may try some other</font></div>
+				<div class="re_top2"><font color="white" size="5">popular extensions for Chrome</font></div>
+			</div>
+			<!--
+            	recommended extension
+            -->
+			<a target="_blank" href="https://chrome.google.com/webstore/detail/better-start-new-tab-hd-w/foblenpmbgfbpompfjophgobpfgbmoni">
+			<div class="re_app">
+				<div class="re_left">
+					<br />
+					<img src="../Logo-48.png"  width="120px"/>
+				</div>
+				<div class="re_lefts">
+					<div class="title"><font class="title_text">QQLife New Tab, HD Wallpaper, We...</font></div>
+					<div class="fivestar" ><font class="fivestar_text">★★★★★</font></div>
+					<div class="desc"><font class="desc_text">QQLife New Tab customize your Chrome a simple, beautiful, clean, HD New Tab page,Free HD wallpaper, Download ... </font></div>
+					<div class="confirm" class="detail"><label class="detail">detail</label></div>
+				</div>
+			</div>
+			</a>
+		
+		</div>
+		
+		</div>
+	</body>
+<script src="../js/question.js"></script>
+</html>

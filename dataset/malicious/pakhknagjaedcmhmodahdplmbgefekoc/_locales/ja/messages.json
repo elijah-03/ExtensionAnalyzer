@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "約"
+},
+"background": {
+"message": "バックグラウンド"
+},
+"better_click": {
+"message": "クリックして、背景を変更する"
+},
+"better_down": {
+"message": "現在の壁紙をダウンロード"
+},
+"better_fb": {
+"message": "Facebookに共有"
+},
+"better_google": {
+"message": "Google+に共有する"
+},
+"better_memu": {
+"message": "設定の表示メニュー"
+},
+"better_pin": {
+"message": "現在の壁紙を固定することができます"
+},
+"better_pinned": {
+"message": "あなたは現在の壁紙を固定しました"
+},
+"better_print": {
+"message": "共有するPinterest"
+},
+"better_qq": {
+"message": "QQゾーンに共有する"
+},
+"better_sina": {
+"message": "シーナに共有"
+},
+"better_start": {
+"message": "進撃の巨人の新しいタブ"
+},
+"better_twitter": {
+"message": "Twitterに共有する"
+},
+"color": {
+"message": "ソリッドカラー"
+},
+"extDescription": {
+"message": "Google™イメージから壁紙を自動的に更新したり、壁紙を検索してChromeの新しいタブページをカスタマイズできます。"
+},
+"extName": {
+"message": "進撃の巨人の新しいタブ、カスタマイズされた壁紙HD"
+},
+"fivestar1": {
+"message": "進撃の巨人 New Tabが好きですか？"
+},
+"fivestar2": {
+"message": "Chromeストアのレビューをお待ちしております。"
+},
+"image": {
+"message": "ローカル画像"
+},
+"library": {
+"message": "ライブラリからの更新"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "今はやめろ"
+},
+"pinned_confirm": {
+"message": "あなたは現在の壁紙を固定しました、あなたはそれを更新してもよろしいですか？"
+},
+"search": {
+"message": "サーチ"
+},
+"setting": {
+"message": "設定"
+},
+"share": {
+"message": "友達に共有する"
+},
+"upload": {
+"message": "アップロード"
+},
+"visit": {
+"message": "最も訪問された"
+},
+"yes": {
+"message": "はい"
+},
+"today": {
+"message": "今日"
+},
+"mon": {
+"message": "月曜"
+},
+"tue": {
+"message": "火曜日"
+},
+"wed": {
+"message": "水曜日"
+},
+"thu": {
+"message": "木曜日"
+},
+"fri": {
+"message": "金曜日"
+},
+"sat": {
+"message": "土曜日"
+},
+"sun": {
+"message": "日曜日"
+},
+"upload_tip": {
+"message": "アップロードされた画像のサイズが大きすぎます！"
+},
+"upload_close": {
+"message": "閉じる"
+},
+"unkownLocation": {
+"message": "不明な場所"
+},
+"frequent": {
+"message": "更新頻度"
+},
+"fre_pin": {
+"message": "現在の背景を固定する"
+},
+"fre_never": {
+"message": "絶対に"
+},
+"fre_min": {
+"message": "毎分"
+},
+"fre_hour": {
+"message": "毎時"
+},
+"fre_day": {
+"message": "毎日"
+},
+"search_tip1": {
+"message": "あなたは入力します"
+},
+"search_tip2": {
+"message": "サーチ"
+},
+"history1": {
+"message": "最も訪問されたサイトを表示する"
+},
+"history2": {
+"message": "訪問したほとんどのウェブサイトを設定で復元できます。"
+},
+"weather": {
+"message": "天気予報を表示する"
+},
+"self_add": {
+"message": "あなたはそれを追加しました。"
+},
+"self_travel": {
+"message": "自分の壁紙ライブラリを構築するためのキーワードを入力"
+},
+"self_search": {
+"message": "サーチ"
+},
+"self_load": {
+"message": "読み込んだ"
+},
+"self_scroll": {
+"message": "下にスクロールしてさらに読み込みます。"
+},
+"self_customize": {
+"message": "ライブラリのカスタマイズ"
+},
+"self_selected": {
+"message": "選択された"
+},
+"self_finish": {
+"message": "壁紙ライブラリを構築する"
+},
+"self_allow": {
+"message": "他の人がこのライブラリを使用できるようにする"
+},
+"recommend1": {
+"message": "アート"
+},
+"recommend2": {
+"message": "愛"
+},
+"recommend3": {
+"message": "ビーチ"
+},
+"recommend4": {
+"message": "狼"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "ネコ"
+},
+"recommend7": {
+"message": "漫画"
+},
+"Customize_Library": {
+"message": "ライブラリのカスタマイズ"
+},
+"wallpapers": {
+"message": "壁紙"
+},
+"delete": {
+"message": "削除してもよろしいですか？"
+},
+"wordpress_title": {
+"message": "カスタマイズされた壁紙のHDテーマ -  進撃の巨人の新しいタブ"
+},
+"wordpress_get": {
+"message": "私のクロムのこのテーマを取得する"
+},
+"better_customized": {
+"message": "独自の壁紙ライブラリを構築する"
+},
+"better_shares": {
+"message": "それをクリックし、あなたの友人と共有する"
+},
+"better_save": {
+"message": "お気に入りに追加"
+},
+"better_remove": {
+"message": "お気に入りから削除"
+},
+"share_tip": {
+"message": "お気に入りに正常に追加されました。この拡張機能を共有することもできます："
+},
+"login": {
+"message": "ログインする必要があります"
+}
+}

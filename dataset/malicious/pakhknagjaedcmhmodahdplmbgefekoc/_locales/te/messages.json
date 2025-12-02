@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "గురించి"
+},
+"background": {
+"message": "నేపథ్య"
+},
+"better_click": {
+"message": "దీన్ని క్లిక్ చేయండి, నేపధ్యం మార్చండి"
+},
+"better_down": {
+"message": "ప్రస్తుత వాల్పేపర్ను డౌన్లోడ్ చేయండి"
+},
+"better_fb": {
+"message": "Facebook కు భాగస్వామ్యం చేయండి"
+},
+"better_google": {
+"message": "Google+ కు భాగస్వామ్యం చేయండి"
+},
+"better_memu": {
+"message": "సెట్టింగ్ల మెనుని చూపు"
+},
+"better_pin": {
+"message": "మీరు ప్రస్తుత వాల్పేపర్ను పిన్ చేయవచ్చు"
+},
+"better_pinned": {
+"message": "మీరు ప్రస్తుత వాల్పేపర్ను పిన్ చేశారు"
+},
+"better_print": {
+"message": "Pinterest కు భాగస్వామ్యం చేయండి"
+},
+"better_qq": {
+"message": "QQ జోన్కు భాగస్వామ్యం చేయండి"
+},
+"better_sina": {
+"message": "సినాకు భాగస్వామ్యం చేయండి"
+},
+"better_start": {
+"message": "Attack on Titan న్యూ టాబ్"
+},
+"better_twitter": {
+"message": "Twitter కు భాగస్వామ్యం చేయండి"
+},
+"color": {
+"message": "ఘన రంగు"
+},
+"extDescription": {
+"message": "మీ Chrome క్రొత్త ట్యాబ్ పేజీని అనుకూలీకరించడానికి Google చిత్రాల నుండి స్వీయ నవీకరణ సంక్రాంతి లేదా శోధన సంక్రాంతి."
+},
+"extName": {
+"message": "Attack on Titan న్యూ టాబ్, అనుకూలీకరించిన వాల్ పేపర్స్ HD"
+},
+"fivestar1": {
+"message": "మీరు Attack on Titan కొత్త ట్యాబ్ను ఇష్టపడుతున్నారా?"
+},
+"fivestar2": {
+"message": "దయచేసి Chrome స్టోర్లో మాకు మంచి సమీక్షనివ్వండి."
+},
+"image": {
+"message": "స్థానిక చిత్రం"
+},
+"library": {
+"message": "లైబ్రరీ నుండి నవీకరణ"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "ఇప్పుడు కాదు"
+},
+"pinned_confirm": {
+"message": "మీరు ప్రస్తుత వాల్పేపర్ను పిన్ చేసారు, దాన్ని ఖచ్చితంగా అప్ డేట్ చేస్తున్నారా?"
+},
+"search": {
+"message": "శోధన"
+},
+"setting": {
+"message": "సెట్టింగులను"
+},
+"share": {
+"message": "మీ స్నేహితులకు భాగస్వామ్యం చేయండి"
+},
+"upload": {
+"message": "అప్లోడ్"
+},
+"visit": {
+"message": "బాగా సందర్సించబడిన"
+},
+"yes": {
+"message": "అవును"
+},
+"today": {
+"message": "నేడు"
+},
+"mon": {
+"message": "సోమవారం"
+},
+"tue": {
+"message": "మంగళవారం"
+},
+"wed": {
+"message": "బుధవారం"
+},
+"thu": {
+"message": "గురువారం"
+},
+"fri": {
+"message": "శుక్రవారం"
+},
+"sat": {
+"message": "శనివారం"
+},
+"sun": {
+"message": "ఆదివారం"
+},
+"upload_tip": {
+"message": "అప్లోడ్ చేసిన చిత్రం పరిమాణం చాలా పెద్దది!"
+},
+"upload_close": {
+"message": "Close"
+},
+"unkownLocation": {
+"message": "తెలియని స్థానం"
+},
+"frequent": {
+"message": "నవీకరణ పౌనఃపున్య"
+},
+"fre_pin": {
+"message": "ప్రస్తుత నేపథ్యాన్ని పిన్ చేయడానికి"
+},
+"fre_never": {
+"message": "నెవర్"
+},
+"fre_min": {
+"message": "ప్రతి నిమిషం"
+},
+"fre_hour": {
+"message": "ప్రతి గంట"
+},
+"fre_day": {
+"message": "ప్రతి రోజు"
+},
+"search_tip1": {
+"message": "మీరు ప్రవేశిస్తారు"
+},
+"search_tip2": {
+"message": "శోధన"
+},
+"history1": {
+"message": "ఎక్కువగా సందర్శించిన సైట్లు చూపించు"
+},
+"history2": {
+"message": "మీరు ఎక్కువగా సందర్శించే వెబ్సైట్లను సెట్టింగులలో పునరుద్ధరించవచ్చు."
+},
+"weather": {
+"message": "వాతావరణ సూచన చూపించు"
+},
+"self_add": {
+"message": "మీరు దీన్ని జోడించుకున్నారు."
+},
+"self_travel": {
+"message": "ఇన్పుట్ కీలక పదాలు మీ స్వంత వాల్ పేపర్స్ లైబ్రరీని నిర్మించటానికి"
+},
+"self_search": {
+"message": "శోధన"
+},
+"self_load": {
+"message": "లోడ్ చేసారు"
+},
+"self_scroll": {
+"message": "మరింత లోడ్ చేయడానికి క్రిందికి స్క్రోల్ చేయండి."
+},
+"self_customize": {
+"message": "లైబ్రరీని అనుకూలపరచండి"
+},
+"self_selected": {
+"message": "ఎంపిక"
+},
+"self_finish": {
+"message": "వాల్పేపర్ల లైబ్రరీని బిల్డ్"
+},
+"self_allow": {
+"message": "ఇతరులు ఈ లైబ్రరీని ఉపయోగించడానికి అనుమతించండి"
+},
+"recommend1": {
+"message": "ఆర్ట్"
+},
+"recommend2": {
+"message": "లవ్"
+},
+"recommend3": {
+"message": "బీచ్"
+},
+"recommend4": {
+"message": "వోల్ఫ్"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "క్యాట్"
+},
+"recommend7": {
+"message": "కార్టూన్"
+},
+"Customize_Library": {
+"message": "లైబ్రరీని అనుకూలపరచండి"
+},
+"wallpapers": {
+"message": "సంక్రాంతి"
+},
+"delete": {
+"message": "దీన్ని ఖచ్చితంగా తొలగించాలా?"
+},
+"wordpress_title": {
+"message": "వాల్పేపర్ HD థీమ్స్-క్లైఫ్ న్యూ టాబ్ అనుకూలీకరించబడింది"
+},
+"wordpress_get": {
+"message": "నా Chrome కోసం ఈ థీమ్ను పొందండి"
+},
+"better_customized": {
+"message": "మీ సొంత వాల్పేపర్ లైబ్రరీని నిర్మించండి"
+},
+"better_shares": {
+"message": "దీన్ని క్లిక్ చేయండి, మీ స్నేహితులకు భాగస్వామ్యం చేయండి"
+},
+"better_save": {
+"message": "ఇష్టమైనవికి జోడించు"
+},
+"better_remove": {
+"message": "ఇష్టాల నుండి తీసివేయండి"
+},
+"share_tip": {
+"message": "విజయవంతంగా ఇష్టమైన జోడించబడింది, మీరు ఈ పొడిగింపును కూడా భాగస్వామ్యం చేయవచ్చు:"
+},
+"login": {
+"message": "మీరు లాగిన్ కావాలి"
+}
+}

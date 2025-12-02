@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "About"
+},
+"background": {
+"message": "Background"
+},
+"better_click": {
+"message": "Click it , Change Background"
+},
+"better_down": {
+"message": "Download current wallpaper"
+},
+"better_fb": {
+"message": "Share to Facebook"
+},
+"better_google": {
+"message": "Share to Google+"
+},
+"better_memu": {
+"message": "Show settings menu"
+},
+"better_pin": {
+"message": "You can pin the current wallpaper"
+},
+"better_pinned": {
+"message": "You have pinned the current wallpaper"
+},
+"better_print": {
+"message": "Share to Pinterest"
+},
+"better_qq": {
+"message": "Share to QQ Zone"
+},
+"better_sina": {
+"message": "Share to Sina"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "Share to Twitter"
+},
+"color": {
+"message": "Solid Color"
+},
+"extDescription": {
+"message": "Attack on Titan New Tab customize your Chrome a simple, beautiful, clean, HD New Tab page."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Wallpapers HD"
+},
+"fivestar1": {
+"message": "Do you like Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Please give us a good review on Chrome Store."
+},
+"image": {
+"message": "Local image"
+},
+"library": {
+"message": "Update from Library"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Not now"
+},
+"pinned_confirm": {
+"message": "You pinned the current wallpaper, are you sure to update it?"
+},
+"search": {
+"message": "Search"
+},
+"setting": {
+"message": "settings"
+},
+"share": {
+"message": "Share to your friends"
+},
+"upload": {
+"message": "Upload"
+},
+"visit": {
+"message": "Most Visited"
+},
+"yes": {
+"message": "Yes"
+},
+"today": {
+"message": "Today"
+},
+"mon": {
+"message": "Monday"
+},
+"tue": {
+"message": "Tuesday"
+},
+"wed": {
+"message": "Wednesday"
+},
+"thu": {
+"message": "Thursday"
+},
+"fri": {
+"message": "Friday"
+},
+"sat": {
+"message": "Saturday"
+},
+"sun": {
+"message": "Sunday"
+},
+"upload_tip": {
+"message": "The uploaded image size is too large!"
+},
+"upload_close": {
+"message": "Close"
+},
+"unkownLocation":{
+"message": "Unknown Location"
+},
+"frequent":{
+"message": "Update Frequency"
+},
+"fre_pin":{
+"message": "To pin current background"
+},
+"fre_never":{
+"message": "Never"
+},
+"fre_min":{
+"message": "Every Minute"
+},
+"fre_hour":{
+"message": "Every Hour"
+},
+"fre_day":{
+"message": "Every Day"
+},
+"search_tip1":{
+"message": "You will enter"
+},
+"search_tip2":{
+"message": "search"
+},
+"history1":{
+"message": "Show most visited sites"
+},
+"history2":{
+"message": "You can restore most visited websites in settings."
+},
+"weather":{
+"message": "Show the weather forecast "
+},
+"self_add":{
+"message": "You have added it."
+},
+"self_travel":{
+"message": "Input keywords to build your own wallpapers library"
+},
+"self_search":{
+"message": "search"
+},
+"self_load":{
+"message": "Have loaded "
+},
+"self_scroll":{
+"message": "scroll down to load more."
+},
+"self_customize":{
+"message": "Customize Library"
+},
+"self_selected":{
+"message": "selected"
+},
+"self_finish":{
+"message": "Build wallpapers library"
+},
+"self_allow":{
+"message": "Allow others to use this library"
+},
+"recommend1":{
+"message": "Art"
+},
+"recommend2":{
+"message": "Love"
+},
+"recommend3":{
+"message": "Beach"
+},
+"recommend4":{
+"message": "Wolf"
+},
+"recommend5":{
+"message": "EXO"
+},
+"recommend6":{
+"message": "Cat"
+},
+"recommend7":{
+"message": "Cartoon"
+},
+"Customize_Library":{
+"message": "Customize Library"
+},
+"wallpapers":{
+"message": "wallpapers"
+},
+"delete":{
+"message": "Are you sure to delete it？"
+},
+"wordpress_title":{
+"message": "Customized Wallpaper HD Themes-Attack on Titan New Tab"
+},
+"wordpress_get":{
+"message": "Get this theme for my chrome"
+},
+"better_customized":{
+"message": "Build your own wallpapers library"
+},
+"better_shares":{
+"message": "Click it ,share to your friends"
+},
+"better_save":{
+"message": "Add to favorites"
+},
+"better_remove":{
+"message": "Remove from favorites"
+},
+"share_tip":{
+"message": "Added to favorite successfully, you can also share this extension to: "
+},
+"login":{
+"message": "You need login in"
+}
+}

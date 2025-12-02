@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Kuhusu"
+},
+"background": {
+"message": "Background"
+},
+"better_click": {
+"message": "Bofya, Badilisha Background"
+},
+"better_down": {
+"message": "Pakua picha ya sasa"
+},
+"better_fb": {
+"message": "Shiriki kwenye Facebook"
+},
+"better_google": {
+"message": "Shiriki kwa Google+"
+},
+"better_memu": {
+"message": "Onyesha orodha ya mipangilio"
+},
+"better_pin": {
+"message": "Unaweza kupakia Ukuta wa sasa"
+},
+"better_pinned": {
+"message": "Umefunga Ukuta wa sasa"
+},
+"better_print": {
+"message": "Shiriki kwa Pinterest"
+},
+"better_qq": {
+"message": "Shiriki Eneo la QQ"
+},
+"better_sina": {
+"message": "Shiriki kwa Sina"
+},
+"better_start": {
+"message": "Kitanda kipya cha Attack on Titan"
+},
+"better_twitter": {
+"message": "Shiriki kwa Twitter"
+},
+"color": {
+"message": "Rangi imara"
+},
+"extDescription": {
+"message": "Sasisha faragha wallpapers au kutafuta wallpapers kutoka Google ™ Picha ili Customize ukurasa wako mpya wa kichupo cha Chrome."
+},
+"extName": {
+"message": "Kitanda kipya cha Attack on Titan, Wallpapers za Hifadhi za HD"
+},
+"fivestar1": {
+"message": "Je, ungependa Tab mpya ya Attack on Titan?"
+},
+"fivestar2": {
+"message": "Tafadhali tupe maoni mapya kwenye Duka la Chrome."
+},
+"image": {
+"message": "Picha ya mitaa"
+},
+"library": {
+"message": "Sasisha kutoka kwenye Maktaba"
+},
+"no": {
+"message": "HAPANA"
+},
+"not_now": {
+"message": "Sio kwa sasa"
+},
+"pinned_confirm": {
+"message": "Umeweka karatasi ya sasa, je, unaihakikishia kuibadilisha?"
+},
+"search": {
+"message": "Tafuta"
+},
+"setting": {
+"message": "mipangilio"
+},
+"share": {
+"message": "Shiriki kwa marafiki zako"
+},
+"upload": {
+"message": "Pakia"
+},
+"visit": {
+"message": "Waliotembelewa zaidi"
+},
+"yes": {
+"message": "Ndiyo"
+},
+"today": {
+"message": "Leo"
+},
+"mon": {
+"message": "Jumatatu"
+},
+"tue": {
+"message": "Jumanne"
+},
+"wed": {
+"message": "Jumatano"
+},
+"thu": {
+"message": "Alhamisi"
+},
+"fri": {
+"message": "Ijumaa"
+},
+"sat": {
+"message": "Jumamosi"
+},
+"sun": {
+"message": "Jumapili"
+},
+"upload_tip": {
+"message": "Ukubwa wa picha iliyopakiwa ni kubwa sana!"
+},
+"upload_close": {
+"message": "Funga"
+},
+"unkownLocation": {
+"message": "Eneo Haijulikani"
+},
+"frequent": {
+"message": "Sasisha Frequency"
+},
+"fre_pin": {
+"message": "Piga historia ya sasa"
+},
+"fre_never": {
+"message": "Kamwe"
+},
+"fre_min": {
+"message": "Kila dakika"
+},
+"fre_hour": {
+"message": "Saa Kila"
+},
+"fre_day": {
+"message": "Kila siku"
+},
+"search_tip1": {
+"message": "Utaingia"
+},
+"search_tip2": {
+"message": "tafuta"
+},
+"history1": {
+"message": "Onyesha maeneo yaliyotembelewa zaidi"
+},
+"history2": {
+"message": "Unaweza kurejesha tovuti nyingi zilizorejeshwa katika mipangilio."
+},
+"weather": {
+"message": "Onyesha utabiri wa hali ya hewa"
+},
+"self_add": {
+"message": "Umeongeza."
+},
+"self_travel": {
+"message": "Maneno ya kuingia ya kujenga maktaba yako mwenyewe ya wallpapers"
+},
+"self_search": {
+"message": "tafuta"
+},
+"self_load": {
+"message": "Umebeba"
+},
+"self_scroll": {
+"message": "fungua chini ili kupakia zaidi."
+},
+"self_customize": {
+"message": "Customize Library"
+},
+"self_selected": {
+"message": "kuchaguliwa"
+},
+"self_finish": {
+"message": "Jenga maktaba ya wallpapers"
+},
+"self_allow": {
+"message": "Ruhusu wengine kutumia maktaba hii"
+},
+"recommend1": {
+"message": "Sanaa"
+},
+"recommend2": {
+"message": "Upendo"
+},
+"recommend3": {
+"message": "Beach"
+},
+"recommend4": {
+"message": "mbwa Mwitu"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Katuni"
+},
+"Customize_Library": {
+"message": "Customize Library"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Una uhakika kuifuta?"
+},
+"wordpress_title": {
+"message": "Karatasi ya Customized HD Themes-Attack on Titan Tab mpya"
+},
+"wordpress_get": {
+"message": "Pata mada hii kwa chrome yangu"
+},
+"better_customized": {
+"message": "Jenga maktaba yako mwenyewe ya wallpapers"
+},
+"better_shares": {
+"message": "Bofya, shiriki na marafiki zako"
+},
+"better_save": {
+"message": "Ongeza kwa vipendwa"
+},
+"better_remove": {
+"message": "Ondoa kutoka kwa vipendwa"
+},
+"share_tip": {
+"message": "Imeongezwa kwa kupendwa kwa mafanikio, unaweza pia kushiriki ugani huu kwa:"
+},
+"login": {
+"message": "Unahitaji kuingia kwenye"
+}
+}

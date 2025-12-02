@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "در باره"
+},
+"background": {
+"message": "زمینه"
+},
+"better_click": {
+"message": "روی آن کلیک کنید، پس زمینه را تغییر دهید"
+},
+"better_down": {
+"message": "تصویر زمینه فعلی را دانلود کنید"
+},
+"better_fb": {
+"message": "در فیسبوک به اشتراک بگذار"
+},
+"better_google": {
+"message": "اشتراک در + Google"
+},
+"better_memu": {
+"message": "نمایش منوی تنظیمات"
+},
+"better_pin": {
+"message": "شما می توانید تصویر زمینه فعلی را پین کنید"
+},
+"better_pinned": {
+"message": "شما تصویر زمینه فعلی را بستید"
+},
+"better_print": {
+"message": "اشتراک در Pinterest"
+},
+"better_qq": {
+"message": "به QQ منطقه تقسیم کنید"
+},
+"better_sina": {
+"message": "به سینا بپیوندید"
+},
+"better_start": {
+"message": "Tab Tab جدید Attack on Titan"
+},
+"better_twitter": {
+"message": "به توییتر بپیوندید"
+},
+"color": {
+"message": "جامد رنگ"
+},
+"extDescription": {
+"message": "به روز رسانی خودکار تصاویر پس زمینه و یا تصاویر پس زمینه جستجو از Google ™ عکس برای سفارشی کردن صفحه برگه جدید Chrome خود را."
+},
+"extName": {
+"message": "Attack on Titan برگه جدید، تصاویر پس زمینه سفارشی HD"
+},
+"fivestar1": {
+"message": "آیا Tab New Tab Attack on Titan را دوست دارید؟"
+},
+"fivestar2": {
+"message": "لطفا در Chrome Store یک بررسی خوب داشته باشید."
+},
+"image": {
+"message": "تصویر محلی"
+},
+"library": {
+"message": "به روزرسانی از کتابخانه"
+},
+"no": {
+"message": "نه"
+},
+"not_now": {
+"message": "الان نه"
+},
+"pinned_confirm": {
+"message": "تصویر زمینه فعلی را بستید، آیا مطمئنید که آن را به روز کنید؟"
+},
+"search": {
+"message": "جستجو کردن"
+},
+"setting": {
+"message": "تنظیمات"
+},
+"share": {
+"message": "به دوستانتان به اشتراک بگذارید"
+},
+"upload": {
+"message": "بارگذاری"
+},
+"visit": {
+"message": "بیشترین بازدید"
+},
+"yes": {
+"message": "بله"
+},
+"today": {
+"message": "امروز"
+},
+"mon": {
+"message": "دوشنبه"
+},
+"tue": {
+"message": "سهشنبه"
+},
+"wed": {
+"message": "چهار شنبه"
+},
+"thu": {
+"message": "پنج شنبه"
+},
+"fri": {
+"message": "جمعه"
+},
+"sat": {
+"message": "شنبه"
+},
+"sun": {
+"message": "یکشنبه"
+},
+"upload_tip": {
+"message": "اندازه تصویر آپلود شده خیلی بزرگ است!"
+},
+"upload_close": {
+"message": "نزدیک"
+},
+"unkownLocation": {
+"message": "موقعیت نامشخص"
+},
+"frequent": {
+"message": "فرکانس به روز رسانی"
+},
+"fre_pin": {
+"message": "برای پین کردن پس زمینه فعلی"
+},
+"fre_never": {
+"message": "هرگز"
+},
+"fre_min": {
+"message": "هر دقیقه"
+},
+"fre_hour": {
+"message": "هر ساعت"
+},
+"fre_day": {
+"message": "هر روز"
+},
+"search_tip1": {
+"message": "شما وارد می شوید"
+},
+"search_tip2": {
+"message": "جستجو کردن"
+},
+"history1": {
+"message": "نمایش سایت هایی که بیشتر بازدید شده اند"
+},
+"history2": {
+"message": "شما می توانید وب سایت های بازدید شده را در تنظیمات بازگردانید."
+},
+"weather": {
+"message": "نمایش پیش بینی آب و هوا"
+},
+"self_add": {
+"message": "شما آن را اضافه کرده اید"
+},
+"self_travel": {
+"message": "کلمات کلیدی ورودی برای ایجاد کتابخانه تصاویر پس زمینه خود"
+},
+"self_search": {
+"message": "جستجو کردن"
+},
+"self_load": {
+"message": "لود شده اند"
+},
+"self_scroll": {
+"message": "حرکت به پایین برای بارگذاری بیشتر."
+},
+"self_customize": {
+"message": "سفارشی سازی کتابخانه"
+},
+"self_selected": {
+"message": "انتخاب شد"
+},
+"self_finish": {
+"message": "کتابخانه تصاویر پس زمینه ساخت"
+},
+"self_allow": {
+"message": "اجازه دهید دیگران از این کتابخانه استفاده کنند"
+},
+"recommend1": {
+"message": "هنر"
+},
+"recommend2": {
+"message": "عشق"
+},
+"recommend3": {
+"message": "ساحل دریا"
+},
+"recommend4": {
+"message": "گرگ"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "گربه"
+},
+"recommend7": {
+"message": "کارتون"
+},
+"Customize_Library": {
+"message": "سفارشی سازی کتابخانه"
+},
+"wallpapers": {
+"message": "تصاویر پس زمینه"
+},
+"delete": {
+"message": "آیا مطمئن هستید که آن را حذف کنید؟"
+},
+"wordpress_title": {
+"message": "تصاویر پس زمینه سفارشی تم HD-Attack on Titan Tab جدید"
+},
+"wordpress_get": {
+"message": "دریافت این تم برای کروم من"
+},
+"better_customized": {
+"message": "کتابخانه تصاویر پس زمینه خود را بسازید"
+},
+"better_shares": {
+"message": "روی آن کلیک کنید، به دوستانتان به اشتراک بگذارید"
+},
+"better_save": {
+"message": "اضافه کردن به علاقه مندی ها"
+},
+"better_remove": {
+"message": "از علاقه مندی ها حذف شود"
+},
+"share_tip": {
+"message": "با موفقیت به موفقیت اضافه شده، می توانید این افزونه را به اشتراک بگذارید:"
+},
+"login": {
+"message": "شما باید وارد شوید"
+}
+}

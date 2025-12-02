@@ -1,0 +1,335 @@
+{
+  "extName": {
+    "message": "منزل الفيديو - كوكوكت"
+  },
+  "extDescription": {
+    "message": "أفضل إضافة تنزيل فيديو لـ Chrome ، يمكن لهذه الإضافة تنزيل الفيديو والموسيقى مجانًا وبأمان بنقرة واحدة."
+  },
+  "TnoResource": {
+    "message": "لم يتم الكشف عن أي ملف!"
+  },
+  "TdownSelected": {
+    "message": "تنزيل المحدد"
+  },
+  "TcopySelected": {
+    "message": "نسخ المحدد"
+  },
+  "TselectAll": {
+    "message": "تحديد الكل"
+  },
+  "TrevSelected": {
+    "message": "عكس التحديد"
+  },
+  "TtryHlsLabel": {
+    "message": "هل تواجه مشكلة في التنزيل أو لم يتم الكشف عن أي ملف؟"
+  },
+  "TtryHls": {
+    "message": "تنزيل قسري"
+  },
+  "TryHlsDesc": {
+    "message": "سيحاول Cococut تنزيل الفيديو أو تسجيله. عندما لا يتم استشعار فيديو صفحة الويب الحالية أو يكون التنزيل صعبًا ، يمكنك النقر فوقي للمحاولة."
+  },
+  "Tm3u8": {
+    "message": "تنزيل m3u8"
+  },
+  "Tplay": {
+    "message": "تشغيل"
+  },
+  "TtryPlay": {
+    "message": "تجربة التشغيل"
+  },
+  "TpopM3u8Des": {
+    "message": "تدفق"
+  },
+  "Tdownload": {
+    "message": "تنزيل"
+  },
+  "Tcopy": {
+    "message": "نسخ عنوان URL"
+  },
+  "TtempntcInfoCopied": {
+    "message": "تم النسخ!"
+  },
+  "TCloseBtn": {
+    "message": "إغلاق"
+  },
+  "TpopNotSupport": {
+    "message": "عذرًا ، لكننا لا ندعم هذه الصفحة."
+  },
+  "TpopNotSuppWhy": {
+    "message": "انقر فوقي لمعرفة السبب والحل المحتمل."
+  },
+  "TpopOptionBtn": {
+    "message": "إعدادات التنزيل"
+  },
+  "TpopQuestionBtn": {
+    "message": "التعليقات والأسئلة الشائعة"
+  },
+  "TpopHomePageBtn": {
+    "message": "صفحة Cococut الرئيسية"
+  },
+  "TpopYTDLdesc": {
+    "message": "إذا كنت على صفحة مشاهدة YouTube ، فيمكنك محاولة تنزيل فيديو YouTube."
+  },
+  "TpopYTDLdlIt": {
+    "message": "محاولة تنزيل فيديو YouTube"
+  },
+  "TpopNeedPlayit": {
+    "message": "قد تحتاج إلى تشغيل الفيديو أولاً لمساعدة Cococut في العثور عليه."
+  },
+  "TpopNeedPlayit2": {
+    "message": "يحتاج بعض الفيديوهات إلى بدء التشغيل قبل أن يتمكنوا من التنزيل. أو يمكنك النقر فوق زر \"تنزيل قسري\"."
+  },
+  "TpopBlockDomain": {
+    "message": "حظر الملفات من هذا النطاق من الظهور في قائمة التنزيل"
+  },
+  "TpopBlockedDomainNotify": {
+    "message": "لن يتم عرض الملفات من النطاق أدناه في قائمة التنزيل."
+  },
+  "TpopTooManyFiles": {
+    "message": "يوجد الكثير من الملفات للعرض. يمكنك تعيين عدد الملفات التي يتم عرضها باستخدام"
+  },
+  "TdlmDownload": {
+    "message": "افتح صفحة إدارة التنزيل الجديدة للتنزيل بموضوعات متعددة (واجعلها الطريقة الافتراضية للتنزيل)."
+  },
+  "TpopRealDlAddr": {
+    "message": "انقر فوقي لتصبح عضوًا محترفًا للحصول على رابط التنزيل."
+  },
+  "TcustomSetting": {
+    "message": "إعدادات كوكوكت"
+  },
+  "TcustomExt": {
+    "message": "امتداد الملف المخصص"
+  },
+  "TcustomExtDec": {
+    "message": "املأ الامتداد بدون \".\". <br/> سيتم الزحف على الملفات التي يزيد حجمها عن هذا الحجم. <br/> إذا كنت ترغب في تجاهل نوع معين من الملفات ، فيمكنك ملء حد الحجم بقيمة كبيرة ، مثل 1000000000000 <br/> قد لا يتم الزحف على بعض ملفات الموارد غير الوسائط."
+  },
+  "TcustomTypeIgn": {
+    "message": "إذا كنت ترغب في تجاهل نوع معين من الملفات ، فيمكنك ملء حد الحجم بقيمة كبيرة ، مثل 1000000000000."
+  },
+  "TcustomExtName": {
+    "message": "امتداد الملف"
+  },
+  "TcustomExtSize": {
+    "message": "حد الحجم"
+  },
+  "TcustomAdd": {
+    "message": "إضافة المزيد"
+  },
+  "TcustomAddMine": {
+    "message": "إضافة المزيد"
+  },
+  "TcustomCtDec": {
+    "message": "تستخدم بعض الملفات الوسائط امتدادات غير عادية وتحتاج إلى تقييم MIME. <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">قائمة بأنواع MIME.</a> دعم البطاقات البريدية ، وتطابق الامتدادات أولاً."
+  },
+  "TcustomCtMIME": {
+    "message": "MIME"
+  },
+  "TcustomOt": {
+    "message": "آخرون"
+  },
+  "TcustomOtIgnore": {
+    "message": "تجاهل المعلمات (تجنب التكرار)"
+  },
+  "TcustomOtIgnoreDec": {
+    "message": "تأتي بعض الملفات الوسائط مع معلمات. تحقق من تجاهل المعلمة لتصفية البيانات المكررة."
+  },
+  "TcustomOtReg": {
+    "message": "تعبير عادي يتطابق مع معلمات الفيديو. إذا لم تفهم RE ، فلا تتحرك ، يمكنك استخدام إعادة التعيين للاستعادة."
+  },
+  "TcustomOtFilename": {
+    "message": "استخدام عنوان الصفحة كاسم الملف عند التنزيل."
+  },
+  "TcustomDebug": {
+    "message": "وضع التصحيح"
+  },
+  "ResetExt": {
+    "message": "إعادة تعيين"
+  },
+  "SaveExt": {
+    "message": "حفظ جميع الإعدادات"
+  },
+  "modalOkBtn": {
+    "message": "حسنا"
+  },
+  "modalCancelBtn": {
+    "message": "إلغاء"
+  },
+  "importSettingsOkBtn": {
+    "message": "حسنا"
+  },
+  "importSettingsCancelBtn": {
+    "message": "إلغاء"
+  },
+  "importSettingsWarning": {
+    "message": "تحذير: سيؤدي هذا إلى استبدال جميع الإعدادات الحالية."
+  },
+  "importSettingsFilelabel": {
+    "message": "اختر ملف إعدادات Cococut ..."
+  },
+  "importSettingsFilename": {
+    "message": "لم يتم تحديد أي ملف"
+  },
+  "TcustomShowCountOnIcon": {
+    "message": "عرض عدد الملفات على أيقونة امتداد CocoCut"
+  },
+  "TcustomExtNameEmpty": {
+    "message": "لا يمكن أن يكون امتداد الملف فارغًا."
+  },
+  "TcustomMineEmpty": {
+    "message": "لا يمكن أن يكون MIME فارغًا."
+  },
+  "TcustomSaved": {
+    "message": "تم الحفظ"
+  },
+  "TcustomComfirmRest": {
+    "message": "هل تريد إعادة التعيين؟ ستفقد جميع الإعدادات السابقة بعد إعادة التعيين!"
+  },
+  "Tm3PageTile": {
+    "message": "تحليل ملف m3u8"
+  },
+  "Tm3FileUri": {
+    "message": "عنوان URL لملف m3u8"
+  },
+  "Tm3FileCount": {
+    "message": " ملفات"
+  },
+  "Tm3Des1": {
+    "message": "إذا لم يتمكن تحميل ملف ts المحلل، يرجى محاولة فك تشفير UrlDecode."
+  },
+  "Tm3Des2": {
+    "message": "أمر دمج ملفات ts باستخدام Ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+  },
+  "Tm3Nextm3file": {
+    "message": "حدد ملف m3u8 المستوى التالي"
+  },
+  "Tm3Nexm3Des": {
+    "message": "يتم تضمين ملف m3u8 آخر في ملف m3u8."
+  },
+  "DownText": {
+    "message": "تنزيل كملف نصي"
+  },
+  "Text": {
+    "message": "تنسيق النص"
+  },
+  "Aria2Text": {
+    "message": "تنسيق Aria2"
+  },
+  "WgetText": {
+    "message": "تنسيق Wget"
+  },
+  "UrlDecode": {
+    "message": "فك تشفير UrlDecode"
+  },
+  "Refresh": {
+    "message": "إعادة تعيين"
+  },
+  "Tm3Key": {
+    "message": "، الملف الوسائطي مشفر، يرجى تنزيل ملف المفتاح."
+  },
+  "TbadgetTitle": {
+    "message": "تم العثور على $1 ملفات وسائط."
+  },
+  "TbgTryLater": {
+    "message": "عذرًا، التنزيل غير متاح مؤقتًا. يرجى المحاولة مرة أخرى في وقت لاحق أو بعد تحديث الصفحة."
+  },
+  "TbgIsDownloading": {
+    "message": "يتم تنزيل وسائط هذه الصفحة."
+  },
+  "Resolution": {
+    "message": "الدقة"
+  },
+  "High_Resolution": {
+    "message": "دقة عالية"
+  },
+  "Low_Resolution": {
+    "message": "دقة منخفضة"
+  },
+  "Other_Resolutions": {
+    "message": "دقة أخرى"
+  },
+  "Tloading": {
+    "message": "جار التحميل."
+  },
+  "Tdone": {
+    "message": "تم."
+  },
+  "TRecording": {
+    "message": "جار التسجيل."
+  },
+  "TErrorNoAudio": {
+    "message": "عذرًا، لم يتم العثور على صوت."
+  },
+  "TErrorFlushFail": {
+    "message": "عذرًا، لا يمكن دمج الفيديو."
+  },
+  "TErrorNoVideo": {
+    "message": "عذرًا، لم يتم العثور على فيديو. ربما يمكنك تجربة وضع التسجيل."
+  },
+  "TerrTryToRec": {
+    "message": "ربما يمكنك تجربة <a href=\"javascript:void(0)\" id=\"errTryToRec\">وضع التسجيل</a>؟"
+  },
+  "TwebmNotSupport": {
+    "message": "عذرًا، ولكن تنسيق webm ليس في قائمة الدعم الخاصة بنا."
+  },
+  "TerrDrmFound": {
+    "message": "عذرًا، ولكننا لا يمكننا تنزيل الفيديو لأنه قد يكون محميًا بواسطة DRM (إدارة الحقوق الرقمية)."
+  },
+  "TerrNoIndexFile": {
+    "message": "عذرًا، ولكننا لا يمكننا تنزيل ملف الفهرس لملفات الفيديو."
+  },
+  "TerrNoAvailableDownload": {
+    "message": "عذرًا، ولكننا لا يمكننا العثور على أي فيديو متاح للتنزيل."
+  },
+  "TerrResChoose": {
+    "message": "عذرًا، ولكن لدينا مشكلة في اختيار دقة الفيديو."
+  },
+  "TerrFailDownload": {
+    "message": "فشل تنزيل الملف."
+  },
+  "TerrForbidden": {
+    "message": "رمز حالة Http: ممنوع."
+  },
+  "TerrNotFound": {
+    "message": "رمز حالة Http: غير موجود."
+  },
+  "TerrRequestTimeout": {
+    "message": "رمز حالة Http: انتهت مهلة الطلب."
+  },
+  "TerrItself": {
+    "message": "خطأ."
+  },
+  "TtoFaq": {
+    "message": "انتقل إلى الأسئلة الشائعة لمعرفة ما إذا كان يمكن إصلاح المشكلة."
+  },
+  "TNotice_itemsFound": {
+    "message": "تم العثور على <strong>$1</strong> عنصر."
+  },
+  "TContinueRec": {
+    "message": "هل تريد متابعة وضع التسجيل؟"
+  },
+  "TtryRecMode": {
+    "message": "لا يمكن العثور على فيديو للتنزيل، ربما يمكنك تجربته مع وضع التسجيل؟"
+  },
+  "TswichtRecMode": {
+    "message": "التبديل إلى وضع تسجيل الفيديو"
+  },
+  "TAudio": {
+    "message": "الصوت"
+  },
+  "warn_chunksize_excess": {
+    "message": "تجاوز عدد الشظايا في التيار NUM_CHUNKS. يرجى حفظ هذا الفيديو على الفور ومحاولة التسجيل مرة أخرى، حيث قد لا يتمكن من معالجته بشكل أفضل."
+  },
+  "warn_discontig_fragments_found": {
+    "message": "جزء من التيار مفقود، ولكن التسجيل مستمر."
+  },
+  "warn_chapter_has_changed": {
+    "message": "تغيرت فصول التيار، ولكن التسجيل مستمر."
+  },
+  "subtitle": {
+    "message": "الترجمة"
+  },
+  "TnoResulution": {
+    "message": "تم العثور على دقة واحدة فقط"
+  }
+}

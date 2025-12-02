@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "për"
+},
+"background": {
+"message": "sfond"
+},
+"better_click": {
+"message": "Kliko atë, Ndryshimi Historiku"
+},
+"better_down": {
+"message": "Shkarko sfondin e tanishëm"
+},
+"better_fb": {
+"message": "Ndani në Facebook"
+},
+"better_google": {
+"message": "Ndaje në Google+"
+},
+"better_memu": {
+"message": "Shfaq menynë e cilësimeve"
+},
+"better_pin": {
+"message": "Ju mund të pin letër-muri aktuale"
+},
+"better_pinned": {
+"message": "Ju keni mbështetur sfondin aktual"
+},
+"better_print": {
+"message": "Ndajeni në Pinterest"
+},
+"better_qq": {
+"message": "Ndani në zonën QQ"
+},
+"better_sina": {
+"message": "Ndajeni në Sina"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "Ndani në Twitter"
+},
+"color": {
+"message": "Ngjyra e ngurta"
+},
+"extDescription": {
+"message": "Fotot e përditësimit automatik ose sfondin e imazheve nga Imazhet e Google ™ për të rregullour faqen tënde të tabelës së re të Chrome."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Customized Wallpapers HD"
+},
+"fivestar1": {
+"message": "A ju pëlqen Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Ju lutemi na jepni një shqyrtim të mirë në Chrome Store."
+},
+"image": {
+"message": "Imazhi lokal"
+},
+"library": {
+"message": "Përditëso nga Biblioteka"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Jo tani"
+},
+"pinned_confirm": {
+"message": "Ju keni mbështetur sfondin e tanishëm, a jeni të sigurtë ta përditësoni atë?"
+},
+"search": {
+"message": "kërkim"
+},
+"setting": {
+"message": "settings"
+},
+"share": {
+"message": "Ndani te miqtë tuaj"
+},
+"upload": {
+"message": "Ngarkoni"
+},
+"visit": {
+"message": "Me e vizituara"
+},
+"yes": {
+"message": "po"
+},
+"today": {
+"message": "sot"
+},
+"mon": {
+"message": "e hënë"
+},
+"tue": {
+"message": "e martë"
+},
+"wed": {
+"message": "e mërkurë"
+},
+"thu": {
+"message": "e enjte"
+},
+"fri": {
+"message": "e premte"
+},
+"sat": {
+"message": "e shtunë"
+},
+"sun": {
+"message": "e diel"
+},
+"upload_tip": {
+"message": "Madhësia e ngarkuar e imazhit është shumë e madhe!"
+},
+"upload_close": {
+"message": "afër"
+},
+"unkownLocation": {
+"message": "Vendndodhja e panjohur"
+},
+"frequent": {
+"message": "Përditësoni Frekuencën"
+},
+"fre_pin": {
+"message": "Për të identifikuar sfondin e tanishëm"
+},
+"fre_never": {
+"message": "kurrë"
+},
+"fre_min": {
+"message": "Cdo minute"
+},
+"fre_hour": {
+"message": "Çdo orë"
+},
+"fre_day": {
+"message": "Çdo ditë"
+},
+"search_tip1": {
+"message": "Ju do të hyni"
+},
+"search_tip2": {
+"message": "kërkim"
+},
+"history1": {
+"message": "Shfaq faqet më të vizituara"
+},
+"history2": {
+"message": "Ju mund t'i riktheni faqet e internetit më të vizituara në cilësimet."
+},
+"weather": {
+"message": "Trego parashikimin e motit"
+},
+"self_add": {
+"message": "Ju e keni shtuar ate."
+},
+"self_travel": {
+"message": "Futni fjalë kyçe për të ndërtuar bibliotekën tuaj të sfondit"
+},
+"self_search": {
+"message": "kërkim"
+},
+"self_load": {
+"message": "Jeni të ngarkuar"
+},
+"self_scroll": {
+"message": "shkoni poshtë për të ngarkuar më shumë."
+},
+"self_customize": {
+"message": "Personalizo Bibliotekën"
+},
+"self_selected": {
+"message": "i zgjedhur"
+},
+"self_finish": {
+"message": "Ndërtoni bibliotekat e sfondeve"
+},
+"self_allow": {
+"message": "Lejo të tjerët që të përdorin këtë bibliotekë"
+},
+"recommend1": {
+"message": "art"
+},
+"recommend2": {
+"message": "dashuri"
+},
+"recommend3": {
+"message": "plazh"
+},
+"recommend4": {
+"message": "ujk"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Mace"
+},
+"recommend7": {
+"message": "karikaturë"
+},
+"Customize_Library": {
+"message": "Personalizo Bibliotekën"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Je i sigurt ta fshish?"
+},
+"wordpress_title": {
+"message": "Customized Wallpaper HD Temat-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Merrni këtë temë për kromin tim"
+},
+"better_customized": {
+"message": "Ndërtoni vetë bibliotekën tuaj të sfondit"
+},
+"better_shares": {
+"message": "Kliko atë, ndani me miqtë tuaj"
+},
+"better_save": {
+"message": "Shto te të preferuarat"
+},
+"better_remove": {
+"message": "Hiq nga të preferuarit"
+},
+"share_tip": {
+"message": "Shtuar tek favoriti me sukses, gjithashtu mund të ndani këtë zgjerim në:"
+},
+"login": {
+"message": "Duhet të identifikohesh"
+}
+}

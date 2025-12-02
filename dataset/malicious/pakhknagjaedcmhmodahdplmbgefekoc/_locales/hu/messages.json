@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Ról ről"
+},
+"background": {
+"message": "Háttér"
+},
+"better_click": {
+"message": "Kattintson rá, Háttér módosítása"
+},
+"better_down": {
+"message": "Töltse le a jelenlegi háttérképet"
+},
+"better_fb": {
+"message": "Megosztás Facebookon"
+},
+"better_google": {
+"message": "Ossza meg a Google + -ot"
+},
+"better_memu": {
+"message": "A beállítások menü megjelenítése"
+},
+"better_pin": {
+"message": "Az aktuális háttérképet be lehet tapasztani"
+},
+"better_pinned": {
+"message": "Ön a jelenlegi háttérképet rögzítette"
+},
+"better_print": {
+"message": "Megosztás a Pinterestre"
+},
+"better_qq": {
+"message": "Ossza meg a QQ zónát"
+},
+"better_sina": {
+"message": "Ossza meg Sina-nak"
+},
+"better_start": {
+"message": "Attack on Titan új fül"
+},
+"better_twitter": {
+"message": "Megosztás a Twitterre"
+},
+"color": {
+"message": "Szolid szín"
+},
+"extDescription": {
+"message": "Automatikusan frissítsen háttérképeket vagy keressen háttérképeket a Google ™ Képekből a Chrome új lapjának testreszabásához."
+},
+"extName": {
+"message": "Attack on Titan új fül, egyedi háttérképek HD"
+},
+"fivestar1": {
+"message": "Tetszik a Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Kérjük, adjon nekünk egy jó áttekintést a Chrome Store szolgáltatásban."
+},
+"image": {
+"message": "Helyi kép"
+},
+"library": {
+"message": "Frissítés a könyvtárból"
+},
+"no": {
+"message": "NEM"
+},
+"not_now": {
+"message": "Nem most"
+},
+"pinned_confirm": {
+"message": "Ön rögzítette a jelenlegi háttérképet, biztos lehet benne, hogy frissíti?"
+},
+"search": {
+"message": "Keresés"
+},
+"setting": {
+"message": "beállítások"
+},
+"share": {
+"message": "Ossza meg barátait"
+},
+"upload": {
+"message": "Feltöltés"
+},
+"visit": {
+"message": "Legtöbbet látogatott"
+},
+"yes": {
+"message": "Igen"
+},
+"today": {
+"message": "Ma"
+},
+"mon": {
+"message": "hétfő"
+},
+"tue": {
+"message": "kedd"
+},
+"wed": {
+"message": "szerda"
+},
+"thu": {
+"message": "csütörtök"
+},
+"fri": {
+"message": "péntek"
+},
+"sat": {
+"message": "szombat"
+},
+"sun": {
+"message": "vasárnap"
+},
+"upload_tip": {
+"message": "A feltöltött kép mérete túl nagy!"
+},
+"upload_close": {
+"message": "Bezárás"
+},
+"unkownLocation": {
+"message": "Ismeretlen helyszín"
+},
+"frequent": {
+"message": "Frissítési gyakoriság"
+},
+"fre_pin": {
+"message": "Az aktuális háttér megkötése"
+},
+"fre_never": {
+"message": "Soha"
+},
+"fre_min": {
+"message": "Minden perc"
+},
+"fre_hour": {
+"message": "Minden órában"
+},
+"fre_day": {
+"message": "Minden nap"
+},
+"search_tip1": {
+"message": "Belépsz"
+},
+"search_tip2": {
+"message": "keresés"
+},
+"history1": {
+"message": "A leggyakrabban látogatott webhelyek megjelenítése"
+},
+"history2": {
+"message": "A leglátogatottabb weboldalakat visszaállíthatja a beállításokban."
+},
+"weather": {
+"message": "Mutassa az időjárás előrejelzést"
+},
+"self_add": {
+"message": "Hozzáadtad."
+},
+"self_travel": {
+"message": "Adja meg a kulcsszavakat saját háttérképek készítéséhez"
+},
+"self_search": {
+"message": "keresés"
+},
+"self_load": {
+"message": "Töltsd be"
+},
+"self_scroll": {
+"message": "görgessen le, hogy többet töltsön be."
+},
+"self_customize": {
+"message": "A könyvtár testreszabása"
+},
+"self_selected": {
+"message": "kiválasztott"
+},
+"self_finish": {
+"message": "Build wallpapers könyvtár"
+},
+"self_allow": {
+"message": "Engedélyezze másoknak ezt a könyvtárat"
+},
+"recommend1": {
+"message": "Művészet"
+},
+"recommend2": {
+"message": "Szerelem"
+},
+"recommend3": {
+"message": "Strand"
+},
+"recommend4": {
+"message": "Farkas"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Macska"
+},
+"recommend7": {
+"message": "Rajzfilm"
+},
+"Customize_Library": {
+"message": "A könyvtár testreszabása"
+},
+"wallpapers": {
+"message": "háttérképek"
+},
+"delete": {
+"message": "Biztosan törli?"
+},
+"wordpress_title": {
+"message": "Testreszabott háttérképek HD témák - Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Szerezd meg ezt a témát a krómom"
+},
+"better_customized": {
+"message": "Építsen saját háttérképek könyvtárát"
+},
+"better_shares": {
+"message": "Kattintson rá, ossza meg barátait"
+},
+"better_save": {
+"message": "Add hozzá a kedvencekhez"
+},
+"better_remove": {
+"message": "Eltávolítás a kedvencekből"
+},
+"share_tip": {
+"message": "A kedvencekhez hozzáadva a következőket is megoszthatja:"
+},
+"login": {
+"message": "Be kell jelentkeznie"
+}
+}

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Umbes"
+},
+"background": {
+"message": "Taust"
+},
+"better_click": {
+"message": "Klõpsake seda, muutke tausta"
+},
+"better_down": {
+"message": "Laadige alla praegune tapeet"
+},
+"better_fb": {
+"message": "Jaga Facebookis"
+},
+"better_google": {
+"message": "Jagage teenusesse Google+"
+},
+"better_memu": {
+"message": "Näita seadete menüüd"
+},
+"better_pin": {
+"message": "Võite kinnitada praeguse taustapildi"
+},
+"better_pinned": {
+"message": "Te olete kinnitatud praeguse taustapildi"
+},
+"better_print": {
+"message": "Jaga Pinterest"
+},
+"better_qq": {
+"message": "Jagage QQ-tsooni"
+},
+"better_sina": {
+"message": "Jaga Sina"
+},
+"better_start": {
+"message": "Attack on Titan uus vaheleht"
+},
+"better_twitter": {
+"message": "Jaga Twitteris"
+},
+"color": {
+"message": "Solid Color"
+},
+"extDescription": {
+"message": "Chrome'i uue vahelehe kohandamiseks värskendage automaatselt taustapilte või otsige taustapilte Google ™ Piltidelt."
+},
+"extName": {
+"message": "Attack on Titan uus vaheleht, kohandatud taustapildid HD"
+},
+"fivestar1": {
+"message": "Kas sulle meeldib Attack on Titan'i uus vaheleht?"
+},
+"fivestar2": {
+"message": "Palun andke meile Chrome poest hea ülevaate."
+},
+"image": {
+"message": "Kohalik pilt"
+},
+"library": {
+"message": "Uuendamine raamatukogust"
+},
+"no": {
+"message": "EI"
+},
+"not_now": {
+"message": "Mitte praegu"
+},
+"pinned_confirm": {
+"message": "Te kinnitasite praeguse taustapildi, kas soovite seda kindlasti värskendada?"
+},
+"search": {
+"message": "Otsing"
+},
+"setting": {
+"message": "seaded"
+},
+"share": {
+"message": "Jagage oma sõpradega"
+},
+"upload": {
+"message": "Laadi üles"
+},
+"visit": {
+"message": "Enim külastatud"
+},
+"yes": {
+"message": "Jah"
+},
+"today": {
+"message": "Täna"
+},
+"mon": {
+"message": "Esmaspäev"
+},
+"tue": {
+"message": "Teisipäev"
+},
+"wed": {
+"message": "Kolmapäev"
+},
+"thu": {
+"message": "Neljapäev"
+},
+"fri": {
+"message": "Reede"
+},
+"sat": {
+"message": "Laupäev"
+},
+"sun": {
+"message": "Pühapäev"
+},
+"upload_tip": {
+"message": "Laaditud pildi suurus on liiga suur!"
+},
+"upload_close": {
+"message": "Sulge"
+},
+"unkownLocation": {
+"message": "Tundmatu asukoht"
+},
+"frequent": {
+"message": "Värskendamise sagedus"
+},
+"fre_pin": {
+"message": "Praeguse tausta kinnitamiseks"
+},
+"fre_never": {
+"message": "Mitte kunagi"
+},
+"fre_min": {
+"message": "Iga minut"
+},
+"fre_hour": {
+"message": "Iga tund"
+},
+"fre_day": {
+"message": "Iga päev"
+},
+"search_tip1": {
+"message": "Sisestate"
+},
+"search_tip2": {
+"message": "otsing"
+},
+"history1": {
+"message": "Näita kõige külastatud saite"
+},
+"history2": {
+"message": "Saate taastada enim külastatud veebisaite seadetes."
+},
+"weather": {
+"message": "Näita ilmaennustust"
+},
+"self_add": {
+"message": "Te olete selle lisanud."
+},
+"self_travel": {
+"message": "Sisestama märksõnu enda taustapildi raamatukogu loomiseks"
+},
+"self_search": {
+"message": "otsing"
+},
+"self_load": {
+"message": "Ole koormatud"
+},
+"self_scroll": {
+"message": "Kerige alla, et laadida rohkem."
+},
+"self_customize": {
+"message": "Kohandage raamatukogu"
+},
+"self_selected": {
+"message": "valitud"
+},
+"self_finish": {
+"message": "Ehitage taustapildid"
+},
+"self_allow": {
+"message": "Lubage teistel seda raamatukogu kasutada"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Armastan"
+},
+"recommend3": {
+"message": "Rand"
+},
+"recommend4": {
+"message": "Hull"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kass"
+},
+"recommend7": {
+"message": "Cartoon"
+},
+"Customize_Library": {
+"message": "Kohandage raamatukogu"
+},
+"wallpapers": {
+"message": "taustapildid"
+},
+"delete": {
+"message": "Kas soovite kindlasti selle kustutada?"
+},
+"wordpress_title": {
+"message": "Kohandatud taustapildid HD-teemad-Attack on Titan uus vaheleht"
+},
+"wordpress_get": {
+"message": "Võta see teema minu kroomile"
+},
+"better_customized": {
+"message": "Ehita oma taustapildid teek"
+},
+"better_shares": {
+"message": "Klõpsake seda ja jagage oma sõpradega"
+},
+"better_save": {
+"message": "Lisa lemmikutesse"
+},
+"better_remove": {
+"message": "Eemalda lemmikutest"
+},
+"share_tip": {
+"message": "Võite edukalt lemmikuks lisada, saate seda laiendust ka jagada järgmiselt:"
+},
+"login": {
+"message": "Sa pead sisse logima"
+}
+}

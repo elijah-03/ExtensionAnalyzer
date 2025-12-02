@@ -1,0 +1,56 @@
+.div{
+	margin-left: 130PX;
+}
+a:hover {text-decoration:underline ; color:#f60 ;}
+.b_search_box{
+	width: 580px;
+	height: 44px;
+	padding-left : 6px;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    border-radius:2px;
+    background: url("data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D") transparent;"
+    /*border:1px   #D9D3C7 solid;*/
+}
+input .search_inputs{
+	line-height:34px;
+	width:100%;
+	height:auto;
+	border: none;
+	margin:0;
+    padding:0;
+    float:left;
+    font:16px arial,sans-serif;
+    color:#555;
+    background:none;
+}
+#search_box .search_input{width:500px;height:40px;border-radius:5px;padding:0 10px;float:left;border:1px   #A4A4A4 solid;display:;font-size:18px;color:#555;font-family:"microsoft yahei",Arial,Helvetica,sans-serif;background:none;}
+ .search_btn  {width:80px;height:40px;float:right;background: url(../image/main/search-active.png) no-repeat center center;border:none;cursor: pointer;}
+input.searchText{color:#aaa;}
+._wtf {
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}
+.sbico {
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    vertical-align: middle;
+    color: #4285f4;
+}
+.sbico-c {
+    background: transparent;
+    border: 0;
+    float: right;
+    height: 44px;
+    line-height: 44px;
+    /*margin-top: -1px;*/
+    outline: 0;
+    padding-right: 16px;
+    position: relative;
+    /*top: -1px;*/
+}

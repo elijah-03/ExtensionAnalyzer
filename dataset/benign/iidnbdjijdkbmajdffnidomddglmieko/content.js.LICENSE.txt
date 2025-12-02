@@ -1,0 +1,3 @@
+/*! (C) Copyright 2020 LanguageTooler GmbH. All rights reserved. */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/babel/babel/blob/main/packages/babel-helpers/LICENSE */

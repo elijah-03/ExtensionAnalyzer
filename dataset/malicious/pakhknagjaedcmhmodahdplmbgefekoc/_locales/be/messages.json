@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "аб"
+},
+"background": {
+"message": "фон"
+},
+"better_click": {
+"message": "Націсніце на яе, змяненне фону"
+},
+"better_down": {
+"message": "Спампаваць бягучую карцінку"
+},
+"better_fb": {
+"message": "Апублікаваць у Facebook"
+},
+"better_google": {
+"message": "Падзяліцца ў Google+"
+},
+"better_memu": {
+"message": "Меню Паказаць налады"
+},
+"better_pin": {
+"message": "Вы можаце прымацаваць бягучыя шпалеры"
+},
+"better_pinned": {
+"message": "Вы ўскладалі бягучыя шпалеры"
+},
+"better_print": {
+"message": "Апублікаваць у Pinterest"
+},
+"better_qq": {
+"message": "Падзяліцца з QQ зоны"
+},
+"better_sina": {
+"message": "доля Сіна"
+},
+"better_start": {
+"message": "Attack on Titan Новая ўкладка"
+},
+"better_twitter": {
+"message": "Апублікаваць у Twitter"
+},
+"color": {
+"message": "Solid Color"
+},
+"extDescription": {
+"message": "шпалеры для працоўнага стала Автообновлен або пошук Шпалеры з Google ™ Малюнкаў для налады Chrome Новай ўкладкі."
+},
+"extName": {
+"message": "Attack on Titan Новая ўкладка, Customized шпалеры HD"
+},
+"fivestar1": {
+"message": "Ці падабаецца вам Attack on Titan новую ўкладку?"
+},
+"fivestar2": {
+"message": "Калі ласка, дайце нам добры агляд на Chrome Store."
+},
+"image": {
+"message": "мясцовае выява"
+},
+"library": {
+"message": "Абнаўленне з бібліятэкі"
+},
+"no": {
+"message": "НЕ"
+},
+"not_now": {
+"message": "не цяпер"
+},
+"pinned_confirm": {
+"message": "Вы ўскладалі бягучыя шпалеры, вы ўпэўненыя, каб абнавіць яго?"
+},
+"search": {
+"message": "пошук"
+},
+"setting": {
+"message": "налады"
+},
+"share": {
+"message": "Падзяліцца з сябрамі"
+},
+"upload": {
+"message": "загрузіць"
+},
+"visit": {
+"message": "найбольш наведвальныя"
+},
+"yes": {
+"message": "ды"
+},
+"today": {
+"message": "сёння"
+},
+"mon": {
+"message": "панядзелак"
+},
+"tue": {
+"message": "аўторак"
+},
+"wed": {
+"message": "серада"
+},
+"thu": {
+"message": "чацвер"
+},
+"fri": {
+"message": "Пятніца"
+},
+"sat": {
+"message": "субота"
+},
+"sun": {
+"message": "Нядзеля"
+},
+"upload_tip": {
+"message": "Памер загружанага малюнка занадта вялікі!"
+},
+"upload_close": {
+"message": "блізка"
+},
+"unkownLocation": {
+"message": "невядомае Месцазнаходжанне"
+},
+"frequent": {
+"message": "частата абнаўлення"
+},
+"fre_pin": {
+"message": "Каб замацаваць бягучы фон"
+},
+"fre_never": {
+"message": "ніколі"
+},
+"fre_min": {
+"message": "кожная хвіліна"
+},
+"fre_hour": {
+"message": "Кожную гадзіну"
+},
+"fre_day": {
+"message": "Кожны дзень"
+},
+"search_tip1": {
+"message": "вы ўедзеце"
+},
+"search_tip2": {
+"message": "пошук"
+},
+"history1": {
+"message": "Паказаць самыя наведвальныя сайты"
+},
+"history2": {
+"message": "Вы можаце аднавіць найбольш наведвальных вэб-сайтаў у перавагах."
+},
+"weather": {
+"message": "Паказаць прагноз надвор'я"
+},
+"self_add": {
+"message": "Вы дадалі яго."
+},
+"self_travel": {
+"message": "Ўваходныя ключавыя словы, каб стварыць сваю ўласную бібліятэку шпалер"
+},
+"self_search": {
+"message": "пошук"
+},
+"self_load": {
+"message": "загрузілі"
+},
+"self_scroll": {
+"message": "пракруціць ўніз, каб загрузіць больш."
+},
+"self_customize": {
+"message": "Настройка бібліятэкі"
+},
+"self_selected": {
+"message": "абраны"
+},
+"self_finish": {
+"message": "Зборка шпалер бібліятэкі"
+},
+"self_allow": {
+"message": "Дазволіць іншым карыстальнікам выкарыстоўваць гэтую бібліятэку"
+},
+"recommend1": {
+"message": "мастацтва"
+},
+"recommend2": {
+"message": "каханне"
+},
+"recommend3": {
+"message": "пляж"
+},
+"recommend4": {
+"message": "воўк"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "кот"
+},
+"recommend7": {
+"message": "мультыплікацыя"
+},
+"Customize_Library": {
+"message": "Настройка бібліятэкі"
+},
+"wallpapers": {
+"message": "шпалеры для працоўнага стала"
+},
+"delete": {
+"message": "Вы ўпэўненыя, што выдаліць яго?"
+},
+"wordpress_title": {
+"message": "Заказныя шпалеры HD Тэма-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Атрымаць гэтую тэму для майго хрому"
+},
+"better_customized": {
+"message": "Стварыце сваю ўласную бібліятэку шпалеры"
+},
+"better_shares": {
+"message": "Націсніце на яе, падзяліцца з сябрамі"
+},
+"better_save": {
+"message": "Дадаць у абранае"
+},
+"better_remove": {
+"message": "Выдаліць з абранага"
+},
+"share_tip": {
+"message": "Дададзены у абранае паспяхова, вы можаце падзяліцца гэтым пашырэнне да:"
+},
+"login": {
+"message": "Вам неабходна ўвайсці ў сістэму"
+}
+}

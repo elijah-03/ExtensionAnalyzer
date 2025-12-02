@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Trong khoảng"
+},
+"background": {
+"message": "Lý lịch"
+},
+"better_click": {
+"message": "Nhấp vào nó, thay đổi nền"
+},
+"better_down": {
+"message": "Tải xuống hình nền hiện tại"
+},
+"better_fb": {
+"message": "Chia sẻ lên Facebook"
+},
+"better_google": {
+"message": "Chia sẻ lên Google+"
+},
+"better_memu": {
+"message": "Hiển thị trình đơn cài đặt"
+},
+"better_pin": {
+"message": "Bạn có thể ghim hình nền hiện tại"
+},
+"better_pinned": {
+"message": "Bạn đã gắn hình nền hiện tại"
+},
+"better_print": {
+"message": "Chia sẻ lên Pinterest"
+},
+"better_qq": {
+"message": "Chia sẻ lên QQ Zone"
+},
+"better_sina": {
+"message": "Chia sẻ với Sina"
+},
+"better_start": {
+"message": "Tab mới của Tấn công Titan"
+},
+"better_twitter": {
+"message": "Chia sẻ lên Twitter"
+},
+"color": {
+"message": "Màu rắn"
+},
+"extDescription": {
+"message": "Tự động cập nhật hình nền hoặc hình nền tìm kiếm từ Google ™ Hình ảnh để tùy chỉnh trang tab mới trên Chrome của bạn."
+},
+"extName": {
+"message": "Tab mới của Tấn công Titan, Hình nền Tùy chỉnh HD"
+},
+"fivestar1": {
+"message": "Bạn có thích Tab mới của Tấn công Titan?"
+},
+"fivestar2": {
+"message": "Vui lòng cho chúng tôi đánh giá tốt về Cửa hàng Chrome."
+},
+"image": {
+"message": "Hình ảnh địa phương"
+},
+"library": {
+"message": "Cập nhật từ Thư viện"
+},
+"no": {
+"message": "KHÔNG"
+},
+"not_now": {
+"message": "Không phải bây giờ"
+},
+"pinned_confirm": {
+"message": "Bạn đã gắn hình nền hiện tại, bạn có chắc chắn cập nhật nó không?"
+},
+"search": {
+"message": "Tìm kiếm"
+},
+"setting": {
+"message": "cài đặt"
+},
+"share": {
+"message": "Chia sẻ với bạn bè của bạn"
+},
+"upload": {
+"message": "Tải lên"
+},
+"visit": {
+"message": "Truy cập nhiều nhất"
+},
+"yes": {
+"message": "Vâng"
+},
+"today": {
+"message": "Hôm nay"
+},
+"mon": {
+"message": "Thứ hai"
+},
+"tue": {
+"message": "Thứ ba"
+},
+"wed": {
+"message": "Thứ tư"
+},
+"thu": {
+"message": "Thứ năm"
+},
+"fri": {
+"message": "Thứ sáu"
+},
+"sat": {
+"message": "ngày thứ bảy"
+},
+"sun": {
+"message": "chủ nhật"
+},
+"upload_tip": {
+"message": "Kích thước hình ảnh đã tải lên quá lớn!"
+},
+"upload_close": {
+"message": "Gần"
+},
+"unkownLocation": {
+"message": "Vị trí không xác định"
+},
+"frequent": {
+"message": "Tần số cập nhật"
+},
+"fre_pin": {
+"message": "Để ghim nền hiện tại"
+},
+"fre_never": {
+"message": "Không bao giờ"
+},
+"fre_min": {
+"message": "Mỗi phút"
+},
+"fre_hour": {
+"message": "Mỗi tiếng"
+},
+"fre_day": {
+"message": "Mỗi ngày"
+},
+"search_tip1": {
+"message": "Bạn sẽ nhập"
+},
+"search_tip2": {
+"message": "Tìm kiếm"
+},
+"history1": {
+"message": "Hiển thị các trang web được truy cập nhiều nhất"
+},
+"history2": {
+"message": "Bạn có thể khôi phục các trang web được truy cập nhiều nhất trong cài đặt."
+},
+"weather": {
+"message": "Hiển thị dự báo thời tiết"
+},
+"self_add": {
+"message": "Bạn đã thêm nó."
+},
+"self_travel": {
+"message": "Nhập từ khóa để tạo thư viện hình nền riêng của bạn"
+},
+"self_search": {
+"message": "Tìm kiếm"
+},
+"self_load": {
+"message": "Đã nạp"
+},
+"self_scroll": {
+"message": "cuộn xuống để tải thêm."
+},
+"self_customize": {
+"message": "Tùy chỉnh Thư viện"
+},
+"self_selected": {
+"message": "đã chọn"
+},
+"self_finish": {
+"message": "Xây dựng thư viện hình nền"
+},
+"self_allow": {
+"message": "Cho phép người khác sử dụng thư viện này"
+},
+"recommend1": {
+"message": "Nghệ thuật"
+},
+"recommend2": {
+"message": "Yêu"
+},
+"recommend3": {
+"message": "bờ biển"
+},
+"recommend4": {
+"message": "chó sói"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Con mèo"
+},
+"recommend7": {
+"message": "Hoạt hình"
+},
+"Customize_Library": {
+"message": "Tùy chỉnh Thư viện"
+},
+"wallpapers": {
+"message": "hình nền"
+},
+"delete": {
+"message": "Bạn có chắc chắn muốn xoá nó?"
+},
+"wordpress_title": {
+"message": "Hình nền tùy chỉnh HD-Tấn công Titan New Tab"
+},
+"wordpress_get": {
+"message": "Nhận chủ đề này cho rôm của tôi"
+},
+"better_customized": {
+"message": "Xây dựng thư viện hình nền của riêng bạn"
+},
+"better_shares": {
+"message": "Nhấp vào nó, chia sẻ với bạn bè của bạn"
+},
+"better_save": {
+"message": "Thêm vào mục yêu thích"
+},
+"better_remove": {
+"message": "Loại bỏ khỏi mục ưa thích"
+},
+"share_tip": {
+"message": "Thêm vào yêu thích thành công, bạn cũng có thể chia sẻ phần mở rộng này để:"
+},
+"login": {
+"message": "Bạn cần đăng nhập"
+}
+}

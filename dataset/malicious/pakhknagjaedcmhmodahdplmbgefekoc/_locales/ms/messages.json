@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Mengenai"
+},
+"background": {
+"message": "Latar Belakang"
+},
+"better_click": {
+"message": "Klik, Tukar Latar Belakang"
+},
+"better_down": {
+"message": "Muat turun kertas dinding semasa"
+},
+"better_fb": {
+"message": "Kongsi ke Facebook"
+},
+"better_google": {
+"message": "Kongsi ke Google+"
+},
+"better_memu": {
+"message": "Tunjukkan menu tetapan"
+},
+"better_pin": {
+"message": "Anda boleh pin kertas dinding semasa"
+},
+"better_pinned": {
+"message": "Anda telah menyematkan kertas dinding semasa"
+},
+"better_print": {
+"message": "Berkongsi dengan Pinterest"
+},
+"better_qq": {
+"message": "Kongsi zon QQ"
+},
+"better_sina": {
+"message": "Berkongsi dengan Sina"
+},
+"better_start": {
+"message": "Tab Baru Attack on Titan"
+},
+"better_twitter": {
+"message": "Kongsi ke Twitter"
+},
+"color": {
+"message": "Warna pepejal"
+},
+"extDescription": {
+"message": "Kemas kini hiasan kertas dinding atau hiasan carian dari Imej Google ™ untuk menyesuaikan halaman tab baharu Chrome anda."
+},
+"extName": {
+"message": "Tab Baru Attack on Titan, Customized Wallpapers HD"
+},
+"fivestar1": {
+"message": "Adakah anda suka Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Sila beri ulasan kami yang baik di Kedai Chrome."
+},
+"image": {
+"message": "Imej setempat"
+},
+"library": {
+"message": "Kemas kini dari Perpustakaan"
+},
+"no": {
+"message": "TIDAK"
+},
+"not_now": {
+"message": "Bukan sekarang"
+},
+"pinned_confirm": {
+"message": "Anda memasang kertas dinding semasa, adakah anda pasti mengemas kini?"
+},
+"search": {
+"message": "Carian"
+},
+"setting": {
+"message": "tetapan"
+},
+"share": {
+"message": "Kongsi kepada rakan anda"
+},
+"upload": {
+"message": "Muat naik"
+},
+"visit": {
+"message": "Kerap dilawati"
+},
+"yes": {
+"message": "Ya"
+},
+"today": {
+"message": "Hari ini"
+},
+"mon": {
+"message": "Isnin"
+},
+"tue": {
+"message": "Selasa"
+},
+"wed": {
+"message": "Rabu"
+},
+"thu": {
+"message": "Khamis"
+},
+"fri": {
+"message": "Jumaat"
+},
+"sat": {
+"message": "Sabtu"
+},
+"sun": {
+"message": "Ahad"
+},
+"upload_tip": {
+"message": "Saiz imej yang dimuat naik terlalu besar!"
+},
+"upload_close": {
+"message": "Tutup"
+},
+"unkownLocation": {
+"message": "Lokasi tidak diketahui"
+},
+"frequent": {
+"message": "Kekerapan Kemas Kini"
+},
+"fre_pin": {
+"message": "Untuk pin latar belakang semasa"
+},
+"fre_never": {
+"message": "Jangan sekali-kali"
+},
+"fre_min": {
+"message": "Setiap minit"
+},
+"fre_hour": {
+"message": "Setiap jam"
+},
+"fre_day": {
+"message": "Setiap hari"
+},
+"search_tip1": {
+"message": "Anda akan masuk"
+},
+"search_tip2": {
+"message": "carian"
+},
+"history1": {
+"message": "Tunjukkan laman paling banyak dikunjungi"
+},
+"history2": {
+"message": "Anda boleh memulihkan laman web yang paling banyak dikunjungi dalam tetapan."
+},
+"weather": {
+"message": "Tunjukkan ramalan cuaca"
+},
+"self_add": {
+"message": "Anda telah menambahnya."
+},
+"self_travel": {
+"message": "Kata kunci input untuk membina perpustakaan wallpaper anda sendiri"
+},
+"self_search": {
+"message": "carian"
+},
+"self_load": {
+"message": "Telah dimuatkan"
+},
+"self_scroll": {
+"message": "tatal ke bawah untuk memuat lebih banyak."
+},
+"self_customize": {
+"message": "Peribadikan Perpustakaan"
+},
+"self_selected": {
+"message": "dipilih"
+},
+"self_finish": {
+"message": "Membina perpustakaan wallpaper"
+},
+"self_allow": {
+"message": "Benarkan orang lain menggunakan perpustakaan ini"
+},
+"recommend1": {
+"message": "Seni"
+},
+"recommend2": {
+"message": "Cinta"
+},
+"recommend3": {
+"message": "Pantai"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kucing"
+},
+"recommend7": {
+"message": "Kartun"
+},
+"Customize_Library": {
+"message": "Peribadikan Perpustakaan"
+},
+"wallpapers": {
+"message": "wallpaper"
+},
+"delete": {
+"message": "Adakah anda pasti memadamkannya?"
+},
+"wordpress_title": {
+"message": "Tema Khas HD Tema-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Dapatkan tema ini untuk krom saya"
+},
+"better_customized": {
+"message": "Bina perpustakaan wallpaper anda sendiri"
+},
+"better_shares": {
+"message": "Klik, kongsi dengan rakan anda"
+},
+"better_save": {
+"message": "Tambah ke kegemaran"
+},
+"better_remove": {
+"message": "Alih keluar dari kegemaran"
+},
+"share_tip": {
+"message": "Ditambah dengan sukses dengan kegemaran, anda juga boleh berkongsi sambungan ini kepada:"
+},
+"login": {
+"message": "Anda perlu log masuk"
+}
+}

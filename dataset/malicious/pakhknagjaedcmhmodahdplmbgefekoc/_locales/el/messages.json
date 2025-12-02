@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Σχετικά με"
+},
+"background": {
+"message": "Ιστορικό"
+},
+"better_click": {
+"message": "Κάντε κλικ στο κουμπί \"Αλλαγή φόντου\""
+},
+"better_down": {
+"message": "Κάντε λήψη τρέχουσας ταπετσαρίας"
+},
+"better_fb": {
+"message": "Μοιραστείτε το στο facebook"
+},
+"better_google": {
+"message": "Μοιραστείτε το στο Google+"
+},
+"better_memu": {
+"message": "Εμφάνιση του μενού ρυθμίσεων"
+},
+"better_pin": {
+"message": "Μπορείτε να προσαρτήσετε την τρέχουσα ταπετσαρία"
+},
+"better_pinned": {
+"message": "Έχετε καρφώσει την τρέχουσα ταπετσαρία"
+},
+"better_print": {
+"message": "Μοιραστείτε το Pinterest"
+},
+"better_qq": {
+"message": "Μοιραστείτε τη Ζώνη QQ"
+},
+"better_sina": {
+"message": "Μοιραστείτε τη Σίνα"
+},
+"better_start": {
+"message": "Attack on Titan Νέα καρτέλα"
+},
+"better_twitter": {
+"message": "Μοιραστείτε με το Twitter"
+},
+"color": {
+"message": "Στερεό χρώμα"
+},
+"extDescription": {
+"message": "Αυτόματες ενημερώσεις ταπετσαριών ή αναζήτηση ταπετσαριών από τις εικόνες Google ™ για να προσαρμόσετε τη σελίδα των νέων καρτελών του Chrome."
+},
+"extName": {
+"message": "Attack on Titan νέα καρτέλα, προσαρμοσμένα wallpapers HD"
+},
+"fivestar1": {
+"message": "Σας άρεσε το [Χ]?"
+},
+"fivestar2": {
+"message": "Παρακαλούμε να μας δώσετε μια καλή κριτική στο Chrome Store."
+},
+"image": {
+"message": "Τοπική εικόνα"
+},
+"library": {
+"message": "Ενημέρωση από τη Βιβλιοθήκη"
+},
+"no": {
+"message": "ΟΧΙ"
+},
+"not_now": {
+"message": "Οχι τώρα"
+},
+"pinned_confirm": {
+"message": "Κλείσατε την τρέχουσα ταπετσαρία, είστε σίγουροι ότι θα την ενημερώσετε;"
+},
+"search": {
+"message": "Ψάξιμο"
+},
+"setting": {
+"message": "Ρυθμίσεις"
+},
+"share": {
+"message": "Μοιραστείτε με τους φίλους σας"
+},
+"upload": {
+"message": "Μεταφόρτωση"
+},
+"visit": {
+"message": "Οι περισσότεροι επισκέπτες"
+},
+"yes": {
+"message": "Ναί"
+},
+"today": {
+"message": "Σήμερα"
+},
+"mon": {
+"message": "Δευτέρα"
+},
+"tue": {
+"message": "Τρίτη"
+},
+"wed": {
+"message": "Τετάρτη"
+},
+"thu": {
+"message": "Πέμπτη"
+},
+"fri": {
+"message": "Παρασκευή"
+},
+"sat": {
+"message": "Σάββατο"
+},
+"sun": {
+"message": "Κυριακή"
+},
+"upload_tip": {
+"message": "Το μέγεθος ανεβασμένης εικόνας είναι πολύ μεγάλο!"
+},
+"upload_close": {
+"message": "Κοντά"
+},
+"unkownLocation": {
+"message": "Άγνωστη τοποθεσία"
+},
+"frequent": {
+"message": "Συχνότητα ενημέρωσης"
+},
+"fre_pin": {
+"message": "Για να προσαρτήσετε το τρέχον φόντο"
+},
+"fre_never": {
+"message": "Ποτέ"
+},
+"fre_min": {
+"message": "Κάθε λεπτό"
+},
+"fre_hour": {
+"message": "Κάθε ώρα"
+},
+"fre_day": {
+"message": "Κάθε μέρα"
+},
+"search_tip1": {
+"message": "Θα εισέλθετε"
+},
+"search_tip2": {
+"message": "Ψάξιμο"
+},
+"history1": {
+"message": "Εμφάνιση των περισσότερων ιστότοπων επισκεπτών"
+},
+"history2": {
+"message": "Μπορείτε να επαναφέρετε τους ιστότοπους με τις περισσότερες επισκέψεις στις ρυθμίσεις."
+},
+"weather": {
+"message": "Δείξτε την πρόγνωση του καιρού"
+},
+"self_add": {
+"message": "Το έχετε προσθέσει."
+},
+"self_travel": {
+"message": "Εισαγάγετε λέξεις κλειδιά για να δημιουργήσετε τη δική σας βιβλιοθήκη ταπετσαριών"
+},
+"self_search": {
+"message": "Ψάξιμο"
+},
+"self_load": {
+"message": "Έχετε φορτώσει"
+},
+"self_scroll": {
+"message": "μετακινηθείτε προς τα κάτω για να φορτώσετε περισσότερα."
+},
+"self_customize": {
+"message": "Προσαρμόστε τη βιβλιοθήκη"
+},
+"self_selected": {
+"message": "επιλεγμένο"
+},
+"self_finish": {
+"message": "Δημιουργία βιβλιοθήκης ταπετσαριών"
+},
+"self_allow": {
+"message": "Επιτρέψτε σε άλλους να χρησιμοποιήσουν αυτήν τη βιβλιοθήκη"
+},
+"recommend1": {
+"message": "Τέχνη"
+},
+"recommend2": {
+"message": "Αγάπη"
+},
+"recommend3": {
+"message": "Παραλία"
+},
+"recommend4": {
+"message": "Λύκος"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Γάτα"
+},
+"recommend7": {
+"message": "ΚΙΝΟΥΜΕΝΟ ΣΧΕΔΙΟ"
+},
+"Customize_Library": {
+"message": "Προσαρμόστε τη βιβλιοθήκη"
+},
+"wallpapers": {
+"message": "ταπετσαρίες"
+},
+"delete": {
+"message": "Είστε σίγουροι ότι θα το διαγράψετε;"
+},
+"wordpress_title": {
+"message": "Προσαρμοσμένη ταπετσαρία HD Θέματα-Attack on Titan Νέα καρτέλα"
+},
+"wordpress_get": {
+"message": "Πάρτε αυτό το θέμα για το χρώμιο μου"
+},
+"better_customized": {
+"message": "Δημιουργήστε τη δική σας βιβλιοθήκη ταπετσαριών"
+},
+"better_shares": {
+"message": "Κάντε κλικ σε αυτό, μοιραστείτε με τους φίλους σας"
+},
+"better_save": {
+"message": "Προσθήκη στα αγαπημένα"
+},
+"better_remove": {
+"message": "Κατάργηση από τα αγαπημένα"
+},
+"share_tip": {
+"message": "Προστέθηκε στα αγαπημένα με επιτυχία, μπορείτε επίσης να μοιραστείτε αυτήν την επέκταση με:"
+},
+"login": {
+"message": "Πρέπει να συνδεθείτε"
+}
+}

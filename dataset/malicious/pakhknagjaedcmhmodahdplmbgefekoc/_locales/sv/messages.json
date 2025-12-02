@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Handla om"
+},
+"background": {
+"message": "Bakgrund"
+},
+"better_click": {
+"message": "Klicka på den, Ändra bakgrund"
+},
+"better_down": {
+"message": "Ladda ner nuvarande tapet"
+},
+"better_fb": {
+"message": "Dela till Facebook"
+},
+"better_google": {
+"message": "Dela till Google+"
+},
+"better_memu": {
+"message": "Visa inställningsmenyn"
+},
+"better_pin": {
+"message": "Du kan stifta den nuvarande tapeten"
+},
+"better_pinned": {
+"message": "Du har fastnat den nuvarande tapeten"
+},
+"better_print": {
+"message": "Dela till Pinterest"
+},
+"better_qq": {
+"message": "Dela till QQ Zone"
+},
+"better_sina": {
+"message": "Dela till Sina"
+},
+"better_start": {
+"message": "Attack on Titan Ny flik"
+},
+"better_twitter": {
+"message": "Dela på Twitter"
+},
+"color": {
+"message": "Enfärgad"
+},
+"extDescription": {
+"message": "Auto uppdatera bakgrundsbilder eller sök bakgrundsbilder från Google ™ Images för att anpassa din nya Chrome-sida."
+},
+"extName": {
+"message": "Attack on Titan Ny flik, Anpassad bakgrundsbilder HD"
+},
+"fivestar1": {
+"message": "Gillar du Attack on Titan Ny flik?"
+},
+"fivestar2": {
+"message": "Var god och ge oss en bra recension i Chrome Store."
+},
+"image": {
+"message": "Lokal bild"
+},
+"library": {
+"message": "Uppdatering från biblioteket"
+},
+"no": {
+"message": "NEJ"
+},
+"not_now": {
+"message": "Inte nu"
+},
+"pinned_confirm": {
+"message": "Du fastnade den nuvarande tapeten, är du säker på att uppdatera den?"
+},
+"search": {
+"message": "Sök"
+},
+"setting": {
+"message": "inställningar"
+},
+"share": {
+"message": "Dela till dina vänner"
+},
+"upload": {
+"message": "Ladda upp"
+},
+"visit": {
+"message": "Mest besökta"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "I dag"
+},
+"mon": {
+"message": "måndag"
+},
+"tue": {
+"message": "tisdag"
+},
+"wed": {
+"message": "onsdag"
+},
+"thu": {
+"message": "torsdag"
+},
+"fri": {
+"message": "fredag"
+},
+"sat": {
+"message": "lördag"
+},
+"sun": {
+"message": "söndag"
+},
+"upload_tip": {
+"message": "Den uppladdade bildstorleken är för stor!"
+},
+"upload_close": {
+"message": "Stänga"
+},
+"unkownLocation": {
+"message": "Okänd Plats"
+},
+"frequent": {
+"message": "Uppdateringsfrekvens"
+},
+"fre_pin": {
+"message": "För att ställa in aktuell bakgrund"
+},
+"fre_never": {
+"message": "Aldrig"
+},
+"fre_min": {
+"message": "Varje minut"
+},
+"fre_hour": {
+"message": "Varje timme"
+},
+"fre_day": {
+"message": "Varje dag"
+},
+"search_tip1": {
+"message": "Du kommer att ange"
+},
+"search_tip2": {
+"message": "Sök"
+},
+"history1": {
+"message": "Visa mest besökta webbplatser"
+},
+"history2": {
+"message": "Du kan återställa mest besökta webbplatser i inställningarna."
+},
+"weather": {
+"message": "Visa väderprognosen"
+},
+"self_add": {
+"message": "Du har lagt till den."
+},
+"self_travel": {
+"message": "Ange nyckelord för att skapa ditt eget bakgrundsbibliotek"
+},
+"self_search": {
+"message": "Sök"
+},
+"self_load": {
+"message": "Har laddat"
+},
+"self_scroll": {
+"message": "bläddra ner för att ladda mer."
+},
+"self_customize": {
+"message": "Anpassa biblioteket"
+},
+"self_selected": {
+"message": "vald"
+},
+"self_finish": {
+"message": "Bygg bakgrundsbibliotek"
+},
+"self_allow": {
+"message": "Tillåt andra att använda detta bibliotek"
+},
+"recommend1": {
+"message": "Konst"
+},
+"recommend2": {
+"message": "Kärlek"
+},
+"recommend3": {
+"message": "Strand"
+},
+"recommend4": {
+"message": "Varg"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Katt"
+},
+"recommend7": {
+"message": "Tecknad serie"
+},
+"Customize_Library": {
+"message": "Anpassa biblioteket"
+},
+"wallpapers": {
+"message": "tapeter"
+},
+"delete": {
+"message": "Vill du radera det?"
+},
+"wordpress_title": {
+"message": "Anpassad bakgrund HD-teman-Attack on Titan Ny flik"
+},
+"wordpress_get": {
+"message": "Få det här temat för min krom"
+},
+"better_customized": {
+"message": "Bygg ditt eget bakgrundsbibliotek"
+},
+"better_shares": {
+"message": "Klicka på den, dela till dina vänner"
+},
+"better_save": {
+"message": "Lägg till i favoriter"
+},
+"better_remove": {
+"message": "Ta bort från favoriter"
+},
+"share_tip": {
+"message": "Tillagd till favorit framgångsrikt kan du också dela den här tillägget till:"
+},
+"login": {
+"message": "Du behöver inloggning"
+}
+}

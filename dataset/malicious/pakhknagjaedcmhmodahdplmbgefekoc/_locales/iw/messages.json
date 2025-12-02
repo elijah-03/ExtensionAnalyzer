@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "על אודות"
+},
+"background": {
+"message": "רקע כללי"
+},
+"better_click": {
+"message": "לחץ עליו, שנה רקע"
+},
+"better_down": {
+"message": "הורד את הטפט הנוכחי"
+},
+"better_fb": {
+"message": "שתף אל Facebook"
+},
+"better_google": {
+"message": "שתף ב- Google+"
+},
+"better_memu": {
+"message": "הצג תפריט הגדרות"
+},
+"better_pin": {
+"message": "ניתן להצמיד את הטפט הנוכחי"
+},
+"better_pinned": {
+"message": "יש לך הצמיד את הטפט הנוכחי"
+},
+"better_print": {
+"message": "שתף את Pinterest"
+},
+"better_qq": {
+"message": "שתף לאזור QQ"
+},
+"better_sina": {
+"message": "שתף את סינה"
+},
+"better_start": {
+"message": "הכרטיסייה החדשה Attack on Titan"
+},
+"better_twitter": {
+"message": "שתף אל Twitter"
+},
+"color": {
+"message": "צבע אחיד"
+},
+"extDescription": {
+"message": "עדכן תמונות רקע באופן אוטומטי או טפטים לחיפוש מתוך תמונות ™ Google כדי להתאים אישית את דף הכרטיסייה החדשה של Chrome."
+},
+"extName": {
+"message": "Attack on Titan טאב חדש, מותאם אישית רקעים HD"
+},
+"fivestar1": {
+"message": "האם אתה אוהב Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "תן לנו ביקורת טובה ב- Chrome Store."
+},
+"image": {
+"message": "תמונה מקומית"
+},
+"library": {
+"message": "עדכון מספריה"
+},
+"no": {
+"message": "לא"
+},
+"not_now": {
+"message": "לא עכשיו"
+},
+"pinned_confirm": {
+"message": "הצמדת את הטפט הנוכחי, האם אתה בטוח לעדכן אותו?"
+},
+"search": {
+"message": "לחפש"
+},
+"setting": {
+"message": "הגדרות"
+},
+"share": {
+"message": "שתף את החברים שלך"
+},
+"upload": {
+"message": "העלה"
+},
+"visit": {
+"message": "הכי מבוקש"
+},
+"yes": {
+"message": "כן"
+},
+"today": {
+"message": "היום"
+},
+"mon": {
+"message": "יוֹם שֵׁנִי"
+},
+"tue": {
+"message": "יוֹם שְׁלִישִׁי"
+},
+"wed": {
+"message": "יום רביעי"
+},
+"thu": {
+"message": "יוֹם חֲמִישִׁי"
+},
+"fri": {
+"message": "יוֹם שִׁישִׁי"
+},
+"sat": {
+"message": "יום שבת"
+},
+"sun": {
+"message": "יוֹם רִאשׁוֹן"
+},
+"upload_tip": {
+"message": "גודל התמונה שהועלה גדול מדי!"
+},
+"upload_close": {
+"message": "לִסְגוֹר"
+},
+"unkownLocation": {
+"message": "מיקום לא ידוע"
+},
+"frequent": {
+"message": "עדכן תדירות"
+},
+"fre_pin": {
+"message": "כדי להצמיד את הרקע הנוכחי"
+},
+"fre_never": {
+"message": "לעולם לא"
+},
+"fre_min": {
+"message": "כל דקה"
+},
+"fre_hour": {
+"message": "כל שעה"
+},
+"fre_day": {
+"message": "כל יום"
+},
+"search_tip1": {
+"message": "תיכנס"
+},
+"search_tip2": {
+"message": "לחפש"
+},
+"history1": {
+"message": "הצג את האתרים הפופולריים ביותר"
+},
+"history2": {
+"message": "תוכל לשחזר את האתרים הפופולריים ביותר בהגדרות."
+},
+"weather": {
+"message": "הצג את תחזית מזג האוויר"
+},
+"self_add": {
+"message": "הוספת אותו."
+},
+"self_travel": {
+"message": "הזן מילות מפתח כדי לבנות את הספרייה טפטים משלך"
+},
+"self_search": {
+"message": "לחפש"
+},
+"self_load": {
+"message": "יש טעון"
+},
+"self_scroll": {
+"message": "גלול מטה כדי לטעון יותר."
+},
+"self_customize": {
+"message": "התאמה אישית של ספריה"
+},
+"self_selected": {
+"message": "נבחר"
+},
+"self_finish": {
+"message": "בניית ספריית טפטים"
+},
+"self_allow": {
+"message": "אפשר לאחרים להשתמש בספריה זו"
+},
+"recommend1": {
+"message": "אומנות"
+},
+"recommend2": {
+"message": "אהבה"
+},
+"recommend3": {
+"message": "החוף"
+},
+"recommend4": {
+"message": "זְאֵב"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "חתול"
+},
+"recommend7": {
+"message": "קָרִיקָטוּרָה"
+},
+"Customize_Library": {
+"message": "התאמה אישית של ספריה"
+},
+"wallpapers": {
+"message": "טפטים"
+},
+"delete": {
+"message": "האם אתה בטוח למחוק אותו?"
+},
+"wordpress_title": {
+"message": "טפטים מותאמים אישית HD נושאים- Attack on Titan חדש Tab"
+},
+"wordpress_get": {
+"message": "קבל ערכת נושא זו עבור chrome שלי"
+},
+"better_customized": {
+"message": "בניית ספריית טפטים משלך"
+},
+"better_shares": {
+"message": "לחץ עליו, שתף עם החברים שלך"
+},
+"better_save": {
+"message": "הוסף למועדפים"
+},
+"better_remove": {
+"message": "הסר מהמועדפים"
+},
+"share_tip": {
+"message": "נוסף למועדפים האהוב עליך, תוכל גם לשתף תוסף זה ל:"
+},
+"login": {
+"message": "אתה צריך להיכנס"
+}
+}

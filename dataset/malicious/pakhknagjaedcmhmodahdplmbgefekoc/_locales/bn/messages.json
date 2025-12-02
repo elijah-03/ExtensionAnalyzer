@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "সম্পর্কিত"
+},
+"background": {
+"message": "পটভূমি"
+},
+"better_click": {
+"message": "এটি ক্লিক করুন, পশ্চাদপট পরিবর্তন করুন"
+},
+"better_down": {
+"message": "বর্তমান ওয়ালপেপার ডাউনলোড করুন"
+},
+"better_fb": {
+"message": "ফেসবুক শেয়ার"
+},
+"better_google": {
+"message": "Google+ এ ভাগ করুন"
+},
+"better_memu": {
+"message": "সেটিংস মেনু দেখান"
+},
+"better_pin": {
+"message": "আপনি বর্তমান ওয়ালপেপার পিন করতে পারেন"
+},
+"better_pinned": {
+"message": "আপনি বর্তমান ওয়ালপেপার পিন করা আছে"
+},
+"better_print": {
+"message": "Pinterest এ শেয়ার করুন"
+},
+"better_qq": {
+"message": "QQ জোন শেয়ার করুন"
+},
+"better_sina": {
+"message": "সিনাকে শেয়ার করুন"
+},
+"better_start": {
+"message": "Attack on Titan নতুন ট্যাব"
+},
+"better_twitter": {
+"message": "টুইটারে শেয়ার করুন"
+},
+"color": {
+"message": "নিখাদ রং"
+},
+"extDescription": {
+"message": "আপনার ক্রোমের নতুন ট্যাব পৃষ্ঠাটি কাস্টমাইজ করতে Google ™ চিত্রগুলি থেকে অটো আপডেট ওয়ালপেপার বা অনুসন্ধান ওয়ালপেপার।"
+},
+"extName": {
+"message": "Attack on Titan নতুন ট্যাব, কাস্টমাইজড ওয়ালপেপার এইচডি"
+},
+"fivestar1": {
+"message": "আপনি কি Attack on Titan নতুন ট্যাব চান?"
+},
+"fivestar2": {
+"message": "দয়া করে আমাদের Chrome Store এ একটি ভাল পর্যালোচনা দিন।"
+},
+"image": {
+"message": "স্থানীয় চিত্র"
+},
+"library": {
+"message": "লাইব্রেরী থেকে আপডেট"
+},
+"no": {
+"message": "কোন"
+},
+"not_now": {
+"message": "এখন না"
+},
+"pinned_confirm": {
+"message": "আপনি বর্তমান ওয়ালপেপারটি পিন করা হয়েছে, আপনি কি এটি আপডেট করার ব্যাপারে নিশ্চিত?"
+},
+"search": {
+"message": "অনুসন্ধান"
+},
+"setting": {
+"message": "সেটিংস"
+},
+"share": {
+"message": "আপনার বন্ধুদের সাথে ভাগ করুন"
+},
+"upload": {
+"message": "আপলোড"
+},
+"visit": {
+"message": "সর্বাদিক ভ্রমনকৃত"
+},
+"yes": {
+"message": "হাঁ"
+},
+"today": {
+"message": "আজ"
+},
+"mon": {
+"message": "সোমবার"
+},
+"tue": {
+"message": "মঙ্গলবার"
+},
+"wed": {
+"message": "বুধবার"
+},
+"thu": {
+"message": "বৃহস্পতিবার"
+},
+"fri": {
+"message": "শুক্রবার"
+},
+"sat": {
+"message": "শনিবার"
+},
+"sun": {
+"message": "রবিবার"
+},
+"upload_tip": {
+"message": "আপলোড করা ছবির আকারটি অত্যন্ত বড়!"
+},
+"upload_close": {
+"message": "ঘনিষ্ঠ"
+},
+"unkownLocation": {
+"message": "অজানা অবস্থান"
+},
+"frequent": {
+"message": "আপডেট ফ্রিকোয়েন্সি"
+},
+"fre_pin": {
+"message": "বর্তমান পটভূমি পিন করতে"
+},
+"fre_never": {
+"message": "না"
+},
+"fre_min": {
+"message": "চবন"
+},
+"fre_hour": {
+"message": "প্রতি ঘন্টা"
+},
+"fre_day": {
+"message": "প্রতিদিন"
+},
+"search_tip1": {
+"message": "আপনি প্রবেশ করবেন"
+},
+"search_tip2": {
+"message": "অনুসন্ধান"
+},
+"history1": {
+"message": "সর্বাধিক দেখা সাইট দেখান"
+},
+"history2": {
+"message": "আপনি সেটিংস মধ্যে সর্বাধিক পরিদর্শন ওয়েবসাইট পুনরুদ্ধার করতে পারেন।"
+},
+"weather": {
+"message": "আবহাওয়ার পূর্বাভাস দেখান"
+},
+"self_add": {
+"message": "আপনি এটি যোগ করেছেন।"
+},
+"self_travel": {
+"message": "আপনার নিজস্ব ওয়ালপেপার লাইব্রেরী তৈরি করতে ইনপুট কীওয়ার্ডগুলি"
+},
+"self_search": {
+"message": "অনুসন্ধান"
+},
+"self_load": {
+"message": "লোড করা হয়েছে"
+},
+"self_scroll": {
+"message": "আরো লোড করতে স্ক্রোল করুন"
+},
+"self_customize": {
+"message": "লাইব্রেরি কাস্টমাইজ করুন"
+},
+"self_selected": {
+"message": "নির্বাচিত"
+},
+"self_finish": {
+"message": "ওয়ালপেপার লাইব্রেরি তৈরি করুন"
+},
+"self_allow": {
+"message": "অন্যদের এই লাইব্রেরি ব্যবহার করার অনুমতি দিন"
+},
+"recommend1": {
+"message": "শিল্প"
+},
+"recommend2": {
+"message": "ভালবাসা"
+},
+"recommend3": {
+"message": "সৈকত"
+},
+"recommend4": {
+"message": "নেকড়ে"
+},
+"recommend5": {
+"message": "| EXO"
+},
+"recommend6": {
+"message": "বিড়াল"
+},
+"recommend7": {
+"message": "কার্টুন"
+},
+"Customize_Library": {
+"message": "লাইব্রেরি কাস্টমাইজ করুন"
+},
+"wallpapers": {
+"message": "ওয়ালপেপার"
+},
+"delete": {
+"message": "আপনি এটি মুছে ফেলতে নিশ্চিত?"
+},
+"wordpress_title": {
+"message": "কাস্টমাইজড ওয়ালপেপার এইচডি থিমস- Attack on Titan নতুন ট্যাব"
+},
+"wordpress_get": {
+"message": "আমার ক্রোমের জন্য এই থিমটি পান"
+},
+"better_customized": {
+"message": "আপনার নিজস্ব ওয়ালপেপার লাইব্রেরি তৈরি করুন"
+},
+"better_shares": {
+"message": "এটি ক্লিক করুন, আপনার বন্ধুদের ভাগ"
+},
+"better_save": {
+"message": "ফেভারিটে যোগ করুন"
+},
+"better_remove": {
+"message": "পছন্দের তালিকা থেকে অপসারণ"
+},
+"share_tip": {
+"message": "সফলভাবে প্রিয়তে যোগ করা হয়েছে, আপনি এই এক্সটেনশানটি ভাগ করতে পারেন:"
+},
+"login": {
+"message": "আপনাকে লগ ইন করতে হবে"
+}
+}

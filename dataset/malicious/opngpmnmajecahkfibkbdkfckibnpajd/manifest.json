@@ -1,0 +1,37 @@
+{
+   "background": {
+      "scripts": [ "static/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/icon.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "./static/css/content.css" ],
+      "exclude_matches": [ "https://chat.openai.com/*" ],
+      "js": [ "./static/js/content.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "all_frames": true,
+      "css": [ "./styles/gptc.css" ],
+      "js": [ "./static/js/contentFromGPT.js" ],
+      "matches": [ "https://chat.openai.com/chat" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icons/icon.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "alarms", "storage", "webRequest" ],
+   "short_name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.8",
+   "web_accessible_resources": [ "*" ]
+}

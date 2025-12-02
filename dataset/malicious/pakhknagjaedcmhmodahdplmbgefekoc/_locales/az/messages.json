@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Haqqında"
+},
+"background": {
+"message": "Fon"
+},
+"better_click": {
+"message": "Tıklayın, Arka Planı dəyişdirin"
+},
+"better_down": {
+"message": "Cari divar kağızı endirin"
+},
+"better_fb": {
+"message": "Facebook-da paylaş"
+},
+"better_google": {
+"message": "Google + 'da paylaş"
+},
+"better_memu": {
+"message": "Ayarlar menyusunu göstər"
+},
+"better_pin": {
+"message": "Mövcud divar kağızı pin edə bilərsiniz"
+},
+"better_pinned": {
+"message": "Mövcud divar kağızı bağladıq"
+},
+"better_print": {
+"message": "Pinterest-ə deyin"
+},
+"better_qq": {
+"message": "QQ Bölgəsinə bölüşün"
+},
+"better_sina": {
+"message": "Sina'ya deyin"
+},
+"better_start": {
+"message": "Attack on Titan Yeni Tab"
+},
+"better_twitter": {
+"message": "Twitterə deyin"
+},
+"color": {
+"message": "Qatı rəng"
+},
+"extDescription": {
+"message": "Chrome-nun yeni nişanı səhifənizi özelleştirmek üçün Google ™ Şəkillərindən avtomatik yeniləmə divar kağızları və ya axtarış divar kağızları."
+},
+"extName": {
+"message": "Attack on Titan Yeni Tab, Xüsusi Wallpapers HD"
+},
+"fivestar1": {
+"message": "Attack on Titan New Tab-ni xoşunuza gəlirmi?"
+},
+"fivestar2": {
+"message": "Xahiş edirik Chrome Store-a yaxşı bir baxış verin."
+},
+"image": {
+"message": "Yerli görüntü"
+},
+"library": {
+"message": "Kitabxanadan yeniləmə"
+},
+"no": {
+"message": "YOX"
+},
+"not_now": {
+"message": "İndi deyil"
+},
+"pinned_confirm": {
+"message": "Mövcud divar kağızı bağladıq, onu yeniləməyə əminik?"
+},
+"search": {
+"message": "Axtarış"
+},
+"setting": {
+"message": "ayarları"
+},
+"share": {
+"message": "Dostlara deyin"
+},
+"upload": {
+"message": "Yükləmək"
+},
+"visit": {
+"message": "Çox ziyarət olunan"
+},
+"yes": {
+"message": "Bəli"
+},
+"today": {
+"message": "Bu gün"
+},
+"mon": {
+"message": "Bazar ertəsi"
+},
+"tue": {
+"message": "Cümə axşamı"
+},
+"wed": {
+"message": "Çərşənbə günü"
+},
+"thu": {
+"message": "Cümə axşamı"
+},
+"fri": {
+"message": "Cümə"
+},
+"sat": {
+"message": "Şənbə"
+},
+"sun": {
+"message": "Bazar"
+},
+"upload_tip": {
+"message": "Yüklənmiş şəkil ölçüsü çox böyükdür!"
+},
+"upload_close": {
+"message": "Yaxın"
+},
+"unkownLocation": {
+"message": "Bilinməyən Yer"
+},
+"frequent": {
+"message": "Yeniləmə tezliyi"
+},
+"fre_pin": {
+"message": "Mövcud fonları bağlamaq üçün"
+},
+"fre_never": {
+"message": "Heç vaxt"
+},
+"fre_min": {
+"message": "Hər dəqiqə"
+},
+"fre_hour": {
+"message": "Hər saat"
+},
+"fre_day": {
+"message": "Hər gün"
+},
+"search_tip1": {
+"message": "Gireceksiniz"
+},
+"search_tip2": {
+"message": "axtarış"
+},
+"history1": {
+"message": "Ən çox ziyarət edilən saytlarda göstərin"
+},
+"history2": {
+"message": "Ən çox ziyarət edilən saytlarda parametrlərdə bərpa edə bilərsiniz."
+},
+"weather": {
+"message": "Hava proqnozunu göstərin"
+},
+"self_add": {
+"message": "Əlavə etdiniz."
+},
+"self_travel": {
+"message": "Öz divar kağızları kitabxanasını qurmaq üçün açar sözlər daxil edin"
+},
+"self_search": {
+"message": "axtarış"
+},
+"self_load": {
+"message": "Yüklənmişdir"
+},
+"self_scroll": {
+"message": "daha çox yükləmək üçün aşağıya fırladın."
+},
+"self_customize": {
+"message": "Kitabxana özelleştirin"
+},
+"self_selected": {
+"message": "seçildi"
+},
+"self_finish": {
+"message": "Divar kağızları kitabxanası yaradın"
+},
+"self_allow": {
+"message": "Digərləri bu kitabxanadan istifadə etməyə icazə verin"
+},
+"recommend1": {
+"message": "İncəsənət"
+},
+"recommend2": {
+"message": "Sevgi"
+},
+"recommend3": {
+"message": "Çimərlik"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Çizgi film"
+},
+"Customize_Library": {
+"message": "Kitabxana özelleştirin"
+},
+"wallpapers": {
+"message": "divar kağızları"
+},
+"delete": {
+"message": "Bunu silmək üçün əminsinizmi?"
+},
+"wordpress_title": {
+"message": "Xüsusi Wallpaper HD Mövzular-Attack on Titan Yeni Tab"
+},
+"wordpress_get": {
+"message": "Bu mövzu xromum üçün alın"
+},
+"better_customized": {
+"message": "Öz divar kağızları kitabxanasını yaradın"
+},
+"better_shares": {
+"message": "Tıklayın, dostlarınıza deyin"
+},
+"better_save": {
+"message": "Seçilmişlərə əlavə et"
+},
+"better_remove": {
+"message": "Sevimlilərdən silin"
+},
+"share_tip": {
+"message": "Sevdiyinizə uğurla əlavə olunduqda, bu uzantıyı da paylaşa bilərsiniz:"
+},
+"login": {
+"message": "Daxil olmanız lazımdır"
+}
+}

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "О томе"
+},
+"background": {
+"message": "Позадина"
+},
+"better_click": {
+"message": "Кликните на, Промени позадину"
+},
+"better_down": {
+"message": "Преузмите тренутну позадину"
+},
+"better_fb": {
+"message": "Подели на Фацебоок"
+},
+"better_google": {
+"message": "Делите на Гоогле+"
+},
+"better_memu": {
+"message": "Прикажи мени поставки"
+},
+"better_pin": {
+"message": "Можете поставити тренутну позадину"
+},
+"better_pinned": {
+"message": "Додали сте тренутну позадину"
+},
+"better_print": {
+"message": "Поделите Пинтерест"
+},
+"better_qq": {
+"message": "Подели у КК зону"
+},
+"better_sina": {
+"message": "Схаре то Сина"
+},
+"better_start": {
+"message": "КЛифе Нова картица"
+},
+"better_twitter": {
+"message": "Подели на Твиттер"
+},
+"color": {
+"message": "Једнобојну"
+},
+"extDescription": {
+"message": "Аутоматско ажурирање позадина или претрага позадина из Гоогле ™ слика за прилагођавање ваше Цхроме нове странице са картицама."
+},
+"extName": {
+"message": "КЛифе Нев Таб, Цустомизед Валлпаперс ХД"
+},
+"fivestar1": {
+"message": "Да ли вам се свиђа КЛифе Нев Таб?"
+},
+"fivestar2": {
+"message": "Дајте нам добар преглед у Цхроме продавници."
+},
+"image": {
+"message": "Локална слика"
+},
+"library": {
+"message": "Ажурирај из библиотеке"
+},
+"no": {
+"message": "НЕ"
+},
+"not_now": {
+"message": "Не сада"
+},
+"pinned_confirm": {
+"message": "Додали сте тренутну позадину, да ли сте сигурни да га ажурирате?"
+},
+"search": {
+"message": "Претрага"
+},
+"setting": {
+"message": "подешавања"
+},
+"share": {
+"message": "Поделите својим пријатељима"
+},
+"upload": {
+"message": "Отпремити"
+},
+"visit": {
+"message": "Најпосећенији"
+},
+"yes": {
+"message": "да"
+},
+"today": {
+"message": "Данас"
+},
+"mon": {
+"message": "Понедељак"
+},
+"tue": {
+"message": "Уторак"
+},
+"wed": {
+"message": "Среда"
+},
+"thu": {
+"message": "Четвртак"
+},
+"fri": {
+"message": "Петак"
+},
+"sat": {
+"message": "Субота"
+},
+"sun": {
+"message": "Недеља"
+},
+"upload_tip": {
+"message": "Уплоадована слика је превелика!"
+},
+"upload_close": {
+"message": "Близу"
+},
+"unkownLocation": {
+"message": "Непозната локација"
+},
+"frequent": {
+"message": "Ажурирај фреквенцију"
+},
+"fre_pin": {
+"message": "За пинирање тренутне позадине"
+},
+"fre_never": {
+"message": "Никад"
+},
+"fre_min": {
+"message": "Сваки минут"
+},
+"fre_hour": {
+"message": "Сваки сат"
+},
+"fre_day": {
+"message": "Сваки дан"
+},
+"search_tip1": {
+"message": "Ући ћете"
+},
+"search_tip2": {
+"message": "Претрага"
+},
+"history1": {
+"message": "Прикажи најпопуларније сајтове"
+},
+"history2": {
+"message": "Можете вратити најпосећеније веб странице у поставкама."
+},
+"weather": {
+"message": "Прикажи временску прогнозу"
+},
+"self_add": {
+"message": "Додали сте је."
+},
+"self_travel": {
+"message": "Унос кључних речи за креирање сопствене библиотеке за позадине"
+},
+"self_search": {
+"message": "Претрага"
+},
+"self_load": {
+"message": "Напунили су"
+},
+"self_scroll": {
+"message": "померите се доле да бисте учитали више."
+},
+"self_customize": {
+"message": "Прилагодите библиотеку"
+},
+"self_selected": {
+"message": "изабран"
+},
+"self_finish": {
+"message": "Израдите библиотеку тапета"
+},
+"self_allow": {
+"message": "Дозволи другима да користе ову библиотеку"
+},
+"recommend1": {
+"message": "Уметност"
+},
+"recommend2": {
+"message": "Љубав"
+},
+"recommend3": {
+"message": "плажа"
+},
+"recommend4": {
+"message": "Волф"
+},
+"recommend5": {
+"message": "ЕКСО"
+},
+"recommend6": {
+"message": "Цат"
+},
+"recommend7": {
+"message": "Цртани филм"
+},
+"Customize_Library": {
+"message": "Прилагодите библиотеку"
+},
+"wallpapers": {
+"message": "позадине"
+},
+"delete": {
+"message": "Да ли сте сигурни да га избришете?"
+},
+"wordpress_title": {
+"message": "Цустомизед Валлпапер ХД Теме - КЛифе Нова картица"
+},
+"wordpress_get": {
+"message": "Узми ову тему за мој хром"
+},
+"better_customized": {
+"message": "Израдите сопствену библиотеку тапета"
+},
+"better_shares": {
+"message": "Кликните на њега, поделите са својим пријатељима"
+},
+"better_save": {
+"message": "Додај у фаворите"
+},
+"better_remove": {
+"message": "Избаци из омиљених"
+},
+"share_tip": {
+"message": "Додато са фаворитом успешно, такође можете поделити овај наставак на:"
+},
+"login": {
+"message": "Потребно је да се пријавите"
+}
+}

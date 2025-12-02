@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Om"
+},
+"background": {
+"message": "Baggrund"
+},
+"better_click": {
+"message": "Klik på det, Skift baggrund"
+},
+"better_down": {
+"message": "Download nuværende tapet"
+},
+"better_fb": {
+"message": "Del på Facebook"
+},
+"better_google": {
+"message": "Del på Google+"
+},
+"better_memu": {
+"message": "Vis indstillingsmenuen"
+},
+"better_pin": {
+"message": "Du kan indstille det nuværende tapet"
+},
+"better_pinned": {
+"message": "Du har fastgjort det nuværende tapet"
+},
+"better_print": {
+"message": "Del til Pinterest"
+},
+"better_qq": {
+"message": "Del til QQ Zone"
+},
+"better_sina": {
+"message": "Del til Sina"
+},
+"better_start": {
+"message": "Attack on Titan Ny faneblad"
+},
+"better_twitter": {
+"message": "Del på Twitter"
+},
+"color": {
+"message": "Solid farve"
+},
+"extDescription": {
+"message": "Auto opdater wallpapers eller søg wallpapers fra Google ™ Images for at tilpasse din Chrome nye faneblad."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Custom Wallpapers HD"
+},
+"fivestar1": {
+"message": "Kan du lide Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Giv os en god anmeldelse på Chrome Store."
+},
+"image": {
+"message": "Lokalt billede"
+},
+"library": {
+"message": "Opdatering fra bibliotek"
+},
+"no": {
+"message": "INGEN"
+},
+"not_now": {
+"message": "Ikke nu"
+},
+"pinned_confirm": {
+"message": "Du har fastgjort det nuværende tapet, er du sikker på at opdatere det?"
+},
+"search": {
+"message": "Søg"
+},
+"setting": {
+"message": "indstillinger"
+},
+"share": {
+"message": "Del til dine venner"
+},
+"upload": {
+"message": "Upload"
+},
+"visit": {
+"message": "Mest besøgte"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "I dag"
+},
+"mon": {
+"message": "Mandag"
+},
+"tue": {
+"message": "tirsdag"
+},
+"wed": {
+"message": "onsdag"
+},
+"thu": {
+"message": "torsdag"
+},
+"fri": {
+"message": "Fredag"
+},
+"sat": {
+"message": "lørdag"
+},
+"sun": {
+"message": "Søndag"
+},
+"upload_tip": {
+"message": "Den uploadede billedstørrelse er for stor!"
+},
+"upload_close": {
+"message": "Tæt"
+},
+"unkownLocation": {
+"message": "Ukendt Placering"
+},
+"frequent": {
+"message": "Opdateringsfrekvens"
+},
+"fre_pin": {
+"message": "At pin nuværende baggrund"
+},
+"fre_never": {
+"message": "Aldrig"
+},
+"fre_min": {
+"message": "Hvert minut"
+},
+"fre_hour": {
+"message": "Hver time"
+},
+"fre_day": {
+"message": "Hver dag"
+},
+"search_tip1": {
+"message": "Du vil indtaste"
+},
+"search_tip2": {
+"message": "Søg"
+},
+"history1": {
+"message": "Vis de fleste besøgte websteder"
+},
+"history2": {
+"message": "Du kan gendanne de fleste besøgte websteder i indstillinger."
+},
+"weather": {
+"message": "Vis vejrudsigten"
+},
+"self_add": {
+"message": "Du har tilføjet det."
+},
+"self_travel": {
+"message": "Indtast søgeord til at bygge dit eget wallpapers-bibliotek"
+},
+"self_search": {
+"message": "Søg"
+},
+"self_load": {
+"message": "Har indlæst"
+},
+"self_scroll": {
+"message": "rul ned for at indlæse mere."
+},
+"self_customize": {
+"message": "Tilpas biblioteket"
+},
+"self_selected": {
+"message": "valgte"
+},
+"self_finish": {
+"message": "Byg wallpapers bibliotek"
+},
+"self_allow": {
+"message": "Tillad andre at bruge dette bibliotek"
+},
+"recommend1": {
+"message": "Kunst"
+},
+"recommend2": {
+"message": "Elsker"
+},
+"recommend3": {
+"message": "Strand"
+},
+"recommend4": {
+"message": "Ulv"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kat"
+},
+"recommend7": {
+"message": "Tegneserie"
+},
+"Customize_Library": {
+"message": "Tilpas biblioteket"
+},
+"wallpapers": {
+"message": "tapeter"
+},
+"delete": {
+"message": "Er du sikker på at slette den?"
+},
+"wordpress_title": {
+"message": "Tilpasset tapet HD Temaer-Attack on Titan Ny fane"
+},
+"wordpress_get": {
+"message": "Få dette tema til min krom"
+},
+"better_customized": {
+"message": "Byg dit eget wallpapers-bibliotek"
+},
+"better_shares": {
+"message": "Klik på det, del til dine venner"
+},
+"better_save": {
+"message": "Tilføj til favoritter"
+},
+"better_remove": {
+"message": "Fjern fra favoritter"
+},
+"share_tip": {
+"message": "Tilføjet til favorit med succes, kan du også dele denne udvidelse med:"
+},
+"login": {
+"message": "Du skal logge ind"
+}
+}

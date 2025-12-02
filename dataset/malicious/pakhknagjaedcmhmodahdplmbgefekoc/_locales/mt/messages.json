@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Dwar"
+},
+"background": {
+"message": "Sfond"
+},
+"better_click": {
+"message": "Ikklikkjah, Bidla Sfond"
+},
+"better_down": {
+"message": "Niżżel il-wallpaper kurrenti"
+},
+"better_fb": {
+"message": "Aqsam ma 'Facebook"
+},
+"better_google": {
+"message": "Aqsam ma 'Google"
+},
+"better_memu": {
+"message": "Show settings menu"
+},
+"better_pin": {
+"message": "Tista 'ssib il-wallpaper attwali"
+},
+"better_pinned": {
+"message": "Int immirajt il-wallpaper attwali"
+},
+"better_print": {
+"message": "Aqsam ma 'Pinterest"
+},
+"better_qq": {
+"message": "Aqsam ma 'Żona QQ"
+},
+"better_sina": {
+"message": "Aqsam ma 'Sina"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "Aqsam ma 'Twitter"
+},
+"color": {
+"message": "Kulur solidu"
+},
+"extDescription": {
+"message": "Aġġorna awtomatikament wallpapers jew tfittxija wallpapers minn Google ™ Stampi biex tippersonalizza l-paġna ta 'tab tiegħek ġdida ta' Chrome."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Customized Wallpapers HD"
+},
+"fivestar1": {
+"message": "Tixtieq Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Jekk jogħġbok agħtina reviżjoni tajba fuq Chrome Store."
+},
+"image": {
+"message": "Stampa lokali"
+},
+"library": {
+"message": "Aġġornament mill-Librerija"
+},
+"no": {
+"message": "LE"
+},
+"not_now": {
+"message": "Mhux issa"
+},
+"pinned_confirm": {
+"message": "Int issettjat il-wallpaper attwali, int żgur li taġġornah?"
+},
+"search": {
+"message": "Fittex"
+},
+"setting": {
+"message": "settings"
+},
+"share": {
+"message": "Aqsam mal-ħbieb tiegħek"
+},
+"upload": {
+"message": "Upload"
+},
+"visit": {
+"message": "Ħafna miżrugħa"
+},
+"yes": {
+"message": "Iva"
+},
+"today": {
+"message": "Illum"
+},
+"mon": {
+"message": "It-Tnejn"
+},
+"tue": {
+"message": "It-Tlieta"
+},
+"wed": {
+"message": "L-Erbgħa"
+},
+"thu": {
+"message": "Il-Ħamis"
+},
+"fri": {
+"message": "Il-ġimgħa"
+},
+"sat": {
+"message": "Is-Sibt"
+},
+"sun": {
+"message": "Il-Ħadd"
+},
+"upload_tip": {
+"message": "Id-daqs tal-immaġini mtella 'huwa kbir wisq!"
+},
+"upload_close": {
+"message": "Agħlaq"
+},
+"unkownLocation": {
+"message": "Post Mhux magħruf"
+},
+"frequent": {
+"message": "Frekwenza ta 'Aġġornament"
+},
+"fre_pin": {
+"message": "Li tmiss l-isfond kurrenti"
+},
+"fre_never": {
+"message": "Qatt"
+},
+"fre_min": {
+"message": "Kull Minuta"
+},
+"fre_hour": {
+"message": "Kull siegħa"
+},
+"fre_day": {
+"message": "Kuljum"
+},
+"search_tip1": {
+"message": "Int ser tidħol"
+},
+"search_tip2": {
+"message": "tfittxija"
+},
+"history1": {
+"message": "Uri s-siti l-aktar li żaru"
+},
+"history2": {
+"message": "Tista 'terġa' żżur is-siti l-aktar li żaret fil-settings."
+},
+"weather": {
+"message": "Uri t-tbassir tat-temp"
+},
+"self_add": {
+"message": "Int miżjudha."
+},
+"self_travel": {
+"message": "Kliem ta 'l-input biex tibni l-librerija tiegħek stess ta' wallpapers"
+},
+"self_search": {
+"message": "tfittxija"
+},
+"self_load": {
+"message": "Tgħabbew"
+},
+"self_scroll": {
+"message": "skrollja 'l isfel biex titgħabba aktar."
+},
+"self_customize": {
+"message": "Customize Library"
+},
+"self_selected": {
+"message": "magħżula"
+},
+"self_finish": {
+"message": "Ibni librerija tal-wallpapers"
+},
+"self_allow": {
+"message": "Ħalli lill-oħrajn jużaw din il-librerija"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Imħabba"
+},
+"recommend3": {
+"message": "Bajja"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Cartoon"
+},
+"Customize_Library": {
+"message": "Customize Library"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Int żgur li tħassarha?"
+},
+"wordpress_title": {
+"message": "Customized Wallpaper HD Temi-Attack on Titan Tab Ġdid"
+},
+"wordpress_get": {
+"message": "Niżżel din it-tema għal chrome tiegħi"
+},
+"better_customized": {
+"message": "Ibni l-librerija tiegħek stess ta 'wallpapers"
+},
+"better_shares": {
+"message": "Ikklikjah, taqsam lill-ħbiebek"
+},
+"better_save": {
+"message": "Żid mal-favoriti"
+},
+"better_remove": {
+"message": "Neħħi mill-Favourites"
+},
+"share_tip": {
+"message": "Miżjud ma 'favorit b'suċċess, tista' wkoll taqsam din l-estensjoni lil:"
+},
+"login": {
+"message": "Għandek bżonn login"
+}
+}

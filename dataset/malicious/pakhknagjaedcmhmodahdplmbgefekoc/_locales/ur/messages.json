@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "کے بارے میں"
+},
+"background": {
+"message": "پس منظر"
+},
+"better_click": {
+"message": "اس پر کلک کریں، پس منظر تبدیل کریں"
+},
+"better_down": {
+"message": "موجودہ وال پیپر ڈاؤن لوڈ کریں"
+},
+"better_fb": {
+"message": "فیس بک پر اشتراک کریں"
+},
+"better_google": {
+"message": "Google+ پر اشتراک کریں"
+},
+"better_memu": {
+"message": "ترتیبات مینو دکھائیں"
+},
+"better_pin": {
+"message": "آپ موجودہ وال پیپر پن کرسکتے ہیں"
+},
+"better_pinned": {
+"message": "آپ نے موجودہ وال پیپر پنچا ہے"
+},
+"better_print": {
+"message": "Pinterest پر اشتراک کریں"
+},
+"better_qq": {
+"message": "QQ زون پر اشتراک کریں"
+},
+"better_sina": {
+"message": "سینا میں اشتراک کریں"
+},
+"better_start": {
+"message": "Attack on Titan نئی ٹیب"
+},
+"better_twitter": {
+"message": "ٹویٹر پر اشتراک کریں"
+},
+"color": {
+"message": "ٹھوس رنگ"
+},
+"extDescription": {
+"message": "Google ™ سے وال پیپر اپ ڈیٹ کریں یا Google ™ سے وال پیپر تلاش کریں تصاویر اپنے Chrome کے نئے ٹیب کا صفحہ اپنی مرضی کے مطابق بنائیں."
+},
+"extName": {
+"message": "Attack on Titan نیو ٹیب، مرضی کے مطابق وال پیپر ایچ ڈی"
+},
+"fivestar1": {
+"message": "کیا آپ Attack on Titan نیو ٹیب پسند کرتے ہیں؟"
+},
+"fivestar2": {
+"message": "براہ مہربانی ہمیں کروم اسٹور پر ایک اچھا جائزہ لیں."
+},
+"image": {
+"message": "مقامی تصویر"
+},
+"library": {
+"message": "لائبریری سے اپ ڈیٹ کریں"
+},
+"no": {
+"message": "نہیں"
+},
+"not_now": {
+"message": "ابھی نہیں"
+},
+"pinned_confirm": {
+"message": "آپ نے موجودہ وال پیپر پنڈیا ہے، کیا آپ اسے اپ ڈیٹ کرنے کے لئے اس بات کا یقین کر رہے ہیں؟"
+},
+"search": {
+"message": "تلاش کریں"
+},
+"setting": {
+"message": "ترتیبات"
+},
+"share": {
+"message": "اپنے دوستوں کو اشتراک کریں"
+},
+"upload": {
+"message": "اپ لوڈ کریں"
+},
+"visit": {
+"message": "زیادہ دیکھے گئے"
+},
+"yes": {
+"message": "جی ہاں"
+},
+"today": {
+"message": "آج"
+},
+"mon": {
+"message": "سوموار"
+},
+"tue": {
+"message": "منگل"
+},
+"wed": {
+"message": "بدھ"
+},
+"thu": {
+"message": "جمعرات"
+},
+"fri": {
+"message": "جمعہ"
+},
+"sat": {
+"message": "ہفتہ"
+},
+"sun": {
+"message": "اتوار"
+},
+"upload_tip": {
+"message": "اپ لوڈ کردہ تصویر کا سائز بہت بڑا ہے!"
+},
+"upload_close": {
+"message": "بند کریں"
+},
+"unkownLocation": {
+"message": "نامعلوم مقام"
+},
+"frequent": {
+"message": "اپ ڈیٹ فریکوئنسی"
+},
+"fre_pin": {
+"message": "موجودہ پس منظر کو پن کرنے کے لئے"
+},
+"fre_never": {
+"message": "کبھی نہیں"
+},
+"fre_min": {
+"message": "ہر منٹ"
+},
+"fre_hour": {
+"message": "ہر گھنٹے"
+},
+"fre_day": {
+"message": "ہر روز"
+},
+"search_tip1": {
+"message": "آپ داخل ہوں گے"
+},
+"search_tip2": {
+"message": "تلاش کریں"
+},
+"history1": {
+"message": "سب سے زیادہ ملاحظہ کردہ سائٹس دکھائیں"
+},
+"history2": {
+"message": "آپ ترتیبات میں سب سے زیادہ ملاحظہ کردہ ویب سائٹ بحال کر سکتے ہیں."
+},
+"weather": {
+"message": "موسم کی پیشن گوئی دکھائیں"
+},
+"self_add": {
+"message": "آپ نے اسے شامل کیا ہے."
+},
+"self_travel": {
+"message": "ان پٹ مطلوبہ الفاظ آپ کی اپنی وال پیپر لائبریری بنانے کے لئے"
+},
+"self_search": {
+"message": "تلاش کریں"
+},
+"self_load": {
+"message": "بھرا ہوا ہے"
+},
+"self_scroll": {
+"message": "مزید لوڈ کرنے کے لئے نیچے سکرال کریں."
+},
+"self_customize": {
+"message": "لائبریری کو اپنی مرضی کے مطابق بنائیں"
+},
+"self_selected": {
+"message": "منتخب شدہ"
+},
+"self_finish": {
+"message": "وال پیپر لائبریری کی تعمیر کریں"
+},
+"self_allow": {
+"message": "دوسروں کو اس لائبریری کا استعمال کرنے کی اجازت دیں"
+},
+"recommend1": {
+"message": "آرٹ"
+},
+"recommend2": {
+"message": "محبت"
+},
+"recommend3": {
+"message": "بیچ"
+},
+"recommend4": {
+"message": "بھیڑیا"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "کیٹ"
+},
+"recommend7": {
+"message": "کارٹون"
+},
+"Customize_Library": {
+"message": "لائبریری کو اپنی مرضی کے مطابق بنائیں"
+},
+"wallpapers": {
+"message": "وال پیپر"
+},
+"delete": {
+"message": "کیا آپ اسے حذف کرنا چاہتے ہیں؟"
+},
+"wordpress_title": {
+"message": "اپنی مرضی کے مطابق وال پیپر ایچ ڈی موضوعات - Attack on Titan نئی ٹیب"
+},
+"wordpress_get": {
+"message": "میرے کروم کے لئے اس موضوع کو حاصل کریں"
+},
+"better_customized": {
+"message": "اپنے ہی وال پیپر لائبریری کی تعمیر کریں"
+},
+"better_shares": {
+"message": "اس پر کلک کریں، اپنے دوستوں کو اشتراک کریں"
+},
+"better_save": {
+"message": "پسندیدہ میں شامل کریں"
+},
+"better_remove": {
+"message": "پسندیدہ سے ہٹا دیں"
+},
+"share_tip": {
+"message": "کامیابی سے پسندیدہ میں شامل کیا گیا ہے، آپ اس میں توسیع بھی کرسکتے ہیں:"
+},
+"login": {
+"message": "آپ لاگ ان کی ضرورت ہے"
+}
+}

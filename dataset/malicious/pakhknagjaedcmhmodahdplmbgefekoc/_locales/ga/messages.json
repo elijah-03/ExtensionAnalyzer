@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Faoi"
+},
+"background": {
+"message": "Cúlra"
+},
+"better_click": {
+"message": "Cliceáil é, Athraigh Cúlra"
+},
+"better_down": {
+"message": "Íoslódáil an páipéar balla reatha"
+},
+"better_fb": {
+"message": "Comhroinn le Facebook"
+},
+"better_google": {
+"message": "Comhroinn le Google+"
+},
+"better_memu": {
+"message": "Taispeáin roghchlár socruithe"
+},
+"better_pin": {
+"message": "Is féidir leat an páipéar balla reatha a phiorrú"
+},
+"better_pinned": {
+"message": "Bhunaigh tú an páipéar balla reatha"
+},
+"better_print": {
+"message": "Comhroinn le Pinterest"
+},
+"better_qq": {
+"message": "Comhroinn le QQ Zone"
+},
+"better_sina": {
+"message": "Comhroinn le Sina"
+},
+"better_start": {
+"message": "Tab Nua Attack on Titan"
+},
+"better_twitter": {
+"message": "Comhroinn le Twitter"
+},
+"color": {
+"message": "Dath Soladach"
+},
+"extDescription": {
+"message": "Déan nuashonrú ar pháipéirí nuashonraithe nó scrúdaigh ballaí ó Íomhánna Google ™ chun an leathanach cluaisín nua a shaincheapadh."
+},
+"extName": {
+"message": "Tab Nua Attack on Titan, Wallpapers Saincheaptha HD"
+},
+"fivestar1": {
+"message": "An maith leat Tab Nua Attack on Titan?"
+},
+"fivestar2": {
+"message": "Tabhair athbhreithniú maith dúinn ar Chrome Store."
+},
+"image": {
+"message": "Íomhá áitiúil"
+},
+"library": {
+"message": "Nuashonrú ón Leabharlann"
+},
+"no": {
+"message": "NÍL"
+},
+"not_now": {
+"message": "Ní anois"
+},
+"pinned_confirm": {
+"message": "Bhunaigh tú an páipéar balla reatha, an bhfuil tú cinnte é a thabhairt cothrom le dáta?"
+},
+"search": {
+"message": "Cuardaigh"
+},
+"setting": {
+"message": "socruithe"
+},
+"share": {
+"message": "Comhroinn le do chairde"
+},
+"upload": {
+"message": "Uaslódáil"
+},
+"visit": {
+"message": "An chuid is mó a bhfuil cuairt orthu"
+},
+"yes": {
+"message": "Tá"
+},
+"today": {
+"message": "Inniu"
+},
+"mon": {
+"message": "Dé Luain"
+},
+"tue": {
+"message": "Dé Máirt"
+},
+"wed": {
+"message": "Dé Céadaoin"
+},
+"thu": {
+"message": "Déardaoin"
+},
+"fri": {
+"message": "Dé hAoine"
+},
+"sat": {
+"message": "Dé Sathairn"
+},
+"sun": {
+"message": "Dé Domhnaigh"
+},
+"upload_tip": {
+"message": "Tá an méid íomhá uaslódáil ró-mhór!"
+},
+"upload_close": {
+"message": "Dún"
+},
+"unkownLocation": {
+"message": "Suíomh anaithnid"
+},
+"frequent": {
+"message": "Minicíocht Nuashonraithe"
+},
+"fre_pin": {
+"message": "Chun an cúlra reatha a phiorrú"
+},
+"fre_never": {
+"message": "Ná"
+},
+"fre_min": {
+"message": "Gach Nóiméad"
+},
+"fre_hour": {
+"message": "Gach Uair"
+},
+"fre_day": {
+"message": "Gach lá"
+},
+"search_tip1": {
+"message": "Cuirfidh tú isteach"
+},
+"search_tip2": {
+"message": "cuardaigh"
+},
+"history1": {
+"message": "Taispeáin na suíomhanna is mó cuairt"
+},
+"history2": {
+"message": "Is féidir leat na láithreáin ghréasáin is mó a thugtar cuairt orthu a chur ar ais i suímh"
+},
+"weather": {
+"message": "Taispeáin réamhaisnéis na haimsire"
+},
+"self_add": {
+"message": "Chuir tú é leis."
+},
+"self_travel": {
+"message": "Eochairfhocail ionchuir le do leabharlann ballapháipéir féin a thógáil"
+},
+"self_search": {
+"message": "cuardaigh"
+},
+"self_load": {
+"message": "Luchtaithe"
+},
+"self_scroll": {
+"message": "scrollaigh síos chun níos mó a luchtú."
+},
+"self_customize": {
+"message": "Leabharlann a shaincheapadh"
+},
+"self_selected": {
+"message": "roghnaithe"
+},
+"self_finish": {
+"message": "Tógáil leabharlann ballaí"
+},
+"self_allow": {
+"message": "Lig do dhaoine eile an leabharlann seo a úsáid"
+},
+"recommend1": {
+"message": "Ealaín"
+},
+"recommend2": {
+"message": "Grá"
+},
+"recommend3": {
+"message": "Trá"
+},
+"recommend4": {
+"message": "Mac Tíre"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Cartún"
+},
+"Customize_Library": {
+"message": "Leabharlann a shaincheapadh"
+},
+"wallpapers": {
+"message": "ballapháipéir"
+},
+"delete": {
+"message": "An bhfuil tú cinnte é a scriosadh?"
+},
+"wordpress_title": {
+"message": "Cúlbhrat saincheaptha HD Themes-Attack on Titan Nua Tab"
+},
+"wordpress_get": {
+"message": "Faigh an téama seo le haghaidh mo chrome"
+},
+"better_customized": {
+"message": "Tóg do leabharlann ballapháipéir féin"
+},
+"better_shares": {
+"message": "Cliceáil é, scair le do chairde"
+},
+"better_save": {
+"message": "Cuir le Favorites"
+},
+"better_remove": {
+"message": "Bain as Favorites"
+},
+"share_tip": {
+"message": "Chomh maith leis sin is fearr leat, is féidir leat an síneadh seo a roinnt freisin chun:"
+},
+"login": {
+"message": "Ní mór duit logáil isteach i"
+}
+}

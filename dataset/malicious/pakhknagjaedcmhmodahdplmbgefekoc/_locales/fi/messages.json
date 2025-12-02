@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Noin"
+},
+"background": {
+"message": "Tausta"
+},
+"better_click": {
+"message": "Napsauta sitä, muuta tausta"
+},
+"better_down": {
+"message": "Lataa nykyinen taustakuva"
+},
+"better_fb": {
+"message": "Jaa Facebookiin"
+},
+"better_google": {
+"message": "Jaa Google+ -palveluun"
+},
+"better_memu": {
+"message": "Näytä asetukset -valikko"
+},
+"better_pin": {
+"message": "Voit pinata nykyisen taustakuvan"
+},
+"better_pinned": {
+"message": "Olet kiinnittänyt nykyisen taustakuvan"
+},
+"better_print": {
+"message": "Jaa Pinterestiin"
+},
+"better_qq": {
+"message": "Jaa QQ-alueelle"
+},
+"better_sina": {
+"message": "Jaa Sinaan"
+},
+"better_start": {
+"message": "Attack on Titan uusi välilehti"
+},
+"better_twitter": {
+"message": "Jaa Twitteriin"
+},
+"color": {
+"message": "Yksivärinen"
+},
+"extDescription": {
+"message": "Voit päivittää taustakuvia tai etsiä taustakuvia Google ™ -kuvista, jotta voit mukauttaa Chromen uuden välilehden sivua."
+},
+"extName": {
+"message": "Attack on Titan uusi välilehti, mukautetut taustakuvat HD"
+},
+"fivestar1": {
+"message": "Pidätkö Attack on Titan New Tabista?"
+},
+"fivestar2": {
+"message": "Anna Chromebookille hyvä arvostelu."
+},
+"image": {
+"message": "Paikallinen kuva"
+},
+"library": {
+"message": "Päivitä kirjastosta"
+},
+"no": {
+"message": "EI"
+},
+"not_now": {
+"message": "Ei nyt"
+},
+"pinned_confirm": {
+"message": "Olet kiinnittänyt nykyisen taustakuvan, ole varma, että päivität sen?"
+},
+"search": {
+"message": "Hae"
+},
+"setting": {
+"message": "asetukset"
+},
+"share": {
+"message": "Jaa kavereillesi"
+},
+"upload": {
+"message": "upload"
+},
+"visit": {
+"message": "Eniten vierailtu"
+},
+"yes": {
+"message": "Joo"
+},
+"today": {
+"message": "Tänään"
+},
+"mon": {
+"message": "maanantai"
+},
+"tue": {
+"message": "tiistai"
+},
+"wed": {
+"message": "keskiviikko"
+},
+"thu": {
+"message": "torstai"
+},
+"fri": {
+"message": "perjantai"
+},
+"sat": {
+"message": "lauantai"
+},
+"sun": {
+"message": "sunnuntai"
+},
+"upload_tip": {
+"message": "Ladattu kuvakoko on liian suuri!"
+},
+"upload_close": {
+"message": "kiinni"
+},
+"unkownLocation": {
+"message": "Tuntematon sijainti"
+},
+"frequent": {
+"message": "Päivitystaajuus"
+},
+"fre_pin": {
+"message": "Pintaa nykyinen tausta"
+},
+"fre_never": {
+"message": "Ei koskaan"
+},
+"fre_min": {
+"message": "Joka minuutti"
+},
+"fre_hour": {
+"message": "Joka tunti"
+},
+"fre_day": {
+"message": "Joka päivä"
+},
+"search_tip1": {
+"message": "Tulet syöttämään"
+},
+"search_tip2": {
+"message": "Hae"
+},
+"history1": {
+"message": "Näytä useimmin vieraillut sivustot"
+},
+"history2": {
+"message": "Voit palauttaa useimmin vieraillut verkkosivustot asetuksissa."
+},
+"weather": {
+"message": "Näytä sääennuste"
+},
+"self_add": {
+"message": "Olet lisännyt sen."
+},
+"self_travel": {
+"message": "Syötä avainsanat rakentaaksesi omat taustakuvakirjastot"
+},
+"self_search": {
+"message": "Hae"
+},
+"self_load": {
+"message": "On ladattu"
+},
+"self_scroll": {
+"message": "vieritä alaspäin, jotta voit ladata lisää."
+},
+"self_customize": {
+"message": "Muokkaa kirjastoa"
+},
+"self_selected": {
+"message": "valittu"
+},
+"self_finish": {
+"message": "Rakenna tapettien kirjasto"
+},
+"self_allow": {
+"message": "Anna muiden käyttää kirjastoa"
+},
+"recommend1": {
+"message": "Taide"
+},
+"recommend2": {
+"message": "Rakkaus"
+},
+"recommend3": {
+"message": "Ranta"
+},
+"recommend4": {
+"message": "Susi"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kissa"
+},
+"recommend7": {
+"message": "Sarjakuva"
+},
+"Customize_Library": {
+"message": "Muokkaa kirjastoa"
+},
+"wallpapers": {
+"message": "taustakuvat"
+},
+"delete": {
+"message": "Haluatko varmasti poistaa sen?"
+},
+"wordpress_title": {
+"message": "Räätälöidyt taustakuvan HD teemat-Attack on Titan uusi välilehti"
+},
+"wordpress_get": {
+"message": "Hanki tämä teema kromiini"
+},
+"better_customized": {
+"message": "Rakenna oma tapettien kirjasto"
+},
+"better_shares": {
+"message": "Napsauta sitä, jaa ystäväsi"
+},
+"better_save": {
+"message": "Lisää suosikkeihin"
+},
+"better_remove": {
+"message": "Poista suosikeista"
+},
+"share_tip": {
+"message": "Voit lisätä tämän laajennuksen myös suosikkeihin:"
+},
+"login": {
+"message": "Sinun on kirjauduttava sisään sisään"
+}
+}

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Über"
+},
+"background": {
+"message": "Hintergrund"
+},
+"better_click": {
+"message": "Klicke darauf, ändere Hintergrund"
+},
+"better_down": {
+"message": "Aktuelles Hintergrundbild herunterladen"
+},
+"better_fb": {
+"message": "Auf Facebook teilen"
+},
+"better_google": {
+"message": "Auf Google+ teilen"
+},
+"better_memu": {
+"message": "Einstellungsmenü anzeigen"
+},
+"better_pin": {
+"message": "Sie können das aktuelle Hintergrundbild anheften"
+},
+"better_pinned": {
+"message": "Sie haben das aktuelle Hintergrundbild angeheftet"
+},
+"better_print": {
+"message": "Teilen mit Pinterest"
+},
+"better_qq": {
+"message": "Teilen mit QQ Zone"
+},
+"better_sina": {
+"message": "Teilen Sie mit Sina"
+},
+"better_start": {
+"message": "Angriff auf Titan Neues Tab"
+},
+"better_twitter": {
+"message": "Teilen auf Twitter"
+},
+"color": {
+"message": "Einfarbig"
+},
+"extDescription": {
+"message": "Aktualisieren Sie automatisch Hintergrundbilder oder durchsuchen Sie Hintergrundbilder von Google ™ Images, um Ihre neue Chrome-Tab-Seite anzupassen."
+},
+"extName": {
+"message": "Angriff auf Titan New Tab, Hintergründe HD"
+},
+"fivestar1": {
+"message": "Gefällt dir Angriff auf Titan New Tab?"
+},
+"fivestar2": {
+"message": "Bitte geben Sie uns eine gute Bewertung im Chrome Store."
+},
+"image": {
+"message": "Lokales Bild"
+},
+"library": {
+"message": "Aktualisieren von Bibliothek"
+},
+"no": {
+"message": "NEIN"
+},
+"not_now": {
+"message": "Nicht jetzt"
+},
+"pinned_confirm": {
+"message": "Du hast das aktuelle Hintergrundbild angeheftet, bist du sicher, es zu aktualisieren?"
+},
+"search": {
+"message": "Suche"
+},
+"setting": {
+"message": "die Einstellungen"
+},
+"share": {
+"message": "Teile mit deinen Freunden"
+},
+"upload": {
+"message": "Hochladen"
+},
+"visit": {
+"message": "Meist besuchte"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "Heute"
+},
+"mon": {
+"message": "Montag"
+},
+"tue": {
+"message": "Dienstag"
+},
+"wed": {
+"message": "Mittwoch"
+},
+"thu": {
+"message": "Donnerstag"
+},
+"fri": {
+"message": "Freitag"
+},
+"sat": {
+"message": "Samstag"
+},
+"sun": {
+"message": "Sonntag"
+},
+"upload_tip": {
+"message": "Die hochgeladene Bildgröße ist zu groß!"
+},
+"upload_close": {
+"message": "Schließen"
+},
+"unkownLocation": {
+"message": "Unbekannter Standort"
+},
+"frequent": {
+"message": "Aktualisierungsfrequenz"
+},
+"fre_pin": {
+"message": "Um den aktuellen Hintergrund zu fixieren"
+},
+"fre_never": {
+"message": "noch nie"
+},
+"fre_min": {
+"message": "Jede Minute"
+},
+"fre_hour": {
+"message": "Jede Stunde"
+},
+"fre_day": {
+"message": "Jeden Tag"
+},
+"search_tip1": {
+"message": "Du wirst eintreten"
+},
+"search_tip2": {
+"message": "Suche"
+},
+"history1": {
+"message": "Meist besuchte Seiten anzeigen"
+},
+"history2": {
+"message": "Sie können die am häufigsten besuchten Websites in den Einstellungen wiederherstellen."
+},
+"weather": {
+"message": "Zeige die Wettervorhersage an"
+},
+"self_add": {
+"message": "Du hast es hinzugefügt."
+},
+"self_travel": {
+"message": "Geben Sie Schlüsselwörter ein, um Ihre eigene Hintergrundbibliothek zu erstellen"
+},
+"self_search": {
+"message": "Suche"
+},
+"self_load": {
+"message": "Habe geladen"
+},
+"self_scroll": {
+"message": "Scrollen Sie nach unten, um mehr zu laden."
+},
+"self_customize": {
+"message": "Bibliothek anpassen"
+},
+"self_selected": {
+"message": "ausgewählt"
+},
+"self_finish": {
+"message": "Erstellen Sie eine Hintergrundbilderbibliothek"
+},
+"self_allow": {
+"message": "Erlaube anderen, diese Bibliothek zu benutzen"
+},
+"recommend1": {
+"message": "Kunst"
+},
+"recommend2": {
+"message": "Liebe"
+},
+"recommend3": {
+"message": "Strand"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Katze"
+},
+"recommend7": {
+"message": "Karikatur"
+},
+"Customize_Library": {
+"message": "Bibliothek anpassen"
+},
+"wallpapers": {
+"message": "Tapeten"
+},
+"delete": {
+"message": "Bist du sicher, dass du es löschst?"
+},
+"wordpress_title": {
+"message": "Customized Wallpaper HD Themen-Angriff auf Titan New Tab"
+},
+"wordpress_get": {
+"message": "Hol dir dieses Thema für mein Chrom"
+},
+"better_customized": {
+"message": "Erstellen Sie Ihre eigene Wallpaper-Bibliothek"
+},
+"better_shares": {
+"message": "Klicke darauf und teile es mit deinen Freunden"
+},
+"better_save": {
+"message": "Zu den Favoriten hinzufügen"
+},
+"better_remove": {
+"message": "Von Favoriten entfernen"
+},
+"share_tip": {
+"message": "Zum Favoriten hinzugefügt, können Sie diese Erweiterung auch für folgende Personen freigeben:"
+},
+"login": {
+"message": "Sie müssen sich einloggen"
+}
+}

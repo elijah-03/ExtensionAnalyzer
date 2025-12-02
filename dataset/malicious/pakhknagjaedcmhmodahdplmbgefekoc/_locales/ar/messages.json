@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "حول"
+},
+"background": {
+"message": "خلفية"
+},
+"better_click": {
+"message": "انقر عليه، تغيير الخلفية"
+},
+"better_down": {
+"message": "تحميل خلفية الحالي"
+},
+"better_fb": {
+"message": "حصة في الفيسبوك"
+},
+"better_google": {
+"message": "المشاركة في + غوغل"
+},
+"better_memu": {
+"message": "إظهار قائمة الإعدادات"
+},
+"better_pin": {
+"message": "يمكنك دبوس خلفية الحالي"
+},
+"better_pinned": {
+"message": "لقد تم تثبيت خلفية الشاشة الحالية"
+},
+"better_print": {
+"message": "حصة بينتيريست"
+},
+"better_qq": {
+"message": "شارك في منطقة ق"
+},
+"better_sina": {
+"message": "شارك في سينا"
+},
+"better_start": {
+"message": "كليف علامة تبويب جديدة"
+},
+"better_twitter": {
+"message": "مشاركة على تويتر"
+},
+"color": {
+"message": "اللون الصامد"
+},
+"extDescription": {
+"message": "خلفيات التحديث التلقائي أو خلفيات البحث من صور غوغل ™ لتخصيص صفحة علامة تبويب كروم الجديدة."
+},
+"extName": {
+"message": "كليف جديد تبويب، خلفيات مخصصة هد"
+},
+"fivestar1": {
+"message": "هل تحب كليف نيو تاب؟"
+},
+"fivestar2": {
+"message": "يرجى تزويدنا بمراجعة جيدة على متجر كروم."
+},
+"image": {
+"message": "صورة محلية"
+},
+"library": {
+"message": "تحديث من المكتبة"
+},
+"no": {
+"message": "لا"
+},
+"not_now": {
+"message": "ليس الان"
+},
+"pinned_confirm": {
+"message": "قمت بتثبيت خلفية الحالي، هل أنت متأكد من تحديثه؟"
+},
+"search": {
+"message": "بحث"
+},
+"setting": {
+"message": "إعدادات"
+},
+"share": {
+"message": "شاركها مع أصدقائك"
+},
+"upload": {
+"message": "تحميل"
+},
+"visit": {
+"message": "أكثر زيارة"
+},
+"yes": {
+"message": "نعم فعلا"
+},
+"today": {
+"message": "اليوم"
+},
+"mon": {
+"message": "الإثنين"
+},
+"tue": {
+"message": "الثلاثاء"
+},
+"wed": {
+"message": "الأربعاء"
+},
+"thu": {
+"message": "الخميس"
+},
+"fri": {
+"message": "يوم الجمعة"
+},
+"sat": {
+"message": "يوم السبت"
+},
+"sun": {
+"message": "الأحد"
+},
+"upload_tip": {
+"message": "حجم الصورة التي تم تحميلها كبير جدا!"
+},
+"upload_close": {
+"message": "قريب"
+},
+"unkownLocation": {
+"message": "موقع غير معروف"
+},
+"frequent": {
+"message": "تحديث التكرار"
+},
+"fre_pin": {
+"message": "لتثبيت الخلفية الحالية"
+},
+"fre_never": {
+"message": "أبدا"
+},
+"fre_min": {
+"message": "كل دقيقة"
+},
+"fre_hour": {
+"message": "كل ساعة"
+},
+"fre_day": {
+"message": "كل يوم"
+},
+"search_tip1": {
+"message": "سوف تدخل"
+},
+"search_tip2": {
+"message": "بحث"
+},
+"history1": {
+"message": "عرض المواقع الأكثر زيارة"
+},
+"history2": {
+"message": "يمكنك استعادة مواقع الويب الأكثر زيارة في الإعدادات."
+},
+"weather": {
+"message": "عرض توقعات الطقس"
+},
+"self_add": {
+"message": "لقد أضفته."
+},
+"self_travel": {
+"message": "إدخال الكلمات الرئيسية لبناء مكتبة خلفيات الخاصة بك"
+},
+"self_search": {
+"message": "بحث"
+},
+"self_load": {
+"message": "تم تحميلها"
+},
+"self_scroll": {
+"message": "مرر لأسفل لتحميل المزيد."
+},
+"self_customize": {
+"message": "تخصيص المكتبة"
+},
+"self_selected": {
+"message": "المحدد"
+},
+"self_finish": {
+"message": "بناء مكتبة خلفيات"
+},
+"self_allow": {
+"message": "السماح للآخرين باستخدام هذه المكتبة"
+},
+"recommend1": {
+"message": "فن"
+},
+"recommend2": {
+"message": "حب"
+},
+"recommend3": {
+"message": "شاطئ بحر"
+},
+"recommend4": {
+"message": "الذئب"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "قط"
+},
+"recommend7": {
+"message": "رسوم متحركة"
+},
+"Customize_Library": {
+"message": "تخصيص المكتبة"
+},
+"wallpapers": {
+"message": "خلفيات"
+},
+"delete": {
+"message": "هل أنت متأكد من حذف ذلك؟"
+},
+"wordpress_title": {
+"message": "خلفيات مخصصة هد موبايل-كليف علامة تبويب جديدة"
+},
+"wordpress_get": {
+"message": "الحصول على هذا الموضوع لبلدي الكروم"
+},
+"better_customized": {
+"message": "بناء مكتبة خلفيات الخاصة بك"
+},
+"better_shares": {
+"message": "انقر عليه، مشاركتها مع أصدقائك"
+},
+"better_save": {
+"message": "اضافة الى المفضلة"
+},
+"better_remove": {
+"message": "إزالة من المفضلة"
+},
+"share_tip": {
+"message": "إضافة إلى المفضلة بنجاح، يمكنك أيضا مشاركة هذه الإضافة إلى:"
+},
+"login": {
+"message": "تحتاج تسجيل الدخول"
+}
+}

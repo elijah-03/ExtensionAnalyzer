@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <link href="lib/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="skin/popup.css">
+</head>
+<body class="nohtml" tabindex="1">
+
+  <header>
+    <img src="/icons/logo.png">
+  </header>
+
+  <div class="wrapper">
+    <div class="page-settings all-pages">
+      <h1>Enabled on all pages</h1>
+      <div class="custom-control custom-switch custom-switch-md">
+        <input id="ext-status" type="checkbox" class="custom-control-input" checked>
+        <label class="custom-control-label" for="ext-status"></label>
+      </div>
+    </div>
+    <div class="page-settings current-page">
+      <div>
+        <h1>Enabled on this domain</h1>
+        <span id="sitename"></span>
+      </div>
+      <div class="custom-control custom-switch custom-switch-md checkbox">
+        <input id="adblock-switch" type="checkbox" class="custom-control-input adblock-status" checked>
+        <label class="custom-control-label" for="adblock-switch"></label>
+      </div>
+    </div>
+    <div class="stats-wrapper">
+      <h1>Statistics</h1>
+      <div class="line"></div>
+      <div id="stats">
+        <span id="blocked-text">On this page: <span id="stats-page">0</span> </span>
+        <span id="total-text">Total blocked ads: <span id="stats-total">0</span> </span>
+      </div>
+    </div>
+    <button id="refresh">Refresh Page</button>
+  </div>
+
+  <script src="lib/jquery/jquery.js"></script>
+  <script src="polyfill.js"></script>
+  <script src="ext/common.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "O"
+},
+"background": {
+"message": "Pozadí"
+},
+"better_click": {
+"message": "Klepněte na tlačítko Změnit pozadí"
+},
+"better_down": {
+"message": "Stažení aktuální tapety"
+},
+"better_fb": {
+"message": "Sdílet na Facebooku"
+},
+"better_google": {
+"message": "Sdílejte na Google+"
+},
+"better_memu": {
+"message": "Zobrazit nabídku nastavení"
+},
+"better_pin": {
+"message": "Můžete připnout aktuální tapetu"
+},
+"better_pinned": {
+"message": "Připnuli jste aktuální tapetu"
+},
+"better_print": {
+"message": "Podělte se o Pinterest"
+},
+"better_qq": {
+"message": "Podělte se o oblast QQ"
+},
+"better_sina": {
+"message": "Sdílet Sině"
+},
+"better_start": {
+"message": "Attack on Titan Nová karta"
+},
+"better_twitter": {
+"message": "Sdílet na Twitteru"
+},
+"color": {
+"message": "Jednobarevná"
+},
+"extDescription": {
+"message": "Automaticky aktualizujte tapety nebo vyhledejte tapety z obrázků Google ™, abyste si přizpůsobili novou kartu na kartě Chrome."
+},
+"extName": {
+"message": "Attack on Titan Nová karta, tapety na míru HD"
+},
+"fivestar1": {
+"message": "Líbí se vám software Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Uveďte prosím dobrý přehled v Chromu."
+},
+"image": {
+"message": "Místní obraz"
+},
+"library": {
+"message": "Aktualizace z knihovny"
+},
+"no": {
+"message": "NE"
+},
+"not_now": {
+"message": "Teď ne"
+},
+"pinned_confirm": {
+"message": "Připnuli jste aktuální tapetu, opravdu ji aktualizujete?"
+},
+"search": {
+"message": "Vyhledávání"
+},
+"setting": {
+"message": "nastavení"
+},
+"share": {
+"message": "Sdílejte s přáteli"
+},
+"upload": {
+"message": "nahrát"
+},
+"visit": {
+"message": "Nejnavštěvovanější"
+},
+"yes": {
+"message": "Ano"
+},
+"today": {
+"message": "Dnes"
+},
+"mon": {
+"message": "pondělí"
+},
+"tue": {
+"message": "úterý"
+},
+"wed": {
+"message": "středa"
+},
+"thu": {
+"message": "Čtvrtek"
+},
+"fri": {
+"message": "pátek"
+},
+"sat": {
+"message": "sobota"
+},
+"sun": {
+"message": "Neděle"
+},
+"upload_tip": {
+"message": "Nahraná velikost obrázku je příliš velká!"
+},
+"upload_close": {
+"message": "Zavřít"
+},
+"unkownLocation": {
+"message": "Neznámé umístění"
+},
+"frequent": {
+"message": "Frekvence aktualizace"
+},
+"fre_pin": {
+"message": "Připojení aktuálního pozadí"
+},
+"fre_never": {
+"message": "Nikdy"
+},
+"fre_min": {
+"message": "Každou minutu"
+},
+"fre_hour": {
+"message": "Každou hodinu"
+},
+"fre_day": {
+"message": "Každý den"
+},
+"search_tip1": {
+"message": "Vstupte"
+},
+"search_tip2": {
+"message": "Vyhledávání"
+},
+"history1": {
+"message": "Zobrazit nejnavštěvovanější weby"
+},
+"history2": {
+"message": "V nastavení můžete obnovit nejnavštěvovanější webové stránky."
+},
+"weather": {
+"message": "Ukažte předpověď počasí"
+},
+"self_add": {
+"message": "Přidali jste ji."
+},
+"self_travel": {
+"message": "Vložte klíčová slova pro vytvoření vlastní knihovny pro tapety"
+},
+"self_search": {
+"message": "Vyhledávání"
+},
+"self_load": {
+"message": "Naloženo"
+},
+"self_scroll": {
+"message": "posuňte dolů a načtěte další."
+},
+"self_customize": {
+"message": "Přizpůsobte knihovnu"
+},
+"self_selected": {
+"message": "vybraný"
+},
+"self_finish": {
+"message": "Vytvořte knihovnu tapet"
+},
+"self_allow": {
+"message": "Umožněte ostatním používat tuto knihovnu"
+},
+"recommend1": {
+"message": "Umění"
+},
+"recommend2": {
+"message": "Milovat"
+},
+"recommend3": {
+"message": "Pláž"
+},
+"recommend4": {
+"message": "Vlk"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kočka"
+},
+"recommend7": {
+"message": "Kreslená pohádka"
+},
+"Customize_Library": {
+"message": "Přizpůsobte knihovnu"
+},
+"wallpapers": {
+"message": "tapety"
+},
+"delete": {
+"message": "Opravdu ji chcete smazat?"
+},
+"wordpress_title": {
+"message": "Vlastní tapety HD Témata-Attack on Titan Nová karta"
+},
+"wordpress_get": {
+"message": "Získejte toto téma pro můj chrome"
+},
+"better_customized": {
+"message": "Vytvořte si vlastní knihovnu tapet"
+},
+"better_shares": {
+"message": "Klikněte na něj, sdílejte s přáteli"
+},
+"better_save": {
+"message": "Přidat k oblíbeným"
+},
+"better_remove": {
+"message": "Odstranit z oblíbených"
+},
+"share_tip": {
+"message": "Pokud jste úspěšně přidali oblíbené položky, můžete toto rozšíření sdílet také na:"
+},
+"login": {
+"message": "Musíte se přihlásit"
+}
+}

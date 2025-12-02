@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Apie"
+},
+"background": {
+"message": "Fonas"
+},
+"better_click": {
+"message": "Spustelėkite ją, pakeiskite foną"
+},
+"better_down": {
+"message": "Parsisiųsti dabartinę tapetą"
+},
+"better_fb": {
+"message": "Bendrinti su \"Facebook\""
+},
+"better_google": {
+"message": "Bendrinkite su \"Google+\""
+},
+"better_memu": {
+"message": "Rodyti nustatymų meniu"
+},
+"better_pin": {
+"message": "Galite prisegti dabartinę tapetą"
+},
+"better_pinned": {
+"message": "Jūs prisegėte dabartinę tapetą"
+},
+"better_print": {
+"message": "Bendrinti su \"Pinterest\""
+},
+"better_qq": {
+"message": "Dalintis QQ zonoje"
+},
+"better_sina": {
+"message": "Dalinkis Sina"
+},
+"better_start": {
+"message": "Attack on Titan Naujas skirtukas"
+},
+"better_twitter": {
+"message": "Bendrinti su \"Twitter\""
+},
+"color": {
+"message": "Vienoda spalva"
+},
+"extDescription": {
+"message": "Automatiškai atnaujinkite ekrano fonus arba ieškokite \"Google ™ Images\" tapetai, kad tinkintumėte \"Chrome\" naujo skirtuko puslapį."
+},
+"extName": {
+"message": "Attack on Titan Naujas skirtukas, \"Customized Wallpapers HD\""
+},
+"fivestar1": {
+"message": "Ar jums patinka \"Attack on Titan New Tab\"?"
+},
+"fivestar2": {
+"message": "Prašome pateikti gerą \"Chrome Store\" apžvalgą."
+},
+"image": {
+"message": "Vietinis vaizdas"
+},
+"library": {
+"message": "Atnaujinti iš bibliotekos"
+},
+"no": {
+"message": "NE"
+},
+"not_now": {
+"message": "Ne dabar"
+},
+"pinned_confirm": {
+"message": "Jūs prisegėte dabartinę tapetą, ar tikrai ją atnaujinsite?"
+},
+"search": {
+"message": "Paieška"
+},
+"setting": {
+"message": "nustatymai"
+},
+"share": {
+"message": "Bendrinkite su savo draugais"
+},
+"upload": {
+"message": "Įkelti"
+},
+"visit": {
+"message": "Labiausiai lankomas"
+},
+"yes": {
+"message": "Taip"
+},
+"today": {
+"message": "Šiandien"
+},
+"mon": {
+"message": "Pirmadienis"
+},
+"tue": {
+"message": "Antradienis"
+},
+"wed": {
+"message": "Trečiadienis"
+},
+"thu": {
+"message": "Ketvirtadienis"
+},
+"fri": {
+"message": "Penktadienis"
+},
+"sat": {
+"message": "Šeštadienis"
+},
+"sun": {
+"message": "Sekmadienis"
+},
+"upload_tip": {
+"message": "Įkeltas vaizdo dydis per didelis!"
+},
+"upload_close": {
+"message": "Uždaryti"
+},
+"unkownLocation": {
+"message": "Nežinoma vieta"
+},
+"frequent": {
+"message": "Atnaujinti dažnį"
+},
+"fre_pin": {
+"message": "Norėdami prisegti dabartinį foną"
+},
+"fre_never": {
+"message": "Niekada"
+},
+"fre_min": {
+"message": "Kiekviena minutė"
+},
+"fre_hour": {
+"message": "Kiekviena valanda"
+},
+"fre_day": {
+"message": "Kiekvieną dieną"
+},
+"search_tip1": {
+"message": "Jūs pateksite"
+},
+"search_tip2": {
+"message": "Paieška"
+},
+"history1": {
+"message": "Rodyti dažniausiai lankomas svetaines"
+},
+"history2": {
+"message": "Galite atkurti dažniausiai lankomas svetaines nustatymuose."
+},
+"weather": {
+"message": "Rodyti orų prognozę"
+},
+"self_add": {
+"message": "Jūs jį pridėjote."
+},
+"self_travel": {
+"message": "Įvesties raktiniai žodžiai sukurti savo tapetų biblioteką"
+},
+"self_search": {
+"message": "Paieška"
+},
+"self_load": {
+"message": "Pakrauta"
+},
+"self_scroll": {
+"message": "slinkite žemyn, kad įkelti daugiau."
+},
+"self_customize": {
+"message": "Pritaikyti biblioteką"
+},
+"self_selected": {
+"message": "pasirinkta"
+},
+"self_finish": {
+"message": "Sukurkite tapetų biblioteką"
+},
+"self_allow": {
+"message": "Leisti kitiems naudoti šią biblioteką"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Meilė"
+},
+"recommend3": {
+"message": "papludimys"
+},
+"recommend4": {
+"message": "Vilkas"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Katė"
+},
+"recommend7": {
+"message": "Animacinis filmas"
+},
+"Customize_Library": {
+"message": "Pritaikyti biblioteką"
+},
+"wallpapers": {
+"message": "tapetai"
+},
+"delete": {
+"message": "Ar tikrai jį ištrinsite?"
+},
+"wordpress_title": {
+"message": "Individualizuotos tapetai HD temos-Attack on Titan Naujas skirtukas"
+},
+"wordpress_get": {
+"message": "Gaukite šią temą mano chromui"
+},
+"better_customized": {
+"message": "Sukurkite savo tapetų biblioteką"
+},
+"better_shares": {
+"message": "Paspauskite, dalinkitės su draugais"
+},
+"better_save": {
+"message": "Įtraukti į adresyną"
+},
+"better_remove": {
+"message": "Pašalinti iš mėgstamiausių"
+},
+"share_tip": {
+"message": "Sėkmingai pridėti prie mėgstamiausio, taip pat galite bendrinti šį plėtinį su:"
+},
+"login": {
+"message": "Jums reikia prisijungti"
+}
+}

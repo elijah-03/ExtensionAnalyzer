@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "За"
+},
+"background": {
+"message": "Позадина"
+},
+"better_click": {
+"message": "Притиснете го, Change Background"
+},
+"better_down": {
+"message": "Преземи тековна позадина"
+},
+"better_fb": {
+"message": "Сподели на Фејсбук"
+},
+"better_google": {
+"message": "Сподели на Google+"
+},
+"better_memu": {
+"message": "Прикажи менија за поставки"
+},
+"better_pin": {
+"message": "Можете да ја прикачите тековната позадина"
+},
+"better_pinned": {
+"message": "Сте ја закачиле тековната позадина"
+},
+"better_print": {
+"message": "Сподели на Pinterest"
+},
+"better_qq": {
+"message": "Сподели за QQ зона"
+},
+"better_sina": {
+"message": "Сподели на Сина"
+},
+"better_start": {
+"message": "Attack on Titan ново јазиче"
+},
+"better_twitter": {
+"message": "Сподели на Твитер"
+},
+"color": {
+"message": "Цврста боја"
+},
+"extDescription": {
+"message": "Автоматско ажурирање на позадини или пребарување на позадини за слики од Google ™ Images за да ја прилагодите новата страница на Google Chrome."
+},
+"extName": {
+"message": "Attack on Titan ново јазиче, кориснички Позадини HD"
+},
+"fivestar1": {
+"message": "Дали ви се допаѓа Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Ве молиме дајте ни добар преглед на Chrome Store."
+},
+"image": {
+"message": "Локална слика"
+},
+"library": {
+"message": "Ажурирај од библиотека"
+},
+"no": {
+"message": "НЕ"
+},
+"not_now": {
+"message": "Не сега"
+},
+"pinned_confirm": {
+"message": "Сте ја закачиле тековната позадина, дали сте сигурни да ја ажурирате?"
+},
+"search": {
+"message": "Пребарување"
+},
+"setting": {
+"message": "поставувања"
+},
+"share": {
+"message": "Споделете ги вашите пријатели"
+},
+"upload": {
+"message": "Подигни датотека"
+},
+"visit": {
+"message": "Најмногу посетени"
+},
+"yes": {
+"message": "Да"
+},
+"today": {
+"message": "Денес"
+},
+"mon": {
+"message": "Понеделник"
+},
+"tue": {
+"message": "вторник"
+},
+"wed": {
+"message": "Среда"
+},
+"thu": {
+"message": "Четврток"
+},
+"fri": {
+"message": "Петок"
+},
+"sat": {
+"message": "Сабота"
+},
+"sun": {
+"message": "Недела"
+},
+"upload_tip": {
+"message": "Поставената големина на сликата е преголема!"
+},
+"upload_close": {
+"message": "Затвори"
+},
+"unkownLocation": {
+"message": "Непозната локација"
+},
+"frequent": {
+"message": "Ажурирај фреквенција"
+},
+"fre_pin": {
+"message": "За да прикачите тековна позадина"
+},
+"fre_never": {
+"message": "Никогаш"
+},
+"fre_min": {
+"message": "Секоја минута"
+},
+"fre_hour": {
+"message": "Секој час"
+},
+"fre_day": {
+"message": "Секој ден"
+},
+"search_tip1": {
+"message": "Ќе влезеш"
+},
+"search_tip2": {
+"message": "пребарување"
+},
+"history1": {
+"message": "Прикажи најпосетени сајтови"
+},
+"history2": {
+"message": "Можете да вратите најмногу посетените веб-страници во поставките."
+},
+"weather": {
+"message": "Покажи временска прогноза"
+},
+"self_add": {
+"message": "Го додадовте."
+},
+"self_travel": {
+"message": "Внеси клучни зборови за да изградите сопствена библиотека за позадини"
+},
+"self_search": {
+"message": "пребарување"
+},
+"self_load": {
+"message": "Натоварено"
+},
+"self_scroll": {
+"message": "движете се надолу за да вчитате повеќе."
+},
+"self_customize": {
+"message": "Прилагодете ја библиотеката"
+},
+"self_selected": {
+"message": "избрани"
+},
+"self_finish": {
+"message": "Изгради библиотека за позадини"
+},
+"self_allow": {
+"message": "Овозможете им на другите да ја користат оваа библиотека"
+},
+"recommend1": {
+"message": "Уметност"
+},
+"recommend2": {
+"message": "Љубов"
+},
+"recommend3": {
+"message": "Плажа"
+},
+"recommend4": {
+"message": "Волкот"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Цртан филм"
+},
+"Customize_Library": {
+"message": "Прилагодете ја библиотеката"
+},
+"wallpapers": {
+"message": "позадини"
+},
+"delete": {
+"message": "Дали сте сигурни да го избришете?"
+},
+"wordpress_title": {
+"message": "Прилагодени Wallpaper HD Themes-Attack on Titan ново јазиче"
+},
+"wordpress_get": {
+"message": "Добијте ја оваа тема за мојот хром"
+},
+"better_customized": {
+"message": "Изгради своја библиотека за позадини"
+},
+"better_shares": {
+"message": "Кликнете, споделете ги со вашите пријатели"
+},
+"better_save": {
+"message": "Додадете во омилени"
+},
+"better_remove": {
+"message": "Отстрани од омилени"
+},
+"share_tip": {
+"message": "Додадено во фаворит успешно, исто така можете да ја споделите оваа екстензија на:"
+},
+"login": {
+"message": "Треба да се најавите"
+}
+}

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Over"
+},
+"background": {
+"message": "Achtergrond"
+},
+"better_click": {
+"message": "Klik erop, achtergrond wijzigen"
+},
+"better_down": {
+"message": "Download de huidige achtergrond"
+},
+"better_fb": {
+"message": "Delen op Facebook"
+},
+"better_google": {
+"message": "Delen op Google+"
+},
+"better_memu": {
+"message": "Toon instellingen menu"
+},
+"better_pin": {
+"message": "U kunt de huidige achtergrond vastzetten"
+},
+"better_pinned": {
+"message": "U hebt de huidige achtergrond vastgezet"
+},
+"better_print": {
+"message": "Delen op Pinterest"
+},
+"better_qq": {
+"message": "Deel met QQ Zone"
+},
+"better_sina": {
+"message": "Deel met Sina"
+},
+"better_start": {
+"message": "Aanval op Titan New Tab"
+},
+"better_twitter": {
+"message": "Deel via Twitter"
+},
+"color": {
+"message": "Effen kleur"
+},
+"extDescription": {
+"message": "Auto update achtergronden of zoek wallpapers uit Google ™ Afbeeldingen om uw Chrome nieuwe tabblad-pagina aan te passen."
+},
+"extName": {
+"message": "Aanval op Titan New Tab, Aangepaste Wallpapers HD"
+},
+"fivestar1": {
+"message": "Vind je Aanval op Titan New Tab leuk?"
+},
+"fivestar2": {
+"message": "Geef ons een goede recensie over Chrome Store."
+},
+"image": {
+"message": "Lokale afbeelding"
+},
+"library": {
+"message": "Update vanuit de bibliotheek"
+},
+"no": {
+"message": "NEE"
+},
+"not_now": {
+"message": "Niet nu"
+},
+"pinned_confirm": {
+"message": "Je hebt de huidige achtergrond vastgezet. Weet je zeker dat je deze update wilt bijwerken?"
+},
+"search": {
+"message": "Zoeken"
+},
+"setting": {
+"message": "instellingen"
+},
+"share": {
+"message": "Deel met je vrienden"
+},
+"upload": {
+"message": "Uploaden"
+},
+"visit": {
+"message": "Meest bezochte"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "Vandaag"
+},
+"mon": {
+"message": "maandag"
+},
+"tue": {
+"message": "dinsdag"
+},
+"wed": {
+"message": "woensdag"
+},
+"thu": {
+"message": "donderdag"
+},
+"fri": {
+"message": "vrijdag"
+},
+"sat": {
+"message": "zaterdag"
+},
+"sun": {
+"message": "zondag"
+},
+"upload_tip": {
+"message": "De geüploade afbeeldingsgrootte is te groot!"
+},
+"upload_close": {
+"message": "Dichtbij"
+},
+"unkownLocation": {
+"message": "Onbekende locatie"
+},
+"frequent": {
+"message": "Update frequentie"
+},
+"fre_pin": {
+"message": "Om de huidige achtergrond te pinnen"
+},
+"fre_never": {
+"message": "Nooit"
+},
+"fre_min": {
+"message": "Elke minuut"
+},
+"fre_hour": {
+"message": "Elk uur"
+},
+"fre_day": {
+"message": "Elke dag"
+},
+"search_tip1": {
+"message": "Je gaat binnen"
+},
+"search_tip2": {
+"message": "zoeken"
+},
+"history1": {
+"message": "Toon meest bezochte sites"
+},
+"history2": {
+"message": "U kunt de meeste bezochte websites in de instellingen herstellen."
+},
+"weather": {
+"message": "Toon de weersvoorspelling"
+},
+"self_add": {
+"message": "Je hebt het toegevoegd."
+},
+"self_travel": {
+"message": "Voer trefwoorden in om uw eigen wallpapersbibliotheek te bouwen"
+},
+"self_search": {
+"message": "zoeken"
+},
+"self_load": {
+"message": "Zijn geladen"
+},
+"self_scroll": {
+"message": "scrol omlaag om meer te laden."
+},
+"self_customize": {
+"message": "Bibliotheek aanpassen"
+},
+"self_selected": {
+"message": "gekozen"
+},
+"self_finish": {
+"message": "Bouw achtergrondenbibliotheek"
+},
+"self_allow": {
+"message": "Sta anderen toe om deze bibliotheek te gebruiken"
+},
+"recommend1": {
+"message": "Kunst"
+},
+"recommend2": {
+"message": "Liefde"
+},
+"recommend3": {
+"message": "strand"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kat"
+},
+"recommend7": {
+"message": "spotprent"
+},
+"Customize_Library": {
+"message": "Bibliotheek aanpassen"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Weet je zeker dat je het wilt verwijderen?"
+},
+"wordpress_title": {
+"message": "Aangepaste achtergrond HD-thema's - Aanval op Titan New Tab"
+},
+"wordpress_get": {
+"message": "Krijg dit thema voor mijn chroom"
+},
+"better_customized": {
+"message": "Bouw je eigen wallpapers-bibliotheek"
+},
+"better_shares": {
+"message": "Klik erop, deel met je vrienden"
+},
+"better_save": {
+"message": "Toevoegen aan favorieten"
+},
+"better_remove": {
+"message": "Verwijder van favorieten"
+},
+"share_tip": {
+"message": "Met succes toegevoegd aan favoriet, kunt u deze extensie ook delen met:"
+},
+"login": {
+"message": "U moet inloggen"
+}
+}

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Par"
+},
+"background": {
+"message": "Priekšvēsture"
+},
+"better_click": {
+"message": "Noklikšķiniet uz tā, Mainīt fonu"
+},
+"better_down": {
+"message": "Lejupielādēt pašreizējo fonu"
+},
+"better_fb": {
+"message": "Dalieties pakalpojumā Facebook"
+},
+"better_google": {
+"message": "Koplietot pakalpojumā Google+"
+},
+"better_memu": {
+"message": "Rādīt iestatījumu izvēlni"
+},
+"better_pin": {
+"message": "Jūs varat piespraust pašreizējo fonu"
+},
+"better_pinned": {
+"message": "Jūs esat piespraudis pašreizējo fonu"
+},
+"better_print": {
+"message": "Dalīties ar Pinterest"
+},
+"better_qq": {
+"message": "Dalieties QQ zonā"
+},
+"better_sina": {
+"message": "Dalieties Sina"
+},
+"better_start": {
+"message": "Attack on Titan Jauna cilne"
+},
+"better_twitter": {
+"message": "Dalieties pakalpojumā Twitter"
+},
+"color": {
+"message": "Cietā krāsā"
+},
+"extDescription": {
+"message": "Automātiski atjauniniet fona attēlus vai Google ™ Attēlu meklēšanas tapetes, lai pielāgotu savu jauno cilni Chrome."
+},
+"extName": {
+"message": "Attack on Titan Jauna cilne, pielāgoti tapetes HD"
+},
+"fivestar1": {
+"message": "Vai jums patīk Attack on Titan jaunā cilne?"
+},
+"fivestar2": {
+"message": "Lūdzu, sniedziet mums labu pārskatu par Chrome veikalu."
+},
+"image": {
+"message": "Vietējais attēls"
+},
+"library": {
+"message": "Atjaunināt no bibliotēkas"
+},
+"no": {
+"message": "NĒ"
+},
+"not_now": {
+"message": "Ne tagad"
+},
+"pinned_confirm": {
+"message": "Jūs piespraužat pašreizējo fona attēlu, vai jūs to noteikti atjaunināt?"
+},
+"search": {
+"message": "Meklēt"
+},
+"setting": {
+"message": "iestatījumi"
+},
+"share": {
+"message": "Dalieties saviem draugiem"
+},
+"upload": {
+"message": "Augšupielādēt"
+},
+"visit": {
+"message": "Visapmeklētākais"
+},
+"yes": {
+"message": "Jā"
+},
+"today": {
+"message": "Šodien"
+},
+"mon": {
+"message": "Pirmdiena"
+},
+"tue": {
+"message": "Otrdiena"
+},
+"wed": {
+"message": "Trešdiena"
+},
+"thu": {
+"message": "Ceturtdiena"
+},
+"fri": {
+"message": "Piektdiena"
+},
+"sat": {
+"message": "Sestdiena"
+},
+"sun": {
+"message": "Svētdiena"
+},
+"upload_tip": {
+"message": "Augšupielādētais attēla izmērs ir pārāk liels!"
+},
+"upload_close": {
+"message": "Aizvērt"
+},
+"unkownLocation": {
+"message": "Nezināma atrašanās vieta"
+},
+"frequent": {
+"message": "Atjaunināt frekvenci"
+},
+"fre_pin": {
+"message": "Lai piestiprinātu pašreizējo fonu"
+},
+"fre_never": {
+"message": "Nekad"
+},
+"fre_min": {
+"message": "Katru minūti"
+},
+"fre_hour": {
+"message": "Katru stundu"
+},
+"fre_day": {
+"message": "Katru dienu"
+},
+"search_tip1": {
+"message": "Jūs ievadīsit"
+},
+"search_tip2": {
+"message": "Meklēt"
+},
+"history1": {
+"message": "Rādīt visbiežāk apmeklētās vietnes"
+},
+"history2": {
+"message": "Iestatījumos varat atjaunot apmeklētās vietnes."
+},
+"weather": {
+"message": "Parādīt laika prognozi"
+},
+"self_add": {
+"message": "Jūs to esat pievienojis."
+},
+"self_travel": {
+"message": "Ievietojiet atslēgvārdus, lai izveidotu savu tapetes bibliotēku"
+},
+"self_search": {
+"message": "Meklēt"
+},
+"self_load": {
+"message": "Ir ielādētas"
+},
+"self_scroll": {
+"message": "ritiniet uz leju, lai ielādētu vairāk."
+},
+"self_customize": {
+"message": "Pielāgot bibliotēku"
+},
+"self_selected": {
+"message": "atlasīts"
+},
+"self_finish": {
+"message": "Izveidojiet tapetes bibliotēku"
+},
+"self_allow": {
+"message": "Atļaut citiem izmantot šo bibliotēku"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Mīlestība"
+},
+"recommend3": {
+"message": "Pludmale"
+},
+"recommend4": {
+"message": "Vilks"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kaķis"
+},
+"recommend7": {
+"message": "Karikatūra"
+},
+"Customize_Library": {
+"message": "Pielāgot bibliotēku"
+},
+"wallpapers": {
+"message": "tapetes"
+},
+"delete": {
+"message": "Vai tiešām to izdzēsi?"
+},
+"wordpress_title": {
+"message": "Pielāgota fona attēli HD tēmas - Attack on Titan Jauna cilne"
+},
+"wordpress_get": {
+"message": "Iegūstiet šo motīvu savam hromam"
+},
+"better_customized": {
+"message": "Izveidojiet savu tapetes bibliotēku"
+},
+"better_shares": {
+"message": "Noklikšķiniet uz tā, dalīties ar saviem draugiem"
+},
+"better_save": {
+"message": "Pievienot pie favorītiem"
+},
+"better_remove": {
+"message": "Noņemt no izlases"
+},
+"share_tip": {
+"message": "Veiksmīgi pievienots iecienītākajam, jūs varat arī kopīgot šo paplašinājumu, lai:"
+},
+"login": {
+"message": "Jums ir nepieciešams pieteikšanās"
+}
+}

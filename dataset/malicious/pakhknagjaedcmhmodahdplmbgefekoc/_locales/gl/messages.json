@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Acerca de"
+},
+"background": {
+"message": "Fondo"
+},
+"better_click": {
+"message": "Fai clic nel, cambia de fondo"
+},
+"better_down": {
+"message": "Descargar fondo de pantalla actual"
+},
+"better_fb": {
+"message": "Compartir en Facebook"
+},
+"better_google": {
+"message": "Comparte con Google+"
+},
+"better_memu": {
+"message": "Mostrar o menú de configuración"
+},
+"better_pin": {
+"message": "Podes fixar o fondo de pantalla actual"
+},
+"better_pinned": {
+"message": "Fixaches o fondo de pantalla actual"
+},
+"better_print": {
+"message": "Compartir a Pinterest"
+},
+"better_qq": {
+"message": "Compartir en zona QQ"
+},
+"better_sina": {
+"message": "Compartir a Sina"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "Compartir en Twitter"
+},
+"color": {
+"message": "Cor sólida"
+},
+"extDescription": {
+"message": "Actualiza fondos de pantalla actual ou busca fondos de pantalla desde imaxes de Google ™ para personalizar a túa páxina de pestana nova de Chrome."
+},
+"extName": {
+"message": "Attack on Titan New Tab, fondos de pantalla personalizados HD"
+},
+"fivestar1": {
+"message": "¿Quere Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Envíenos unha boa crítica en Chrome Store."
+},
+"image": {
+"message": "Imaxe local"
+},
+"library": {
+"message": "Actualización desde Biblioteca"
+},
+"no": {
+"message": "NON"
+},
+"not_now": {
+"message": "Agora non"
+},
+"pinned_confirm": {
+"message": "Gravou o fondo actual, está seguro de actualizarlo?"
+},
+"search": {
+"message": "Busca"
+},
+"setting": {
+"message": "axustes"
+},
+"share": {
+"message": "Comparte aos teus amigos"
+},
+"upload": {
+"message": "Cargar"
+},
+"visit": {
+"message": "A maioría das visitas"
+},
+"yes": {
+"message": "Si"
+},
+"today": {
+"message": "Hoxe"
+},
+"mon": {
+"message": "Luns"
+},
+"tue": {
+"message": "Martes"
+},
+"wed": {
+"message": "Mércores"
+},
+"thu": {
+"message": "Xoves"
+},
+"fri": {
+"message": "Venres"
+},
+"sat": {
+"message": "Sábado"
+},
+"sun": {
+"message": "Domingo"
+},
+"upload_tip": {
+"message": "O tamaño da imaxe cargada é demasiado grande."
+},
+"upload_close": {
+"message": "Pechar"
+},
+"unkownLocation": {
+"message": "Localización descoñecida"
+},
+"frequent": {
+"message": "Frecuencia de actualización"
+},
+"fre_pin": {
+"message": "Para pinchar o fondo actual"
+},
+"fre_never": {
+"message": "Nunca"
+},
+"fre_min": {
+"message": "Todo Minuto"
+},
+"fre_hour": {
+"message": "Cada hora"
+},
+"fre_day": {
+"message": "Tódolos días"
+},
+"search_tip1": {
+"message": "Entrarás"
+},
+"search_tip2": {
+"message": "busca"
+},
+"history1": {
+"message": "Mostrar os sitios máis visitados"
+},
+"history2": {
+"message": "Pode restaurar os sitios web máis visitados na configuración."
+},
+"weather": {
+"message": "Amosar a previsión meteorolóxica"
+},
+"self_add": {
+"message": "Engadírono."
+},
+"self_travel": {
+"message": "Introduza palabras clave para crear a súa propia biblioteca de fondos"
+},
+"self_search": {
+"message": "busca"
+},
+"self_load": {
+"message": "Cargaron"
+},
+"self_scroll": {
+"message": "Desprácese cara a abaixo para cargar máis."
+},
+"self_customize": {
+"message": "Personalizar a biblioteca"
+},
+"self_selected": {
+"message": "seleccionado"
+},
+"self_finish": {
+"message": "Construír fondos de pantalla de biblioteca"
+},
+"self_allow": {
+"message": "Permitir que outros usen esta biblioteca"
+},
+"recommend1": {
+"message": "Arte"
+},
+"recommend2": {
+"message": "Amor"
+},
+"recommend3": {
+"message": "Praia"
+},
+"recommend4": {
+"message": "Lobo"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Gato"
+},
+"recommend7": {
+"message": "Cartoon"
+},
+"Customize_Library": {
+"message": "Personalizar a biblioteca"
+},
+"wallpapers": {
+"message": "fondos de pantalla"
+},
+"delete": {
+"message": "¿Está seguro de borralo?"
+},
+"wordpress_title": {
+"message": "Fondos de pantalla HD personalizados-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Obter este tema para o meu cromo"
+},
+"better_customized": {
+"message": "Crea a túa propia biblioteca de fondos"
+},
+"better_shares": {
+"message": "Faga clic nel, compárteo cos teus amigos"
+},
+"better_save": {
+"message": "Engadir aos favoritos"
+},
+"better_remove": {
+"message": "Eliminar dos favoritos"
+},
+"share_tip": {
+"message": "Engadiuse ao favorito con éxito, tamén podes compartir esta extensión en:"
+},
+"login": {
+"message": "Necesitas iniciar sesión"
+}
+}

@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "O"
+},
+"background": {
+"message": "tło"
+},
+"better_click": {
+"message": "Kliknij, Zmień tło"
+},
+"better_down": {
+"message": "Pobierz aktualną tapetę"
+},
+"better_fb": {
+"message": "Udostępnij na Facebooku"
+},
+"better_google": {
+"message": "Udostępnij w Google+"
+},
+"better_memu": {
+"message": "Pokaż menu ustawień"
+},
+"better_pin": {
+"message": "Możesz przypiąć bieżącą tapetę"
+},
+"better_pinned": {
+"message": "Przypinałeś bieżącą tapetę"
+},
+"better_print": {
+"message": "Udostępnij na Pinterest"
+},
+"better_qq": {
+"message": "Udostępnij w strefie QQ"
+},
+"better_sina": {
+"message": "Udostępnij w Sina"
+},
+"better_start": {
+"message": "Attack on Titan Nowa karta"
+},
+"better_twitter": {
+"message": "Udostępnij na Twitterze"
+},
+"color": {
+"message": "Jednolity kolor"
+},
+"extDescription": {
+"message": "Automatyczna aktualizacja tapet lub tapet wyszukiwania z obrazów Google ™ w celu dostosowania strony nowej karty w Chrome."
+},
+"extName": {
+"message": "Attack on Titan Nowa karta, dostosowane tapety HD"
+},
+"fivestar1": {
+"message": "Czy podoba Ci się Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Przekaż nam dobrą recenzję w Chrome Store."
+},
+"image": {
+"message": "Obraz lokalny"
+},
+"library": {
+"message": "Zaktualizuj z biblioteki"
+},
+"no": {
+"message": "NIE"
+},
+"not_now": {
+"message": "Nie teraz"
+},
+"pinned_confirm": {
+"message": "Przypięłaś bieżącą tapetę, czy na pewno ją zaktualizujesz?"
+},
+"search": {
+"message": "Szukaj"
+},
+"setting": {
+"message": "ustawienia"
+},
+"share": {
+"message": "Udostępnij znajomym"
+},
+"upload": {
+"message": "Przekazać plik"
+},
+"visit": {
+"message": "Najczęściej odwiedzany"
+},
+"yes": {
+"message": "tak"
+},
+"today": {
+"message": "Dzisiaj"
+},
+"mon": {
+"message": "poniedziałek"
+},
+"tue": {
+"message": "wtorek"
+},
+"wed": {
+"message": "środa"
+},
+"thu": {
+"message": "czwartek"
+},
+"fri": {
+"message": "piątek"
+},
+"sat": {
+"message": "sobota"
+},
+"sun": {
+"message": "niedziela"
+},
+"upload_tip": {
+"message": "Przesłany rozmiar obrazu jest zbyt duży!"
+},
+"upload_close": {
+"message": "Blisko"
+},
+"unkownLocation": {
+"message": "Nieznana lokalizacja"
+},
+"frequent": {
+"message": "Aktualizuj częstotliwość"
+},
+"fre_pin": {
+"message": "Aby przypiąć bieżące tło"
+},
+"fre_never": {
+"message": "Nigdy"
+},
+"fre_min": {
+"message": "Każda minuta"
+},
+"fre_hour": {
+"message": "Co godzinę"
+},
+"fre_day": {
+"message": "Codziennie"
+},
+"search_tip1": {
+"message": "Wejdziesz"
+},
+"search_tip2": {
+"message": "Szukaj"
+},
+"history1": {
+"message": "Pokaż najczęściej odwiedzane witryny"
+},
+"history2": {
+"message": "Możesz przywrócić najczęściej odwiedzane witryny w ustawieniach."
+},
+"weather": {
+"message": "Pokaż prognozę pogody"
+},
+"self_add": {
+"message": "Dodałeś to."
+},
+"self_travel": {
+"message": "Wprowadź słowa kluczowe, aby zbudować własną bibliotekę tapet"
+},
+"self_search": {
+"message": "Szukaj"
+},
+"self_load": {
+"message": "Załadowano"
+},
+"self_scroll": {
+"message": "przewiń w dół, aby załadować więcej."
+},
+"self_customize": {
+"message": "Dostosuj bibliotekę"
+},
+"self_selected": {
+"message": "wybrany"
+},
+"self_finish": {
+"message": "Zbuduj bibliotekę tapet"
+},
+"self_allow": {
+"message": "Pozwól innym korzystać z tej biblioteki"
+},
+"recommend1": {
+"message": "Sztuka"
+},
+"recommend2": {
+"message": "Miłość"
+},
+"recommend3": {
+"message": "Plaża"
+},
+"recommend4": {
+"message": "Wilk"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kot"
+},
+"recommend7": {
+"message": "Kreskówka"
+},
+"Customize_Library": {
+"message": "Dostosuj bibliotekę"
+},
+"wallpapers": {
+"message": "tapety"
+},
+"delete": {
+"message": "Czy na pewno chcesz go usunąć?"
+},
+"wordpress_title": {
+"message": "Dostosowane motywy Wallpaper HD-Attack on Titan Nowa karta"
+},
+"wordpress_get": {
+"message": "Pobierz ten motyw dla mojego Chrome"
+},
+"better_customized": {
+"message": "Zbuduj własną bibliotekę tapet"
+},
+"better_shares": {
+"message": "Kliknij go, udostępnij znajomym"
+},
+"better_save": {
+"message": "Dodaj do ulubionych"
+},
+"better_remove": {
+"message": "Usuń z ulubionych"
+},
+"share_tip": {
+"message": "Dodane do ulubionych pomyślnie, możesz również udostępnić to rozszerzenie:"
+},
+"login": {
+"message": "Musisz się zalogować"
+}
+}

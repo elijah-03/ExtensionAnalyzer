@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "के बारे में"
+},
+"background": {
+"message": "पृष्ठभूमि"
+},
+"better_click": {
+"message": "इसे क्लिक करें, पृष्ठभूमि बदलें"
+},
+"better_down": {
+"message": "वर्तमान वॉलपेपर डाउनलोड करें"
+},
+"better_fb": {
+"message": "फेसबुक पर साझा करें"
+},
+"better_google": {
+"message": "Google+ पर साझा करें"
+},
+"better_memu": {
+"message": "सेटिंग मेनू दिखाएं"
+},
+"better_pin": {
+"message": "आप वर्तमान वॉलपेपर पिन कर सकते हैं"
+},
+"better_pinned": {
+"message": "आपने वर्तमान वॉलपेपर पिन किया है"
+},
+"better_print": {
+"message": "Pinterest पर साझा करें"
+},
+"better_qq": {
+"message": "QQ ज़ोन पर साझा करें"
+},
+"better_sina": {
+"message": "सीना को साझा करें"
+},
+"better_start": {
+"message": "दानव पर हमला नई टैब"
+},
+"better_twitter": {
+"message": "ट्विटर पर साझा करें"
+},
+"color": {
+"message": "ठोस रंग"
+},
+"extDescription": {
+"message": "अपने Chrome नए टैब पृष्ठ को कस्टमाइज़ करने के लिए Google ™ छवियों से स्वत: अपडेट वॉलपेपर या खोज वॉलपेपर।"
+},
+"extName": {
+"message": "दानव पर हमला नई टैब, स्वनिर्धारित वॉलपेपर एचडी"
+},
+"fivestar1": {
+"message": "क्या आपको दानव पर हमला नई टैब पसंद है?"
+},
+"fivestar2": {
+"message": "कृपया हमें क्रोम स्टोर पर अच्छी समीक्षा दें।"
+},
+"image": {
+"message": "स्थानीय चित्र"
+},
+"library": {
+"message": "लाइब्रेरी से अपडेट करें"
+},
+"no": {
+"message": "नहीं"
+},
+"not_now": {
+"message": "अभी नहीं"
+},
+"pinned_confirm": {
+"message": "आप वर्तमान वॉलपेपर पिन किए गए हैं, क्या आप इसे अपडेट करने के लिए सुनिश्चित हैं?"
+},
+"search": {
+"message": "खोज"
+},
+"setting": {
+"message": "सेटिंग्स"
+},
+"share": {
+"message": "अपने दोस्तों को साझा करें"
+},
+"upload": {
+"message": "अपलोड"
+},
+"visit": {
+"message": "सर्वाधिक देखा गया"
+},
+"yes": {
+"message": "हाँ"
+},
+"today": {
+"message": "आज "
+},
+"mon": {
+"message": "सोमवार"
+},
+"tue": {
+"message": "मंगलवार"
+},
+"wed": {
+"message": "बुधवार"
+},
+"thu": {
+"message": "गुरूवार"
+},
+"fri": {
+"message": "शुक्रवार"
+},
+"sat": {
+"message": "शनिवार"
+},
+"sun": {
+"message": "रविवार"
+},
+"upload_tip": {
+"message": "अपलोड की गई छवि का आकार बहुत बड़ा है!"
+},
+"upload_close": {
+"message": "बंद करे"
+},
+"unkownLocation": {
+"message": "अज्ञात स्थान"
+},
+"frequent": {
+"message": "आवृत्ति अद्यतन करें"
+},
+"fre_pin": {
+"message": "वर्तमान पृष्ठभूमि को पिन करने के लिए"
+},
+"fre_never": {
+"message": "कभी नहीँ"
+},
+"fre_min": {
+"message": "हर मिनट"
+},
+"fre_hour": {
+"message": "प्रत्येक घंटे"
+},
+"fre_day": {
+"message": "हर दिन"
+},
+"search_tip1": {
+"message": "आप प्रवेश करेंगे"
+},
+"search_tip2": {
+"message": "खोज"
+},
+"history1": {
+"message": "सर्वाधिक देखी गई साइटें दिखाएं"
+},
+"history2": {
+"message": "आप सेटिंग्स में सबसे अधिक देखी गई वेबसाइटों को पुनर्स्थापित कर सकते हैं।"
+},
+"weather": {
+"message": "मौसम का पूर्वानुमान दिखाएं"
+},
+"self_add": {
+"message": "आपने इसे जोड़ा है।"
+},
+"self_travel": {
+"message": "अपने स्वयं के वॉलपेपर लाइब्रेरी बनाने के लिए इनपुट कीवर्ड"
+},
+"self_search": {
+"message": "खोज"
+},
+"self_load": {
+"message": "भरी हुई है"
+},
+"self_scroll": {
+"message": "अधिक लोड करने के लिए नीचे स्क्रॉल करें"
+},
+"self_customize": {
+"message": "लाइब्रेरी कस्टमाइज़ करें"
+},
+"self_selected": {
+"message": "चयनित"
+},
+"self_finish": {
+"message": "वॉलपेपर लाइब्रेरी बनाएं"
+},
+"self_allow": {
+"message": "दूसरों को इस पुस्तकालय का उपयोग करने की अनुमति दें"
+},
+"recommend1": {
+"message": "कला"
+},
+"recommend2": {
+"message": "मोहब्बत"
+},
+"recommend3": {
+"message": "समुद्र तट"
+},
+"recommend4": {
+"message": "भेड़िया"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "बिल्ली"
+},
+"recommend7": {
+"message": "कार्टून"
+},
+"Customize_Library": {
+"message": "लाइब्रेरी कस्टमाइज़ करें"
+},
+"wallpapers": {
+"message": "वॉलपेपर"
+},
+"delete": {
+"message": "क्या आप इसे हटाना चाहते हैं?"
+},
+"wordpress_title": {
+"message": "अनुकूलित वॉलपेपर एचडी थीम्स- दानव पर हमला नई टैब"
+},
+"wordpress_get": {
+"message": "मेरे क्रोम के लिए यह विषय प्राप्त करें"
+},
+"better_customized": {
+"message": "अपनी खुद की वॉलपेपर लाइब्रेरी बनाएं"
+},
+"better_shares": {
+"message": "इसे क्लिक करें, अपने दोस्तों को साझा करें"
+},
+"better_save": {
+"message": "पसंदीदा में जोड़े"
+},
+"better_remove": {
+"message": "पसंदीदा से निकालें"
+},
+"share_tip": {
+"message": "सफलतापूर्वक पसंदीदा में जोड़ा गया, आप इस एक्सटेंशन को यहां साझा भी कर सकते हैं:"
+},
+"login": {
+"message": "आपको प्रवेश करने की आवश्यकता है"
+}
+}

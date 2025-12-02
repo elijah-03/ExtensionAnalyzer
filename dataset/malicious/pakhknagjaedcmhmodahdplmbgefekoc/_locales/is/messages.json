@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Um"
+},
+"background": {
+"message": "Bakgrunnur"
+},
+"better_click": {
+"message": "Smelltu á það, breyttu bakgrunni"
+},
+"better_down": {
+"message": "Hlaða niður núverandi veggfóður"
+},
+"better_fb": {
+"message": "Deila á Facebook"
+},
+"better_google": {
+"message": "Deila á Google+"
+},
+"better_memu": {
+"message": "Sýna stillingarvalmyndina"
+},
+"better_pin": {
+"message": "Þú getur pinna núverandi veggfóður"
+},
+"better_pinned": {
+"message": "Þú hefur fest núverandi veggfóður"
+},
+"better_print": {
+"message": "Deila til Pinterest"
+},
+"better_qq": {
+"message": "Deila til QQ Zone"
+},
+"better_sina": {
+"message": "Deila til Sina"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "Deila á Twitter"
+},
+"color": {
+"message": "Einlitt"
+},
+"extDescription": {
+"message": "Sjálfkrafa uppfærðu veggfóður eða leita veggfóður frá Google ™ myndum til að sérsníða Chrome nýja flipasíðuna þína."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Sérsniðin Wallpapers HD"
+},
+"fivestar1": {
+"message": "Ert þú eins og Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Vinsamlegast gefðu okkur góða umsögn á Chrome Store."
+},
+"image": {
+"message": "Staðbundin mynd"
+},
+"library": {
+"message": "Uppfæra frá bókasafni"
+},
+"no": {
+"message": "Nei"
+},
+"not_now": {
+"message": "Ekki núna"
+},
+"pinned_confirm": {
+"message": "Þú festir núverandi veggfóður, ertu viss um að uppfæra hana?"
+},
+"search": {
+"message": "Leita"
+},
+"setting": {
+"message": "stillingar"
+},
+"share": {
+"message": "Deila til vina þinna"
+},
+"upload": {
+"message": "Hlaða inn"
+},
+"visit": {
+"message": "Mest heimsótt"
+},
+"yes": {
+"message": "Já"
+},
+"today": {
+"message": "Í dag"
+},
+"mon": {
+"message": "Mánudagur"
+},
+"tue": {
+"message": "Þriðjudagur"
+},
+"wed": {
+"message": "Miðvikudagur"
+},
+"thu": {
+"message": "Fimmtudag"
+},
+"fri": {
+"message": "Föstudagur"
+},
+"sat": {
+"message": "Laugardagur"
+},
+"sun": {
+"message": "Sunnudagur"
+},
+"upload_tip": {
+"message": "Myndin sem hlaðið var upp er of stór!"
+},
+"upload_close": {
+"message": "Loka"
+},
+"unkownLocation": {
+"message": "Óþekkt Staðsetning"
+},
+"frequent": {
+"message": "Uppfæra tíðni"
+},
+"fre_pin": {
+"message": "Til að pinna núverandi bakgrunn"
+},
+"fre_never": {
+"message": "Aldrei"
+},
+"fre_min": {
+"message": "Sérhver mínútur"
+},
+"fre_hour": {
+"message": "Hver klukkustund"
+},
+"fre_day": {
+"message": "Daglega"
+},
+"search_tip1": {
+"message": "Þú verður að slá inn"
+},
+"search_tip2": {
+"message": "leit"
+},
+"history1": {
+"message": "Sýna mest heimsótt vefsvæði"
+},
+"history2": {
+"message": "Þú getur endurheimt mest heimsótt vefsíður í stillingum."
+},
+"weather": {
+"message": "Sýna veðurspá"
+},
+"self_add": {
+"message": "Þú hefur bætt því við."
+},
+"self_travel": {
+"message": "Input leitarorð til að byggja upp eigin veggfóður bókasafn þitt"
+},
+"self_search": {
+"message": "leit"
+},
+"self_load": {
+"message": "Hafa hlaðið"
+},
+"self_scroll": {
+"message": "flettu niður til að hlaða inn meira."
+},
+"self_customize": {
+"message": "Sérsníða bókasafn"
+},
+"self_selected": {
+"message": "valin"
+},
+"self_finish": {
+"message": "Byggja veggfóður bókasafn"
+},
+"self_allow": {
+"message": "Leyfa öðrum að nota þetta bókasafn"
+},
+"recommend1": {
+"message": "Gr"
+},
+"recommend2": {
+"message": "Ást"
+},
+"recommend3": {
+"message": "Strönd"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Köttur"
+},
+"recommend7": {
+"message": "Teiknimynd"
+},
+"Customize_Library": {
+"message": "Sérsníða bókasafn"
+},
+"wallpapers": {
+"message": "veggfóður"
+},
+"delete": {
+"message": "Ertu viss um að eyða því?"
+},
+"wordpress_title": {
+"message": "Sérsniðin Veggfóður HD Þemu-Attack on Titan Nýtt flipa"
+},
+"wordpress_get": {
+"message": "Fáðu þetta þema fyrir króm minn"
+},
+"better_customized": {
+"message": "Byggja þinn eigin veggfóður bókasafn"
+},
+"better_shares": {
+"message": "Smelltu á það, deildu við vini þína"
+},
+"better_save": {
+"message": "Bæta við Uppáhalds"
+},
+"better_remove": {
+"message": "Fjarlægja úr uppáhaldi"
+},
+"share_tip": {
+"message": "Bætt við uppáhalds með góðum árangri, þú getur einnig deilt þessari viðbót við:"
+},
+"login": {
+"message": "Þú þarft að skrá þig inn"
+}
+}

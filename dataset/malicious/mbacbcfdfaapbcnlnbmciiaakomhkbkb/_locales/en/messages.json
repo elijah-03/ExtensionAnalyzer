@@ -1,0 +1,284 @@
+{
+  "chrome_extension_name": {
+    "message": "friGate CDN - smooth access to websites"
+  },
+  "chrome_extension_sname": {
+    "message": "friGate CDN"
+  },
+  "chrome_extension_description": {
+    "message": "Lets get uninterrupted access to websites. It allows you to open blocked sites."
+  },
+  "mess_option": {
+    "message": "options"
+  },
+  "mess_header_proxy": {
+    "message": "Proxy settings"
+  },
+  "mess_header_anon": {
+    "message": "Anonymity"
+  },
+  "mess_isanon": {
+    "message": "Enable anonymous. Enable only if the site is blocked, even through a normal proxy. Must be provided by a third-party DNS (for example 8.8.8.8)."
+  },
+  "mess_header_alert": {
+    "message": "Alert settings"
+  },
+  "mess_isalert": {
+    "message": "do not notify me that the site is available through the extension and enabled or disabled at the moment proxy for a specific site. Attention, and you can not turn a proxy for a particular page!"
+  },
+  "mess_header_adv": {
+    "message": "Advertising settings"
+  },
+  "mess_header_tld": {
+    "message": "Use proxy for TLD:"
+  },
+  "mess_isadv": {
+    "message": "Do not show ads. Disabling advertising, you do NOT HELP the development of the project!"
+  },
+  "mess_ownproxy": {
+    "message": "Own proxy:"
+  },
+  "mess_fgproxy": {
+    "message": "used free proxy of friGate-owned"
+  },
+  "mess_addproxy": {
+    "message": "add your proxy"
+  },
+  "mess_proxyformat_err": {
+    "message": "incorrect format proxy (ip:port)"
+  },
+  "browser_action_title": {
+    "message": "friGate - On/Off"
+  },
+  "messProxy": {
+    "message": "through <a href=\"http://fri-gate.org/\" target=\"_blank\" class=\"frigate_li1\"><img id=\"frigate_logo\" height=\"16\" src=\"\" style=\"vertical-align: bottom;\"></a> <a href=\"http://fri-gate.org\" target=\"_blank\" class=\"frigate_li1\">friGate</a>. &nbsp;"
+  },
+  "messNavi1": {
+    "message": "<a target=\"_blank\" href=\"http://fri-gate.org/\" class=\"frigate_li2\">recommendations</a>"
+  },
+  "messNavi2": {
+    "message": "<a target=\"_blank\" href=\"http://fri-gate.org/\" class=\"frigate_li2\">how it work</a>"
+  },
+  "messNavi3": {
+    "message": "<a target=\"_blank\" href=\"http://forum.fri-gate.org/\" class=\"frigate_li2\">add site</a>"
+  },
+  "messSiteWithoutProxy": {
+    "message": "available without proxy"
+  },
+  "messProxyOff": {
+    "message": "activate"
+  },
+  "messProxyOn": {
+    "message": "proxy enabled"
+  },
+  "messProxyOnAn": {
+    "message": "anonymous proxy enabled"
+  },
+  "messFromList": {
+    "message": "site from list "
+  },
+  "messProxyOnManually": {
+    "message": "proxy enabled manually"
+  },
+  "messProxyIsOff": {
+    "message": "shut off"
+  },
+  "messUpdate": {
+    "message": "<a target=\"_blank\" href=\"http://fri-gate.org/update\" class=\"frigate_links2\">upgrade to<br /> the latest version!</a>"
+  },
+  "messCommunity": {
+    "message": "Community"
+  },
+  "messModalConfirmTitle": {
+    "message": "confirm it"
+  },
+  "messBack": {
+    "message": "back"
+  },
+  "messLists": {
+    "message": "Set up a list of sites"
+  },
+  "messListsOwn": {
+    "message": "lists of sites:"
+  },
+  "messListsName": {
+    "message": "list name"
+  },
+  "messAddList": {
+    "message": "Add list"
+  },
+  "messListsEmpty": {
+    "message": "List is empty"
+  },
+  "messListsAdd": {
+    "message": "Add your own lists of sites"
+  },
+  "messListsAddSite": {
+    "message": "Add site"
+  },
+  "messListsAddSiteDomain": {
+    "message": "Domain"
+  },
+  "messListsAddSiteFile": {
+    "message": "URL to verify access"
+  },
+  "messListsConfirmDelList": {
+    "message": "You delete the list. Are you sure?"
+  },
+  "messListsConfirmOK": {
+    "message": "Confirm"
+  },
+  "messListsConfirmCancel": {
+    "message": "Cancel"
+  },
+  "messListsConfirmDelNoEmptyList": {
+    "message": "You remove a non-empty list. Are you sure?"
+  },
+  "messListsConfirmDelSite": {
+    "message": "You remove the site from the list: "
+  },
+  "messAreYouSure": {
+    "message": "Are you sure?"
+  },
+  "messAlertError": {
+    "message": "An error has occurred"
+  },
+  "messAlertClose": {
+    "message": "Close"
+  },
+  "messListsSiteHostFormat": {
+    "message": "Invalid format domain"
+  },
+  "messListsSiteUrlFormat": {
+    "message": "Invalid address format"
+  },
+  "messListsSiteUrlAlrIs": {
+    "message": "Already have this site in the list"
+  },
+  "messListsSiteUrlAlrIs2": {
+    "message": "This site is already present in the list "
+  },
+  "messListsSiteUrlAlrIs3": {
+    "message": "It is not necessary to add."
+  },
+  "messOptListFormat": {
+    "message": "Wrong format of the list name. Must consist of letters, digits, _-"
+  },
+  "messOptListAlrIs": {
+    "message": "Already have the list with the same name"
+  },
+  "messTypeCh1": {
+    "message": "simple algorithm"
+  },
+  "messTypeCh2": {
+    "message": "analytical algorithm"
+  },
+  "messTypeCh3": {
+    "message": "proxy always on"
+  },
+  "messListsNoAlg": {
+    "message": "this validation algorithm is not suitable for this site, and select a different algorithm"
+  },
+  "messListsAlgDesc": {
+    "message": "<h5>Better add at once domain subdomains, for example: <strong>*.twitter.com</strong> instead of <strong>twitter.com</strong>.</h5> When using the analytical algorithm you should choose to check, this can be the small images on the website, which is being tested."
+  },
+  "messListsSomethingHappened": {
+    "message": "something seems to have happened, then try the request again after a couple of seconds"
+  },
+  "messListsFileNotFound": {
+    "message": "At this address file not found, check the 'URL to access checks'"
+  },
+  "messCmTitleAdd": {
+    "message": "add a site to list"
+  },
+  "messCmTitleAddGl": {
+    "message": "add to list friGate"
+  },
+  "messChange": {
+    "message": "change"
+  },
+  "messErrOverExtProxy": {
+    "message": "is not enabled, the proxy is managed by a different extension"
+  },
+  "messErrLim": {
+    "message": "Only list friGate"
+  },
+  "messReset": {
+    "message": "Reset"
+  },
+  "messEconomy": {
+    "message": "traffic economy:"
+  },
+  "messLast": {
+    "message": "during "
+  },
+  "messMin": {
+    "message": "min."
+  },
+  "messDay": {
+    "message": "day"
+  },
+  "messDays": {
+    "message": "days"
+  },
+  "messDays2": {
+    "message": "days"
+  },
+  "messHo": {
+    "message": "hour"
+  },
+  "messHos": {
+    "message": "hours"
+  },
+  "messHos2": {
+    "message": "hours"
+  },
+  "mess_iscompress": {
+    "message": "Enable optimization <a href=\"https://developers.google.com/speed/pagespeed/\" target=\"_blank\">PageSpeed Google</a>. Works only when traffic goes through the proxy."
+  },
+  "mess_autochproxy": {
+    "message": "Choose the proxy automatically if the site is not available or an error occurred."
+  },
+  "mess_slowconn": {
+    "message": "Slow internet connection."
+  },
+  "mess_header_opt": {
+    "message": "Extras. settings"
+  },
+  "mess_manually_dis": {
+    "message": "Dis. in settings"
+  },
+  "slink_important": {
+    "message": "important"
+  },
+  "slink_tele_follow": {
+    "message": "follow us on <b>Telegram</b>"
+  },
+  "slink_header": {
+    "message": "Do you want to keep in touch with events, follow changes and stay online?"
+  },
+  "slink_fb_follow": {
+    "message": "follow us on <b>Facebook</b>"
+  },
+  "slink_ints_follow": {
+    "message": "follow us on <b>Instagram</b>"
+  },
+  "slink_yt_follow": {
+    "message": "follow us on <b>YouTube</b>"
+  },
+  "slink_vk_follow": {
+    "message": "follow us on <b>Vkontakte</b>"
+  },
+  "slink_ok": {
+    "message": "ok, I already follow"
+  },
+  "private_txt": {
+    "message": "friGate extension <strong>anonymously</strong> handles personal or sensitive user data. These data include: <strong>web browsing activity</strong>. The data is used to determine the availability of the site that the user is currently accessing. Then, based on this data, the extension enables or disables the proxy for this site."
+  },
+  "private_txt2": {
+    "message": "If you do not agree to these terms, simply delete the extension."
+  },
+  "private_checkbox": {
+    "message": "I accept these terms"
+  }
+}

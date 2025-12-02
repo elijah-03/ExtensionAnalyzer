@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "וועגן"
+},
+"background": {
+"message": "Background"
+},
+"better_click": {
+"message": "גיט עס, בייַט הינטערגרונט"
+},
+"better_down": {
+"message": "אָפּלאָדירן קראַנט טאַפּעטן"
+},
+"better_fb": {
+"message": "ייַנטיילן צו פאַסעבאָאָק"
+},
+"better_google": {
+"message": "שער צו Google+"
+},
+"better_memu": {
+"message": "ווייַזן סעטטינגס מעניו"
+},
+"better_pin": {
+"message": "איר קענען שטיפט דעם קראַנט טאַפּעטן"
+},
+"better_pinned": {
+"message": "איר האָט פּייניד דעם קראַנט טאַפּעטן"
+},
+"better_print": {
+"message": "ייַנטיילן צו Pinterest"
+},
+"better_qq": {
+"message": "ייַנטיילן צו קק זאָנע"
+},
+"better_sina": {
+"message": "ייַנטיילן צו סינה"
+},
+"better_start": {
+"message": "Attack on Titan New Tab"
+},
+"better_twitter": {
+"message": "שער צו טוויטטער"
+},
+"color": {
+"message": "Solid Color"
+},
+"extDescription": {
+"message": "אַוטאָ דערהייַנטיקן וואָלפּייפּערז אָדער זוכן וואָלפּייפּערז פון Google ™ בילדער צו קאַסטאַמייז דיין קראָום נייַ קוויטל בלאַט."
+},
+"extName": {
+"message": "קליפף ניו טאַב, קאַסטאַמייזד וואַללפּאַפּערס הד"
+},
+"fivestar1": {
+"message": "צי איר ווי Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "ביטע געבן אונדז אַ גוט באריכטן אויף קראָום סטאָר."
+},
+"image": {
+"message": "לאקאלע בילד"
+},
+"library": {
+"message": "דערהייַנטיקן פון ביבליאָטעק"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "נישט יעצט"
+},
+"pinned_confirm": {
+"message": "איר פּינד די קראַנט טאַפּעטן, ביסט איר זיכער צו דערהייַנטיקן עס?"
+},
+"search": {
+"message": "זוכן"
+},
+"setting": {
+"message": "סעטטינגס"
+},
+"share": {
+"message": "טיילן צו דיין פריינד"
+},
+"upload": {
+"message": "צופֿעליקער"
+},
+"visit": {
+"message": "Most Visited"
+},
+"yes": {
+"message": "Yes"
+},
+"today": {
+"message": "הייַנט"
+},
+"mon": {
+"message": "מאנטאג"
+},
+"tue": {
+"message": "דינסטאג"
+},
+"wed": {
+"message": "מיטוואך"
+},
+"thu": {
+"message": "דאָנערשטיק"
+},
+"fri": {
+"message": "פרייטאג"
+},
+"sat": {
+"message": "שבת"
+},
+"sun": {
+"message": "זונטיק"
+},
+"upload_tip": {
+"message": "די ופּלאָאַדעד בילד גרייס איז אויך גרויס!"
+},
+"upload_close": {
+"message": "Close"
+},
+"unkownLocation": {
+"message": "אומבאַקאַנט אָרט"
+},
+"frequent": {
+"message": "דערהייַנטיקן פרעקווענסי"
+},
+"fre_pin": {
+"message": "צו באַשטימען דעם קראַנט הינטערגרונט"
+},
+"fre_never": {
+"message": "קיינמאָל"
+},
+"fre_min": {
+"message": "יעדער מינוט"
+},
+"fre_hour": {
+"message": "יעדער שעה"
+},
+"fre_day": {
+"message": "יעדן טאג"
+},
+"search_tip1": {
+"message": "איר וועט אַרייַן"
+},
+"search_tip2": {
+"message": "זוכן"
+},
+"history1": {
+"message": "ווייַזן רובֿ באזוכט זייטלעך"
+},
+"history2": {
+"message": "איר קענען ומקערן רובֿ וויזיטיד וועבסיטעס אין סעטטינגס."
+},
+"weather": {
+"message": "ווייַזן די וועטער פאָרויסזאָגן"
+},
+"self_add": {
+"message": "איר האָט צוגעגעבן."
+},
+"self_travel": {
+"message": "אַרייַנשרייַב טערמינען צו בויען דיין אייגן וואָלפּייפּערז ביבליאָטעק"
+},
+"self_search": {
+"message": "זוכן"
+},
+"self_load": {
+"message": "האָבן לאָודיד"
+},
+"self_scroll": {
+"message": "מעגילע אַראָפּ צו מאַסע מער."
+},
+"self_customize": {
+"message": "Customize Library"
+},
+"self_selected": {
+"message": "אויסגעקליבן"
+},
+"self_finish": {
+"message": "בויען טאַפּעטן ביבליאָטעק"
+},
+"self_allow": {
+"message": "לאָזן אנדערע צו נוצן דעם ביבליאָטעק"
+},
+"recommend1": {
+"message": "קונסט"
+},
+"recommend2": {
+"message": "ליבע"
+},
+"recommend3": {
+"message": "ברעג"
+},
+"recommend4": {
+"message": "וואלף"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "קאַץ"
+},
+"recommend7": {
+"message": "קאַרטון"
+},
+"Customize_Library": {
+"message": "Customize Library"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "זענט איר זיכער צו ויסמעקן עס?"
+},
+"wordpress_title": {
+"message": "קאַסטאַמייזד וואַללפּאַפּער HD Themes-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "באַקומען דעם טעמע פֿאַר מיין קראָום"
+},
+"better_customized": {
+"message": "בויען דיין אייגן וואָלפּייפּערז ביבליאָטעק"
+},
+"better_shares": {
+"message": "גיט עס, טיילן צו דיין פריינט"
+},
+"better_save": {
+"message": "לייג צו פאַוואָריטעס"
+},
+"better_remove": {
+"message": "אַראָפּנעמען פון פייווראַץ"
+},
+"share_tip": {
+"message": "צוגעגעבן צו באַליבט הצלחה, איר קענען אויך טיילן דעם געשפּרייט צו:"
+},
+"login": {
+"message": "איר דאַרפֿן לאָגין אין"
+}
+}

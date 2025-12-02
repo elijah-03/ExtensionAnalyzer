@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "વિશે"
+},
+"background": {
+"message": "પૃષ્ઠભૂમિ"
+},
+"better_click": {
+"message": "તેને ક્લિક કરો, પૃષ્ઠભૂમિ બદલો"
+},
+"better_down": {
+"message": "વર્તમાન વૉલપેપર ડાઉનલોડ કરો"
+},
+"better_fb": {
+"message": "ફેસબુક પર શેર કરો"
+},
+"better_google": {
+"message": "Google+ પર શેર કરો"
+},
+"better_memu": {
+"message": "સેટિંગ્સ મેનૂ બતાવો"
+},
+"better_pin": {
+"message": "તમે વર્તમાન વૉલપેપરને પિન કરી શકો છો"
+},
+"better_pinned": {
+"message": "તમે વર્તમાન વૉલપેપરને પિન કર્યો છે"
+},
+"better_print": {
+"message": "Pinterest પર શેર કરો"
+},
+"better_qq": {
+"message": "QQ ઝોન પર શેર કરો"
+},
+"better_sina": {
+"message": "સીના પર શેર કરો"
+},
+"better_start": {
+"message": "Attack on Titan નવી ટેબ"
+},
+"better_twitter": {
+"message": "Twitter પર શેર કરો"
+},
+"color": {
+"message": "પાકો રંગ"
+},
+"extDescription": {
+"message": "Google Chrome થી સ્વતઃ અપડેટ વૉલપેપર્સ અથવા શોધ વોલપેટ્સ તમારા Chrome ના નવા ટેબ પૃષ્ઠને કસ્ટમાઇઝ કરવા માટે."
+},
+"extName": {
+"message": "Attack on Titan નવી ટેબ, વૈવિધ્યપૂર્ણ વૉલપેપર્સ એચડી"
+},
+"fivestar1": {
+"message": "શું તમે Attack on Titan નવી ટેબને પસંદ કરો છો?"
+},
+"fivestar2": {
+"message": "કૃપા કરીને અમને Chrome Store પર સારી સમીક્ષા આપો."
+},
+"image": {
+"message": "સ્થાનિક છબી"
+},
+"library": {
+"message": "લાઇબ્રેરીમાંથી અપડેટ"
+},
+"no": {
+"message": "ના"
+},
+"not_now": {
+"message": "હવે નહીં"
+},
+"pinned_confirm": {
+"message": "તમે વર્તમાન વોલપેપરને પિન કર્યો છે, શું તમે તેને અપડેટ કરવા માટે ખાતરી કરો છો?"
+},
+"search": {
+"message": "શોધો"
+},
+"setting": {
+"message": "સેટિંગ્સ"
+},
+"share": {
+"message": "તમારા મિત્રો સાથે શેર કરો"
+},
+"upload": {
+"message": "અપલોડ કરો"
+},
+"visit": {
+"message": "સહુથી વધારે મુલાકાત વાળી"
+},
+"yes": {
+"message": "હા"
+},
+"today": {
+"message": "આજે"
+},
+"mon": {
+"message": "સોમવાર"
+},
+"tue": {
+"message": "મંગળવારે"
+},
+"wed": {
+"message": "બુધવાર"
+},
+"thu": {
+"message": "ગુરુવાર"
+},
+"fri": {
+"message": "શુક્રવાર"
+},
+"sat": {
+"message": "શનિવાર"
+},
+"sun": {
+"message": "રવિવાર"
+},
+"upload_tip": {
+"message": "અપલોડ કરેલી છબીનું કદ ખૂબ મોટું છે!"
+},
+"upload_close": {
+"message": "બંધ"
+},
+"unkownLocation": {
+"message": "અજ્ઞાત સ્થાન"
+},
+"frequent": {
+"message": "સુધારા આવર્તન"
+},
+"fre_pin": {
+"message": "વર્તમાન પૃષ્ઠભૂમિને પિન કરવા"
+},
+"fre_never": {
+"message": "ક્યારેય"
+},
+"fre_min": {
+"message": "દરેક મિનિટ"
+},
+"fre_hour": {
+"message": "દર કલાક"
+},
+"fre_day": {
+"message": "દરરોજ"
+},
+"search_tip1": {
+"message": "તમે દાખલ કરશો"
+},
+"search_tip2": {
+"message": "શોધ"
+},
+"history1": {
+"message": "સૌથી વધુ મુલાકાત લીધેલી સાઇટ્સ બતાવો"
+},
+"history2": {
+"message": "તમે સેટિંગ્સમાં સૌથી વધુ મુલાકાત લીધેલી વેબસાઇટ્સને પુનઃસ્થાપિત કરી શકો છો."
+},
+"weather": {
+"message": "હવામાન આગાહી બતાવો"
+},
+"self_add": {
+"message": "તમે તેને ઉમેર્યા છે"
+},
+"self_travel": {
+"message": "તમારી પોતાની વોલપેપર લાઇબ્રેરી બનાવવા માટે ઇનપુટ કીવર્ડ્સ"
+},
+"self_search": {
+"message": "શોધ"
+},
+"self_load": {
+"message": "લોડ છે"
+},
+"self_scroll": {
+"message": "વધુ લોડ કરવા માટે નીચે સ્ક્રોલ કરો."
+},
+"self_customize": {
+"message": "લાઇબ્રેરી કસ્ટમાઇઝ કરો"
+},
+"self_selected": {
+"message": "પસંદ કરેલું"
+},
+"self_finish": {
+"message": "વોલપેપર લાઇબ્રેરી બનાવો"
+},
+"self_allow": {
+"message": "અન્ય લોકોને આ લાઇબ્રેરીનો ઉપયોગ કરવાની મંજૂરી આપો"
+},
+"recommend1": {
+"message": "આર્ટ"
+},
+"recommend2": {
+"message": "લવ"
+},
+"recommend3": {
+"message": "બીચ"
+},
+"recommend4": {
+"message": "વુલ્ફ"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "કેટ"
+},
+"recommend7": {
+"message": "કાર્ટૂન"
+},
+"Customize_Library": {
+"message": "લાઇબ્રેરી કસ્ટમાઇઝ કરો"
+},
+"wallpapers": {
+"message": "વોલપેપર્સ"
+},
+"delete": {
+"message": "શું તમે તેને કાઢી નાખવા માંગો છો?"
+},
+"wordpress_title": {
+"message": "વૈવિધ્યપૂર્ણ વોલપેપર એચડી થીમ્સ- Attack on Titan નવી ટૅબ"
+},
+"wordpress_get": {
+"message": "મારા ક્રોમ માટે આ થીમ મેળવો"
+},
+"better_customized": {
+"message": "તમારી પોતાની વોલપેપર લાઇબ્રેરી બનાવો"
+},
+"better_shares": {
+"message": "તેને ક્લિક કરો, તમારા મિત્રો સાથે શેર કરો"
+},
+"better_save": {
+"message": "મનપસંદમાં ઉમેરો"
+},
+"better_remove": {
+"message": "મનપસંદમાંથી દૂર કરો"
+},
+"share_tip": {
+"message": "સફળતાપૂર્વક મનપસંદમાં ઉમેરાયો, તમે આ એક્સટેન્શનને પણ આને શેર કરી શકો છો:"
+},
+"login": {
+"message": "તમારે સાઇન ઇન કરવાની જરૂર છે"
+}
+}

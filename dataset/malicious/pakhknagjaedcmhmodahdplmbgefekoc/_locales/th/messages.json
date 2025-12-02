@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "เกี่ยวกับ"
+},
+"background": {
+"message": "พื้นหลัง"
+},
+"better_click": {
+"message": "คลิกเปลี่ยนพื้นหลัง"
+},
+"better_down": {
+"message": "ดาวน์โหลดวอลเปเปอร์ปัจจุบัน"
+},
+"better_fb": {
+"message": "แบ่งปันไปที่ Facebook"
+},
+"better_google": {
+"message": "แบ่งปันไปที่ Google+"
+},
+"better_memu": {
+"message": "แสดงเมนูการตั้งค่า"
+},
+"better_pin": {
+"message": "คุณสามารถตรึงวอลเปเปอร์ปัจจุบันได้"
+},
+"better_pinned": {
+"message": "คุณตรึงวอลเปเปอร์ปัจจุบันแล้ว"
+},
+"better_print": {
+"message": "แบ่งปันใน Pinterest"
+},
+"better_qq": {
+"message": "แชร์ไปที่ QQ Zone"
+},
+"better_sina": {
+"message": "แบ่งปันไปที่ Sina"
+},
+"better_start": {
+"message": "แท็บใหม่ของ Attack on Titan"
+},
+"better_twitter": {
+"message": "แบ่งปันไปที่ Twitter"
+},
+"color": {
+"message": "สีทึบ"
+},
+"extDescription": {
+"message": "อัปเดตวอลเปเปอร์อัตโนมัติหรือภาพพื้นหลังค้นหาจาก Google ™ Images เพื่อกำหนดหน้าแท็บใหม่ของ Chrome"
+},
+"extName": {
+"message": "แท็บใหม่ Attack on Titan, วอลเปเปอร์แบบกำหนดเอง HD"
+},
+"fivestar1": {
+"message": "คุณชอบ Attack on Titan New Tab หรือไม่?"
+},
+"fivestar2": {
+"message": "โปรดให้รีวิวที่ดีเกี่ยวกับ Chrome Store"
+},
+"image": {
+"message": "ภาพท้องถิ่น"
+},
+"library": {
+"message": "อัปเดตจากห้องสมุด"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "ไม่ใช่ตอนนี้"
+},
+"pinned_confirm": {
+"message": "คุณตรึงวอลเปเปอร์ปัจจุบันคุณแน่ใจหรือไม่ว่าจะอัปเดตหรือไม่?"
+},
+"search": {
+"message": "ค้นหา"
+},
+"setting": {
+"message": "การตั้งค่า"
+},
+"share": {
+"message": "แบ่งปันให้เพื่อนของคุณ"
+},
+"upload": {
+"message": "อัปโหลด"
+},
+"visit": {
+"message": "เข้าชมมากที่สุด"
+},
+"yes": {
+"message": "ใช่"
+},
+"today": {
+"message": "ในวันนี้"
+},
+"mon": {
+"message": "วันจันทร์"
+},
+"tue": {
+"message": "วันอังคาร"
+},
+"wed": {
+"message": "วันพุธ"
+},
+"thu": {
+"message": "วันพฤหัสบดี"
+},
+"fri": {
+"message": "วันศุกร์"
+},
+"sat": {
+"message": "วันเสาร์"
+},
+"sun": {
+"message": "วันอาทิตย์"
+},
+"upload_tip": {
+"message": "ขนาดภาพที่อัปโหลดมีขนาดใหญ่เกินไป!"
+},
+"upload_close": {
+"message": "ปิด"
+},
+"unkownLocation": {
+"message": "ไม่ระบุตำแหน่ง"
+},
+"frequent": {
+"message": "อัปเดตความถี่"
+},
+"fre_pin": {
+"message": "เพื่อปักหมุดพื้นหลังปัจจุบัน"
+},
+"fre_never": {
+"message": "ไม่เคย"
+},
+"fre_min": {
+"message": "ทุกๆนาที"
+},
+"fre_hour": {
+"message": "ทุกชั่วโมง"
+},
+"fre_day": {
+"message": "ทุกวัน"
+},
+"search_tip1": {
+"message": "คุณจะเข้า"
+},
+"search_tip2": {
+"message": "ค้นหา"
+},
+"history1": {
+"message": "แสดงไซต์ที่เข้าชมบ่อยที่สุด"
+},
+"history2": {
+"message": "คุณสามารถเรียกคืนเว็บไซต์ที่เข้าชมบ่อยที่สุดในการตั้งค่า"
+},
+"weather": {
+"message": "แสดงการพยากรณ์อากาศ"
+},
+"self_add": {
+"message": "คุณได้เพิ่มไว้แล้ว"
+},
+"self_travel": {
+"message": "ใส่คำหลักเพื่อสร้างไลบรารีวอลเปเปอร์ของคุณเอง"
+},
+"self_search": {
+"message": "ค้นหา"
+},
+"self_load": {
+"message": "โหลดแล้ว"
+},
+"self_scroll": {
+"message": "เลื่อนลงเพื่อโหลดเพิ่มเติม"
+},
+"self_customize": {
+"message": "ปรับแต่งไลบรารี"
+},
+"self_selected": {
+"message": "เลือก"
+},
+"self_finish": {
+"message": "สร้างไลบรารีวอลเปเปอร์"
+},
+"self_allow": {
+"message": "อนุญาตให้ผู้อื่นใช้ห้องสมุดนี้"
+},
+"recommend1": {
+"message": "ศิลปะ"
+},
+"recommend2": {
+"message": "ความรัก"
+},
+"recommend3": {
+"message": "ชายหาด"
+},
+"recommend4": {
+"message": "หมาป่า"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "แมว"
+},
+"recommend7": {
+"message": "การ์ตูน"
+},
+"Customize_Library": {
+"message": "ปรับแต่งไลบรารี"
+},
+"wallpapers": {
+"message": "วอลล์เปเปอร์"
+},
+"delete": {
+"message": "คุณแน่ใจหรือไม่ว่าต้องการลบออก"
+},
+"wordpress_title": {
+"message": "วอลล์เปเปอร์ที่กำหนดเอง HD Themes-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "รับธีมนี้สำหรับโครเมี่ยมของฉัน"
+},
+"better_customized": {
+"message": "สร้างห้องสมุดวอลเปเปอร์ของคุณเอง"
+},
+"better_shares": {
+"message": "คลิกแบ่งปันแบ่งปันให้เพื่อนของคุณ"
+},
+"better_save": {
+"message": "เพิ่มในรายการโปรด"
+},
+"better_remove": {
+"message": "นำออกจากรายการโปรด"
+},
+"share_tip": {
+"message": "เพิ่มในรายการโปรดสำเร็จแล้วคุณยังสามารถแชร์ส่วนขยายนี้กับ:"
+},
+"login": {
+"message": "คุณต้องเข้าสู่ระบบ"
+}
+}

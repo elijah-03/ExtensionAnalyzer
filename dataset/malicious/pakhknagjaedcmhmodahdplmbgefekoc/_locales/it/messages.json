@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Di"
+},
+"background": {
+"message": "sfondo"
+},
+"better_click": {
+"message": "Fare clic, Cambia sfondo"
+},
+"better_down": {
+"message": "Scarica lo sfondo corrente"
+},
+"better_fb": {
+"message": "Condividi su Facebook"
+},
+"better_google": {
+"message": "Condividi su Google+"
+},
+"better_memu": {
+"message": "Mostra il menu delle impostazioni"
+},
+"better_pin": {
+"message": "Puoi appuntare lo sfondo corrente"
+},
+"better_pinned": {
+"message": "Hai appuntato lo sfondo corrente"
+},
+"better_print": {
+"message": "Condividi su Pinterest"
+},
+"better_qq": {
+"message": "Condividi su QQ Zone"
+},
+"better_sina": {
+"message": "Condividi con Sina"
+},
+"better_start": {
+"message": "Attacco a Titano Nuova scheda"
+},
+"better_twitter": {
+"message": "Condividi su Twitter"
+},
+"color": {
+"message": "Tinta unita"
+},
+"extDescription": {
+"message": "Aggiorna automaticamente sfondi o sfondi di ricerca da Google ™ Immagini per personalizzare la tua pagina Nuova scheda di Chrome."
+},
+"extName": {
+"message": "Nuova scheda Attacco a Titano, sfondi HD"
+},
+"fivestar1": {
+"message": "Ti piace Attacco a Titano New Tab?"
+},
+"fivestar2": {
+"message": "Si prega di darci una buona recensione su Chrome Store."
+},
+"image": {
+"message": "Immagine locale"
+},
+"library": {
+"message": "Aggiornamento dalla libreria"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Non adesso"
+},
+"pinned_confirm": {
+"message": "Hai bloccato lo sfondo corrente, sei sicuro di aggiornarlo?"
+},
+"search": {
+"message": "Ricerca"
+},
+"setting": {
+"message": "impostazioni"
+},
+"share": {
+"message": "Condividi con i tuoi amici"
+},
+"upload": {
+"message": "Caricare"
+},
+"visit": {
+"message": "Più visitato"
+},
+"yes": {
+"message": "sì"
+},
+"today": {
+"message": "Oggi"
+},
+"mon": {
+"message": "Lunedi"
+},
+"tue": {
+"message": "martedì"
+},
+"wed": {
+"message": "mercoledì"
+},
+"thu": {
+"message": "giovedi"
+},
+"fri": {
+"message": "Venerdì"
+},
+"sat": {
+"message": "Sabato"
+},
+"sun": {
+"message": "Domenica"
+},
+"upload_tip": {
+"message": "La dimensione dell'immagine caricata è troppo grande!"
+},
+"upload_close": {
+"message": "Vicino"
+},
+"unkownLocation": {
+"message": "Posizione sconosciuta"
+},
+"frequent": {
+"message": "Frequenza di aggiornamento"
+},
+"fre_pin": {
+"message": "Per appuntare lo sfondo corrente"
+},
+"fre_never": {
+"message": "Mai"
+},
+"fre_min": {
+"message": "Ogni minuto"
+},
+"fre_hour": {
+"message": "Ogni ora"
+},
+"fre_day": {
+"message": "Ogni giorno"
+},
+"search_tip1": {
+"message": "Entrerai"
+},
+"search_tip2": {
+"message": "ricerca"
+},
+"history1": {
+"message": "Mostra i siti più visitati"
+},
+"history2": {
+"message": "È possibile ripristinare i siti Web più visitati nelle impostazioni."
+},
+"weather": {
+"message": "Mostra le previsioni del tempo"
+},
+"self_add": {
+"message": "L'hai aggiunto."
+},
+"self_travel": {
+"message": "Inserisci parole chiave per creare la tua libreria di sfondi"
+},
+"self_search": {
+"message": "ricerca"
+},
+"self_load": {
+"message": "Ho caricato"
+},
+"self_scroll": {
+"message": "scorri verso il basso per caricare altro."
+},
+"self_customize": {
+"message": "Personalizza libreria"
+},
+"self_selected": {
+"message": "selezionato"
+},
+"self_finish": {
+"message": "Costruisci la libreria di sfondi"
+},
+"self_allow": {
+"message": "Consenti ad altri di utilizzare questa libreria"
+},
+"recommend1": {
+"message": "Arte"
+},
+"recommend2": {
+"message": "Amore"
+},
+"recommend3": {
+"message": "Spiaggia"
+},
+"recommend4": {
+"message": "Lupo"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Gatto"
+},
+"recommend7": {
+"message": "cartone animato"
+},
+"Customize_Library": {
+"message": "Personalizza libreria"
+},
+"wallpapers": {
+"message": "sfondi"
+},
+"delete": {
+"message": "Sei sicuro di cancellarlo?"
+},
+"wordpress_title": {
+"message": "Temi HD per sfondi personalizzati - Nuova scheda Attacco a Titano"
+},
+"wordpress_get": {
+"message": "Ottieni questo tema per il mio Chrome"
+},
+"better_customized": {
+"message": "Costruisci la tua libreria di sfondi"
+},
+"better_shares": {
+"message": "Fare clic, condividere con i tuoi amici"
+},
+"better_save": {
+"message": "Aggiungi ai preferiti"
+},
+"better_remove": {
+"message": "Rimuovi dai preferiti"
+},
+"share_tip": {
+"message": "Aggiunto ai preferiti con successo, puoi anche condividere questa estensione per:"
+},
+"login": {
+"message": "Devi effettuare il login"
+}
+}

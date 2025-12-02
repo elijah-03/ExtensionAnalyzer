@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Sobre"
+},
+"background": {
+"message": "fundo"
+},
+"better_click": {
+"message": "Clique nele, mude de fundo"
+},
+"better_down": {
+"message": "Baixe o papel de parede atual"
+},
+"better_fb": {
+"message": "Partilhar no Facebook"
+},
+"better_google": {
+"message": "Compartilhar no Google+"
+},
+"better_memu": {
+"message": "Mostrar o menu de configurações"
+},
+"better_pin": {
+"message": "Você pode inserir o papel de parede atual"
+},
+"better_pinned": {
+"message": "Você colocou o papel de parede atual"
+},
+"better_print": {
+"message": "Compartilhe com Pinterest"
+},
+"better_qq": {
+"message": "Compartilhe com QQ Zone"
+},
+"better_sina": {
+"message": "Compartilhe com Sina"
+},
+"better_start": {
+"message": "Ataque ao titã New Tab"
+},
+"better_twitter": {
+"message": "Compartilhe no Twitter"
+},
+"color": {
+"message": "Cor sólida"
+},
+"extDescription": {
+"message": "Atualize automaticamente os papéis de parede ou pesquise papéis de parede das imagens do Google ™ para personalizar a nova página de registro do Chrome."
+},
+"extName": {
+"message": "Ataque ao titã New Tab, Papéis de parede HD"
+},
+"fivestar1": {
+"message": "Você gosta do Ataque ao titã New Tab?"
+},
+"fivestar2": {
+"message": "Por favor, dê uma boa revisão na Chrome Store."
+},
+"image": {
+"message": "Imagem local"
+},
+"library": {
+"message": "Atualização da Biblioteca"
+},
+"no": {
+"message": "NÃO"
+},
+"not_now": {
+"message": "Agora não"
+},
+"pinned_confirm": {
+"message": "Você fixou o papel de parede atual, você tem certeza de atualizá-lo?"
+},
+"search": {
+"message": "Pesquisa"
+},
+"setting": {
+"message": "configurações"
+},
+"share": {
+"message": "Compartilhe com seus amigos"
+},
+"upload": {
+"message": "Envio"
+},
+"visit": {
+"message": "Mais visitado"
+},
+"yes": {
+"message": "sim"
+},
+"today": {
+"message": "Hoje"
+},
+"mon": {
+"message": "Segunda-feira"
+},
+"tue": {
+"message": "terça"
+},
+"wed": {
+"message": "Quarta-feira"
+},
+"thu": {
+"message": "Quinta-feira"
+},
+"fri": {
+"message": "Sexta-feira"
+},
+"sat": {
+"message": "sábado"
+},
+"sun": {
+"message": "domingo"
+},
+"upload_tip": {
+"message": "O tamanho da imagem carregada é muito grande!"
+},
+"upload_close": {
+"message": "Fechar"
+},
+"unkownLocation": {
+"message": "Localização desconhecida"
+},
+"frequent": {
+"message": "Frequência de atualização"
+},
+"fre_pin": {
+"message": "Para pender o fundo atual"
+},
+"fre_never": {
+"message": "Nunca"
+},
+"fre_min": {
+"message": "Todo minuto"
+},
+"fre_hour": {
+"message": "Toda hora"
+},
+"fre_day": {
+"message": "Todo dia"
+},
+"search_tip1": {
+"message": "Você entrará"
+},
+"search_tip2": {
+"message": "pesquisa"
+},
+"history1": {
+"message": "Mostrar sites mais visitados"
+},
+"history2": {
+"message": "Você pode restaurar os sites mais visitados nas configurações."
+},
+"weather": {
+"message": "Mostre a previsão do tempo"
+},
+"self_add": {
+"message": "Você adicionou."
+},
+"self_travel": {
+"message": "Digite palavras-chave para criar sua própria biblioteca de papéis de parede"
+},
+"self_search": {
+"message": "pesquisa"
+},
+"self_load": {
+"message": "Carregou"
+},
+"self_scroll": {
+"message": "Desça para baixo para carregar mais."
+},
+"self_customize": {
+"message": "Personalizar Biblioteca"
+},
+"self_selected": {
+"message": "selecionado"
+},
+"self_finish": {
+"message": "Criar biblioteca de papéis de parede"
+},
+"self_allow": {
+"message": "Permita que outros usem esta biblioteca"
+},
+"recommend1": {
+"message": "Arte"
+},
+"recommend2": {
+"message": "Ame"
+},
+"recommend3": {
+"message": "de praia"
+},
+"recommend4": {
+"message": "Lobo"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Gato"
+},
+"recommend7": {
+"message": "Desenho animado"
+},
+"Customize_Library": {
+"message": "Personalizar Biblioteca"
+},
+"wallpapers": {
+"message": "papeis de parede"
+},
+"delete": {
+"message": "Você tem certeza que quer apagar isso?"
+},
+"wordpress_title": {
+"message": "Papel de parede personalizado HD Themes-Ataque ao titã New Tab"
+},
+"wordpress_get": {
+"message": "Obtenha este tema para o meu cromo"
+},
+"better_customized": {
+"message": "Crie sua própria biblioteca de papéis de parede"
+},
+"better_shares": {
+"message": "Clique nele, compartilhe com seus amigos"
+},
+"better_save": {
+"message": "Adicionar aos favoritos"
+},
+"better_remove": {
+"message": "Remover dos favoritos"
+},
+"share_tip": {
+"message": "Adicionado ao favorito com sucesso, você também pode compartilhar esta extensão para:"
+},
+"login": {
+"message": "Você precisa fazer login no"
+}
+}

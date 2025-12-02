@@ -1,0 +1,286 @@
+{
+    "chrome_extension_name": {
+        "message": "friGate CDN - бесперебойный доступ к сайтам"
+    },
+    "chrome_extension_sname": {
+        "message": "friGate CDN"
+    },
+    "chrome_extension_description": {
+        "message": "Позволяет получить улучшенный доступ к сайтам."
+    },
+    "mess_option": {
+        "message": "настройки"
+    },
+    "mess_header_proxy": {
+      "message": "Настройки прокси"
+    },
+    "mess_header_anon": {
+        "message": "Анонимность"
+    },
+    "mess_isanon": {
+        "message": "Включить анонимность. Включайте только при необходимости, если сайт блокируется даже через обычный прокси. Обязательно должен быть прописан сторонний DNS (например 8.8.8.8)"
+    },
+    "mess_header_alert": {
+        "message": "Настройки оповещения"
+    },
+    "mess_header_adv": {
+        "message": "Настройки рекламы"
+    },
+    "mess_header_tld": {
+        "message": "Использовать прокси для TLD:"
+    },
+    "mess_isalert": {
+        "message": "Отключить всплывающую панель и не оповещать меня о том, что сайт поддерживается расширением и включен ли или отключен прокси в данный момент для конкретного сайта. Внимание, при этом вы не сможете включить прокси для отдельной страницы!"
+    },
+    "mess_isadv": {
+        "message": "Не показывать рекламу. Реклама показывает более выгодные предложения на товары в интернете, и позволяет вам - нашим пользователям, использовать friGate совсем бесплатно."
+    },
+
+    "mess_ownproxy": {
+        "message": "собственные прокси:"
+    },
+    "mess_fgproxy": {
+        "message": "в настоящее время используются бесплатные прокси-сервера friGate"
+    },
+    "mess_addproxy": {
+        "message": "добавить свой прокси"
+    },
+    "mess_proxyformat_err": {
+        "message": "неверный формат прокси (должно быть ip:port)"
+    },
+    "browser_action_title": {
+        "message": "friGate - вкл/выкл"
+    },
+    "messProxy": {
+        "message": "через <a href=\"http://fri-gate.org/ru/\" target=\"_blank\" class=\"frigate_li1\"><img id=\"frigate_logo\" height=\"16\" src=\"\" style=\"vertical-align: bottom;\"></a> <a href=\"http://fri-gate.org/ru/_lang__ru.html\" target=\"_blank\" class=\"frigate_li1\">friGate</a>. &nbsp;"
+    },
+    "messNavi1": {
+        "message": "<a target=\"_blank\" href=\"http://fri-gate.org/ru/\" class=\"frigate_li2\">рекомендации</a>"
+    },
+    "messNavi2": {
+        "message": "<a target=\"_blank\" href=\"http://fri-gate.org/ru/\" class=\"frigate_li2\">как это работает</a>"
+    },
+    "messNavi3": {
+        "message": "<a target=\"_blank\" href=\"http://forum.fri-gate.org/\" class=\"frigate_li2\">добавить сайт</a>"
+    },
+    "messSiteWithoutProxy": {
+        "message": "доступен без прокси"
+    },
+    "messProxyOff": {
+        "message": "включить"
+    },
+    "messProxyOn": {
+        "message": "прокси включен"
+    },
+    "messProxyOnAn": {
+        "message": "анонимный прокси включен"
+    },
+    "messFromList": {
+        "message": "сайт из списка "
+    },
+    "messProxyOnManually": {
+        "message": "прокси включен вручную"
+    },
+    "messProxyIsOff": {
+        "message": "отключить"
+    },
+    "messUpdate": {
+        "message": "<a target=\"_blank\" href=\"http://fri-gate.org/ru/update\" class=\"frigate_links2\">обновите до<br /> последней версии!</a>"
+    },
+    "messCommunity": {
+        "message": "Сообщество"
+    },
+    "messModalConfirmTitle": {
+        "message": "подтвердите действие"
+    },
+    "messBack": {
+        "message": "назад"
+    },
+    "messLists": {
+        "message": "Настройка списка сайтов"
+    },
+    "messListsOwn": {
+        "message": "списки сайтов:"
+    },
+    "messListsName": {
+        "message": "название списка"
+    },
+    "messAddList": {
+        "message": "Добавить список"
+    },
+    "messListsEmpty": {
+        "message": "Список пуст"
+    },
+    "messListsAdd": {
+        "message": "Добавить собственные списки сайтов"
+    },
+    "messListsAddSite": {
+        "message": "Добавить сайт"
+    },
+    "messListsAddSiteDomain": {
+        "message": "Домен"
+    },
+    "messListsAddSiteFile": {
+        "message": "URL для проверки доступа"
+    },
+    "messListsConfirmDelList": {
+        "message": "Вы удаляете список. Вы уверены?"
+    },
+    "messListsConfirmOK": {
+        "message": "Подтверждаю"
+    },
+    "messListsConfirmCancel": {
+        "message": "Отмена"
+    },
+    "messListsConfirmDelNoEmptyList": {
+        "message": "Вы удаляете непустой список. Вы уверены?"
+    },
+    "messListsConfirmDelSite": {
+        "message": "Вы удаляете сайт из списка: "
+    },
+    "messAreYouSure": {
+        "message": "Вы уверены?"
+    },
+    "messAlertError": {
+        "message": "Произошла ошибка"
+    },
+    "messAlertClose": {
+        "message": "Закрыть"
+    },
+    "messListsSiteHostFormat": {
+        "message": "Неверный формат домена"
+    },
+    "messListsSiteUrlFormat": {
+        "message": "Неверный формат адреса"
+    },
+    "messListsSiteUrlAlrIs": {
+        "message": "Уже есть такой сайт в этом списке"
+    },
+    "messListsSiteUrlAlrIs2": {
+        "message": "Этот сайт уже присутствует в списке "
+    },
+    "messListsSiteUrlAlrIs3": {
+        "message": "Повторно добавлять его нет необходимости."
+    },
+    "messOptListFormat": {
+        "message": "Неверный формат ИМЕНИ списка. Должен состоят из букв, цифр, _-"
+    },
+    "messOptListAlrIs": {
+        "message": "Уже есть список с таким именем"
+    },
+    "messTypeCh1": {
+        "message": "упрощенный алгоритм"
+    },
+    "messTypeCh2": {
+        "message": "аналитический алгоритм"
+    },
+    "messTypeCh3": {
+        "message": "proxy включен всегда"
+    },
+    "messListsNoAlg": {
+        "message": "данный алгоритм проверки не подходит для этого сайта, выбирете другой алгоритм"
+    },
+    "messListsAlgDesc": {
+        "message": "<h5>Добавлять лучше сразу домен с поддоменами, например: <strong>*.twitter.com</strong> вместо <strong>www.twitter.com</strong>.</h5> При использовании аналитического алгоритма вы должны выбрать адрес для проверки, это может быть адрес небольшой картики на сайте, который проходит проверку."
+    },
+    "messListsSomethingHappened": {
+        "message": "видимо что-то случилось, попробуйте повторить запрос через пару секунд"
+    },
+    "messListsFileNotFound": {
+        "message": "По данному адресу файл не найден, проверьте 'URL для проверки доступа'"
+    },
+    "messCmTitleAdd": {
+        "message": "добавить сайт в свой список"
+    },
+    "messCmTitleAddGl": {
+        "message": "добавить сайт в список friGate"
+    },
+    "messChange": {
+        "message": "изменить"
+    },
+    "messErrOverExtProxy": {
+        "message": "не включен, прокси управляется другим расширением"
+    },
+    "messErrLim": {
+        "message": "Только список friGate"
+    },
+
+    "messReset": {
+      "message": "Сброс"
+    },
+    "messEconomy": {
+      "message": "Экономия:"
+    },
+    "messLast": {
+      "message": "за "
+    },
+    "messMin": {
+      "message": "мин."
+    },
+    "messDay": {
+      "message": "день"
+    },
+    "messDays": {
+      "message": "дней"
+    },
+    "messDays2": {
+      "message": "дня"
+    },
+    "messHo": {
+      "message": "час"
+    },
+    "messHos": {
+      "message": "часов"
+    },
+    "messHos2": {
+      "message": "часа"
+    },
+    "mess_iscompress": {
+      "message": "Включить оптимизацию <a href=\"https://developers.google.com/speed/pagespeed/\" target=\"_blank\">PageSpeed Google</a>. Работает только когда трафик идет через прокси."
+    },
+    "mess_autochproxy": {
+      "message": "Подбирать прокси автоматически, если сайт недоступен или произошла ошибка."
+    },
+    "mess_slowconn": {
+        "message": "Медленное соединение."
+    },
+    "mess_header_opt": {
+      "message": "Доп. настройки"
+    },
+    "mess_manually_dis": {
+        "message": "Откл. в настройках"
+    },
+    "slink_important": {
+        "message": "это важно"
+    },
+    "slink_tele_follow": {
+        "message": "подписаться на <b>Telegram</b> friGate"
+    },
+    "slink_header": {
+        "message": "Хотите быть в курсе событий, следить за изменениями и оставаться онлайн?"
+    },
+    "slink_fb_follow": {
+        "message": "подписаться на наш <b>Facebook</b>"
+    },
+    "slink_ints_follow": {
+        "message": "подписаться на наш <b>Instagram</b>"
+    },
+    "slink_yt_follow": {
+        "message": "подписаться на <b>YouTube</b> friGate"
+    },
+    "slink_vk_follow": {
+        "message": "подписаться на нашу группу <b>Vkontakte</b>"
+    },
+    "slink_ok": {
+        "message": "Я подписался, больше не показывать"
+    },
+    "private_txt": {
+        "message": "Расширение friGate <strong>анонимно</strong> обрабатывает личные или конфиденциальные пользовательские данные. Эти данные включают в себя: <strong>активность просмотра веб-страниц</strong>. Данные используются для определения доступности сайта, к которому в данный момент обращается пользователь. Затем на основе этих данных расширение включает или отключает прокси-сервер для этого сайта."
+    },
+    "private_txt2": {
+        "message": "Если вы не согласны с данными условиями, просто удалите расширение."
+    },
+    "private_checkbox": {
+        "message": "Я принимаю эти условия"
+    }
+}

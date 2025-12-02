@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Про"
+},
+"background": {
+"message": "Передумови"
+},
+"better_click": {
+"message": "Клацніть по ньому, змініть фон"
+},
+"better_down": {
+"message": "Завантажити поточні шпалери"
+},
+"better_fb": {
+"message": "Поділитися на Facebook"
+},
+"better_google": {
+"message": "Поділитися в Google+"
+},
+"better_memu": {
+"message": "Показати меню налаштувань"
+},
+"better_pin": {
+"message": "Ви можете закріпити поточні шпалери"
+},
+"better_pinned": {
+"message": "Ви прикріпили поточні шпалери"
+},
+"better_print": {
+"message": "Поділитися в Pinterest"
+},
+"better_qq": {
+"message": "Поділіться в зону QQ"
+},
+"better_sina": {
+"message": "Поділіться в Sina"
+},
+"better_start": {
+"message": "Attack on Titan Нова вкладка"
+},
+"better_twitter": {
+"message": "Поділіться на Twitter"
+},
+"color": {
+"message": "Твердий колір"
+},
+"extDescription": {
+"message": "Автоматично оновлюйте шпалери або шукайте шпалери з картинок Google ™, щоб налаштувати сторінку нової вкладки Chrome."
+},
+"extName": {
+"message": "Attack on Titan Нова вкладка, налаштовані шпалери HD"
+},
+"fivestar1": {
+"message": "Ви любите нову вкладку Attack on Titan?"
+},
+"fivestar2": {
+"message": "Будь ласка, дайте нам хороший огляд у магазині Chrome."
+},
+"image": {
+"message": "Місцевий образ"
+},
+"library": {
+"message": "Оновлення з бібліотеки"
+},
+"no": {
+"message": "НЕМАЄ"
+},
+"not_now": {
+"message": "Не зараз"
+},
+"pinned_confirm": {
+"message": "Ви прикріпили поточні шпалери, чи обов'язково оновите його?"
+},
+"search": {
+"message": "Пошук"
+},
+"setting": {
+"message": "налаштування"
+},
+"share": {
+"message": "Поділіться своїм друзям"
+},
+"upload": {
+"message": "Завантажити"
+},
+"visit": {
+"message": "Найбільш відвідуваний"
+},
+"yes": {
+"message": "Так"
+},
+"today": {
+"message": "Сьогодні"
+},
+"mon": {
+"message": "Понеділок"
+},
+"tue": {
+"message": "Вівторок"
+},
+"wed": {
+"message": "Середа"
+},
+"thu": {
+"message": "Четвер"
+},
+"fri": {
+"message": "П'ятниця"
+},
+"sat": {
+"message": "Субота"
+},
+"sun": {
+"message": "Неділя"
+},
+"upload_tip": {
+"message": "Розмір завантаженого зображення завеликий!"
+},
+"upload_close": {
+"message": "Закрити"
+},
+"unkownLocation": {
+"message": "Невідоме місцезнаходження"
+},
+"frequent": {
+"message": "Оновлення частоти"
+},
+"fre_pin": {
+"message": "Щоб закріпити поточний фон"
+},
+"fre_never": {
+"message": "Ніколи"
+},
+"fre_min": {
+"message": "Кожна хвилина"
+},
+"fre_hour": {
+"message": "Щогодини"
+},
+"fre_day": {
+"message": "Кожен день"
+},
+"search_tip1": {
+"message": "Ви ввійдете"
+},
+"search_tip2": {
+"message": "пошук"
+},
+"history1": {
+"message": "Показати найбільш відвідувані сайти"
+},
+"history2": {
+"message": "Ви можете відновити самі відвідувані веб-сайти в налаштуваннях."
+},
+"weather": {
+"message": "Показати прогноз погоди"
+},
+"self_add": {
+"message": "Ви додали його."
+},
+"self_travel": {
+"message": "Введіть ключові слова для створення власної бібліотеки шпалер"
+},
+"self_search": {
+"message": "пошук"
+},
+"self_load": {
+"message": "Завантажили"
+},
+"self_scroll": {
+"message": "прокрутіть вниз, щоб завантажити більше."
+},
+"self_customize": {
+"message": "Налаштувати бібліотеку"
+},
+"self_selected": {
+"message": "вибраний"
+},
+"self_finish": {
+"message": "Створіть шпалери бібліотеку"
+},
+"self_allow": {
+"message": "Дозволити іншим використовувати цю бібліотеку"
+},
+"recommend1": {
+"message": "Ст"
+},
+"recommend2": {
+"message": "Любов"
+},
+"recommend3": {
+"message": "Пляжний"
+},
+"recommend4": {
+"message": "Вовк"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Кот"
+},
+"recommend7": {
+"message": "Мультфільм"
+},
+"Customize_Library": {
+"message": "Налаштувати бібліотеку"
+},
+"wallpapers": {
+"message": "шпалери"
+},
+"delete": {
+"message": "Ви впевнені, що видалите його?"
+},
+"wordpress_title": {
+"message": "Індивідуальні шпалери HD Themes-Attack on Titan Нова вкладка"
+},
+"wordpress_get": {
+"message": "Отримайте цю тему для мого хрому"
+},
+"better_customized": {
+"message": "Створіть власну бібліотеку для шпалер"
+},
+"better_shares": {
+"message": "Натисніть на неї, поділіться з друзями"
+},
+"better_save": {
+"message": "Додати в обране"
+},
+"better_remove": {
+"message": "Видалити з обраного"
+},
+"share_tip": {
+"message": "Успішно додано до улюбленого. Також ви можете поділитися цим розширенням:"
+},
+"login": {
+"message": "Вам потрібно увійти в систему"
+}
+}

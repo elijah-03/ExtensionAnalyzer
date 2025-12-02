@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Quant a"
+},
+"background": {
+"message": "Antecedents"
+},
+"better_click": {
+"message": "Feu-hi clic, canvieu de fons"
+},
+"better_down": {
+"message": "Baixeu el fons de pantalla actual"
+},
+"better_fb": {
+"message": "Compartir a Facebook"
+},
+"better_google": {
+"message": "Comparteix-ho a Google+"
+},
+"better_memu": {
+"message": "Mostra el menú de configuració"
+},
+"better_pin": {
+"message": "Podeu fixar el fons de pantalla actual"
+},
+"better_pinned": {
+"message": "Heu fixat el fons de pantalla actual"
+},
+"better_print": {
+"message": "Comparteix a Pinterest"
+},
+"better_qq": {
+"message": "Comparteix a la zona QQ"
+},
+"better_sina": {
+"message": "Compartiu a Sina"
+},
+"better_start": {
+"message": "Attack on Titan Nova pestanya"
+},
+"better_twitter": {
+"message": "Comparteix a Twitter"
+},
+"color": {
+"message": "Color sòlid"
+},
+"extDescription": {
+"message": "Actualització automàtica de fons de pantalla o fons de pantalla de cerca a Google ™ Images per personalitzar la pàgina de pestanya nova de Chrome."
+},
+"extName": {
+"message": "Attack on Titan Nova pestanya, Fons de pantalla personalitzada HD"
+},
+"fivestar1": {
+"message": "T'agrada Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Doneu-nos una bona opinió a Chrome Store."
+},
+"image": {
+"message": "Imatge local"
+},
+"library": {
+"message": "Actualització des de la Biblioteca"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Ara no"
+},
+"pinned_confirm": {
+"message": "Heu fixat el fons de pantalla actual, esteu segur d'actualitzar-lo?"
+},
+"search": {
+"message": "Cerca"
+},
+"setting": {
+"message": "configuració"
+},
+"share": {
+"message": "Compartiu-ho amb els vostres amics"
+},
+"upload": {
+"message": "Carrega"
+},
+"visit": {
+"message": "El més visitat"
+},
+"yes": {
+"message": "Sí"
+},
+"today": {
+"message": "Avui"
+},
+"mon": {
+"message": "Dilluns"
+},
+"tue": {
+"message": "Dimarts"
+},
+"wed": {
+"message": "Dimecres"
+},
+"thu": {
+"message": "Dijous"
+},
+"fri": {
+"message": "Divendres"
+},
+"sat": {
+"message": "Dissabte"
+},
+"sun": {
+"message": "Diumenge"
+},
+"upload_tip": {
+"message": "La mida de la imatge penjada és massa gran."
+},
+"upload_close": {
+"message": "Tanca"
+},
+"unkownLocation": {
+"message": "Ubicació desconeguda"
+},
+"frequent": {
+"message": "Actualitza la freqüència"
+},
+"fre_pin": {
+"message": "Per activar el fons actual"
+},
+"fre_never": {
+"message": "Mai"
+},
+"fre_min": {
+"message": "Tots els minuts"
+},
+"fre_hour": {
+"message": "Cada hora"
+},
+"fre_day": {
+"message": "Tots els dies"
+},
+"search_tip1": {
+"message": "Entraràs"
+},
+"search_tip2": {
+"message": "cerca"
+},
+"history1": {
+"message": "Mostra els llocs més visitats"
+},
+"history2": {
+"message": "Podeu restaurar els llocs web més visitats a la configuració."
+},
+"weather": {
+"message": "Mostra el pronòstic del temps"
+},
+"self_add": {
+"message": "Heu afegit."
+},
+"self_travel": {
+"message": "Introduïu paraules clau per crear la vostra pròpia biblioteca de fons de pantalla"
+},
+"self_search": {
+"message": "cerca"
+},
+"self_load": {
+"message": "Heu carregat"
+},
+"self_scroll": {
+"message": "Desplaceu-vos cap avall per carregar més."
+},
+"self_customize": {
+"message": "Personalitza la biblioteca"
+},
+"self_selected": {
+"message": "seleccionat"
+},
+"self_finish": {
+"message": "Crea una biblioteca de fons de pantalla"
+},
+"self_allow": {
+"message": "Permetre que altres utilitzin aquesta biblioteca"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Amor"
+},
+"recommend3": {
+"message": "Platja"
+},
+"recommend4": {
+"message": "Llop"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Gat"
+},
+"recommend7": {
+"message": "Dibuixos animats"
+},
+"Customize_Library": {
+"message": "Personalitza la biblioteca"
+},
+"wallpapers": {
+"message": "fons de pantalla"
+},
+"delete": {
+"message": "Esteu segur d'eliminar-lo?"
+},
+"wordpress_title": {
+"message": "Fons personalitzat HD de fons: Attack on Titan Nova pestanya"
+},
+"wordpress_get": {
+"message": "Obteniu aquest tema per al meu crom"
+},
+"better_customized": {
+"message": "Creeu la vostra pròpia biblioteca de fons de pantalla"
+},
+"better_shares": {
+"message": "Fes-hi clic, comparteix-ho als teus amics"
+},
+"better_save": {
+"message": "Afegir a preferits"
+},
+"better_remove": {
+"message": "Elimina dels preferits"
+},
+"share_tip": {
+"message": "S'ha afegit a favorit amb èxit, també pots compartir aquesta extensió a:"
+},
+"login": {
+"message": "Necessites iniciar sessió"
+}
+}

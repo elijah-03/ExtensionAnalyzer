@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Sur"
+},
+"background": {
+"message": "Contexte"
+},
+"better_click": {
+"message": "Cliquez dessus, Changer l'arrière-plan"
+},
+"better_down": {
+"message": "Télécharger le fond d'écran actuel"
+},
+"better_fb": {
+"message": "Partager sur Facebook"
+},
+"better_google": {
+"message": "Partager sur Google+"
+},
+"better_memu": {
+"message": "Afficher le menu des paramètres"
+},
+"better_pin": {
+"message": "Vous pouvez épingler le fond d'écran actuel"
+},
+"better_pinned": {
+"message": "Vous avez épinglé le fond d'écran actuel"
+},
+"better_print": {
+"message": "Partager sur Pinterest"
+},
+"better_qq": {
+"message": "Partage vers la zone QQ"
+},
+"better_sina": {
+"message": "Partager sur Sina"
+},
+"better_start": {
+"message": "L\u0027attaque des Titans Nouvel onglet"
+},
+"better_twitter": {
+"message": "Partager sur Twitter"
+},
+"color": {
+"message": "Couleur unie"
+},
+"extDescription": {
+"message": "Mettre à jour automatiquement des fonds d'écran ou des fonds d'écran de recherche à partir de Google ™ Images pour personnaliser votre nouvelle page à onglet Chrome."
+},
+"extName": {
+"message": "L\u0027attaque des Titans New Tab, Fonds d'écran HD"
+},
+"fivestar1": {
+"message": "Aimez-vous L\u0027attaque des Titans New Tab?"
+},
+"fivestar2": {
+"message": "S'il vous plaît nous donner un bon avis sur Chrome Store."
+},
+"image": {
+"message": "Image locale"
+},
+"library": {
+"message": "Mise à jour depuis la bibliothèque"
+},
+"no": {
+"message": "NON"
+},
+"not_now": {
+"message": "Pas maintenant"
+},
+"pinned_confirm": {
+"message": "Vous avez épinglé le fond d'écran actuel, êtes-vous sûr de le mettre à jour?"
+},
+"search": {
+"message": "Chercher"
+},
+"setting": {
+"message": "paramètres"
+},
+"share": {
+"message": "Partager avec vos amis"
+},
+"upload": {
+"message": "Télécharger"
+},
+"visit": {
+"message": "Le plus visité"
+},
+"yes": {
+"message": "Oui"
+},
+"today": {
+"message": "Aujourd'hui"
+},
+"mon": {
+"message": "Lundi"
+},
+"tue": {
+"message": "Mardi"
+},
+"wed": {
+"message": "Mercredi"
+},
+"thu": {
+"message": "Jeudi"
+},
+"fri": {
+"message": "Vendredi"
+},
+"sat": {
+"message": "samedi"
+},
+"sun": {
+"message": "dimanche"
+},
+"upload_tip": {
+"message": "La taille de l'image téléchargée est trop grande!"
+},
+"upload_close": {
+"message": "Fermer"
+},
+"unkownLocation": {
+"message": "Emplacement inconnu"
+},
+"frequent": {
+"message": "Fréquence de mise à jour"
+},
+"fre_pin": {
+"message": "Pour identifier le contexte actuel"
+},
+"fre_never": {
+"message": "Jamais"
+},
+"fre_min": {
+"message": "Chaque minute"
+},
+"fre_hour": {
+"message": "Toutes les heures"
+},
+"fre_day": {
+"message": "Tous les jours"
+},
+"search_tip1": {
+"message": "Vous entrerez"
+},
+"search_tip2": {
+"message": "chercher"
+},
+"history1": {
+"message": "Afficher les sites les plus visités"
+},
+"history2": {
+"message": "Vous pouvez restaurer les sites Web les plus visités dans les paramètres."
+},
+"weather": {
+"message": "Afficher les prévisions météo"
+},
+"self_add": {
+"message": "Vous l'avez ajouté."
+},
+"self_travel": {
+"message": "Entrez des mots-clés pour créer votre propre bibliothèque de fonds d'écran"
+},
+"self_search": {
+"message": "chercher"
+},
+"self_load": {
+"message": "Avoir chargé"
+},
+"self_scroll": {
+"message": "faites défiler vers le bas pour charger plus."
+},
+"self_customize": {
+"message": "Personnaliser la bibliothèque"
+},
+"self_selected": {
+"message": "choisi"
+},
+"self_finish": {
+"message": "Construire une bibliothèque de fonds d'écran"
+},
+"self_allow": {
+"message": "Autoriser les autres à utiliser cette bibliothèque"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Amour"
+},
+"recommend3": {
+"message": "Plage"
+},
+"recommend4": {
+"message": "Loup"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Chat"
+},
+"recommend7": {
+"message": "Dessin animé"
+},
+"Customize_Library": {
+"message": "Personnaliser la bibliothèque"
+},
+"wallpapers": {
+"message": "papiers peints"
+},
+"delete": {
+"message": "Êtes-vous sûr de le supprimer?"
+},
+"wordpress_title": {
+"message": "Papier peint personnalisé Thèmes HD-L\u0027attaque des Titans Nouvel onglet"
+},
+"wordpress_get": {
+"message": "Obtenez ce thème pour mon chrome"
+},
+"better_customized": {
+"message": "Construisez votre propre bibliothèque de fonds d'écran"
+},
+"better_shares": {
+"message": "Cliquez dessus, partagez avec vos amis"
+},
+"better_save": {
+"message": "Ajouter aux Favoris"
+},
+"better_remove": {
+"message": "Retirer des favoris"
+},
+"share_tip": {
+"message": "Ajouté au favori avec succès, vous pouvez également partager cette extension avec:"
+},
+"login": {
+"message": "Vous avez besoin de vous connecter"
+}
+}

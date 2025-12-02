@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "შესახებ"
+},
+"background": {
+"message": "ფონის"
+},
+"better_click": {
+"message": "დააჭირეთ მას, შეცვლა ფონის"
+},
+"better_down": {
+"message": "მიმდინარე ფონი ჩამოტვირთვა"
+},
+"better_fb": {
+"message": "გადაიტანე Facebook- ზე"
+},
+"better_google": {
+"message": "გაზიარება Google+"
+},
+"better_memu": {
+"message": "პარამეტრების მენიუს ჩვენება"
+},
+"better_pin": {
+"message": "შეგიძლიათ გამოიყენოთ მიმდინარე ფონი"
+},
+"better_pinned": {
+"message": "მიმდინარე ფონი შეავსეთ"
+},
+"better_print": {
+"message": "გაუზიარეთ Pinterest- ზე"
+},
+"better_qq": {
+"message": "გაზიარება QQ ზონაში"
+},
+"better_sina": {
+"message": "გაუზიარეთ სინაში"
+},
+"better_start": {
+"message": "Attack on Titan ახალი ჩანართი"
+},
+"better_twitter": {
+"message": "გაუზიარე Twitter- ზე"
+},
+"color": {
+"message": "მყარი ფერი"
+},
+"extDescription": {
+"message": "ავტომატური განახლების ფონები ან ძებნა ფონები Google ™ სურათებიდან, რათა დაათვალიეროთ თქვენი Chrome- ის ახალი ჩანართის გვერდი."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Customized Wallpapers HD"
+},
+"fivestar1": {
+"message": "მოგწონთ Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "გთხოვთ მოგცეთ კარგი მიმოხილვა Chrome Store- ზე."
+},
+"image": {
+"message": "ადგილობრივი სურათი"
+},
+"library": {
+"message": "განახლება ბიბლიოთეკიდან"
+},
+"no": {
+"message": "არა"
+},
+"not_now": {
+"message": "ახლა არა"
+},
+"pinned_confirm": {
+"message": "მიმდინარე ფონი მიმატეთ, დარწმუნებული ხართ, განაახლეთ?"
+},
+"search": {
+"message": "ძიება"
+},
+"setting": {
+"message": "პარამეტრები"
+},
+"share": {
+"message": "გაუზიარეთ თქვენს მეგობრებს"
+},
+"upload": {
+"message": "ატვირთვა"
+},
+"visit": {
+"message": "ყველაზე მონახულება"
+},
+"yes": {
+"message": "დიახ"
+},
+"today": {
+"message": "დღეს"
+},
+"mon": {
+"message": "ორშაბათი"
+},
+"tue": {
+"message": "სამშაბათი"
+},
+"wed": {
+"message": "ოთხშაბათს"
+},
+"thu": {
+"message": "ხუთშაბათი"
+},
+"fri": {
+"message": "პარასკევი"
+},
+"sat": {
+"message": "შაბათი"
+},
+"sun": {
+"message": "კვირა"
+},
+"upload_tip": {
+"message": "ატვირთული სურათის ზომა ძალიან დიდია!"
+},
+"upload_close": {
+"message": "დახურვა"
+},
+"unkownLocation": {
+"message": "უცნობი მდებარეობა"
+},
+"frequent": {
+"message": "სიხშირის განახლება"
+},
+"fre_pin": {
+"message": "მიმდინარე ფონზე"
+},
+"fre_never": {
+"message": "არასოდეს"
+},
+"fre_min": {
+"message": "ყოველ წუთს"
+},
+"fre_hour": {
+"message": "ყოველ საათში"
+},
+"fre_day": {
+"message": "ყოველ დღე"
+},
+"search_tip1": {
+"message": "თქვენ შეხვალთ"
+},
+"search_tip2": {
+"message": "ძიება"
+},
+"history1": {
+"message": "აჩვენე ყველაზე მეტად მონახულებული საიტები"
+},
+"history2": {
+"message": "შეგიძლიათ დააბრუნოთ ყველაზე ეწვია საიტებზე პარამეტრები."
+},
+"weather": {
+"message": "ამინდის პროგნოზი აჩვენეთ"
+},
+"self_add": {
+"message": "თქვენ დაამატეთ იგი."
+},
+"self_travel": {
+"message": "შეყვანის საკვანძო სიტყვები ააშენოთ საკუთარი ფონი ბიბლიოთეკისთვის"
+},
+"self_search": {
+"message": "ძიება"
+},
+"self_load": {
+"message": "დატვირთულია"
+},
+"self_scroll": {
+"message": "გადახვიდეთ ქვემოთ დატვირთვისთვის."
+},
+"self_customize": {
+"message": "ბიბლიოთეკის მორგება"
+},
+"self_selected": {
+"message": "შერჩეული"
+},
+"self_finish": {
+"message": "აშენების ფონი ბიბლიოთეკა"
+},
+"self_allow": {
+"message": "სხვა ბიბლიოთეკის გამოყენება"
+},
+"recommend1": {
+"message": "ხელოვნება"
+},
+"recommend2": {
+"message": "სიყვარული"
+},
+"recommend3": {
+"message": "სანაპიროზე"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "კატა"
+},
+"recommend7": {
+"message": "მულტფილმი"
+},
+"Customize_Library": {
+"message": "ბიბლიოთეკის მორგება"
+},
+"wallpapers": {
+"message": "ფონი"
+},
+"delete": {
+"message": "დარწმუნებული ხართ, რომ წაშალოთ ეს?"
+},
+"wordpress_title": {
+"message": "მორგებული ფონი HD თემები- Attack on Titan ახალი ჩანართი"
+},
+"wordpress_get": {
+"message": "მიიღეთ ეს თემა ჩემი ქრომისთვის"
+},
+"better_customized": {
+"message": "აშენების საკუთარი ფონი ბიბლიოთეკა"
+},
+"better_shares": {
+"message": "დააჭირეთ მას, გაუზიარეთ თქვენს მეგობრებს"
+},
+"better_save": {
+"message": "რჩეულებში დამატება"
+},
+"better_remove": {
+"message": "რჩეულებიდან ამოშლა"
+},
+"share_tip": {
+"message": "რჩეულში წარმატებით დაემატა, ასევე შეგიძლიათ გააზიაროთ ეს გაფართოება:"
+},
+"login": {
+"message": "თქვენ უნდა შეხვიდეთ სისტემაში"
+}
+}

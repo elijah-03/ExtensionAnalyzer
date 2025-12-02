@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Acerca de"
+},
+"background": {
+"message": "Fondo"
+},
+"better_click": {
+"message": "Haga clic en él, Cambiar fondo"
+},
+"better_down": {
+"message": "Descargar el fondo de pantalla actual"
+},
+"better_fb": {
+"message": "Compartir en Facebook"
+},
+"better_google": {
+"message": "Compartir en Google+"
+},
+"better_memu": {
+"message": "Mostrar menú de configuración"
+},
+"better_pin": {
+"message": "Puedes fijar el fondo de pantalla actual"
+},
+"better_pinned": {
+"message": "Has fijado el fondo de pantalla actual"
+},
+"better_print": {
+"message": "Compartir en Pinterest"
+},
+"better_qq": {
+"message": "Compartir en la zona QQ"
+},
+"better_sina": {
+"message": "Comparte a Sina"
+},
+"better_start": {
+"message": "Ataque en Titan Nueva pestaña"
+},
+"better_twitter": {
+"message": "Compartir a Twitter"
+},
+"color": {
+"message": "Color sólido"
+},
+"extDescription": {
+"message": "Actualice automáticamente fondos de pantalla o fondos de búsqueda de imágenes de Google ™ para personalizar su página nueva pestaña de Chrome."
+},
+"extName": {
+"message": "Ataque en Titan New Tab, Fondos de pantalla HD"
+},
+"fivestar1": {
+"message": "¿Te gusta Ataque en Titan New Tab?"
+},
+"fivestar2": {
+"message": "Por favor, danos una buena crítica en Chrome Store."
+},
+"image": {
+"message": "Imagen local"
+},
+"library": {
+"message": "Actualización desde la biblioteca"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Ahora no"
+},
+"pinned_confirm": {
+"message": "Ha fijado el fondo de pantalla actual, ¿está seguro de actualizarlo?"
+},
+"search": {
+"message": "Buscar"
+},
+"setting": {
+"message": "ajustes"
+},
+"share": {
+"message": "Comparte a tus amigos"
+},
+"upload": {
+"message": "Subir"
+},
+"visit": {
+"message": "Más visitado"
+},
+"yes": {
+"message": "Sí"
+},
+"today": {
+"message": "Hoy"
+},
+"mon": {
+"message": "lunes"
+},
+"tue": {
+"message": "martes"
+},
+"wed": {
+"message": "miércoles"
+},
+"thu": {
+"message": "jueves"
+},
+"fri": {
+"message": "viernes"
+},
+"sat": {
+"message": "sábado"
+},
+"sun": {
+"message": "domingo"
+},
+"upload_tip": {
+"message": "¡El tamaño de la imagen cargada es demasiado grande!"
+},
+"upload_close": {
+"message": "Cerca"
+},
+"unkownLocation": {
+"message": "Ubicación Desconocida"
+},
+"frequent": {
+"message": "Frecuencia de actualización"
+},
+"fre_pin": {
+"message": "Para fijar el fondo actual"
+},
+"fre_never": {
+"message": "Nunca"
+},
+"fre_min": {
+"message": "Cada minuto"
+},
+"fre_hour": {
+"message": "Cada hora"
+},
+"fre_day": {
+"message": "Cada día"
+},
+"search_tip1": {
+"message": "Entrarás"
+},
+"search_tip2": {
+"message": "buscar"
+},
+"history1": {
+"message": "Mostrar los sitios más visitados"
+},
+"history2": {
+"message": "Puede restaurar los sitios web más visitados en la configuración."
+},
+"weather": {
+"message": "Mostrar el pronóstico del tiempo"
+},
+"self_add": {
+"message": "Usted lo ha agregado."
+},
+"self_travel": {
+"message": "Ingrese palabras clave para crear su propia biblioteca de fondos de pantalla"
+},
+"self_search": {
+"message": "buscar"
+},
+"self_load": {
+"message": "Haber cargado"
+},
+"self_scroll": {
+"message": "desplácese hacia abajo para cargar más."
+},
+"self_customize": {
+"message": "Personalizar Biblioteca"
+},
+"self_selected": {
+"message": "seleccionado"
+},
+"self_finish": {
+"message": "Construir fondos de pantalla biblioteca"
+},
+"self_allow": {
+"message": "Permitir que otros usen esta biblioteca"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "Amor"
+},
+"recommend3": {
+"message": "playa"
+},
+"recommend4": {
+"message": "Lobo"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Gato"
+},
+"recommend7": {
+"message": "Dibujos animados"
+},
+"Customize_Library": {
+"message": "Personalizar Biblioteca"
+},
+"wallpapers": {
+"message": "fondos"
+},
+"delete": {
+"message": "¿Está seguro de eliminarlo?"
+},
+"wordpress_title": {
+"message": "Fondo de pantalla personalizado HD Themes-Ataque en Titan Nueva pestaña"
+},
+"wordpress_get": {
+"message": "Obtener este tema para mi cromo"
+},
+"better_customized": {
+"message": "Crea tu propia biblioteca de fondos de pantalla"
+},
+"better_shares": {
+"message": "Haz clic, comparte con tus amigos"
+},
+"better_save": {
+"message": "Agregar a los favoritos"
+},
+"better_remove": {
+"message": "Remover de favoritos"
+},
+"share_tip": {
+"message": "Agregado a favoritos con éxito, también puede compartir esta extensión a:"
+},
+"login": {
+"message": "Necesita iniciar sesión en"
+}
+}

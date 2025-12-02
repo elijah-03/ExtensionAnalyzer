@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "약"
+},
+"background": {
+"message": "배경"
+},
+"better_click": {
+"message": "그것을 클릭하고 배경 변경"
+},
+"better_down": {
+"message": "현재 배경 화면 다운로드"
+},
+"better_fb": {
+"message": "Facebook에 공유"
+},
+"better_google": {
+"message": "Google+에 공유"
+},
+"better_memu": {
+"message": "설정 메뉴 표시"
+},
+"better_pin": {
+"message": "현재 배경 화면을 고정 할 수 있습니다."
+},
+"better_pinned": {
+"message": "현재 배경 화면을 고정했습니다."
+},
+"better_print": {
+"message": "Pinterest에 공유"
+},
+"better_qq": {
+"message": "QQ 존에 공유"
+},
+"better_sina": {
+"message": "시나 공유"
+},
+"better_start": {
+"message": "진격의 거인 새 탭"
+},
+"better_twitter": {
+"message": "Twitter에 공유"
+},
+"color": {
+"message": "솔리드 컬러"
+},
+"extDescription": {
+"message": "Google ™ 이미지에서 배경 화면을 자동으로 업데이트하거나 배경 화면을 검색하여 Chrome의 새 탭 페이지를 맞춤 설정할 수 있습니다."
+},
+"extName": {
+"message": "진격의 거인 새 탭, 사용자 정의 배경 화면 HD"
+},
+"fivestar1": {
+"message": "진격의 거인 New Tab을 좋아합니까?"
+},
+"fivestar2": {
+"message": "Chrome 스토어에 대한 좋은 리뷰를 보내주세요."
+},
+"image": {
+"message": "로컬 이미지"
+},
+"library": {
+"message": "라이브러리에서 업데이트"
+},
+"no": {
+"message": "아니"
+},
+"not_now": {
+"message": "지금은 안된다."
+},
+"pinned_confirm": {
+"message": "현재 배경 화면을 고정했습니다. 업데이트 하시겠습니까?"
+},
+"search": {
+"message": "수색"
+},
+"setting": {
+"message": "설정"
+},
+"share": {
+"message": "친구와 공유하기"
+},
+"upload": {
+"message": "업로드"
+},
+"visit": {
+"message": "가장 많이 방문한"
+},
+"yes": {
+"message": "예"
+},
+"today": {
+"message": "오늘"
+},
+"mon": {
+"message": "월요일"
+},
+"tue": {
+"message": "화요일"
+},
+"wed": {
+"message": "수요일"
+},
+"thu": {
+"message": "목요일"
+},
+"fri": {
+"message": "금요일"
+},
+"sat": {
+"message": "토요일"
+},
+"sun": {
+"message": "일요일"
+},
+"upload_tip": {
+"message": "업로드 된 이미지 크기가 너무 큽니다!"
+},
+"upload_close": {
+"message": "닫기"
+},
+"unkownLocation": {
+"message": "알 수없는 위치"
+},
+"frequent": {
+"message": "업데이트 빈도"
+},
+"fre_pin": {
+"message": "현재 배경을 고정하려면"
+},
+"fre_never": {
+"message": "못"
+},
+"fre_min": {
+"message": "매 순간"
+},
+"fre_hour": {
+"message": "매시간"
+},
+"fre_day": {
+"message": "매일"
+},
+"search_tip1": {
+"message": "너는 들어갈 것이다."
+},
+"search_tip2": {
+"message": "수색"
+},
+"history1": {
+"message": "가장 많이 방문한 사이트 표시"
+},
+"history2": {
+"message": "설정에서 대부분의 방문 웹 사이트를 복원 할 수 있습니다."
+},
+"weather": {
+"message": "일기 예보 표시"
+},
+"self_add": {
+"message": "당신이 그것을 추가했습니다."
+},
+"self_travel": {
+"message": "나만의 배경 화면 라이브러리를 구축하기위한 키워드 입력"
+},
+"self_search": {
+"message": "수색"
+},
+"self_load": {
+"message": "로드 됨"
+},
+"self_scroll": {
+"message": "더 많이로드하려면 아래로 스크롤하십시오."
+},
+"self_customize": {
+"message": "라이브러리 사용자 정의"
+},
+"self_selected": {
+"message": "선택된"
+},
+"self_finish": {
+"message": "배경 화면 라이브러리 만들기"
+},
+"self_allow": {
+"message": "다른 사용자가이 라이브러리를 사용하도록 허용"
+},
+"recommend1": {
+"message": "미술"
+},
+"recommend2": {
+"message": "애정"
+},
+"recommend3": {
+"message": "바닷가"
+},
+"recommend4": {
+"message": "늑대"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "고양이"
+},
+"recommend7": {
+"message": "만화"
+},
+"Customize_Library": {
+"message": "라이브러리 사용자 정의"
+},
+"wallpapers": {
+"message": "바탕 화면"
+},
+"delete": {
+"message": "삭제 하시겠습니까?"
+},
+"wordpress_title": {
+"message": "사용자 지정 바탕 화면 HD 테마 - 진격의 거인 새 탭"
+},
+"wordpress_get": {
+"message": "내 크롬에 대한이 테마 가져 오기"
+},
+"better_customized": {
+"message": "나만의 배경 화면 라이브러리 만들기"
+},
+"better_shares": {
+"message": "그것을 클릭하고 친구와 공유하십시오."
+},
+"better_save": {
+"message": "즐겨 찾기에 추가"
+},
+"better_remove": {
+"message": "즐겨 찾기에서 삭제하기"
+},
+"share_tip": {
+"message": "즐겨 찾기에 추가되었으므로이 확장 프로그램을 다음과 공유 할 수도 있습니다."
+},
+"login": {
+"message": "에서 로그인해야합니다."
+}
+}

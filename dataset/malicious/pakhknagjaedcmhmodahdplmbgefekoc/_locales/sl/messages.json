@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "O podjetju"
+},
+"background": {
+"message": "Ozadje"
+},
+"better_click": {
+"message": "Kliknite, spremenite ozadje"
+},
+"better_down": {
+"message": "Prenesite trenutno ozadje"
+},
+"better_fb": {
+"message": "Delite na Facebook"
+},
+"better_google": {
+"message": "Dajte v skupno rabo v storitvi Google+"
+},
+"better_memu": {
+"message": "Pokaži nastavitve"
+},
+"better_pin": {
+"message": "Trenutne ozadje lahko pripnete"
+},
+"better_pinned": {
+"message": "Namestili ste trenutno ozadje"
+},
+"better_print": {
+"message": "Dajte v skupno rabo Pinterest"
+},
+"better_qq": {
+"message": "Dajte v skupno rabo z območjem QQ"
+},
+"better_sina": {
+"message": "Dajte v Sino"
+},
+"better_start": {
+"message": "Attack on Titan nov zavihek"
+},
+"better_twitter": {
+"message": "Delite z Twitterjem"
+},
+"color": {
+"message": "Solidna barva"
+},
+"extDescription": {
+"message": "Samodejno posodabljanje ozadij ali iskanje ozadij iz slik Google ™, da prilagodite novo stran z zavihki Chrome."
+},
+"extName": {
+"message": "Attack on Titan nov zavihek, prilagojena ozadja HD"
+},
+"fivestar1": {
+"message": "Ali vam je všeč Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Dober pregled v trgovini Chrome."
+},
+"image": {
+"message": "Lokalna slika"
+},
+"library": {
+"message": "Posodobitev iz knjižnice"
+},
+"no": {
+"message": "NE"
+},
+"not_now": {
+"message": "Ne zdaj"
+},
+"pinned_confirm": {
+"message": "Ste pripeti trenutno ozadje, ali ste prepričani, da ga posodobite?"
+},
+"search": {
+"message": "Iskanje"
+},
+"setting": {
+"message": "nastavitve"
+},
+"share": {
+"message": "Dajte v skupno rabo prijateljem"
+},
+"upload": {
+"message": "Naloži"
+},
+"visit": {
+"message": "Najbolj obiskan"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "Danes"
+},
+"mon": {
+"message": "Ponedeljek"
+},
+"tue": {
+"message": "Torek"
+},
+"wed": {
+"message": "Sreda"
+},
+"thu": {
+"message": "Četrtek"
+},
+"fri": {
+"message": "Petek"
+},
+"sat": {
+"message": "Sobota"
+},
+"sun": {
+"message": "Nedelja"
+},
+"upload_tip": {
+"message": "Naložena velikost slike je prevelika!"
+},
+"upload_close": {
+"message": "Zapri"
+},
+"unkownLocation": {
+"message": "Neznana lokacija"
+},
+"frequent": {
+"message": "Posodobi frekvenco"
+},
+"fre_pin": {
+"message": "Za pripenjanje trenutnega ozadja"
+},
+"fre_never": {
+"message": "Nikoli"
+},
+"fre_min": {
+"message": "Vsak minuto"
+},
+"fre_hour": {
+"message": "Vsako uro"
+},
+"fre_day": {
+"message": "Vsak dan"
+},
+"search_tip1": {
+"message": "Vnesli boste"
+},
+"search_tip2": {
+"message": "Iskanje"
+},
+"history1": {
+"message": "Prikaži najbolj obiskane strani"
+},
+"history2": {
+"message": "V nastavitvah lahko obiščete najbolj obiskane spletne strani."
+},
+"weather": {
+"message": "Prikaži vremensko napoved"
+},
+"self_add": {
+"message": "Dodali ste jo."
+},
+"self_travel": {
+"message": "Vnesite ključne besede, če želite zgraditi lastno knjižnico ozadij"
+},
+"self_search": {
+"message": "Iskanje"
+},
+"self_load": {
+"message": "Naložili ste"
+},
+"self_scroll": {
+"message": "pomaknite se navzdol, če želite naložiti več."
+},
+"self_customize": {
+"message": "Prilagodite knjižnico"
+},
+"self_selected": {
+"message": "izbran"
+},
+"self_finish": {
+"message": "Ustvarite knjižnico ozadij"
+},
+"self_allow": {
+"message": "Dovoli drugim uporabljati to knjižnico"
+},
+"recommend1": {
+"message": "Umetnost"
+},
+"recommend2": {
+"message": "Ljubezen"
+},
+"recommend3": {
+"message": "Plaža"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Mačka"
+},
+"recommend7": {
+"message": "Crta"
+},
+"Customize_Library": {
+"message": "Prilagodite knjižnico"
+},
+"wallpapers": {
+"message": "ozadja"
+},
+"delete": {
+"message": "Ali ste prepričani, da ga izbrišete?"
+},
+"wordpress_title": {
+"message": "Prilagojene Wallpaper teme HD-Attack on Titan nov zavihek"
+},
+"wordpress_get": {
+"message": "Prenesite to temo za moj krom"
+},
+"better_customized": {
+"message": "Zgradite lastno knjižnico ozadij"
+},
+"better_shares": {
+"message": "Kliknite to, delite svojim prijateljem"
+},
+"better_save": {
+"message": "Dodaj med priljubljene"
+},
+"better_remove": {
+"message": "Odstrani iz priljubljenih"
+},
+"share_tip": {
+"message": "Ta dodatek lahko delite tudi z naslednjim:"
+},
+"login": {
+"message": "Potrebujete prijavo v"
+}
+}

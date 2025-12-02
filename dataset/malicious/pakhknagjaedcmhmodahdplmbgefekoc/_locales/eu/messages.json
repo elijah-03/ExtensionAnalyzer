@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "About"
+},
+"background": {
+"message": "Aurrekariak"
+},
+"better_click": {
+"message": "Egin klik, aldatu Aurrekariak"
+},
+"better_down": {
+"message": "Deskargatu egungo horma-papera"
+},
+"better_fb": {
+"message": "Partekatu Facebook-en"
+},
+"better_google": {
+"message": "Partekatu Google + en"
+},
+"better_memu": {
+"message": "Erakutsi ezarpenen menua"
+},
+"better_pin": {
+"message": "Uneko horma-papera alda dezakezu"
+},
+"better_pinned": {
+"message": "Uneko horma-papera ezarri duzu"
+},
+"better_print": {
+"message": "Partekatu ezazu Pinterest-era"
+},
+"better_qq": {
+"message": "Share to QQ Zone"
+},
+"better_sina": {
+"message": "Partekatu Sina"
+},
+"better_start": {
+"message": "Attack on Titan fitxa berria"
+},
+"better_twitter": {
+"message": "Partekatu Twitter-en"
+},
+"color": {
+"message": "Kolore solidoa"
+},
+"extDescription": {
+"message": "Eguneratu automatikoki horma-papera edo Google ™ Irudien bilaketa-horma pertsonalizatuak zure Chrome-ko fitxa fitxa berria pertsonalizatzeko."
+},
+"extName": {
+"message": "Attack on Titan New Tab, Pertsonalizatutako HD Wallpaper"
+},
+"fivestar1": {
+"message": "Attack on Titan New Tab nahi al duzu?"
+},
+"fivestar2": {
+"message": "Eman berrikuspen ona Chrome Dendan."
+},
+"image": {
+"message": "Tokiko irudia"
+},
+"library": {
+"message": "Eguneratu Liburutegitik"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Orain ez"
+},
+"pinned_confirm": {
+"message": "Uneko horma-papera ezarri duzu, ziur zaude eguneratzeko?"
+},
+"search": {
+"message": "Search"
+},
+"setting": {
+"message": "ezarpenak"
+},
+"share": {
+"message": "Partekatu lagunekin"
+},
+"upload": {
+"message": "Upload"
+},
+"visit": {
+"message": "Gehien bisitatua"
+},
+"yes": {
+"message": "Bai"
+},
+"today": {
+"message": "gaur"
+},
+"mon": {
+"message": "Astelehena"
+},
+"tue": {
+"message": "Asteartea"
+},
+"wed": {
+"message": "Asteazkena"
+},
+"thu": {
+"message": "Osteguna"
+},
+"fri": {
+"message": "Ostirala"
+},
+"sat": {
+"message": "Larunbata"
+},
+"sun": {
+"message": "Igandea"
+},
+"upload_tip": {
+"message": "Kargatutako irudiaren tamaina handiegia da!"
+},
+"upload_close": {
+"message": "Itxi"
+},
+"unkownLocation": {
+"message": "Kokapen ezezaguna"
+},
+"frequent": {
+"message": "Eguneratu maiztasuna"
+},
+"fre_pin": {
+"message": "Uneko atzeko planoaren pinua"
+},
+"fre_never": {
+"message": "Inoiz ez"
+},
+"fre_min": {
+"message": "Minutu bakoitza"
+},
+"fre_hour": {
+"message": "Ordu bakoitza"
+},
+"fre_day": {
+"message": "Egunero"
+},
+"search_tip1": {
+"message": "Sartuko zara"
+},
+"search_tip2": {
+"message": "bilaketa"
+},
+"history1": {
+"message": "Erakutsi gehien bisitatutako guneak"
+},
+"history2": {
+"message": "Gehien bisitatutako webguneak ezarpenetan leheneratu ditzakezu."
+},
+"weather": {
+"message": "Erakutsi eguraldiaren iragarpena"
+},
+"self_add": {
+"message": "Gehitu duzu."
+},
+"self_travel": {
+"message": "Idatzi gako-hitzak zure horma-paperetarako liburutegia eraikitzeko"
+},
+"self_search": {
+"message": "bilaketa"
+},
+"self_load": {
+"message": "Kargatu dute"
+},
+"self_scroll": {
+"message": "Joan behera kargatzeko gehiago kargatzeko."
+},
+"self_customize": {
+"message": "Pertsonalizatu liburutegia"
+},
+"self_selected": {
+"message": "hautatutako"
+},
+"self_finish": {
+"message": "Eraiki wallpapers liburutegia"
+},
+"self_allow": {
+"message": "Onartu besteek liburutegi hau erabiltzeko"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "love"
+},
+"recommend3": {
+"message": "Beach"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Cat"
+},
+"recommend7": {
+"message": "Marrazki bizidunak"
+},
+"Customize_Library": {
+"message": "Pertsonalizatu liburutegia"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Ziur al zaude ezabatu nahi duzula?"
+},
+"wordpress_title": {
+"message": "Pertsonalizatutako Wallpaper HD Themes-Attack on Titan New Tab"
+},
+"wordpress_get": {
+"message": "Lortu gai hau nire chrome-ra"
+},
+"better_customized": {
+"message": "Sortu zeure horma-papera liburutegia"
+},
+"better_shares": {
+"message": "Egin klik, partekatu lagunekin"
+},
+"better_save": {
+"message": "Gehitu gogokoetan"
+},
+"better_remove": {
+"message": "Kendu gogokoetatik"
+},
+"share_tip": {
+"message": "Gogokoak behar bezala gehituta, luzapen hau ere parteka dezakezu:"
+},
+"login": {
+"message": "Saio hasi behar duzu"
+}
+}

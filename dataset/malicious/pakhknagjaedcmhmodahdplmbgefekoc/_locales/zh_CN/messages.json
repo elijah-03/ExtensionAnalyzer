@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "关于"
+},
+"background": {
+"message": "背景"
+},
+"better_click": {
+"message": "点击它，更改背景"
+},
+"better_down": {
+"message": "下载当前壁纸"
+},
+"better_fb": {
+"message": "分享至Facebook"
+},
+"better_google": {
+"message": "分享到Google+"
+},
+"better_memu": {
+"message": "显示设置菜单"
+},
+"better_pin": {
+"message": "你可以钉住当前壁纸"
+},
+"better_pinned": {
+"message": "你已经固定当前壁纸"
+},
+"better_print": {
+"message": "分享到Pinterest"
+},
+"better_qq": {
+"message": "分享到QQ区"
+},
+"better_sina": {
+"message": "分享到新浪"
+},
+"better_start": {
+"message": "进击的巨人新标签"
+},
+"better_twitter": {
+"message": "分享到Twitter"
+},
+"color": {
+"message": "纯色"
+},
+"extDescription": {
+"message": "自动更新壁纸或从Google™图片搜索壁纸来自定义您的Chrome新标签页。"
+},
+"extName": {
+"message": "进击的巨人新标签，定制壁纸HD"
+},
+"fivestar1": {
+"message": "你喜欢进击的巨人 New Tab吗？"
+},
+"fivestar2": {
+"message": "请给我们一个很好的评论在Chrome商店。"
+},
+"image": {
+"message": "本地图像"
+},
+"library": {
+"message": "从库更新"
+},
+"no": {
+"message": "没有"
+},
+"not_now": {
+"message": "不是现在"
+},
+"pinned_confirm": {
+"message": "你固定当前壁纸，你确定要更新它吗？"
+},
+"search": {
+"message": "搜索"
+},
+"setting": {
+"message": "设置"
+},
+"share": {
+"message": "分享给你的朋友"
+},
+"upload": {
+"message": "上传"
+},
+"visit": {
+"message": "访问最多的站点"
+},
+"yes": {
+"message": "是"
+},
+"today": {
+"message": "今天"
+},
+"mon": {
+"message": "星期一"
+},
+"tue": {
+"message": "星期二"
+},
+"wed": {
+"message": "星期三"
+},
+"thu": {
+"message": "星期四"
+},
+"fri": {
+"message": "星期五"
+},
+"sat": {
+"message": "星期六"
+},
+"sun": {
+"message": "星期日"
+},
+"upload_tip": {
+"message": "上传的图片尺寸太大！"
+},
+"upload_close": {
+"message": "关"
+},
+"unkownLocation": {
+"message": "未知位置"
+},
+"frequent": {
+"message": "更新频率"
+},
+"fre_pin": {
+"message": "钉住当前背景"
+},
+"fre_never": {
+"message": "决不"
+},
+"fre_min": {
+"message": "每一分钟"
+},
+"fre_hour": {
+"message": "每隔一小时"
+},
+"fre_day": {
+"message": "每天"
+},
+"search_tip1": {
+"message": "你将进入"
+},
+"search_tip2": {
+"message": "搜索"
+},
+"history1": {
+"message": "显示访问量最高的网站"
+},
+"history2": {
+"message": "您可以在设置中恢复访问量最大的网站。"
+},
+"weather": {
+"message": "显示天气预报"
+},
+"self_add": {
+"message": "你已经添加了它。"
+},
+"self_travel": {
+"message": "输入关键字来建立你自己的壁纸库"
+},
+"self_search": {
+"message": "搜索"
+},
+"self_load": {
+"message": "已经加载"
+},
+"self_scroll": {
+"message": "向下滚动以加载更多。"
+},
+"self_customize": {
+"message": "自定义库"
+},
+"self_selected": {
+"message": "选"
+},
+"self_finish": {
+"message": "构建壁纸库"
+},
+"self_allow": {
+"message": "允许他人使用这个库"
+},
+"recommend1": {
+"message": "艺术"
+},
+"recommend2": {
+"message": "爱"
+},
+"recommend3": {
+"message": "海滩"
+},
+"recommend4": {
+"message": "狼"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "猫"
+},
+"recommend7": {
+"message": "动画片"
+},
+"Customize_Library": {
+"message": "自定义库"
+},
+"wallpapers": {
+"message": "壁纸"
+},
+"delete": {
+"message": "你确定要删除它吗？"
+},
+"wordpress_title": {
+"message": "定制壁纸高清主题-进击的巨人新标签"
+},
+"wordpress_get": {
+"message": "获取我的铬合金的这个主题"
+},
+"better_customized": {
+"message": "建立你自己的壁纸库"
+},
+"better_shares": {
+"message": "点击它，分享给你的朋友"
+},
+"better_save": {
+"message": "添加到收藏夹"
+},
+"better_remove": {
+"message": "从收藏夹中删除"
+},
+"share_tip": {
+"message": "成功添加到收藏夹，您也可以将此扩展程序分享到："
+},
+"login": {
+"message": "您需要登录"
+}
+}

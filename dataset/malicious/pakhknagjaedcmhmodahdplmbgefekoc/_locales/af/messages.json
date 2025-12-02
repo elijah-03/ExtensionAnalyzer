@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "oor"
+},
+"background": {
+"message": "agtergrond"
+},
+"better_click": {
+"message": "Klik dit, Verander agtergrond"
+},
+"better_down": {
+"message": "Laai huidige plakpapier af"
+},
+"better_fb": {
+"message": "Deel op Facebook"
+},
+"better_google": {
+"message": "Deel na Google+"
+},
+"better_memu": {
+"message": "Wys instellings kieslys"
+},
+"better_pin": {
+"message": "Jy kan die huidige plakpapier pen"
+},
+"better_pinned": {
+"message": "Jy het die huidige plakpapier vasgelê"
+},
+"better_print": {
+"message": "Deel aan Pinterest"
+},
+"better_qq": {
+"message": "Deel na QQ Sone"
+},
+"better_sina": {
+"message": "Deel aan Sina"
+},
+"better_start": {
+"message": "Attack on Titan Nuwe Tab"
+},
+"better_twitter": {
+"message": "Deel aan Twitter"
+},
+"color": {
+"message": "Soliede kleur"
+},
+"extDescription": {
+"message": "Outomatiseer agtergrondpapier of soek agtergronde van Google ™ Beelde om jou Chrome-nuwe bladbladsy aan te pas."
+},
+"extName": {
+"message": "Attack on Titan Nuwe Tab, Wallpapers HD"
+},
+"fivestar1": {
+"message": "Hou jy van Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Gee asseblief vir ons 'n goeie resensie op Chrome Winkel."
+},
+"image": {
+"message": "Plaaslike beeld"
+},
+"library": {
+"message": "Werk vanaf Biblioteek"
+},
+"no": {
+"message": "GEEN"
+},
+"not_now": {
+"message": "Nie nou nie"
+},
+"pinned_confirm": {
+"message": "Jy het die huidige plakpapier vasgemaak, is jy seker om dit op te dateer?"
+},
+"search": {
+"message": "Soek"
+},
+"setting": {
+"message": "instellings"
+},
+"share": {
+"message": "Deel aan jou vriende"
+},
+"upload": {
+"message": "oplaai"
+},
+"visit": {
+"message": "Mees besoek"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "vandag"
+},
+"mon": {
+"message": "Maandag"
+},
+"tue": {
+"message": "Dinsdag"
+},
+"wed": {
+"message": "Woensdag"
+},
+"thu": {
+"message": "Donderdag"
+},
+"fri": {
+"message": "Vrydag"
+},
+"sat": {
+"message": "Saterdag"
+},
+"sun": {
+"message": "Sondag"
+},
+"upload_tip": {
+"message": "Die opgelaaide beeldgrootte is te groot!"
+},
+"upload_close": {
+"message": "Naby"
+},
+"unkownLocation": {
+"message": "Onbekende Plek"
+},
+"frequent": {
+"message": "Werk frekwensie"
+},
+"fre_pin": {
+"message": "Om huidige agtergrond te speld"
+},
+"fre_never": {
+"message": "nooit"
+},
+"fre_min": {
+"message": "Elke minuut"
+},
+"fre_hour": {
+"message": "Elke uur"
+},
+"fre_day": {
+"message": "Elke dag"
+},
+"search_tip1": {
+"message": "Jy sal binnekom"
+},
+"search_tip2": {
+"message": "Soek"
+},
+"history1": {
+"message": "Wys mees besoekte webwerwe"
+},
+"history2": {
+"message": "U kan die mees besoekte webwerwe in instellings herstel."
+},
+"weather": {
+"message": "Wys die weervoorspelling"
+},
+"self_add": {
+"message": "Jy het dit bygevoeg."
+},
+"self_travel": {
+"message": "Invoer sleutelwoorde om jou eie wallpapers biblioteek te bou"
+},
+"self_search": {
+"message": "Soek"
+},
+"self_load": {
+"message": "Het gelaai"
+},
+"self_scroll": {
+"message": "blaai af om meer te laai."
+},
+"self_customize": {
+"message": "Pas biblioteek aan"
+},
+"self_selected": {
+"message": "gekies"
+},
+"self_finish": {
+"message": "Bou wallpapers biblioteek"
+},
+"self_allow": {
+"message": "Laat ander toe om hierdie biblioteek te gebruik"
+},
+"recommend1": {
+"message": "Art"
+},
+"recommend2": {
+"message": "lief"
+},
+"recommend3": {
+"message": "strand"
+},
+"recommend4": {
+"message": "Wolf"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kat"
+},
+"recommend7": {
+"message": "cartoon"
+},
+"Customize_Library": {
+"message": "Pas biblioteek aan"
+},
+"wallpapers": {
+"message": "agtergronde"
+},
+"delete": {
+"message": "Is jy seker om dit uit te vee?"
+},
+"wordpress_title": {
+"message": "Gepasmaakte Wallpaper HD Temas-Attack on Titan Nuwe Tab"
+},
+"wordpress_get": {
+"message": "Kry hierdie tema vir my chroom"
+},
+"better_customized": {
+"message": "Bou jou eie wallpapers biblioteek"
+},
+"better_shares": {
+"message": "Klik dit, deel aan jou vriende"
+},
+"better_save": {
+"message": "Voeg by gunstelinge"
+},
+"better_remove": {
+"message": "Verwyder uit gunstelinge"
+},
+"share_tip": {
+"message": "Bygevoeg aan gunsteling suksesvol, kan jy hierdie uitbreiding ook deel aan:"
+},
+"login": {
+"message": "Jy benodig login"
+}
+}

@@ -1,0 +1,1 @@
+try{importScripts("/quillbot-sw.js")}catch(t){}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link href="lib/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="skin/popup.css">
+</head>
+<body class="nohtml" tabindex="1">
+  <div class="custom-control custom-switch custom-switch-md checkbox" style="position: absolute; left: 221px; top: 17px;">
+    <input id="adblock-switch" type="checkbox" class="custom-control-input adblock-status" checked>
+    <label class="custom-control-label" for="adblock-switch" style="padding-left: 0px;"></label>
+  </div>
+
+  <div class="wrapper">
+    <img id="logo" src="icons/popup-logo.png">
+    <span id="sitename">website.com</span>
+    <div class="ad-status">Adburner: Enabled</div>
+    <div class="stats-wrapper">
+      <div id="stats">
+        <span id="blocked-text">Blocked: <span id="stats-page">0</span> </span>
+        <span id="total-text">Total: <span id="stats-total">0</span> </span>
+      </div>
+      <div>
+        <button id="refresh"><i style="font-size: 16px; color: #F40B0B; margin-right: 6px;" class="fa fa-refresh" aria-hidden="true"></i>  Refresh page</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="lib/jquery/jquery.js"></script>
+  <script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="polyfill.js"></script>
+  <script src="ext/common.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

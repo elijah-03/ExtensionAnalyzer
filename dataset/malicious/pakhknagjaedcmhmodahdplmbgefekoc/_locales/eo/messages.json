@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Pri"
+},
+"background": {
+"message": "Fono"
+},
+"better_click": {
+"message": "Alklaku ĝin, Ŝanĝi Fonaĵon"
+},
+"better_down": {
+"message": "Elŝutu la nunan ekranon"
+},
+"better_fb": {
+"message": "Kunhavigi Facebook"
+},
+"better_google": {
+"message": "Kunhavigi al Google+"
+},
+"better_memu": {
+"message": "Montri agordojn menuo"
+},
+"better_pin": {
+"message": "Vi povas pinĉi la nunan ekranon"
+},
+"better_pinned": {
+"message": "Vi kovris la nunan ekranon"
+},
+"better_print": {
+"message": "Kunhavigi al Pinterest"
+},
+"better_qq": {
+"message": "Kunhavigi QQ-Zonon"
+},
+"better_sina": {
+"message": "Kunhavigi al Sina"
+},
+"better_start": {
+"message": "Attack on Titan Nova Tab"
+},
+"better_twitter": {
+"message": "Konigi al Twitter"
+},
+"color": {
+"message": "Solida Koloro"
+},
+"extDescription": {
+"message": "Aŭtomata ĝisdatigo de wallpapers aŭ serĉu paĝojn de Google ™ Bildoj por personecigi vian novan langeton."
+},
+"extName": {
+"message": "Attack on Titan Nova Tab, Agordita Wallpapers HD"
+},
+"fivestar1": {
+"message": "Ĉu vi ŝatas Attack on Titan Nova Tab?"
+},
+"fivestar2": {
+"message": "Bonvolu doni al ni bonan revizion pri Chrome Store."
+},
+"image": {
+"message": "Loka bildo"
+},
+"library": {
+"message": "Ĝisdatigo de Biblioteko"
+},
+"no": {
+"message": "NO"
+},
+"not_now": {
+"message": "Ne nun"
+},
+"pinned_confirm": {
+"message": "Vi kovris la nunan ekranon, ĉu vi certas ĝisdatigi ĝin?"
+},
+"search": {
+"message": "Serĉi"
+},
+"setting": {
+"message": "agordojn"
+},
+"share": {
+"message": "Kunhavu viajn amikojn"
+},
+"upload": {
+"message": "Alŝuti"
+},
+"visit": {
+"message": "Plej vizititaj"
+},
+"yes": {
+"message": "Jes"
+},
+"today": {
+"message": "Hodiaŭ"
+},
+"mon": {
+"message": "Lundo"
+},
+"tue": {
+"message": "Mardo"
+},
+"wed": {
+"message": "Merkredo"
+},
+"thu": {
+"message": "Ĵaŭdo"
+},
+"fri": {
+"message": "Vendredo"
+},
+"sat": {
+"message": "Sabato"
+},
+"sun": {
+"message": "dimanĉo"
+},
+"upload_tip": {
+"message": "La alŝutita bildo grandeco estas tro granda!"
+},
+"upload_close": {
+"message": "Fermi"
+},
+"unkownLocation": {
+"message": "Nekonata Loko"
+},
+"frequent": {
+"message": "Ĝisdatigu Oftecon"
+},
+"fre_pin": {
+"message": "Pingli nunan fonon"
+},
+"fre_never": {
+"message": "Neniam"
+},
+"fre_min": {
+"message": "Ĉiu Minuto"
+},
+"fre_hour": {
+"message": "Ĉiu Horo"
+},
+"fre_day": {
+"message": "Ĉiutage"
+},
+"search_tip1": {
+"message": "Vi eniros"
+},
+"search_tip2": {
+"message": "serĉi"
+},
+"history1": {
+"message": "Montru plej vizititajn ejojn"
+},
+"history2": {
+"message": "Vi povas restarigi plej vizititajn retejojn en agordoj."
+},
+"weather": {
+"message": "Montri la veterprezenton"
+},
+"self_add": {
+"message": "Vi aldonis ĝin."
+},
+"self_travel": {
+"message": "Enmeti ŝlosilvortojn por konstrui vian propran wallpapers-bibliotekon"
+},
+"self_search": {
+"message": "serĉi"
+},
+"self_load": {
+"message": "Ŝarĝis"
+},
+"self_scroll": {
+"message": "voluta malsupren por ŝarĝi pli."
+},
+"self_customize": {
+"message": "Agordu la bibliotekon"
+},
+"self_selected": {
+"message": "elektita"
+},
+"self_finish": {
+"message": "Konstruu wallpapers-bibliotekon"
+},
+"self_allow": {
+"message": "Permesu al aliaj uzi ĉi tiun bibliotekon"
+},
+"recommend1": {
+"message": "Arto"
+},
+"recommend2": {
+"message": "Amo"
+},
+"recommend3": {
+"message": "Strando"
+},
+"recommend4": {
+"message": "Lupo"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Kato"
+},
+"recommend7": {
+"message": "Karikaturo"
+},
+"Customize_Library": {
+"message": "Agordu la bibliotekon"
+},
+"wallpapers": {
+"message": "wallpapers"
+},
+"delete": {
+"message": "Ĉu vi certas forigi ĝin?"
+},
+"wordpress_title": {
+"message": "Agordita Wallpaper HD Temoj-Attack on Titan Nova Tab"
+},
+"wordpress_get": {
+"message": "Akiru ĉi tiun temon por mia chrome"
+},
+"better_customized": {
+"message": "Konstruu vian propran wallpapers-bibliotekon"
+},
+"better_shares": {
+"message": "Alklaku ĝin, dividu al viaj amikoj"
+},
+"better_save": {
+"message": "Aldoni al favoritos"
+},
+"better_remove": {
+"message": "Forigi de favoritos"
+},
+"share_tip": {
+"message": "Aldonita al favorito sukcese, vi ankaŭ povas dividi ĉi tiun etendon al:"
+},
+"login": {
+"message": "Vi devas ensaluti"
+}
+}

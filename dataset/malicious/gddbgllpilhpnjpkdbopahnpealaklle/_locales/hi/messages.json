@@ -1,0 +1,260 @@
+{
+  "extName": {
+    "message": "वीडियो डाउनलोडर - कोकोकट"
+  },
+  "extDescription": {
+    "message": "सर्वश्रेष्ठ वीडियो डाउनलोडर क्रोम एक्सटेंशन, यह वीडियो डाउनलोडर क्रोम के लिए एक क्लिक में वीडियो, संगीत मुफ्त, सुरक्षित डाउनलोड कर सकता है।"
+  },
+  "TnoResource": {
+    "message": "कोई फ़ाइल नहीं मिली!"
+  },
+  "TdownSelected": {
+    "message": "चयनित डाउनलोड करें"
+  },
+  "TcopySelected": {
+    "message": "चयनित कॉपी करें"
+  },
+  "TselectAll": {
+    "message": "सभी का चयन करें"
+  },
+  "TrevSelected": {
+    "message": "उलटा चयन"
+  },
+  "TtryHlsLabel": {
+    "message": "डाउनलोड करने में परेशानी हो रही है या कोई फ़ाइल नहीं मिली?"
+  },
+  "TtryHls": {
+    "message": "डाउनलोड करने के लिए बल दें"
+  },
+  "TryHlsDesc": {
+    "message": "Cococut वीडियो को डाउनलोड या रिकॉर्ड करने की कोशिश करेगा। जब वर्तमान वेबपेज वीडियो स्निफ नहीं किया जाता है या डाउनलोड करना मुश्किल होता है, तो आप मुझे क्लिक करके कोशिश कर सकते हैं।"
+  },
+  "Tm3u8": {
+    "message": "m3u8 डाउनलोड करें"
+  },
+  "Tplay": {
+    "message": "चलाएँ"
+  },
+  "TtryPlay": {
+    "message": "प्ले करने की कोशिश करें"
+  },
+  "TpopM3u8Des": {
+    "message": "धारा"
+  },
+  "Tdownload": {
+    "message": "डाउनलोड"
+  },
+  "Tcopy": {
+    "message": "URL कॉपी करें"
+  },
+  "TtempntcInfoCopied": {
+    "message": "कॉपी किया गया!"
+  },
+  "TCloseBtn": {
+    "message": "बंद करें"
+  },
+  "TpopNotSupport": {
+    "message": "क्षमा करें, लेकिन हम इस वेबपेज का समर्थन नहीं करते हैं।"
+  },
+  "TpopNotSuppWhy": {
+    "message": "जानने और संभव समाधान देखने के लिए मुझे क्लिक करें।"
+  },
+  "TpopOptionBtn": {
+    "message": "डाउनलोड सेटिंग्स"
+  },
+  "TpopQuestionBtn": {
+    "message": "प्रतिक्रिया और पूछे जाने वाले प्रश्न"
+  },
+  "TpopHomePageBtn": {
+    "message": "Cococut होमपेज"
+  },
+  "TpopYTDLdesc": {
+    "message": "यदि आप एक YouTube देखें पेज पर हैं, तो आप YouTube वीडियो डाउनलोड करने की कोशिश कर सकते हैं।"
+  },
+  "TpopYTDLdlIt": {
+    "message": "YouTube वीडियो डाउनलोड करने की कोशिश करें"
+  },
+  "TpopNeedPlayit": {
+    "message": "आपको वीडियो को पहले चलाने की आवश्यकता हो सकती है ताकि Cococut उसे खोज सके।"
+  },
+  "TpopNeedPlayit2": {
+    "message": "कुछ वीडियो डाउनलोड करने से पहले चलाने की आवश्यकता होती है। या आप \"बल दें डाउनलोड\" बटन पर क्लिक कर सकते हैं।"
+  },
+  "TpopBlockDomain": {
+    "message": "इस डोमेन से ब्लॉक फ़ाइलों को डाउनलोड सूची पर दिखाने से रोकें"
+  },
+  "TpopBlockedDomainNotify": {
+    "message": "नीचे दिए गए डोमेन से फ़ाइलें डाउनलोड सूची में नहीं दिखाई देंगी।"
+  },
+  "TpopTooManyFiles": {
+    "message": "बहुत सारी फ़ाइलें हैं जो दिखाई जानी हैं। आप दिखाई जाने वाली फ़ाइलों की संख्या को सेट कर सकते हैं "
+  },
+  "TdlmDownload": {
+    "message": "नई डाउनलोड प्रबंधन पृष्ठ खोलें और मल्टी-थ्रेड के साथ डाउनलोड करें (और इसे डिफ़ॉल्ट डाउनलोड विधि के रूप में सेट करें)।"
+  },
+  "TpopRealDlAddr": {
+    "message": "डाउनलोड लिंक प्राप्त करने के लिए प्रो सदस्य बनने के लिए मुझे क्लिक करें।"
+  },
+  "TcustomSetting": {
+    "message": "CocoCut सेटिंग्स"
+  },
+  "TcustomExt": {
+    "message": "कस्टम फ़ाइल एक्सटेंशन"
+  },
+  "TcustomExtDec": {
+    "message": "एक्सटेंशन भरें बिना \".\"। <br/>इस साइज से बड़ी फ़ाइलें क्रॉल होंगी। <br/>0 भरने से फ़ाइल का आकार देखते हुए क्रॉल किया जाएगा।<br/>यदि आप किसी विशिष्ट प्रकार की फ़ाइल को अनदेखा करना चाहते हैं, तो आप फ़ाइल के आकार सीमा को बड़े मूल्य से भर सकते हैं, जैसे 1000000000000।<br/>कुछ गैर-मीडिया संसाधन फ़ाइलें क्रॉल नहीं की जाएंगी।"
+  },
+  "TcustomTypeIgn": {
+    "message": "यदि आप किसी विशिष"
+  },
+  "TcustomShowCountOnIcon": {
+    "message": "CocoCut एक्सटेंशन आइकन पर फ़ाइलों की संख्या दिखाएं"
+  },
+  "TcustomExtNameEmpty": {
+    "message": "फ़ाइल एक्सटेंशन खाली नहीं हो सकता।"
+  },
+  "TcustomMineEmpty": {
+    "message": "MIME खाली नहीं हो सकता।"
+  },
+  "TcustomSaved": {
+    "message": "सहेजा गया"
+  },
+  "TcustomComfirmRest": {
+    "message": "रीसेट की पुष्टि करें? रीसेट करने के बाद आप अपनी पिछली सेटिंग सभी खो देंगे!"
+  },
+  "Tm3PageTile": {
+    "message": "m3u8 फ़ाइल का पार्सिंग"
+  },
+  "Tm3FileUri": {
+    "message": "m3u8 फ़ाइल URL"
+  },
+  "Tm3FileCount": {
+    "message": " फ़ाइलें"
+  },
+  "Tm3Des1": {
+    "message": "यदि पार्श किए गए ts फ़ाइल डाउनलोड नहीं की जा सकती हैं, तो कृपया UrlDecode डिकोडिंग का प्रयास करें।"
+  },
+  "Tm3Des2": {
+    "message": "Ffmpeg मर्ज ts फ़ाइल कमांड: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+  },
+  "Tm3Nextm3file": {
+    "message": "अगले स्तर m3u8 फ़ाइल का चयन करें"
+  },
+  "Tm3Nexm3Des": {
+    "message": "एक और m3u8 फ़ाइल m3u8 फ़ाइल में नेस्टेड है।"
+  },
+  "DownText": {
+    "message": "टेक्स्ट फ़ाइल के रूप में डाउनलोड करें"
+  },
+  "Text": {
+    "message": "टेक्स्ट फ़ॉर्मेट"
+  },
+  "Aria2Text": {
+    "message": "Aria2 फ़ॉर्मेट"
+  },
+  "WgetText": {
+    "message": "Wget फ़ॉर्मेट"
+  },
+  "UrlDecode": {
+    "message": "UrlDecode डिकोडिंग"
+  },
+  "Refresh": {
+    "message": "रीसेट"
+  },
+  "Tm3Key": {
+    "message": ", मीडिया फ़ाइल एन्क्रिप्टेड है, कृपया कुंजी फ़ाइल डाउनलोड करें।"
+  },
+  "TbadgetTitle": {
+    "message": "$1 मीडिया फ़ाइलें मिलीं।"
+  },
+  "TbgTryLater": {
+    "message": "क्षमा करें, डाउनलोडिंग अस्थायी रूप से अनुपलब्ध है। कृपया बाद में पुन: प्रयास करें या पृष्ठ को रीफ्रेश करने के बाद पुन: प्रयास करें।"
+  },
+  "TbgIsDownloading": {
+    "message": "इस पृष्ठ का मीडिया डाउनलोड हो रहा है।"
+  },
+  "Resolution": {
+    "message": "रिज़ॉल्यूशन"
+  },
+  "High_Resolution": {
+    "message": "उच्च रिज़ॉल्यूशन"
+  },
+  "Low_Resolution": {
+    "message": "कम रिज़ॉल्यूशन"
+  },
+  "Other_Resolutions": {
+    "message": "अन्य रिज़ॉल्यूशन"
+  },
+  "Tloading": {
+    "message": "लोड हो रहा है।"
+  },
+  "Tdone": {
+    "message": "हो गया।"
+  },
+  "TRecording": {
+    "message": "रिकॉर्ड हो रहा है।"
+  },
+  "TErrorNoAudio": {
+    "message": "क्षमा करें, कोई ऑडियो नहीं मिला।"
+  },
+  "TErrorFlushFail": {
+    "message": "क्षमा करें, वीडियो मर्ज नहीं किया जा सकता।"
+  },
+  "TErrorNoVideo": {
+    "message": "क्षमा करें, कोई वीडियो नहीं मिला। शायद आप रिकॉर्डिंग मोड की कोशिश कर सकते हैं।"
+  },
+  "TerrTryToRec": {
+    "message": "शायद आप <a href=\"javascript:void(0)\" id=\"errTryToRec\">रिकॉर्डिंग मोड</a> का एक प्रयास कर सकते हैं?"
+  },
+  "TwebmNotSupport": {
+    "message": "क्षमा करें, लेकिन webm फ़ॉर्मेट हमारी समर्थन सूची में नहीं है।"
+  },
+  "TerrDrmFound": {
+    "message": "क्षमा करें, लेकिन हम वीडियो को डाउनलोड नहीं कर सकते क्योंकि यह DRM (डिजिटल राइट्स मैनेजमेंट) द्वारा संरक्षित हो सकता है।"
+  },
+  "TerrNoIndexFile": {
+    "message": "क्षमा करें, लेकिन हम वीडियो फ़ाइलों के लिए इंडेक्स फ़ाइल डाउनलोड नहीं कर सकते।"
+  },
+  "TerrNoAvailableDownload": {
+    "message": "क्षमा करें, लेकिन हम कोई उपलब्ध वीडियो डाउनलोड नहीं कर सकते।"
+  },
+  "TerrResChoose": {
+    "message": "क्षमा करें, लेकिन वीडियो रिज़ॉल्यूशन का चयन करते समय हमें समस्या हुई है।"
+  },
+  "TerrFailDownload": {
+    "message": "फ़ाइल डाउनलोड करने में विफल।"
+  },
+  "TerrForbidden": {
+    "message": "HTTP स्थिति कोड: निषिद्ध।"
+  },
+  "TerrNotFound": {
+    "message": "HTTP स्थिति कोड: नहीं मिला।"
+  },
+  "TerrRequestTimeout": {
+    "message": "HTTP स्थिति कोड: अनुरोध समय समाप्त।"
+  },
+  "TerrItself": {
+    "message": "त्रुटि।"
+  },
+  "TtoFaq": {
+    "message": "समस्या को ठीक करने के लिए FAQ पर जाएं।"
+  },
+  "TNotice_itemsFound": {
+    "message": "<strong>$1</strong> आइटम मिला।"
+  },
+  "TContinueRec": {
+    "message": "रिकॉर्डिंग मोड जारी रखें?"
+  },
+  "TtryRecMode": {
+    "message": "डाउनलोड करने के लिए वीडियो नहीं मिला, शायद आप रिकॉर्डिंग मोड के साथ इसे करने की कोशिश कर सकते हैं?"
+  },
+  "TswichtRecMode": {
+    "message": "वीडियो रिकॉर्डिंग मोड में स्विच करें"
+  },
+  "TAudio": {
+    "message": "ऑडियो"
+  },
+  "warn_chunksize_excess": {
+    "message": "स्ट्रीम में फ्रेगमेंट की संख्या NUM_CHUNKS से अधिक है। कृपया तुरंत इस वीडियो को सहेजें और फिर से रिकॉर्डिंग करने की कोश"
+  }
+}

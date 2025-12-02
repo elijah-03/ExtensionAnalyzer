@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "Handle om"
+},
+"background": {
+"message": "Bakgrunn"
+},
+"better_click": {
+"message": "Klikk på den, Endre bakgrunn"
+},
+"better_down": {
+"message": "Last ned nåværende bakgrunnsbilde"
+},
+"better_fb": {
+"message": "Del på Facebook"
+},
+"better_google": {
+"message": "Del på Google+"
+},
+"better_memu": {
+"message": "Vis innstillingsmenyen"
+},
+"better_pin": {
+"message": "Du kan knytte det nåværende tapetet"
+},
+"better_pinned": {
+"message": "Du har festet det nåværende tapetet"
+},
+"better_print": {
+"message": "Del til Pinterest"
+},
+"better_qq": {
+"message": "Del til QQ Zone"
+},
+"better_sina": {
+"message": "Del til Sina"
+},
+"better_start": {
+"message": "Attack on Titan Ny fane"
+},
+"better_twitter": {
+"message": "Del på Twitter"
+},
+"color": {
+"message": "Ensfarget"
+},
+"extDescription": {
+"message": "Auto oppdater bakgrunnsbilder eller søk bakgrunnsbilder fra Google ™ Bilder for å tilpasse Chrome ny faneside."
+},
+"extName": {
+"message": "Attack on Titan Nytt Fane, Tilpasset Bakgrunnsbilder HD"
+},
+"fivestar1": {
+"message": "Liker du Attack on Titan New Tab?"
+},
+"fivestar2": {
+"message": "Gi oss en god anmeldelse på Chrome Store."
+},
+"image": {
+"message": "Lokalt bilde"
+},
+"library": {
+"message": "Oppdatering fra biblioteket"
+},
+"no": {
+"message": "NEI"
+},
+"not_now": {
+"message": "Ikke nå"
+},
+"pinned_confirm": {
+"message": "Du har spilt det nåværende tapetet, er du sikker på å oppdatere den?"
+},
+"search": {
+"message": "Søke"
+},
+"setting": {
+"message": "innstillinger"
+},
+"share": {
+"message": "Del til vennene dine"
+},
+"upload": {
+"message": "Laste opp"
+},
+"visit": {
+"message": "Mest besøkt"
+},
+"yes": {
+"message": "Ja"
+},
+"today": {
+"message": "I dag"
+},
+"mon": {
+"message": "mandag"
+},
+"tue": {
+"message": "tirsdag"
+},
+"wed": {
+"message": "onsdag"
+},
+"thu": {
+"message": "Torsdag"
+},
+"fri": {
+"message": "fredag"
+},
+"sat": {
+"message": "lørdag"
+},
+"sun": {
+"message": "søndag"
+},
+"upload_tip": {
+"message": "Den opplastede bildestørrelsen er for stor!"
+},
+"upload_close": {
+"message": "Lukk"
+},
+"unkownLocation": {
+"message": "Ukjent plassering"
+},
+"frequent": {
+"message": "Oppdateringsfrekvens"
+},
+"fre_pin": {
+"message": "For å finjustere gjeldende bakgrunn"
+},
+"fre_never": {
+"message": "Aldri"
+},
+"fre_min": {
+"message": "Hvert minutt"
+},
+"fre_hour": {
+"message": "Hver time"
+},
+"fre_day": {
+"message": "Hver dag"
+},
+"search_tip1": {
+"message": "Du kommer inn"
+},
+"search_tip2": {
+"message": "Søke"
+},
+"history1": {
+"message": "Vis de fleste besøkte nettstedene"
+},
+"history2": {
+"message": "Du kan gjenopprette de fleste besøkte nettsteder i innstillinger."
+},
+"weather": {
+"message": "Vis værmeldingen"
+},
+"self_add": {
+"message": "Du har lagt den til."
+},
+"self_travel": {
+"message": "Input søkeord for å bygge ditt eget bakgrunnsbibliotek"
+},
+"self_search": {
+"message": "Søke"
+},
+"self_load": {
+"message": "Har lastet"
+},
+"self_scroll": {
+"message": "bla ned for å laste mer."
+},
+"self_customize": {
+"message": "Tilpass biblioteket"
+},
+"self_selected": {
+"message": "valgt"
+},
+"self_finish": {
+"message": "Bygg bakgrunnsbibliotek"
+},
+"self_allow": {
+"message": "Tillat andre å bruke dette biblioteket"
+},
+"recommend1": {
+"message": "Kunst"
+},
+"recommend2": {
+"message": "Kjærlighet"
+},
+"recommend3": {
+"message": "Strand"
+},
+"recommend4": {
+"message": "Ulv"
+},
+"recommend5": {
+"message": "EXO"
+},
+"recommend6": {
+"message": "Katt"
+},
+"recommend7": {
+"message": "Tegnefilm"
+},
+"Customize_Library": {
+"message": "Tilpass biblioteket"
+},
+"wallpapers": {
+"message": "bakgrunnsbilder"
+},
+"delete": {
+"message": "Er du sikker på å slette den?"
+},
+"wordpress_title": {
+"message": "Tilpasset Bakgrunn HD Temaer - Attack on Titan Nytt Fane"
+},
+"wordpress_get": {
+"message": "Få dette temaet til min krom"
+},
+"better_customized": {
+"message": "Bygg ditt eget bakgrunnsbibliotek"
+},
+"better_shares": {
+"message": "Klikk den, del med vennene dine"
+},
+"better_save": {
+"message": "Legg til i favoritter"
+},
+"better_remove": {
+"message": "Fjern fra favoritter"
+},
+"share_tip": {
+"message": "Lagt til favoritt med hell, kan du også dele denne utvidelsen til:"
+},
+"login": {
+"message": "Du må logge inn"
+}
+}

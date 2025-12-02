@@ -1,0 +1,239 @@
+{
+"about": {
+"message": "hakkında"
+},
+"background": {
+"message": "Arka fon"
+},
+"better_click": {
+"message": "Tıklayın, Arka Plan Değiştir"
+},
+"better_down": {
+"message": "Geçerli duvar kağıdı indir"
+},
+"better_fb": {
+"message": "FaceBook'ta paylaş"
+},
+"better_google": {
+"message": "Google + 'da paylaş"
+},
+"better_memu": {
+"message": "Ayarları göster menüsü"
+},
+"better_pin": {
+"message": "Geçerli duvar kağıdını sabitleyebilirsiniz"
+},
+"better_pinned": {
+"message": "Geçerli duvar kağıdını sabitlediniz."
+},
+"better_print": {
+"message": "Pinterest'e paylaş"
+},
+"better_qq": {
+"message": "QQ Bölgesi'ne paylaş"
+},
+"better_sina": {
+"message": "Sina'ya paylaş"
+},
+"better_start": {
+"message": "Attack on Titan Yeni Sekmesi"
+},
+"better_twitter": {
+"message": "Twitter'da paylaş"
+},
+"color": {
+"message": "Koyu renk"
+},
+"extDescription": {
+"message": "Chrome'un yeni sekme sayfanızı özelleştirmek için Google ™ Resimler'den duvar kağıtlarını otomatik güncelleyin veya duvar kağıtlarını arayın."
+},
+"extName": {
+"message": "Attack on Titan Yeni Sekme, Özelleştirilmiş Duvar Kağıtları HD"
+},
+"fivestar1": {
+"message": "Denk borsanız Yeni Tab'ı sever misiniz?"
+},
+"fivestar2": {
+"message": "Lütfen Chrome Store'da bize iyi bir inceleme yapın."
+},
+"image": {
+"message": "Yerel görüntü"
+},
+"library": {
+"message": "Kütüphaneden güncelleme"
+},
+"no": {
+"message": "YOK HAYIR"
+},
+"not_now": {
+"message": "Şimdi değil"
+},
+"pinned_confirm": {
+"message": "Geçerli duvar kağıdını tuttunuz, güncellemek ister misiniz?"
+},
+"search": {
+"message": "Arama"
+},
+"setting": {
+"message": "ayarlar"
+},
+"share": {
+"message": "Arkadaşlarınıza paylaş"
+},
+"upload": {
+"message": "Yükleme"
+},
+"visit": {
+"message": "En çok ziyaret edilen"
+},
+"yes": {
+"message": "Evet"
+},
+"today": {
+"message": "Bugün"
+},
+"mon": {
+"message": "Pazartesi"
+},
+"tue": {
+"message": "Salı"
+},
+"wed": {
+"message": "Çarşamba"
+},
+"thu": {
+"message": "Perşembe"
+},
+"fri": {
+"message": "Cuma"
+},
+"sat": {
+"message": "Cumartesi"
+},
+"sun": {
+"message": "Pazar"
+},
+"upload_tip": {
+"message": "Yüklenen görüntü boyutu çok büyük!"
+},
+"upload_close": {
+"message": "Kapat"
+},
+"unkownLocation": {
+"message": "Bilinmeyen Konum"
+},
+"frequent": {
+"message": "Güncelleme sıklığı"
+},
+"fre_pin": {
+"message": "Geçerli arka planı sabitlemek için"
+},
+"fre_never": {
+"message": "Asla"
+},
+"fre_min": {
+"message": "Her dakika"
+},
+"fre_hour": {
+"message": "Her saat"
+},
+"fre_day": {
+"message": "Her gün"
+},
+"search_tip1": {
+"message": "Gireceksin"
+},
+"search_tip2": {
+"message": "arama"
+},
+"history1": {
+"message": "En çok ziyaret edilen siteleri göster"
+},
+"history2": {
+"message": "En çok ziyaret edilen web sitelerini ayarlarda geri yükleyebilirsiniz."
+},
+"weather": {
+"message": "Hava durumunu göster"
+},
+"self_add": {
+"message": "Eklediniz."
+},
+"self_travel": {
+"message": "Kendi duvar kağıtları kütüphanenizi oluşturmak için giriş anahtar kelimeleri"
+},
+"self_search": {
+"message": "arama"
+},
+"self_load": {
+"message": "Yüklediniz"
+},
+"self_scroll": {
+"message": "daha yüklemek için aşağı ilerleyin."
+},
+"self_customize": {
+"message": "Kütüphaneyi Özelleştir"
+},
+"self_selected": {
+"message": "seçilmiş"
+},
+"self_finish": {
+"message": "Duvar kağıtları kütüphanesi oluşturun"
+},
+"self_allow": {
+"message": "Başkalarının bu kütüphaneyi kullanmasına izin ver"
+},
+"recommend1": {
+"message": "Sanat"
+},
+"recommend2": {
+"message": "Aşk"
+},
+"recommend3": {
+"message": "plaj"
+},
+"recommend4": {
+"message": "Kurt"
+},
+"recommend5": {
+"message": "EKZO"
+},
+"recommend6": {
+"message": "Kedi"
+},
+"recommend7": {
+"message": "Karikatür"
+},
+"Customize_Library": {
+"message": "Kütüphaneyi Özelleştir"
+},
+"wallpapers": {
+"message": "duvar kağıtları"
+},
+"delete": {
+"message": "Bunu silmek istediğinizden emin misiniz?"
+},
+"wordpress_title": {
+"message": "Özelleştirilmiş Duvar Kağıdı HD Temalar-Attack on Titan Yeni Sekme"
+},
+"wordpress_get": {
+"message": "Bu temayı benim kromum için al"
+},
+"better_customized": {
+"message": "Kendi duvar kağıtları kütüphanenizi oluşturun"
+},
+"better_shares": {
+"message": "Tıklayın, arkadaşlarınızla paylaşın"
+},
+"better_save": {
+"message": "Favorilere ekle"
+},
+"better_remove": {
+"message": "Favorilerden çıkar"
+},
+"share_tip": {
+"message": "Favorilere favorilere eklendiğinde, bu uzantıyı aşağıdakilerle de paylaşabilirsiniz:"
+},
+"login": {
+"message": "Giriş yapmanız gerekiyor"
+}
+}

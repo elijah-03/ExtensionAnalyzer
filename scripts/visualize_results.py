@@ -17,7 +17,7 @@ plt.rcParams["figure.figsize"] = (12, 8)
 plt.rcParams["font.size"] = 10
 
 # Load metrics
-METRICS_FILE = "evaluation_metrics.json"
+METRICS_FILE = os.path.join("data", "evaluation_metrics.json")
 
 if not os.path.exists(METRICS_FILE):
     print(f"Error: {METRICS_FILE} not found.")

@@ -7,19 +7,17 @@ Analyzes performance of both rule-based and ML-based approaches.
 import os
 import sys
 import pandas as pd
-import numpy as np
 from sklearn.metrics import (
     accuracy_score,
     precision_score,
     recall_score,
     f1_score,
     confusion_matrix,
-    classification_report,
 )
 import json
 
 # Check if comparison results exist
-RESULTS_FILE = "comparison_results.csv"
+RESULTS_FILE = os.path.join("data", "comparison_results.csv")
 
 if not os.path.exists(RESULTS_FILE):
     print(f"Error: {RESULTS_FILE} not found.")
@@ -28,6 +26,26 @@ if not os.path.exists(RESULTS_FILE):
 
 # Load results
 df = pd.read_csv(RESULTS_FILE)
+
+# Filter by Test Set if available
+TEST_SET_FILE = os.path.join("data", "test_set_ids.json")
+if os.path.exists(TEST_SET_FILE):
+    print(f"Loading test set IDs from {TEST_SET_FILE}...")
+    with open(TEST_SET_FILE, "r") as f:
+        test_ids = set(json.load(f))
+
+    initial_count = len(df)
+    df = df[df["id"].isin(test_ids)]
+    print(
+        f"Filtered dataset to Test Set only: {len(df)} extensions (was {initial_count})"
+    )
+else:
+    print(
+        "WARNING: Test set IDs not found. Evaluating on FULL dataset (potentially unfair)."
+    )
+
+# Clean up label column
+df["label"] = df["label"].str.strip()
 
 print("=" * 70)
 print("CHROME EXTENSION SECURITY ANALYZER - EVALUATION REPORT")
@@ -83,8 +101,8 @@ print()
 # Confusion Matrix
 print("Confusion Matrix:")
 cm_rule = confusion_matrix(df["label"], df["rule_pred"], labels=["Benign", "Malicious"])
-print(f"                Predicted")
-print(f"                Benign  Malicious")
+print("                Predicted")
+print("                Benign  Malicious")
 print(f"Actual Benign     {cm_rule[0][0]:3d}      {cm_rule[0][1]:3d}")
 print(f"       Malicious  {cm_rule[1][0]:3d}      {cm_rule[1][1]:3d}")
 print()
@@ -114,7 +132,7 @@ if len(df_valid) > 0:
         df_valid["label"], df_valid["ml_label"], pos_label="Malicious", zero_division=0
     )
 
-    print(f"Model: Random Forest (100 trees, TF-IDF features)")
+    print("Model: Random Forest (100 trees, TF-IDF features)")
     print(f"Accuracy:  {ml_acc:.2%}")
     print(f"Precision: {ml_prec:.2%}")
     print(f"Recall:    {ml_rec:.2%}")
@@ -126,8 +144,8 @@ if len(df_valid) > 0:
     cm_ml = confusion_matrix(
         df_valid["label"], df_valid["ml_label"], labels=["Benign", "Malicious"]
     )
-    print(f"                Predicted")
-    print(f"                Benign  Malicious")
+    print("                Predicted")
+    print("                Benign  Malicious")
     print(f"Actual Benign     {cm_ml[0][0]:3d}      {cm_ml[0][1]:3d}")
     print(f"       Malicious  {cm_ml[1][0]:3d}      {cm_ml[1][1]:3d}")
     print()
@@ -216,7 +234,7 @@ metrics = {
     },
 }
 
-output_file = "evaluation_metrics.json"
+output_file = os.path.join("data", "evaluation_metrics.json")
 with open(output_file, "w") as f:
     json.dump(metrics, f, indent=2)
 

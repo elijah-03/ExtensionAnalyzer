@@ -4,3 +4,5 @@ openapi-spec
 project.txt
 PROJECT_DOCUMENTATION.md
 tests/
+.vscode/
+logs/

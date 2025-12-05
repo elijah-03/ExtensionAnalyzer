@@ -2,12 +2,12 @@
 
 ## Overview
 
-An advanced security analysis tool for Chrome browser extensions that combines **rule-based static analysis** with **interpretable machine learning** to detect malicious behavior. Unlike traditional approaches that rely solely on heuristic rules (high false positives) or black-box ML models (unexplainable), this tool provides both **accurate threat detection** AND **human-understandable explanations**.
+An advanced security analysis tool for Chrome browser extensions that combines rule-based static analysis with interpretable machine learning to detect malicious behavior. Unlike traditional approaches that rely solely on heuristic rules (high false positives) or black-box ML models (unexplainable), this tool provides both accurate threat detection and human-understandable explanations.
 
 ## Novel Contributions
 
 ### 1. Hybrid Interpretable ML System
-This project introduces a **novel hybrid interpretable approach** that bridges the gap between accuracy and transparency:
+This project introduces a novel hybrid interpretable approach that bridges the gap between accuracy and transparency:
 
 - **Dual-Layer Analysis**: Combines rule-based static analysis (for transparency) with ML classification (for accuracy)
 - **SHAP-Based Explainability**: Uses SHAP values to explain predictions, aggregated into semantic risk categories
@@ -52,26 +52,26 @@ This project introduces a **novel hybrid interpretable approach** that bridges t
 | **Recall** | 83.33% | ±13.68% |
 | **F1-Score** | 82.70% | ±12.43% |
 
-### Hold-Out Test Set (30% of data, n=43)
+### Hold-Out Test Set (30% of data, n=42)
 | Metric | Score |
 |--------|-------|
-| **Accuracy** | 76.74% |
-| **Precision** | 75.00% |
+| **Accuracy** | 78.57% |
+| **Precision** | 78.26% |
 | **Recall** | 81.82% |
-| **F1-Score** | 78.26% |
-| **False Positive Rate** | 28.57% |
+| **F1-Score** | 80.00% |
+| **False Positive Rate** | 25.00% |
 
 ### Comparison with Rule-Based System
 | Metric | Rule-Based | ML (Test) | Improvement |
 |--------|------------|-----------|-------------|
-| **Accuracy** | 57.43% | **76.74%** | +19.3 pp |
-| **Precision** | 56.52% | **75.00%** | +18.5 pp |
-| **Recall** | 75.00% | **81.82%** | +6.8 pp |
-| **False Positive Rate** | 61.22% | **28.57%** | -32.7 pp |
+| **Accuracy** | 54.76% | **78.57%** | +23.8 pp |
+| **Precision** | 54.05% | **78.26%** | +24.2 pp |
+| **Recall** | 90.91% | **81.82%** | -9.1 pp |
+| **False Positive Rate** | 85.00% | **25.00%** | -60.0 pp |
 
 **Key Findings**: 
-- Machine Learning achieves **76-82% accuracy** on unseen data
-- Reduces false positive rate by **32.7 percentage points** (61.2% → 28.6%)
+- Machine Learning achieves **78.57% accuracy** on unseen data
+- Reduces false positive rate by **60 percentage points** (85% → 25%)
 - Properly validated with cross-validation and hold-out test set
 - Model generalizes well across different extension samples
 
@@ -247,6 +247,103 @@ ExtensionAnalyzer/
                  │   Explanations)        │
                  └────────────────────────┘
 ```
+
+## Feature Extraction
+
+The `FeatureExtractor` class ([src/feature_extraction.py](file:///home/elijah/Documents/CPS475/ExtensionAnalyzer/src/feature_extraction.py)) implements a hybrid feature extraction system that combines explicit permission analysis with statistical code analysis to convert raw Chrome extension files into numerical vectors compatible with machine learning models.
+
+### Two-Layer Feature Design
+
+#### 1. Manifest Features (Static Analysis)
+Extracts binary features from `manifest.json` to capture high-risk capabilities:
+
+- **API Permissions** (17 tracked permissions):
+  - `scripting`, `tabs`, `webRequest`, `webRequestBlocking`, `cookies`
+  - `debugger`, `management`, `proxy`, `privacy`, `downloads`
+  - `nativeMessaging`, `storage`, `unlimitedStorage`, `notifications`
+  - `contextMenus`, `alarms`, `background`
+  - Each permission becomes a binary feature: `perm_<name>: 0|1`
+
+- **Host Permissions**:
+  - `has_all_urls`: Flags extensions requesting access to all websites
+  - Triggers on: `<all_urls>`, `http://*/*`, `https://*/*`
+
+- **Content Security Policy (CSP)**:
+  - `unsafe_eval`: Detects permissive CSP allowing `eval()` execution
+  - Critical security indicator for dynamic code execution
+
+**Output**: ~19 binary features (0 or 1)
+
+#### 2. Code Features (Text Analysis)
+Applies TF-IDF vectorization to JavaScript code to capture behavioral patterns:
+
+**Process:**
+1. **Code Aggregation**: Walks through all `.js` files and concatenates code into a single string
+2. **Stop Word Filtering**: Removes 114 custom stop words including:
+   - JavaScript keywords (`var`, `let`, `const`, `function`, `return`, `if`, `else`, etc.)
+   - HTML tags (`div`, `span`, `img`, `button`, `script`, etc.)
+   - CSS properties (`width`, `height`, `color`, `margin`, `padding`, etc.)
+   - Common web terms (`http`, `https`, `www`, `com`, `json`, etc.)
+3. **TF-IDF Transformation**:
+   - **Term Frequency (TF)**: How often a word appears in *this* extension
+   - **Inverse Document Frequency (IDF)**: How rare the word is across *all* extensions
+   - Rare words that appear frequently in a specific extension receive high scores
+4. **Dimensionality**: Keeps top 1000 features (configurable via `max_features`)
+
+**Why This Works**: By filtering out common syntax, the model focuses on *unique identifiers*-specific variable names, unusual API calls, obfuscated strings, or domain-specific patterns that distinguish malicious from benign extensions.
+
+**Output**: 1000 continuous features (TF-IDF scores)
+
+### Complete Pipeline
+
+The `FeatureExtractor` follows the Scikit-Learn API pattern:
+
+```python
+from src.feature_extraction import FeatureExtractor
+
+# Initialize
+extractor = FeatureExtractor(max_features=1000)
+
+# Training phase: Learn vocabulary from training extensions
+extractor.fit(train_extension_paths)
+
+# Transform phase: Convert extensions to feature vectors
+train_features = extractor.transform(train_extension_paths)
+test_features = extractor.transform(test_extension_paths)
+
+# Or combined
+features = extractor.fit_transform(extension_paths)
+```
+
+**Output Format**: Each extension becomes a single row with ~1019 columns:
+- Columns 1-19: Binary manifest features (permissions, CSP, host permissions)
+- Columns 20-1019: TF-IDF scores for the 1000 most significant code tokens
+
+### Example Feature Vector
+
+For a hypothetical malicious extension:
+```
+perm_cookies: 1
+perm_webRequest: 1
+perm_tabs: 1
+has_all_urls: 1
+unsafe_eval: 1
+tfidf_tracker: 0.87
+tfidf_analytics: 0.65
+tfidf_sendData: 0.92
+tfidf_obfuscated_var_x23: 0.71
+...
+```
+
+This combination allows the ML model to learn correlations like: *"Extensions requesting `cookies` + `webRequest` AND containing unusual tracking-related terms are likely malicious."*
+
+### Key Design Decisions
+
+1. **Custom Stop Words**: Filtering (114 terms) ensures the model focuses on semantically meaningful code, not syntax
+2. **Hybrid Approach**: Combines explicit rules (permissions) with learned patterns (code analysis)
+3. **TF-IDF over Bag-of-Words**: Emphasizes distinctive terms rather than just frequency
+4. **High Dimensionality**: 1000 code features capture nuanced behavioral patterns
+5. **Graceful Failures**: Missing files or malformed JSON fail silently (features default to 0)
 
 
 ## Running Tests

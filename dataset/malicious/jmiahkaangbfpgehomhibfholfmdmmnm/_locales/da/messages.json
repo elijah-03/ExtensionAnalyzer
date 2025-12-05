@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bas Boost dette faneblad"
+   },
+   "description": {
+      "message": "Lav en lyd fra din browser, virkelig fantastisk med denne bas booster app. Arbejds basforstærker til hovedtelefoner og højttalere."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Bas Booster"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

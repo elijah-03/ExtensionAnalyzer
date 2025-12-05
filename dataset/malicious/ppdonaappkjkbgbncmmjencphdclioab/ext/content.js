@@ -1,0 +1,1 @@
+"use strict";chrome.devtools||chrome.runtime.onMessage.addListener(((e,n,s)=>ext.onMessage._dispatch(e,{},s).includes(!0))),function(){let e=null;ext.onExtensionUnloaded={addListener(n){e||(e=chrome.runtime.connect()),e.onDisconnect.addListener(n)},removeListener(n){e&&(e.onDisconnect.removeListener(n),e.onDisconnect.hasListeners()||(e.disconnect(),e=null))}}}();

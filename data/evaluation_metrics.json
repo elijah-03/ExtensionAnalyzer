@@ -1,0 +1,51 @@
+{
+  "dataset": {
+    "total": 101,
+    "benign": 49,
+    "malicious": 52,
+    "valid_ml_predictions": 101
+  },
+  "rule_based": {
+    "threshold": 50,
+    "accuracy": 0.5742574257425742,
+    "precision": 0.5652173913043478,
+    "recall": 0.75,
+    "f1_score": 0.6446280991735537,
+    "false_positive_rate": 0.6122448979591837,
+    "false_negative_rate": 0.25,
+    "confusion_matrix": [
+      [
+        19,
+        30
+      ],
+      [
+        13,
+        39
+      ]
+    ]
+  },
+  "machine_learning": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.0,
+    "confusion_matrix": [
+      [
+        49,
+        0
+      ],
+      [
+        0,
+        52
+      ]
+    ]
+  },
+  "comparison": {
+    "accuracy_improvement": 0.4257425742574258,
+    "fpr_reduction": 0.6122448979591837,
+    "ml_wins": 43,
+    "rule_wins": 0
+  }
+}

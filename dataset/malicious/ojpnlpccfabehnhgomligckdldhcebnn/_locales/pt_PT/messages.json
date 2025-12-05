@@ -1,0 +1,14 @@
+{
+  "extension_name": {
+    "message": "Settings for Chrome",
+    "description": "Chrome Settings"
+  },
+  "extension_short_name": {
+    "message": "Chrome Settings",
+    "description": "Chrome Settings"
+  },
+  "extension_description": {
+    "message": "Get quick access to the main Chrome settings",
+    "description": "Get quick access to the main Chrome settings"
+  }
+}

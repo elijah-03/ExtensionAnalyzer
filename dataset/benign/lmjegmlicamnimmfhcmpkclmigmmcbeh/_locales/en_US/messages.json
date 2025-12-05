@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Application Launcher For Drive (by Google)",
+    "description": "The name of the extension."
+  },
+  "extensionShortName": {
+    "message": "Google Drive App Launcher",
+    "description": "The short version of the extension name."
+  },
+  "extensionDescription": {
+    "message": "Open Drive files directly from your browser in compatible applications installed on your computer.",
+    "description": "A short description of the functionality of the extension."
+  }
+}

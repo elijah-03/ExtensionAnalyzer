@@ -1,0 +1,1 @@
+var g_fnRatingURL=null,g_CallbackInterval=null,g_timeOut=0;function TSRPrepareParse(t,a){t&&(g_fnRatingURL=t);try{var e=function(){if(!(g_timeOut>3e3)){var t=(new Date).getTime();g_fnRatingURL&&g_fnRatingURL(document);var a=(new Date).getTime();g_timeOut=a-t}};e(),a&&!g_CallbackInterval&&(g_CallbackInterval=setInterval(e,3e3))}catch(t){}}

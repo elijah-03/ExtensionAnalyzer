@@ -1,0 +1,38 @@
+{
+	"name":{
+		"message":"SuperCopy 超級複製"
+	},
+	"description":{
+		"message":"一鍵破解禁止右鍵、破解禁止選擇、破解禁止複制、破解禁止粘貼。"
+	},
+  "crackTips":{
+    "message":"破解禁止複制"
+  },
+  "enableTips":{
+    "message":"點擊破解禁止複制"
+  },
+  "disableTips":{
+    "message":"點擊取消破解"
+  },
+  "cannotTips":{
+    "message":"無需破解"
+  },
+  "domainLists":{
+    "message":"域名清單"
+  },
+  "rate":{
+    "message":"五星好評"
+  },
+  "delete":{
+    "message":"删除域名"
+  },
+  "tips":{
+    "message":"提示"
+  },
+  "qqgroup":{
+    "message":"QQ群"
+  },
+  "domainListsTips":{
+    "message":"在此域名清單中的頁面將自動啟動SuperCopy。"
+  }
+}

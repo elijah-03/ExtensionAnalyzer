@@ -1,0 +1,575 @@
+# Chrome Extension Dataset - Complete Extension List
+
+## Benign Extensions (n=70)
+
+1. **Google Translate**
+   - ID: `aapbdbdomjkkjkaonfhkkikfgjllcleb`
+   - Version: 2.0.16
+
+2. **RoPro - Enhance Your Roblox Experience**
+   - ID: `adbacgifemdbhdkfppmeilbgppmhaobf`
+   - Version: 1.6.3
+
+3. **1Password – Password Manager**
+   - ID: `aeblfdkhhhdcdjpifhhbdiojplfjncoa`
+   - Version: 8.11.18.36
+
+4. **7TV**
+   - ID: `ammjkodgmmoknidbanneddgankgfejfh`
+   - Version: 3.1.14
+
+5. **Rose**
+   - ID: `aobcgffnbkbipbflopponndoiommhnch`
+   - Version: 2
+
+6. **AnyDoc Translator - Translate Web and PDF**
+   - ID: `aopddeflghjljihihabdclejbojaomaf`
+   - Version: 1.4.3
+
+7. **PrinterLogic Extension v1.0.6.1**
+   - ID: `bfgjjammlemhdcocpejaompfoojnjjfn`
+   - Version: 1.0.6.1
+
+8. **AdGuard AdBlocker**
+   - ID: `bgnkhhnnamicmpeenaelnjfhikgbkllg`
+   - Version: 5.2.500.7
+
+9. **Authenticator**
+   - ID: `bhghoamapcdpbohphigoooaddinpkbai`
+   - Version: 8.0.1
+
+10. **Touch VPN - Secure and unlimited VPN proxy**
+   - ID: `bihmplhobchoageeokmgbdihknkjbknd`
+   - Version: 5.0.18
+
+11. **Slinky Elegant**
+   - ID: `bmanlajnpdncmhfkiccmbgeocgbncfln`
+   - Version: 20.0
+
+12. **Honey: Automated Coupons & Rewards**
+   - ID: `bmnlcjabgnpnenekpadlanbbkooimhnj`
+   - Version: 19.0.0
+
+13. **Immersive Translate - Translate Web & PDF**
+   - ID: `bpoadfkcbjbfhfodiogcnhhhpibjhbnh`
+   - Version: 1.23.9
+
+14. **Avira Safe Shopping**
+   - ID: `ccbpbkebodcjkknkfkpmfeciinhidaeh`
+   - Version: 7.32.1.773
+
+15. **Adblock Plus - free ad blocker**
+   - ID: `cfhdojbkjhnklbpkdaibdccddilifddb`
+   - Version: 4.32.0
+
+16. **Rakuten: Get Cash Back For Shopping**
+   - ID: `chhjbpecpncaggjpdakmflnfcopglcmi`
+   - Version: 5.76.1
+
+17. **Slate**
+   - ID: `cmhmcmgkegfffbbfobhjpdbimgmoohap`
+   - Version: 2
+
+18. **Web PKI**
+   - ID: `dcngeagmmhegagicpcmpinaoklddcgon`
+   - Version: 2.17.0
+
+19. **Tampermonkey**
+   - ID: `dhdgffkkebhmkfjojejmpbldmpobfkfo`
+   - Version: 5.4.1
+
+20. **Sider: Chat with all AI: GPT-5, Claude, DeepSeek, Gemini, Grok**
+   - ID: `difoiogjjojoaoomphldepapgpbgkhkb`
+   - Version: 5.21.0
+
+21. **Adobe Acrobat: PDF edit, convert, sign tools**
+   - ID: `efaidnbmnnnibpcajpcglclefindmkaj`
+   - Version: 25.11.2.0
+
+22. **Dark Reader**
+   - ID: `eimadpbcbfnmbkopoojfekhnkhdbieeh`
+   - Version: 4.9.115
+
+23. **Zotero Connector**
+   - ID: `ekhagklcjbdpajgpjgmbionohlpdbjgc`
+   - Version: 5.0.193
+
+24. **Screenshot reader™**
+   - ID: `enfolipbjmnmleonhhebhalojdpcpdoo`
+   - Version: 2.0.12
+
+25. **GoFullPage - Full Page Screen Capture**
+   - ID: `fdpohaocaechififmbbbbbknoalclacl`
+   - Version: 8.5
+
+26. **VPN for Chrome: NordVPN proxy protection**
+   - ID: `fjoaledfpmneenckfbpdfhkmimnjocfa`
+   - Version: 5.1.2
+
+27. **Return YouTube Dislike**
+   - ID: `gebbhagfogifgggkldgodflihgfeippi`
+   - Version: 4.0.2
+
+28. **AdBlock — block ads across the web**
+   - ID: `gighmmpiobklfepjocnamgkkbiglidom`
+   - Version: 6.33.0
+
+29. **Hola VPN - Your Website Unblocker**
+   - ID: `gkojfkhlekighikafcpjkiklfbnlmeio`
+   - Version: 1.248.77
+
+30. **Avast Online Security & Privacy**
+   - ID: `gomekmidlodglbbmalcneegieacbdmki`
+   - Version: 22.12.9
+
+31. **Avast Online Security & Privacy**
+   - ID: `gomekmidlodglbbmalcneegieacbdmki(1)`
+   - Version: 22.12.9
+
+32. **Save to Pinterest**
+   - ID: `gpdjojdkbbmdfjfahjcgigfpmkopogic`
+   - Version: 6.12.0
+
+33. **Wappalyzer - Technology profiler**
+   - ID: `gppongmhjkpfnbhagpmjfkannfbllamg`
+   - Version: 6.10.87
+
+34. **BTRoblox - Making Roblox Better**
+   - ID: `hbkpclpemjeibhioopcebchdmohaieln`
+   - Version: 3.6.22
+
+35. **Zoom**
+   - ID: `hmbjbjdpkobdjplfobhljndfdfdipjhg`
+   - Version: 5.0.4301.0407
+
+36. **__MSG_appName__**
+   - ID: `ifbmcpbgkhlpfcodhjhdbllhiaomkdej`
+   - Version: 0.1.11.5
+
+37. **Malwarebytes Browser Guard**
+   - ID: `ihcjicgdanjaechkgeegckofjjedodee`
+   - Version: 3.1.1
+
+38. **QuillBot: AI Writing and Grammar Checker Tool**
+   - ID: `iidnbdjijdkbmajdffnidomddglmieko`
+   - Version: 4.43.1
+
+39. **Chrome Remote Desktop**
+   - ID: `inomeogfingihgjfjlpeplalcfajhgai`
+   - Version: 2.1
+
+40. **ClassLink OneClick Extension**
+   - ID: `jgfbgkjjlonelmpenhpfeeljjlcgnkpe`
+   - Version: 12.5
+
+41. **Volume Master**
+   - ID: `jghecgabfgfdldnmbfkhmffcabddioke`
+   - Version: 2.4.0
+
+42. **__MSG_appName__**
+   - ID: `jlhmfgmfgeifomenelglieieghnjghma`
+   - Version: 2.0.4
+
+43. **Grammarly: AI Writing Assistant and Grammar Checker App**
+   - ID: `kbfnbcaeplbcioakkpcpgfkobkghlhen`
+   - Version: 14.1260.0
+
+44. **WPS PDF - Read, Edit, Fill, Convert, and AI Chat PDF with Ease**
+   - ID: `kdpelmjpfafjppnhbloffcjpeomlnpah`
+   - Version: 1.0.0.52
+
+45. **Sea Foam**
+   - ID: `lahipjfggmgneaopcckkaipmoandaboo`
+   - Version: 1.1
+
+46. **Ad Blocker: Stands AdBlocker**
+   - ID: `lgblnfidahcdcjddiepkckcfdhpknnjh`
+   - Version: 2.1.59
+
+47. **Loom – Screen Recorder & Screen Capture**
+   - ID: `liecbddmkiiihnedobmlmillhodjkdmb`
+   - Version: 5.5.142
+
+48. **Online Security**
+   - ID: `llbcnfanfmjhpedaedhbcnpgeepdnnok`
+   - Version: 7.4.1
+
+49. **Application Launcher For Drive (by Google)**
+   - ID: `lmjegmlicamnimmfhcmpkclmigmmcbeh`
+   - Version: 3.10
+
+50. **Google Keep Chrome Extension**
+   - ID: `lpcaedmchfhocbbapmcbpinfpgnhiddi`
+   - Version: 4.25471.600.1
+
+51. **Free VPN for Chrome - VPN Proxy VeePN**
+   - ID: `majdfhpaihoncoakbjgbdhglocklcgno`
+   - Version: 3.7.7
+
+52. **Lightshot (screenshot tool)**
+   - ID: `mbniclmhobmnbdlbpiphghaielnnpgdp`
+   - Version: 7.0.1
+
+53. **Take Webpage Screenshots Entirely - FireShot**
+   - ID: `mcbpblocgmgfnpjjppndjkmgjaogfceg`
+   - Version: 2.1.4.4
+
+54. **Google Input Tools**
+   - ID: `mclkkofklkfljcocdinagocijmpgbhab`
+   - Version: 11.4.0.0
+
+55. **Google Classroom**
+   - ID: `mfhehppjhmmnlfbbopchdfldgimhfhfk`
+   - Version: 1.8
+
+56. **Screencastify - Screen Video Recorder**
+   - ID: `mmeijimgabbpbgpdklnllpncmdofkcpn`
+   - Version: 4.21.3.5514
+
+57. **Shazam: Find song names from your browser**
+   - ID: `mmioliijnhnoblpgimnlajmefafdfilb`
+   - Version: 2.5.0
+
+58. **Mobility Print**
+   - ID: `ndakideadaglgpbblmppfonobpdgggin`
+   - Version: 1.4.3
+
+59. **Capital One Shopping: Save Now**
+   - ID: `nenlahapcbofgnanklpelkaejcehkggg`
+   - Version: 0.1.1329
+
+60. **IDM Integration Module**
+   - ID: `ngpampappnmepgilojfohadhhmbhlaek`
+   - Version: 6.42.50
+
+61. **MetaMask**
+   - ID: `nkbihfbeogaeaoehlefnkodbefgpgknn`
+   - Version: 13.11.0
+
+62. **__MSG_extName__**
+   - ID: `nlipoenfbbikpbjkfpfillcgkoblgpmj`
+   - Version: 4.4.35
+
+63. **Monica: ChatGPT AI Assistant | DeepSeek, GPT-4o, Claude 3.5, o1 &More**
+   - ID: `ofpnmcalabcbjgholdjcjblkibolbppb`
+   - Version: 7.9.8
+
+64. **Smallpdf—Edit, Convert, Compress, & AI Summarize PDF**
+   - ID: `ohfgljdgelakfkefopgklcohadegdpjf`
+   - Version: 0.23.17
+
+65. **Trend Micro Toolbar**
+   - ID: `ohhcpmplhhiiaoiddkfboafbhiknefdf`
+   - Version: 17.0.1894.0
+
+66. **Browsec VPN - Free VPN for Chrome**
+   - ID: `omghfjlpggmjjaagoclmmobgdodcjboh`
+   - Version: 3.92.10
+
+67. **Netflix Party is now Teleparty**
+   - ID: `oocalimimngaihdkbihfgmpkcpnmlaoa`
+   - Version: 5.4.5
+
+68. **SetupVPN - Lifetime Free VPN**
+   - ID: `oofgbpoabipfcfjapgnbbjjaenockbdp`
+   - Version: 4.0.9
+
+69. **Material Simple Dark Grey**
+   - ID: `ookepigabmicjpgfnmncjiplegcacdbm`
+   - Version: 2.60
+
+70. **SYTools**
+   - ID: `pbcgcpeifkdjijdjambaakmhhpkfgoec`
+   - Version: 25.5100.5
+
+
+## Malicious Extensions (n=72)
+
+1. **Volume Magnifier**
+   - ID: `aeaobdmllhanfegkedbmainkbjalhknn`
+   - Version: 2.35
+
+2. **Rapid Font Finder**
+   - ID: `agmalodjnljmmplbmcpjnkpimfojbihl`
+   - Version: 1.0.2
+
+3. **Flash Video Downloader**
+   - ID: `aiimdkdngfcipjohbjenkahhlhccpdbc`
+   - Version: 32.0.2
+
+4. **Zoom Plus**
+   - ID: `ajneghihjbebmnljfhlpdmjjpifeaokc`
+   - Version: 0.7.6
+
+5. **Color Themes for Facebook**
+   - ID: `akcmmnpacjobndnaleljkfhjfkgehghi`
+   - Version: 1.1.9
+
+6. **Video Downloader Ultimate**
+   - ID: `akkaefkdhhehhcbenacaphmfojlglppe`
+   - Version: 1.0.6
+
+7. **AmaSavings**
+   - ID: `andokbmfkopokkinpoodkhciomilhece`
+   - Version: 2.4
+
+8. **Video Downloader professional**
+   - ID: `bacakpdjpomjaelpkpkabmedhkoongbi`
+   - Version: 2.8.5.6
+
+9. **PDF toolbox**
+   - ID: `bahogceckgcanpcoabcdgmoidngedmfo`
+   - Version: 2.3.2
+
+10. **Flow**
+   - ID: `bapoeoceggfnnoomenaapjkofjlpmbeh`
+   - Version: 3.5.17
+
+11. **WinSafe - быстрый доступ к сайтам!**
+   - ID: `bgnodfikjoihkcjjnefbjkeclamhipak`
+   - Version: 17.44
+
+12. **Leap Video Downloader**
+   - ID: `bjlcpoknpgaoaollojjdnbdojdclidkh`
+   - Version: 0.1.2.0
+
+13. **Nimble capture**
+   - ID: `bpconcjcammlapcogcnnelfmaeghhagj`
+   - Version: 12.0.1
+
+14. **Adburner**
+   - ID: `cegbjdefhfnbphoghdgcapnliodjbncp`
+   - Version: 3.0.18
+
+15. **SoundBoost - Volume Booster for Chrome**
+   - ID: `chmfnmjfghjpdamlofhlonnnnokkpbao`
+   - Version: 1.0.3
+
+16. **Brisk VPN**
+   - ID: `ciifcakemmcbbdpmljdohdmbodagmela`
+   - Version: 1.0.5
+
+17. **Search by Image (by Google)**
+   - ID: `dajedkncpodkggklbegccjpmnglmnflm`
+   - Version: 1.5.2
+
+18. **Image download center**
+   - ID: `deebfeldnfhemlnidojiiidadkgnglpi`
+   - Version: 1.6.4
+
+19. **Playspeed**
+   - ID: `dgdpebjegmddbloaoiggfpdmkjmgiajj`
+   - Version: 2.14.0
+
+20. **Drow Dark theme**
+   - ID: `diapmighkmmnpmdkfnmlbpkjkealjojg`
+   - Version: 1.0.0
+
+21. **Awesome Auto Refresh**
+   - ID: `djmpbcihmblfdlkcfncodakgopmpgpgh`
+   - Version: 0.4.3.0
+
+22. **SaveProtect: Просто доступ к сайтам!**
+   - ID: `dodnpoijjkmcmlhlelmggejhfocfjgfc`
+   - Version: 23.41
+
+23. **Video Downloader - click&save**
+   - ID: `efjpeicagianogimhkaoncnhghapfkpn`
+   - Version: 0.1.2
+
+24. **Tau adblock**
+   - ID: `eibcbmdmfcgklpkghpkojpaedhloemhi`
+   - Version: 2.0.5
+
+25. **Web Paint**
+   - ID: `emeokgokialpjadjaoeiplmnkjoaegng`
+   - Version: 1.4.09
+
+26. **Dusk**
+   - ID: `fbgnkgdmcmhiaakjbilpjnpenhinkgon`
+   - Version: 2.33
+
+27. **Amazing Dark Mode**
+   - ID: `fbjfihoienmhbjflbobnmimfijpngkpa`
+   - Version: 1.5.1
+
+28. **Free VPN ZenMate-Best VPN for Chrome**
+   - ID: `fdcgdnkidjaadafnichfpabhfomcebme`
+   - Version: 9.0.2
+
+29. **Video Downloader PLUS**
+   - ID: `fhplmmllnpjjlncfjpbbpjadoeijkogc`
+   - Version: 6.0.2
+
+30. **Full screenshot**
+   - ID: `fniobaamocffdlfnpdniiimnoihmjbkn`
+   - Version: 1.1.4
+
+31. **video downloader - CocoCut**
+   - ID: `gddbgllpilhpnjpkdbopahnpealaklle`
+   - Version: 3.14
+
+32. **Eclipse dark theme**
+   - ID: `geokkpbkfpghbjdgbganjkgfhaafmhbo`
+   - Version: 1.1.0
+
+33. **Adkrig**
+   - ID: `gokhabgljglbmjilkmelajgkkhofeeij`
+   - Version: 1.0.6
+
+34. **BetterScreenshot Full Page Screenshot & Edit**
+   - ID: `hcecmmhbjjkelmnmbkbmofoadahndjnl`
+   - Version: 1.0
+
+35. **Cursor-A custom cursor**
+   - ID: `hdgdghnfcappcodemanhafioghjhlbpb`
+   - Version: 0.7.3
+
+36. **HyperVolume**
+   - ID: `hinhmojdkodmficpockledafoeodokmc`
+   - Version: 1.0.2
+
+37. **Volume Frenzy**
+   - ID: `idgncaddojiejegdmkofblgplkgmeipk`
+   - Version: 1.0.5
+
+38. **Stream Video Downloader**
+   - ID: `imkngaibigegepnlckfcbecjoilcjbhf`
+   - Version: 10.0.2
+
+39. **La Notte**
+   - ID: `jcjhgomglcabcikgghokgnheeeobakkb`
+   - Version: 1.90.1
+
+40. **Bass Booster**
+   - ID: `jmiahkaangbfpgehomhibfholfmdmmnm`
+   - Version: 0.1.3
+
+41. **PDF Merge & Convert**
+   - ID: `kbiednjbhdaadladaojicdjcdpkiijai`
+   - Version: 3.5.2
+
+42. **Palenight night mode**
+   - ID: `keecjmliebjajodgnbcegpmnalopnfcb`
+   - Version: 2.0.5
+
+43. **Maximum Color Changer for Youtube**
+   - ID: `kjeffohcijbnlkgoaibmdcfconakaajm`
+   - Version: 0.9.4
+
+44. **The Great Suspender**
+   - ID: `klbibkeccnjlkjkiokjodocebajanakg`
+   - Version: 7.1.9
+
+45. **Maxi Refresher**
+   - ID: `lipmdblppejomolopniipdjlpfjcojob`
+   - Version: 1.1.5
+
+46. **Crystal Ad block**
+   - ID: `lklmhefoneonjalpjcnhaidnodopinib`
+   - Version: 1.3.9
+
+47. **Volume Booster**
+   - ID: `lppeflehbcbgihabdpekbpjbedkhhhap`
+   - Version: 1.0.9
+
+48. **Craft Cursors**
+   - ID: `magnkhldhhgdlhikeighmhlhonpmlolk`
+   - Version: 0.9.0
+
+49. **friGate CDN - smooth access to websites**
+   - ID: `mbacbcfdfaapbcnlnbmciiaakomhkbkb`
+   - Version: 2.1.207
+
+50. **Adbear**
+   - ID: `megdnjjcjgoiacejpegmfoeooleddmeb`
+   - Version: 2.16
+
+51. **Text to Speech: Voice Reader TTS**
+   - ID: `mhapkjngbbknjmpbnjbbhmogbhagncjd`
+   - Version: 1.0.1
+
+52. **netSafe: Сохрани свою анонимность!**
+   - ID: `mkmmbdcjmkngacdcmmjdfeapfmbncpfk`
+   - Version: 22.40
+
+53. **Base Image Downloader**
+   - ID: `nadenkhojomjfdcppbhhncbfakfjiabp`
+   - Version: 1.2.3
+
+54. **Grid Mode for Google Meet**
+   - ID: `nekgikkcllkpoehepjbckjnobdppbfff`
+   - Version: 1.2
+
+55. **VPN Surf - Fast VPN by unblock**
+   - ID: `nhnfcgpcbfclhfafjlooihdfghaeinfc`
+   - Version: 1.2.10
+
+56. **Stories for Instagram**
+   - ID: `nilbfjdbacfdodpbdondbbkmoigehodg`
+   - Version: 1.7.9
+
+57. **Venus Adblock**
+   - ID: `obeokabcpoilgegepbhlcleanmpgkhcp`
+   - Version: 0.9.3
+
+58. **TextSpeecher : Text to Speech**
+   - ID: `ofpofjdkohlmhjppphilpcpjgfenenja`
+   - Version: 0.1.3
+
+59. **Settings for Chrome**
+   - ID: `ojpnlpccfabehnhgomligckdldhcebnn`
+   - Version: 1.2.3
+
+60. **Among Us For PC**
+   - ID: `oljjpjahhpimckiicpgpbpfbpijhidoi`
+   - Version: 0.2
+
+61. **Downloader for Instagram**
+   - ID: `olkpikmlhoaojbbmmpejnimiglejmboe`
+   - Version: 5.7.3
+
+62. **SuperCopy - Enable Copy**
+   - ID: `onepmapfbjohnegdmfhndpefjkppbjkm`
+   - Version: 0.1.18
+
+63. **Adblock for Chrome**
+   - ID: `onomjaelhagjjojbkcafidnepbfkpnee`
+   - Version: 3.3.3
+
+64. **Moonrise Dark Theme**
+   - ID: `ooaehdahoiljphlijlaplnbeaeeimhbb`
+   - Version: 4.10
+
+65. **Opa video downloader**
+   - ID: `ophphnmgejinohdhkaocnieffjdbedde`
+   - Version: 0.3.2
+
+66. **ChatGPT Assistant - Smart Search**
+   - ID: `opngpmnmajecahkfibkbdkfckibnpajd`
+   - Version: 1.0.8
+
+67. **Attack on Titan New Tab, Wallpapers HD**
+   - ID: `pakhknagjaedcmhmodahdplmbgefekoc`
+   - Version: 1.4
+
+68. **Clickish fun cursors**
+   - ID: `pbdpfhmbdldfoioggnphkiocpidecmbp`
+   - Version: 1.1.6
+
+69. **Easy Undo Closed Tabs**
+   - ID: `pbebadpeajadcmaoofljnnfgofehnpeo`
+   - Version: 0.8.8
+
+70. **SkipAds - no more video ads!**
+   - ID: `pbgcleacpaihhcogohancpfbhphiifgf`
+   - Version: 1.0
+
+71. **Qspeed Video Speed Controller**
+   - ID: `pcjmcnhpobkjnhajhhleejfmpeoahclc`
+   - Version: 1.0.1
+
+72. **uBlocker - Ad Block Tool for Chrome**
+   - ID: `ppdonaappkjkbgbncmmjencphdclioab`
+   - Version: 1.4.7
+

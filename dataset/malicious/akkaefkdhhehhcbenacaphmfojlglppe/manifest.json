@@ -1,0 +1,174 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "__MSG_extName__",
+	"description": "__MSG_extDesc__",
+	"default_locale": "en",
+    "icons": {
+        "128": "img/128.png",
+        "64": "img/64.png",
+        "32": "img/32.png"
+    },
+    "browser_action": {
+        "default_icon": "img/32.png",
+        "default_title": "Loady",
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "scripts": [
+            "js/lib/grafy.js",
+            "js/lib/analytics.js",
+            "js/lib/jquery-3.1.1.min.js",
+            "js/lib/tools.js",
+            "js/_config.js",
+            "js/search-engine.js",
+            "js/background.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": [
+                "js/lib/jquery-3.1.1.min.js",
+                "js/lib/tools.js",
+                "js/lib/md5.min.js",
+                "js/_config.js",
+                "js/app.js",
+                "js/providers/abstract-provider.js"
+            ],
+            "css": ["css/app.css", "css/sidebar.css", "css/content.css"],
+            "all_frames": true
+        },
+        {
+            "matches": ["<all_urls>"],
+            "all_frames": true,
+            "js": [
+                "js/lib/analytics.js"
+            ]
+        },
+        {
+            "matches": ["*://*.facebook.com/*"],
+            "js": [
+                "js/providers/fb.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.instagram.com/*"],
+            "js": [
+                "js/providers/in.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.twitter.com/*"],
+            "js": [
+                "js/providers/tw.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.vimeo.com/*"],
+            "js": [
+                "js/providers/vm.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.deezer.com/*"], 
+            "js": [
+                "js/providers/dz.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://soundcloud.com/*"],
+            "js": [
+                "js/providers/sc.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.spotify.com/*"],
+            "js": [
+                "js/providers/sf.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://my.mail.ru/*"],
+            "js": [
+                "js/providers/mr.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.dailymotion.com/*"], 
+            "js": [
+                "js/providers/dm.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://music.yandex.ru/*", "*://music.yandex.ua/*"], 
+            "js": [
+                "js/providers/ya.js"
+            ],
+            "all_frames": true
+        },  
+        {
+            "matches": ["*://vk.com/*"],
+            "js": [                                     
+                "js/providers/vk.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://rt.pornhub.com/*"],
+            "js": [                                     
+                "js/providers/ph.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.xvideos.com/*"], 
+            "js": [                                     
+                "js/providers/xv.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["*://*.tiktok.com/*"], 
+            "js": [                                     
+                "js/providers/tt.js"
+            ],
+            "all_frames": true
+        },
+        {
+            "matches": ["<all_urls>"],
+            "js": [
+                "js/providers/xx.js",
+                "js/content.js"
+            ],
+            "css": ["css/app.css", "css/sidebar.css", "css/content.css"]
+        },
+        {
+            "matches": ["<all_urls>"],
+            "js": [
+                "js/analytics.js"
+            ],
+            "all_frames": true
+        }
+    ],
+    "content_security_policy": "script-src 'self' 'unsafe-eval' https://google-analytics.com; object-src 'self'",
+    "manifest_version": 2,
+    "permissions": [
+        "downloads",
+        "<all_urls>",
+        "storage",
+        "webRequest",
+        "webRequestBlocking"
+    ],
+    "web_accessible_resources": ["img/*"],
+    "version": "1.0.6"
+}

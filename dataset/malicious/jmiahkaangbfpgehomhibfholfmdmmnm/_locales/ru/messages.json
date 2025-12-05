@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Захват этой вкладки"
+   },
+   "description": {
+      "message": "Сделайте звук из своего браузера действительно потрясающим с помощью усилителя басов. Рабочий усилитель басов для наушников и динамиков."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "On"
+   },
+   "name": {
+      "message": "Bass Booster - Усиление Басов"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extension Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Extension Analyzer</h1>
+            <p>Upload a Chrome Extension (.zip) to analyze its security risks.</p>
+        </header>
+
+        <main>
+            <div class="upload-area" id="uploadArea">
+                <div class="icon">&#x1F4C1;</div>
+                <h3>Drag & Drop or Click to Upload</h3>
+                <p>Supports .zip files only</p>
+                <input type="file" id="fileInput" accept=".zip" hidden>
+            </div>
+
+            <div class="presets-area" style="margin-top: 2rem; text-align: center;">
+                <h3 style="margin-bottom: 1rem; color: #4b5563;">Or Try a Preset</h3>
+                <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+                    <button class="preset-btn benign" data-preset="benign_adguard">Benign: AdGuard</button>
+                    <button class="preset-btn benign" data-preset="benign_wappalyzer">Benign: Wappalyzer</button>
+                    <button class="preset-btn malicious" data-preset="malicious_fake_adblock">Malicious: Fake
+                        AdBlock</button>
+                    <button class="preset-btn malicious" data-preset="malicious_shopping">Malicious: Shopping
+                        Tool</button>
+                </div>
+            </div>
+
+            <div id="loading" class="hidden">
+                <div class="spinner"></div>
+                <p>Analyzing extension...</p>
+            </div>
+
+            <div id="results" class="hidden">
+                <h2 style="text-align: center; margin-bottom: 2rem; color: #1e293b;">
+                    Analysis Results: <span id="extensionName" style="color: #2563eb;"></span>
+                </h2>
+                <div class="score-card">
+                    <h2>Threat Score</h2>
+                    <div class="score-circle" id="scoreCircle">
+                        <span id="scoreValue">0</span>
+                    </div>
+                    <p id="threatLevelLabel" style="margin: 8px 0 4px 0; font-weight: 700; font-size: 1.1rem;">-</p>
+                    <p id="threatDescription" style="margin: 0 0 16px 0; color: #64748b; font-size: 0.9rem;">-</p>
+
+                    <!-- Visual Scale -->
+                    <div style="position: relative; width: 100%; max-width: 400px; margin: 0 auto;">
+                        <!-- Scale bar -->
+                        <div
+                            style="height: 12px; border-radius: 6px; background: linear-gradient(to right, #22c55e 0%, #22c55e 25%, #f59e0b 25%, #f59e0b 50%, #f97316 50%, #f97316 75%, #ef4444 75%, #ef4444 100%); position: relative; box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);">
+                            <!-- Indicator -->
+                            <div id="scaleIndicator"
+                                style="position: absolute; top: -4px; left: 0%; width: 4px; height: 20px; background: #1e293b; border-radius: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: left 0.3s ease;">
+                            </div>
+                        </div>
+                        <!-- Labels -->
+                        <div
+                            style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 0.75rem; color: #64748b;">
+                            <span style="font-weight: 600;">0</span>
+                            <span style="font-weight: 600; color: #22c55e;">50</span>
+                            <span style="font-weight: 600; color: #f59e0b;">100</span>
+                            <span style="font-weight: 600; color: #f97316;">200</span>
+                            <span style="font-weight: 600; color: #ef4444;">400+</span>
+                        </div>
+                        <div
+                            style="display: flex; justify-content: space-between; margin-top: 4px; font-size: 0.7rem; color: #94a3b8; font-weight: 500;">
+                            <span>Low</span>
+                            <span>Medium</span>
+                            <span>High</span>
+                            <span>Critical</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="score-card">
+                    <h2>Malicious Probability</h2>
+                    <div class="score-circle" id="mlCircle">
+                        <span id="mlValue">0%</span>
+                    </div>
+                    <p id="mlLabel" style="margin-top: 10px; font-weight: 600;">Unknown</p>
+
+
+
+                    <div id="mlFeatures" class="hidden" style="margin-top: 15px; text-align: left; width: 100%;">
+                        <h4 style="font-size: 0.9rem; color: #4b5563; margin-bottom: 5px;">Top Risk Factors:</h4>
+                        <ul id="mlFeaturesList" style="font-size: 0.85rem; padding-left: 20px; color: #374151;"></ul>
+                    </div>
+                </div>
+
+                <!-- Phase 2: Score Breakdown Visualization -->
+                <div id="scoreBreakdownSection" class="score-card" style="display: none; margin-top: 24px;">
+                    <h3
+                        style="margin: 0 0 16px 0; color: #1e293b; font-size: 1.1rem; border-bottom: 2px solid #e2e8f0; padding-bottom: 8px;">
+                        Score Breakdown & Analysis
+                    </h3>
+
+                    <!-- Raw vs Normalized Comparison -->
+                    <div style="background: #f8fafc; padding: 16px; border-radius: 8px; margin-bottom: 20px;">
+                        <h4 style="margin: 0 0 12px 0; font-size: 0.95rem; color: #475569;">Score Normalization</h4>
+                        <div
+                            style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
+                            <div>
+                                <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 4px;">Raw Score</div>
+                                <div id="rawScore" style="font-size: 1.5rem; font-weight: 700; color: #ef4444;">-</div>
+                            </div>
+                            <div>
+                                <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 4px;">Size Factor</div>
+                                <div id="sizeFactor" style="font-size: 1.5rem; font-weight: 700; color: #8b5cf6;">-
+                                </div>
+                            </div>
+                            <div>
+                                <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 4px;">Normalized Score
+                                </div>
+                                <div id="normalizedScore" style="font-size: 1.5rem; font-weight: 700; color: #10b981;">-
+                                </div>
+                            </div>
+                            <div>
+                                <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 4px;">Files Analyzed
+                                </div>
+                                <div id="filesAnalyzed" style="font-size: 1.5rem; font-weight: 700; color: #3b82f6;">-
+                                </div>
+                            </div>
+                        </div>
+                        <p style="margin: 12px 0 0 0; font-size: 0.8rem; color: #64748b; font-style: italic;">
+                            Large extensions receive size normalization to avoid unfair penalty
+                        </p>
+                    </div>
+
+                    <!-- Capability vs Behavior Split -->
+                    <div style="background: #f8fafc; padding: 16px; border-radius: 8px; margin-bottom: 20px;">
+                        <h4 style="margin: 0 0 12px 0; font-size: 0.95rem; color: #475569;">Capability vs. Behavior</h4>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                            <div style="text-align: center;">
+                                <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 8px; font-weight: 600;">
+                                    CAPABILITY<br>
+                                    <span style="font-weight: 400; font-size: 0.7rem;">(What it CAN do)</span>
+                                </div>
+                                <div id="capabilityScore"
+                                    style="font-size: 2rem; font-weight: 700; color: #f59e0b; margin-bottom: 8px;">-
+                                </div>
+                                <div style="font-size: 0.75rem; color: #64748b;">Permissions, Hosts, CSP</div>
+                            </div>
+                            <div style="text-align: center;">
+                                <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 8px; font-weight: 600;">
+                                    BEHAVIOR<br>
+                                    <span style="font-weight: 400; font-size: 0.7rem;">(What it DOES)</span>
+                                </div>
+                                <div id="behaviorScore"
+                                    style="font-size: 2rem; font-weight: 700; color: #ef4444; margin-bottom: 8px;">-
+                                </div>
+                                <div style="font-size: 0.75rem; color: #64748b;">Code Patterns, APIs</div>
+                            </div>
+                        </div>
+                        <!-- Visual bar -->
+                        <div style="margin-top: 16px;">
+                            <div
+                                style="height: 30px; border-radius: 15px; overflow: hidden; display: flex; box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);">
+                                <div id="capabilityBar"
+                                    style="background: linear-gradient(135deg, #fbbf24, #f59e0b); display: flex; align-items: center; justify-content: center; color: white; font-weight: 600; font-size: 0.8rem; transition: width 0.3s ease;">
+                                </div>
+                                <div id="behaviorBar"
+                                    style="background: linear-gradient(135deg, #f87171, #ef4444); display: flex; align-items: center; justify-content: center; color: white; font-weight: 600; font-size: 0.8rem; transition: width 0.3s ease;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Category Breakdown Table -->
+                    <div style="background: #f8fafc; padding: 16px; border-radius: 8px;">
+                        <h4 style="margin: 0 0 12px 0; font-size: 0.95rem; color: #475569;">Score by Category</h4>
+                        <div id="categoryBreakdownTable" style="overflow-x: auto;">
+                            <!-- Table will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Metadata Section -->
+                <div class="metadata-section"
+                    style="background: #f8fafc; padding: 16px; border-radius: 8px; margin-bottom: 24px;">
+                    <h4
+                        style="margin: 0 0 12px 0; color: #475569; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+                        Analysis Information</h4>
+                    <div
+                        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; font-size: 0.85rem;">
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Extension Version:</span>
+                            <span id="extensionVersion"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Manifest:</span>
+                            <span id="manifestVersion"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">JS Files Analyzed:</span>
+                            <span id="jsFileCount"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Total Findings:</span>
+                            <span id="totalFindings"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Analyzer Version:</span>
+                            <span id="analyzerVersion"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Analysis Time:</span>
+                            <span id="analysisDuration"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Parse Errors:</span>
+                            <span id="errorCount"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px;">-</span>
+                        </div>
+                        <div>
+                            <span style="color: #64748b; font-weight: 500;">Timestamp:</span>
+                            <span id="analysisTimestamp"
+                                style="color: #1e293b; font-weight: 600; display: block; margin-top: 2px; font-size: 0.8rem;">-</span>
+                        </div>
+                    </div>
+                    <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #e2e8f0;">
+                        <span style="color: #64748b; font-weight: 500; font-size: 0.8rem;">Content Hash (SHA256):</span>
+                        <code id="contentHash"
+                            style="display: block; margin-top: 4px; padding: 6px 8px; background: white; border-radius: 4px; font-size: 0.7rem; color: #475569; word-break: break-all; font-family: 'Courier New', monospace;">-</code>
+                    </div>
+                    <div style="margin-top: 12px; text-align: right;">
+                        <button id="exportJsonBtn"
+                            style="padding: 8px 16px; background: #2563eb; color: white; border: none; border-radius: 6px; font-size: 0.85rem; font-weight: 600; cursor: pointer; transition: background 0.2s;"
+                            onmouseover="this.style.background='#1d4ed8'" onmouseout="this.style.background='#2563eb'">
+                            Export Full Report (JSON)
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Summary Cards -->
+                <div id="severitySummary" class="hidden" style="margin-bottom: 24px;">
+                    <h3 style="margin-bottom: 12px; color: #1e293b;">Risk Summary</h3>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
+                        <div class="severity-card" data-severity="Critical"
+                            style="background: #fef2f2; border: 2px solid #fecaca; border-radius: 8px; padding: 16px; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;"
+                            onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(220, 38, 38, 0.2)';"
+                            onmouseout="this.style.transform=''; this.style.boxShadow='';">
+                            <div style="font-size: 2rem; font-weight: 700; color: #dc2626;" id="criticalCount">0</div>
+                            <div
+                                style="font-size: 0.85rem; color: #991b1b; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+                                Critical</div>
+                        </div>
+                        <div class="severity-card" data-severity="High"
+                            style="background: #fff7ed; border: 2px solid #fed7aa; border-radius: 8px; padding: 16px; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;"
+                            onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(234, 88, 12, 0.2)';"
+                            onmouseout="this.style.transform=''; this.style.boxShadow='';">
+                            <div style="font-size: 2rem; font-weight: 700; color: #ea580c;" id="highCount">0</div>
+                            <div
+                                style="font-size: 0.85rem; color: #9a3412; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+                                High</div>
+                        </div>
+                        <div class="severity-card" data-severity="Medium"
+                            style="background: #fefce8; border: 2px solid #fef08a; border-radius: 8px; padding: 16px; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;"
+                            onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(202, 138, 4, 0.2)';"
+                            onmouseout="this.style.transform=''; this.style.boxShadow='';">
+                            <div style="font-size: 2rem; font-weight: 700; color: #ca8a04;" id="mediumCount">0</div>
+                            <div
+                                style="font-size: 0.85rem; color: #854d0e; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+                                Medium</div>
+                        </div>
+                        <div class="severity-card" data-severity="Low"
+                            style="background: #f7fee7; border: 2px solid #d9f99d; border-radius: 8px; padding: 16px; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;"
+                            onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(101, 163, 13, 0.2)';"
+                            onmouseout="this.style.transform=''; this.style.boxShadow='';">
+                            <div style="font-size: 2rem; font-weight: 700; color: #65a30d;" id="lowCount">0</div>
+                            <div
+                                style="font-size: 0.85rem; color: #3f6212; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+                                Low</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="riskImpactSection" class="report-section hidden">
+                    <div
+                        style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                        <h3 style="margin: 0;">Risk Impact Analysis</h3>
+                        <div id="severityFilters" style="display: flex; gap: 6px; flex-wrap: wrap;">
+                            <button class="filter-btn active" data-filter="all"
+                                style="padding: 6px 12px; border: 1px solid #e2e8f0; border-radius: 6px; background: #1e293b; color: white; font-size: 0.75rem; cursor: pointer; font-weight: 600; transition: all 0.2s;">All</button>
+                            <button class="filter-btn" data-filter="Critical"
+                                style="padding: 6px 12px; border: 1px solid #fecaca; border-radius: 6px; background: white; color: #dc2626; font-size: 0.75rem; cursor: pointer; font-weight: 600; transition: all 0.2s;">Critical</button>
+                            <button class="filter-btn" data-filter="High"
+                                style="padding: 6px 12px; border: 1px solid #fed7aa; border-radius: 6px; background: white; color: #ea580c; font-size: 0.75rem; cursor: pointer; font-weight: 600; transition: all 0.2s;">High</button>
+                            <button class="filter-btn" data-filter="Medium"
+                                style="padding: 6px 12px; border: 1px solid #fef08a; border-radius: 6px; background: white; color: #ca8a04; font-size: 0.75rem; cursor: pointer; font-weight: 600; transition: all 0.2s;">Medium</button>
+                            <button class="filter-btn" data-filter="Low"
+                                style="padding: 6px 12px; border: 1px solid #d9f99d; border-radius: 6px; background: white; color: #65a30d; font-size: 0.75rem; cursor: pointer; font-weight: 600; transition: all 0.2s;">Low</button>
+                        </div>
+                    </div>
+                    <p style="color: #64748b; font-size: 0.9rem; margin-bottom: 1rem;">
+                        Detailed security findings with severity assessments and impact descriptions
+                    </p>
+                    <div id="riskImpactList"></div>
+                </div>
+
+                <div class="report-section">
+                    <h3>Detailed Findings</h3>
+                    <ul id="findingsList"></ul>
+                </div>
+            </div>
+
+            <div id="error" class="hidden error-message"></div>
+        </main>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

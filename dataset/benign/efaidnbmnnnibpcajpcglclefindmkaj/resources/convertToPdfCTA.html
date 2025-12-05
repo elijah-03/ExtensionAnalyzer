@@ -1,0 +1,67 @@
+<!--
+/*************************************************************************
+* ADOBE CONFIDENTIAL
+* ___________________
+*
+*  Copyright 2025 Adobe Systems Incorporated
+*  All Rights Reserved.
+*
+* NOTICE:  All information contained herein is, and remains
+* the property of Adobe Systems Incorporated and its suppliers,
+* if any.  The intellectual and technical concepts contained
+* herein are proprietary to Adobe Systems Incorporated and its
+* suppliers and are protected by all applicable intellectual property laws,
+* including trade secret and or copyright laws.
+* Dissemination of this information or reproduction of this material
+* is strictly forbidden unless prior written permission is obtained
+* from Adobe Systems Incorporated.
+**************************************************************************/
+-->
+
+<style>
+.acrobat-covert-to-pdf-native-viewer-touch-point {
+    display: none;
+    position: relative;
+    text-decoration: none;
+    padding: 8px 16px;
+    font-family: "AdobeClean-Regular", "Source Sans Pro", "system-ui";
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 100px;
+    border: 2px solid rgb(75, 75, 75);
+    color: rgb(235, 235, 235);
+    background: rgba(0, 0, 0, 0.75);
+    pointer-events: all;
+    float: left;
+    align-items: center;
+}
+
+@media screen and (min-width: 1201px) {
+    .acrobat-covert-to-pdf-native-viewer-touch-point {
+        display: inline-flex;
+    }
+}
+
+.acrobat-covert-to-pdf-native-viewer-touch-point:hover {
+    background: rgb(75, 75, 75);
+    cursor: pointer;
+}
+
+.acrobat-covert-to-pdf-native-viewer-touch-point-text {
+    padding-bottom: 2px;
+    color: rgb(255, 255, 255);
+}
+
+.acrobat-covert-to-pdf-native-viewer-touch-point > .acrobat-icon {
+    width: 18px;
+    height: 18px;
+    vertical-align: middle !important;
+    margin-right: 8px;
+}
+</style>
+
+<div id="convert-to-pdf-cta" class="acrobat-covert-to-pdf-native-viewer-touch-point">
+  <img class="acrobat-icon" src="">
+  <span id="gmailConvertToPdf" class="acrobat-covert-to-pdf-native-viewer-touch-point-text translate"></span>
+</div>
+

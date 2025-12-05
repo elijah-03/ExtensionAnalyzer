@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "低音增強此選項卡"
+   },
+   "description": {
+      "message": "Bass Booster - customise bass settings in a browser. Working bass booster for headphones and speakers. Volume Booster"
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - 低音助推器"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

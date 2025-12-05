@@ -1,0 +1,57 @@
+.ui-switcher {
+  background-color: #6F6F6F;
+  box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.25);
+  display: inline-block;
+  height: 20px;
+  width: 48px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  vertical-align: middle;
+  position: relative;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: -2px 4px 0 0;
+}
+.ui-switcher:before {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  font-size: 12px;
+  font-weight: 400;
+  color: #ffffff;
+  line-height: 1;
+  display: inline-block;
+  position: absolute;
+  top: 4px;
+  height: 12px;
+  width: 20px;
+  text-align: center;
+}
+.ui-switcher[aria-checked=false]:before {
+  content: 'Off';
+  right: 7px;
+}
+.ui-switcher[aria-checked=true]:before {
+  content: 'On';
+  left: 7px;
+}
+.ui-switcher[aria-checked=true] {
+  background-color: #865EC7;
+}
+.ui-switcher:after {
+  background-color: #ffffff;
+  content: '\0020';
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  height: 16px;
+  width: 16px;
+  border-radius: 20px;
+  transition: left 0.25s;
+  border: 1px solid #BDCDE6;
+}
+.ui-switcher[aria-checked=false]:after {
+  left: 2px;
+}
+.ui-switcher[aria-checked=true]:after {
+  left: 30px;
+}

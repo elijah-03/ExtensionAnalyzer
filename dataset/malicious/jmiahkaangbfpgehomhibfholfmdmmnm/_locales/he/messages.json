@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "בס לשפר את הכרטיסייה הזו"
+   },
+   "description": {
+      "message": "הפוך צליל מהדפדפן שלך באמת מדהים עם האפליקציה מגבר בס. מגבר באס עובד עבור אוזניות ורמקולים."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - מגבר בס"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "બાસ આ ટેબ બૂસ્ટ કરો"
+   },
+   "description": {
+      "message": "આ બાઝ બૂસ્ટર એપ્લિકેશનથી ખરેખર અદ્ભુત તમારા બ્રાઉઝરથી ધ્વનિ બનાવો. હેડફોનો અને સ્પીકરો માટે બાસ બૂસ્ટરનું કામ કરે છે."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - બાસ બુસ્ટર"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

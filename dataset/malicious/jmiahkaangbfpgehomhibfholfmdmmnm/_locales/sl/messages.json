@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bass Izboljšajte to kartico"
+   },
+   "description": {
+      "message": "Zvok iz brskalnika bo res super s to aplikacijo za bass boost. Delovni bas-ojačevalnik za slušalke in zvočnike."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Bas Ojačevalci"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

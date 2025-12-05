@@ -1,0 +1,14 @@
+{
+   "extDesc": {
+      "message": "Noir colored themes for the web"
+   },
+   "extName": {
+      "message": "La notte"
+   },
+   "addToBlacklist": {
+      "message": "Add to blacklist"
+   },
+   "removeFromBlacklist": {
+      "message": "Remove from blacklist"
+   }
+}

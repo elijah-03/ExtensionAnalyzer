@@ -1,0 +1,36 @@
+<!DOCTYPE html><html><head><link rel="stylesheet" type="text/css" href="popup.css"><style>@font-face {
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Titillium Web Regular'), local('TitilliumWeb-Regular'),
+            url('./fonts/titillium-web-v8-latin-regular.woff2') format('woff2')
+      }
+      @font-face {
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 600;
+        src: local('Titillium Web SemiBold'), local('TitilliumWeb-SemiBold'),
+            url('./fonts/titillium-web-v8-latin-600.woff2') format('woff2')
+      }
+      @font-face {
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 700;
+        src: local('Titillium Web Bold'), local('TitilliumWeb-Bold'),
+            url('./fonts/titillium-web-v8-latin-700.woff2') format('woff2')
+      }
+
+      @font-face {
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Ubuntu Regular'), local('Ubuntu-Regular'),
+            url('./fonts/ubuntu-v14-latin-regular.woff2') format('woff2');
+      }
+      @font-face {
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 500;
+        src: local('Ubuntu Medium'), local('Ubuntu-Medium'),
+            url('./fonts/ubuntu-v14-latin-500.woff2') format('woff2');
+      }</style></head><body style="width: 400px; min-height: 237px;"><div class="w-100" style="height: 56px; padding: 10px 16px; box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.15);"><button type="button" class="btn btn-warning download" style="display: inline-block; width: 114px; height: 36px; background: #FBC438; border: 2px solid #FBC438; font-size: 14px; color: white; font-family: 'Ubuntu';">Download all</button> <button type="button" class="btn btn-warning update" style="display: inline-block; width: 114px; height: 36px; background: #FBC438; border: 2px solid #FBC438; font-size: 13px; color: white; font-family: 'Ubuntu';">Apply settings</button> <button id="settings-btn" type="button" class="btn btn-primary" style="background: transparent !important; border: none; float: right; transform: rotate(90deg);"><i style="font-size: 24px; color: #4072A0;" class="fa fa-sliders" aria-hidden="true"></i></button></div><div id="settings-field" class="d-none" style="background: white; position: absolute; top: 56px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15); border-radius: 4px; border-top: none; border-top-left-radius: 0; border-top-right-radius: 0; width: 100%;"><div style="padding: 10px 16px; height: 90px;"><h1 style="color: #566282; font-size: 16px; font-family: 'Ubuntu'; font-weight: 500; margin-bottom: 8px;">Image width</h1><input id="slider-width" type="hidden" class="slider-input" value="0, 5000" min="0" max="5000"><div class="w-100"><div style="text-align: center; width: 70px; height: 26px; float: left; margin-top: 11px; border: 1px solid #C4C4C4; box-sizing: border-box; box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.25); border-radius: 3px;"><h1 class="s-min-width" style="font-family: Titillium Web; font-size: 16px; line-height: 24px;color: #707070;">0</h1></div><div style="text-align: center; width: 70px; height: 26px; float: right; margin-top: 11px; border: 1px solid #C4C4C4; box-sizing: border-box; box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.25); border-radius: 3px;"><h1 class="s-max-width" style="font-family: Titillium Web; font-size: 16px; line-height: 24px;color: #707070;">5000</h1></div></div></div><div style="padding: 10px 16px; height: 90px;"><h1 style="color: #566282; font-size: 16px; font-family: 'Ubuntu'; font-weight: 500; margin-bottom: 8px;">Image height</h1><input id="slider-height" type="hidden" class="slider-input" value="0, 5000" min="0" max="5000"><div class="w-100"><div style="text-align: center; width: 70px; height: 26px; float: left; margin-top: 11px; border: 1px solid #C4C4C4; box-sizing: border-box; box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.25); border-radius: 3px;"><h1 class="s-min-height" style="font-family: Titillium Web; font-size: 16px; line-height: 24px;color: #707070;">0</h1></div><div style="text-align: center; width: 70px; height: 26px; float: right; margin-top: 11px; border: 1px solid #C4C4C4; box-sizing: border-box; box-shadow: inset 0px 0px 3px rgba(0, 0, 0, 0.25); border-radius: 3px;"><h1 class="s-max-height" style="font-family: Titillium Web; font-size: 16px; line-height: 24px;color: #707070;">5000</h1></div></div></div></div><div class="content"></div><script src="popup.js"></script></body></html>

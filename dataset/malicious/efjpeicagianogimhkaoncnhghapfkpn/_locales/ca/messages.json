@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Video Downloader - click&save",
+    "description": "Video Downloader - click&save"
+  },
+
+  "appDesc": {
+    "message": "Download any video with a simple mouse click",
+    "description":"Download any video with a simple mouse click"
+  },
+
+  "defTitle": { "message":"Click for options"}
+
+}

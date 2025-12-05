@@ -1,0 +1,1 @@
+!function(){document.head.setAttribute("lang",chrome.i18n.getMessage("lang")),document.querySelector(".thankyou-block .text").innerText=chrome.i18n.getMessage("extName"),document.querySelector(".info-block .text").innerText=chrome.i18n.getMessage("thankyouText"),document.querySelector(".reload-block .text").innerText=chrome.i18n.getMessage("reloadPageLong")}();

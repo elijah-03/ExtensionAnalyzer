@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bass Zwiększ tę kartę"
+   },
+   "description": {
+      "message": "Spraw, by dźwięk z Twojej przeglądarki był naprawdę niesamowity dzięki tej aplikacji wzmacniającej bas. Działający wzmacniacz basów do słuchawek i głośników."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Bas wzmacniacz"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

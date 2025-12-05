@@ -1,0 +1,23 @@
+# Chrome Extension Security Analyzer - Dependencies
+# Core web framework
+Flask>=3.0.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+shap>=0.50.0
+numpy>=2.0.0
+pandas>=2.0.0
+
+# JavaScript parsing for static analysis
+esprima>=4.0.1
+
+# HTTP requests for dataset collection
+requests>=2.30.0
+
+# Visualization (for evaluation scripts)
+matplotlib>=3.0.0
+seaborn>=0.12.0
+
+# Utilities (transitive dependencies, pinned for compatibility)
+joblib>=1.3.0
+tqdm>=4.60.0

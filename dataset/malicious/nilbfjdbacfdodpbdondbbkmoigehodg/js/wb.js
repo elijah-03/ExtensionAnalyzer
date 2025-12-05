@@ -1,0 +1,1 @@
+document.querySelector("._1").innerHTML=chrome.i18n.getMessage("wb1"),document.querySelector("._2").innerHTML=chrome.i18n.getMessage("wb2"),document.querySelector("._3").innerHTML=chrome.i18n.getMessage("wb3");

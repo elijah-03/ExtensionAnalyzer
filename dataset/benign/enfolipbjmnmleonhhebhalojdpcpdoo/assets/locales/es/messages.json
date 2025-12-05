@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "Screenshot reader™"
+    },
+    "appDesc": {
+        "message": "Soporte de lectura de pantalla para la lectura y escritura para Google Chrome™"
+    },
+    "commandFocus": {
+        "message": "Focus"
+    }
+}

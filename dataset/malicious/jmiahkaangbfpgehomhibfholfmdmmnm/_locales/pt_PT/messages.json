@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bass Boost esta aba"
+   },
+   "description": {
+      "message": "Faça um som do seu navegador realmente incrível com este aplicativo reforço de baixo. Reforço de graves de trabalho para fones de ouvido e alto-falantes."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Reforço de Graves"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

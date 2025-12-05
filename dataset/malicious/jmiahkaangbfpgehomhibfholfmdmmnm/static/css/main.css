@@ -1,0 +1,372 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,400&display=swap);
+* {
+    font-family: Roboto, sans-serif;
+}
+.slider {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    height: 170px;
+    justify-content: space-between;
+    width: 34px;
+}
+.app {
+    align-content: flex-start;
+    align-items: center;
+    background: #252525;
+    box-shadow: 0px 4.53039px 4.53039px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10.1934px);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 290px !important;
+    width: 483px;
+}
+.app .close {
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    color: inherit;
+    height: 32px;
+    opacity: 0.6;
+    position: relative;
+    vertical-align: middle;
+    width: 32px;
+}
+.app .close:focus,
+.app .close:hover {
+    background: hsla(0, 0%, 50%, 0.5);
+    opacity: 1;
+}
+.app .close:active {
+    background: hsla(0, 0%, 50%, 0.9);
+}
+.app .close:after,
+.app .close:before {
+    background-color: currentColor;
+    content: " ";
+    height: 20px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    width: 4px;
+}
+.app .close:before {
+    -webkit-transform: translate(-50%, -50%) rotate(45deg);
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+.app .close:after {
+    -webkit-transform: translate(-50%, -50%) rotate(-45deg);
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+.app .hide {
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    color: inherit;
+    height: 32px;
+    opacity: 0.6;
+    position: relative;
+    vertical-align: middle;
+    width: 32px;
+}
+.app .hide:focus,
+.app .hide:hover {
+    background: hsla(0, 0%, 50%, 0.5);
+    opacity: 1;
+}
+.app .hide:active {
+    background: hsla(0, 0%, 50%, 0.9);
+}
+.app .hide:before {
+    background-color: currentColor;
+    content: " ";
+    height: 20px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%) rotate(90deg);
+    transform: translate(-50%, -50%) rotate(90deg);
+    width: 4px;
+}
+.app .left {
+    display: none;
+}
+.app .left .slider {
+    height: 300px;
+}
+.app .right .slider label {
+    border: 10px solid transparent;
+    color: white;
+    position: absolute;
+}
+.app .right {
+    align-content: space-between;
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    height: 100%;
+    width: 100%;
+}
+.app .right .actions {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+.app .right .actions .action {
+    display: flex;
+}
+.app .right .bottoms {
+    margin-left: 0;
+    padding-left: 0;
+}
+.app .bottoms .controlls {
+    justify-content: flex-end;
+}
+.app .bottoms .controlls,
+.app .bottoms .controlls .buttons {
+    align-items: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    margin-right: 16px;
+    margin-left: 12px;
+}
+.app .bottoms .controlls .buttons {
+    align-content: center;
+    width: 100%;
+}
+.app .bottoms .controlls .buttons button {
+    cursor: pointer;
+}
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+.titleText {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+.title {
+    align-content: center;
+    align-items: center;
+    border-left: 10px solid transparent;
+    margin: 0 0 0 1rem;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 1rem;
+    max-width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: break-all;
+}
+#tab-Bass Booster {
+    display: none;
+}
+div[value="Bass Booster"] {
+    display: none;
+}
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 35px;
+    height: 19px;
+    margin-right: 1rem;
+}
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.switcher {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+.switcher:before {
+    position: absolute;
+    content: "";
+    height: 25px;
+    width: 25px;
+    bottom: -4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    -webkit-transform: translateX(-5px);
+    -ms-transform: translateX(-5px);
+    transform: translateX(-5px);
+}
+input:checked + .switcher {
+    background: linear-gradient(180deg, #ffe600 0%, #e38800 100%);
+}
+input:checked + .switcher:before {
+    background: url("../../icons/ThumbGroup.svg") center center no-repeat;
+}
+input:focus + .switcher {
+    box-shadow: 0 0 1px linear-gradient(180deg, #ffe600 0%, #e38800 100%);
+}
+input:checked + .switcher:before {
+    -webkit-transform: translateX(15px);
+    -ms-transform: translateX(15px);
+    transform: translateX(15px);
+}
+.switcher.round {
+    border-radius: 34px;
+    border: 1px solid #b6b6b6;
+}
+.switcher.round:before {
+    border-radius: 50%;
+    background: url("../../icons/ThumbGroup.svg") center center no-repeat;
+}
+.confirmationText {
+    position: absolute;
+    bottom: 5px;
+    left: 39%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.confirmationText.fade-in {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.bassBoostItem {
+    background: #333333;
+    display: flex;
+    cursor: pointer;
+}
+
+.bassBoostersContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bassBoosters {
+    background: rgba(51, 51, 51, 0.87);
+    box-shadow: 0px 1.1326px 9.06078px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(3.39779px);
+    border-radius: 5px;
+    margin: 1.5rem;
+    margin-top: 1rem;
+    padding: 16px;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    margin: 30px 19px;
+    width: 365px;
+    background: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 16px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 1px 1px 1px #000000;
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 31px;
+    width: 31px;
+    border-radius: 50%;
+    background: url("../../icons/ThumbGroup.svg") center center no-repeat;
+    margin-top: -8px;
+}
+input[type="range"]:focus::-webkit-slider-runnable-track {
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+}
+input[type="range"]::-moz-range-track {
+    width: 100%;
+    height: 10px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 1px 1px 1px #000000;
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+input[type="range"]::-moz-range-thumb {
+    box-shadow: 1px 1px 1px #000000;
+    border: 1px solid #000000;
+    height: 30px;
+    width: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="range"]::-ms-track {
+    width: 100%;
+    height: 10px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+input[type="range"]::-ms-fill-lower {
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+    border: 1px solid #000000;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px #000000;
+}
+input[type="range"]::-ms-fill-upper {
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+    border: 1px solid #000000;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px #000000;
+}
+input[type="range"]::-ms-thumb {
+    margin-top: 1px;
+    box-shadow: 1px 1px 1px #000000;
+    border: 1px solid #000000;
+    height: 30px;
+    width: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="range"]:focus::-ms-fill-lower {
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+}
+input[type="range"]:focus::-ms-fill-upper {
+    background: linear-gradient(90deg, #ffe600 1.11%, #e38800 100%);
+}
+
+.rightSide {
+    display: flex;
+    align-items: center;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+}

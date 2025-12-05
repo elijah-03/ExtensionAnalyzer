@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="./lib/bootstrap.css">
+    <link href="lib/jquery/switcher.css" rel="stylesheet">
+    <link href="./styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="content">
+      <div class="item">
+        <img id="logo" src="icons/logo.png">
+        <div class="form-check form-check-inline">
+          <input class="form-check-input" type="checkbox" id="toggleSwitch" checked>
+        </div>
+      </div>
+
+      <div class="mt-2 cont howTo-container">
+        <h3 class="red">How to use the extension</h3>
+        <h3 class="howTo-text">Speed controls appear in the overlay over the video</h3>
+      </div>
+      <div class="cont mb-1">
+        <h3 class="red" style="margin-bottom: 10px;">Use keyboard shortcuts</h3>
+        <img class="btn-shortcut r-btn" src="/popup-icons/r-button.svg" width="27px" height="27px">
+        <h3 class="ml-2">- default playback speed</h3>
+      </div>
+      <div class="cont mb-1">
+        <img class="btn-shortcut s-btn" src="/popup-icons/s-button.svg" width="27px" height="27px">
+        <h3 class="ml-2">- slow down</h3>
+      </div>
+      <div class="cont mb-1">
+        <img class="btn-shortcut d-btn" src="/popup-icons/d-button.svg" width="27px" height="27px">
+        <h3 class="ml-2">- increase speed</h3>
+      </div>
+      <div class="cont mb-4">
+        <img class="btn-shortcut v-btn" src="/popup-icons/v-button.svg" width="27px" height="27px">
+        <h3 class="ml-2">- close controls</h3>
+      </div>
+    </div>
+    
+    <script src="popup.js"></script>
+  </body>
+</html>

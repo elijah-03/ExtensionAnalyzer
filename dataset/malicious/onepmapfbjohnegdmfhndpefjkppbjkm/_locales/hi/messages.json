@@ -1,0 +1,44 @@
+{
+	"name":{
+		"message":"SuperCopy सुपर कॉपी"
+	},
+	"description":{
+		"message":"हर साइट में राइट क्लिक, सेलेक्ट, कॉपी और पेस्ट की अनुमति दें। क्रैक को कॉपी करें, कॉपी को सक्षम करें, राइट क्लिक को इनेबल करें, सेलेक्ट को सक्षम करें।"
+	},
+  "crackTips":{
+    "message":"कॉपी सक्षम करें"
+  },
+  "enableTips":{
+    "message":"क्रैक पर क्लिक करें"
+  },
+  "disableTips":{
+    "message":"रद्द करने के लिए क्लिक करें"
+  },
+  "cannotTips":{
+    "message":"क्रैक नहीं कर सकते"
+  },
+  "domainLists":{
+    "message":"डोमेन सूची"
+  },
+  "rate":{
+    "message":"मूल्यांकन करें"
+  },
+  "delete":{
+    "message":"डोमेन हटाएं"
+  },
+  "tips":{
+    "message":"टिप्स"
+  },
+  "domainListsTips":{
+    "message":"जब डोमेन इस सूची में हो तो SuperCopy सक्षम करें।"
+  },
+  "copy":{
+    "message":"नकल"
+  },
+  "copySuccess":{
+    "message":"सफलता"
+  },
+  "copyFail":{
+    "message":"असफल"
+  }
+}

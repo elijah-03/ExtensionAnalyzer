@@ -1,0 +1,44 @@
+{
+	"name":{
+		"message":"SuperCopy Súper copia"
+	},
+	"description":{
+		"message":"Permitir hacer clic con el botón derecho, seleccionar, copiar y pegar en cada sitio. Habilitar copia, habilitar copiar, habilitar hacer clic con el botón derecho, habilitar seleccionar."
+	},
+  "crackTips":{
+    "message":"Grieta Desactivar Copia"
+  },
+  "enableTips":{
+    "message":"Haga clic para crackear Desactivar copia"
+  },
+  "disableTips":{
+    "message":"Haga clic para cancelar la grieta"
+  },
+  "cannotTips":{
+    "message":"No puedo descifrar este sitio"
+  },
+  "domainLists":{
+    "message":"Listas de dominios"
+  },
+  "rate":{
+    "message":"Velocidad"
+  },
+  "delete":{
+    "message":"Eliminar dominio"
+  },
+  "tips":{
+    "message":"Consejos"
+  },
+  "domainListsTips":{
+    "message":"Habilite SuperCopy cuando el dominio esté en esta lista."
+  },
+  "copy":{
+    "message":"Copy"
+  },
+  "copySuccess":{
+    "message":"Success"
+  },
+  "copyFail":{
+    "message":"Fail"
+  }
+}

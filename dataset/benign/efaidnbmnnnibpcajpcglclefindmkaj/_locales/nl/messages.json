@@ -1,0 +1,902 @@
+{
+  "web2pdfExtnName": {
+    "message": "Adobe Acrobat: tools voor PDF's bewerken, converteren en ondertekenen"
+  },
+  "web2pdfExtnNameBeta": {
+    "message": "Adobe Acrobat Beta"
+  },
+  "web2pdfExtnNameStage": {
+    "message": "Adobe Acrobat Stage"
+  },
+  "web2pdfExtnDescriptionChrome": {
+    "message": "Doe meer in Google Chrome met de Adobe Acrobat PDF-tools voor weergeven, invullen, opmerkingen en ondertekenen. Probeer ook de tools voor converteren en comprimeren."
+  },
+  "web2pdfExtnDescriptionEdge": {
+    "message": "Doe meer in Microsoft Edge met Adobe Acrobat PDF-tools. Opmerkingen, ondertekenen en probeer ook de tools Bewerken en Converteren."
+  },
+  "web2pdfExtnNameEdge": {
+    "message": "Adobe Acrobat: tools voor PDF's bewerken, converteren en ondertekenen"
+  },
+  "web2pdfExtnDescription": {
+    "message": "Gebruik Acrobat in uw browser om PDF’s weer te geven, te converteren, te comprimeren en te ondertekenen"
+  },
+  "web2pdfExtnDescriptionBeta": {
+    "message": "Gebruik Acrobat in uw browser om PDF’s weer te geven, te converteren, te comprimeren en te ondertekenen"
+  },
+  "web2pdfConvertButtonToolTip": {
+    "message": "Acrobat-extensie - Snel toegang tot al uw PDF-tools."
+  },
+  "web2pdfConvertButtonToolTipReader": {
+    "message": "PDF openen in Acrobat Reader"
+  },
+  "web2pdfConvertButtonToolTipERPReader": {
+    "message": "De Acrobat Reader-extensie is momenteel uitgeschakeld. Neem contact op met uw IT-beheerder."
+  },
+  "web2pdfOpenButtonText": {
+    "message": "Openen in Acrobat"
+  },
+  "web2pdfOpenButtonTextReader": {
+    "message": "Openen in Acrobat Reader"
+  },
+  "web2pdfOpenButtonTextOlder": {
+    "message": "Adobe PDF downloaden"
+  },
+  "web2pdfAddButtonText": {
+    "message": "Toevoegen aan PDF..."
+  },
+  "web2pdfOpenInDCButtonText": {
+    "message": "PDF openen in Acrobat"
+  },
+  "web2pdfPreferencesButtonText": {
+    "message": "Voorkeuren..."
+  },
+  "web2pdfCopyText": {
+    "message": "Kopiëren naar Acrobat"
+  },
+  "web2pdfFilename": {
+    "message": "Bestandsnaam:"
+  },
+  "web2pdfDestinationText": {
+    "message": "Doelmap:"
+  },
+  "web2pdfNoFoldersText": {
+    "message": "U hebt geen mappen in uw Acrobat DC-opslag."
+  },
+  "web2pdfDoneButtonText": {
+    "message": "Gereed"
+  },
+  "expressEditImageParentContextMenu": {
+    "message": "Afbeelding bewerken"
+  },
+  "expressEditImagePoweredByExpressContextMenu": {
+    "message": "Aangedreven door Adobe Express"
+  },
+  "imageToolsDropdownContextMenu": {
+    "message": "Edit tools"
+  },
+  "expressDropdownMenuTitle": {
+    "message": "Adobe Acrobat"
+  },
+  "expressDropdownMenuTooltip": {
+    "message": "Moeiteloos uitsnijden, achtergrond verwijderen en nog veel meer. Mogelijk gemaakt door Adobe Express."
+  },
+  "imageToolsContextMenuTooltip": {
+    "message": "Edit options from Adobe Acrobat and Adobe Express"
+  },
+  "expressContextualFteTitle": {
+    "message": "Acrobat is nu in $surfaceName$",
+    "placeholders": {
+      "surfaceName": {
+        "content": "$1"
+      }
+    }
+  },
+  "expressContextualFteDescription": {
+    "message": "Snijd moeiteloos afbeeldingen uit, verwijder achtergronden, pas kleuren aan en nog veel meer. Powered by Adobe Express."
+  },
+  "expressContextualFteCtaLabel": {
+    "message": "Sluiten"
+  },
+  "web2pdfConvertPageContextMenu": {
+    "message": "Webpagina converteren naar Adobe PDF..."
+  },
+  "web2pdfAppendPageContextMenu": {
+    "message": "Webpagina toevoegen aan bestaande PDF..."
+  },
+  "web2pdfConvertLinkContextMenu": {
+    "message": "Doel van koppeling converteren naar Adobe PDF"
+  },
+  "web2pdfAppendLinkContextMenu": {
+    "message": "Doel van koppeling toevoegen aan bestaande PDF"
+  },
+  "editImageContextMenu": {
+    "message": "Afbeelding bewerken"
+  },
+  "removeBackgroundImageContextMenu": {
+    "message": "Achtergrond verwijderen"
+  },
+  "cropImageContextMenu": {
+    "message": "Afbeelding bijsnijden"
+  },
+  "effectsImageContextMenu": {
+    "message": "Effecten toepassen"
+  },
+  "generativeFillImageContextMenu": {
+    "message": "Generatief vullen"
+  },
+  "insertObjectImageContextMenu": {
+    "message": "Object invoegen"
+  },
+  "removeObjectImageContextMenu": {
+    "message": "Object verwijderen"
+  },
+  "web2pdfUntitledFileName": {
+    "message": "naamloos"
+  },
+  "web2pdfStatusWaiting": {
+    "message": "Wachten op conversie..."
+  },
+  "web2pdfStatusDownloading": {
+    "message": "Downloaden voor conversie..."
+  },
+  "web2pdfStatusInProgress": {
+    "message": "Conversie wordt uitgevoerd..."
+  },
+  "web2pdfStatusCancelled": {
+    "message": "Conversie geannuleerd"
+  },
+  "web2pdfStatusComplete": {
+    "message": "Conversie voltooid"
+  },
+  "web2pdfClickToOpen": {
+    "message": "Klik op de onderstaande koppeling om de PDF te openen in Acrobat."
+  },
+  "web2pdfStatusFailure": {
+    "message": "Conversie mislukt"
+  },
+  "web2pdfUnsupportedAcrobatVersion": {
+    "message": "Er is geen ondersteunde versie van Acrobat gevonden. Installeer een <a target='_blank' href='https://acrobat.adobe.com/nl/nl/free-trial-download.html?trackingid=29NMCS7T&mv=other'>gratis proefversie van 7 dagen</a>."
+  },
+  "web2pdfStatusUnknownFailure": {
+    "message": "Onbekende fout"
+  },
+  "web2pdfFileLockedError": {
+    "message": "Het bestand kan niet worden opgeslagen, omdat het door een ander proces wordt gebruikt."
+  },
+  "web2pdfReplaceWarning": {
+    "message": "bestaat al.\n Wilt u dit vervangen?"
+  },
+  "web2pdfNoWritePermissionOnSelectedFile": {
+    "message": "U hebt geen schrijfmachtiging voor het geselecteerde bestand."
+  },
+  "web2pdfHTMLTooLarge": {
+    "message": "HTML-inhoud is te groot om te verwerken."
+  },
+  "web2pdfHTMLJSError": {
+    "message": "Fout tijdens verwerken van webpagina."
+  },
+  "web2pdfOptionsTitle": {
+    "message": "Adobe Acrobat-voorkeuren"
+  },
+  "web2pdfMissingMac": {
+    "message": "Adobe Acrobat voor Chrome is nog niet beschikbaar voor de Mac"
+  },
+  "web2pdfMissingMacEdge": {
+    "message": "Adobe Acrobat voor Microsoft Edge is nog niet beschikbaar voor de Mac"
+  },
+  "web2pdfOptOut": {
+    "message": "Deze uitbreiding stuurt uw gebruiksgegevens naar Adobe om de productfuncties te kunnen verbeteren."
+  },
+  "web2pdfOptOutDisabled": {
+    "message": "Uw gebruiksgegevens worden niet gedeeld."
+  },
+  "web2pdfOptions": {
+    "message": "Opties"
+  },
+  "web2pdfSave": {
+    "message": "Opslaan"
+  },
+  "web2pdfStatusDownloadingPDF": {
+    "message": "PDF downloaden"
+  },
+  "web2pdfPDFOpening": {
+    "message": "PDF openen"
+  },
+  "web2pdfPDFOpenFailed": {
+    "message": "Kan PDF niet openen"
+  },
+  "web2pdfPDFOpenFailedv2": {
+    "message": "Kan niet openen"
+  },
+  "web2pdfPDFOpened": {
+    "message": "PDF geopend"
+  },
+  "web2pdfAlwaysShow": {
+    "message": "Automatisch weergeven voor PDF's"
+  },
+  "web2pdfShowPersistentOpen": {
+    "message": "\"Openen in Acrobat\" tonen"
+  },
+  "web2pdfShowPersistentOpenAlways": {
+    "message": "\"Openen in Acrobat\" altijd tonen"
+  },
+  "web2pdfFrictionlessUrl": {
+    "message": "https://www.adobe.com/go/fl_chromeext_nl"
+  },
+  "web2pdfFrictionlessUrlEdge": {
+    "message": "https://www.adobe.com/nl/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+  },
+  "web2pdfPrivacy": {
+    "message": "Info over Adobe Acrobat"
+  },
+  "web2pdfTitle": {
+    "message": "Adobe Acrobat"
+  },
+  "web2pdfBadVersion": {
+    "message": "Deze versie van Chrome biedt geen ondersteuning voor Adobe Acrobat. Minimale versie is: $version$",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "web2pdfBadVersionEdge": {
+    "message": "Deze versie van Edge biedt geen ondersteuning voor Adobe Acrobat. Minimale versie is: $version$",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "stripTextOpenAcrobat": {
+    "message": "Openen in Acrobat"
+  },
+  "stripTextOpenFillnSign": {
+    "message": "Invullen en ondertekenen in Acrobat"
+  },
+  "editMegaVerbText": {
+    "message": "Bewerken"
+  },
+  "ConvertVerbDescription": {
+    "message": "Converteer documenten naar of van PDF."
+  },
+  "EditVerbDescription": {
+    "message": "Roteer of verwijder pagina's in uw PDF of deel ze opnieuw in."
+  },
+  "web2pdfShowPDFTools": {
+    "message": "Weergeven met Google-zoekresultaten"
+  },
+  "web2pdfInfoHoverPopup": {
+    "message": "Bij gebruik van de Adobe Acrobat-extensie worden PDF-tools aangeraden voor het uitvoeren van taken. Onze aanbevelingen zijn gebaseerd op uw zoekopdrachten en op uitgevoerde taken op uw apparaat. Zoekopdrachten worden niet naar Adobe verzonden. Klik <span class = \"tooltip-content-settings\">hier</span> om deze functie uit te schakelen."
+  },
+  "web2pdfLoaderTitle": {
+    "message": "Laden..."
+  },
+  "web2pdfShowPDFViewerOption": {
+    "message": "Gebruik Acrobat als standaard PDF-viewer"
+  },
+  "pdfOwnershipExploreAcrobat": {
+    "message": "Gebruik Acrobat in Chrome"
+  },
+  "pdfOwnershipExploreAcrobatEdge": {
+    "message": "Acrobat in Microsoft Edge gebruiken"
+  },
+  "pdfOwnershipPromptContent": {
+    "message": "Doe meer met PDF's in Chrome wanneer u Adobe Acrobat instelt als uw standaardviewer."
+  },
+  "pdfOwnershipPromptContent2": {
+    "message": "Stel Acrobat in als uw standaardviewer voor PDF's in Google Chrome. Plaats opmerkingen en handtekeningen, vul formulieren in en probeer zelfs tools uit voor comprimeren en bestandscompressie."
+  },
+  "pdfOwnershipPromptContentEdge": {
+    "message": "Doe meer met PDF's in Microsoft Edge wanneer u Adobe Acrobat instelt als uw standaardviewer."
+  },
+  "pdfOwnershipPromptCancel": {
+    "message": "Niet nu"
+  },
+  "pdfOwnershipPromptDeny": {
+    "message": "Nee, bedankt"
+  },
+  "pdfOwnershipPromptOk": {
+    "message": "Stel in als standaard"
+  },
+  "pdfOwnershipPromptOkFullscreen": {
+    "message": "Probeer het nu uit"
+  },
+  "sharepointPreferenceMessage": {
+    "message": "Sta toe dat SharePoint-bestanden kunnen worden uitgecheckt in Acrobat."
+  },
+  "LearnMoreURL": {
+    "message": "https://helpx.adobe.com/nl/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+  },
+  "LearnMoreURLEdge": {
+    "message": "https://helpx.adobe.com/nl/acrobat/kb/acrobat-pro-aip-for-edge.html"
+  },
+  "analyticsOptinTitle": {
+    "message": "Gebruiksgegevens verzenden"
+  },
+  "web2pdfOpenConvertedPDFTitle": {
+    "message": "Geconverteerde PDF's automatisch in Acrobat openen"
+  },
+  "web2pdfShowPersistentOpenDescription": {
+    "message": "Geef elke keer de optie weer om de PDF in Acrobat te openen."
+  },
+  "web2pdfOpenConvertedPDFDescription": {
+    "message": "Open de geconverteerde PDF automatisch in Acrobat zodra de conversie van webpagina naar PDF voltooid is."
+  },
+  "pdfOwnershipExploreOptionsTitle": {
+    "message": "Alle PDF's openen in Acrobat"
+  },
+  "pdfOwnershipExploreOptionsDescription": {
+    "message": "Maak Acrobat tot de standaard-PDF-viewer in uw browser voor snelle toegang tot opmerkingen, de tool Invullen en ondertekenen en andere PDF-tools."
+  },
+  "enableGenAIFeaturesTitle": {
+    "message": "Generatieve AI-functies in Acrobat inschakelen"
+  },
+  "enableGenAIFeaturesDescription": {
+    "message": "Uw bestand wordt in de cloud verwerkt om een generatieve AI-optie te bieden als u een generatieve AI-functie gebruikt. Als u deze functie uitschakelt, wordt uw bestand niet verwerkt en wordt generatieve AI uitgeschakeld. U kunt deze functie op elk gewenst moment weer inschakelen."
+  },
+  "enableGenAIAutoSummarizeTitle": {
+    "message": "Alle geopende documenten in Acrobat automatisch samenvatten"
+  },
+  "enableGenAIAutoSummarizeDescription": {
+    "message": "Wanneer u de AI-assistent of generatieve samenvatting gebruikt, worden uw documenten in de cloud verwerkt. Als u deze functie uitschakelt, worden uw documenten niet verwerkt via deze functies."
+  },
+  "aiMarkerTouchpointPreferenceTitle": {
+    "message": "Contextmenu van de AI-assistent"
+  },
+  "aiMarkerTouchpointPreferenceDescription": {
+    "message": "Het menu voor de AI-assistent altijd weergeven wanneer de muisaanwijzer boven een PDF op webpagina's wordt gehouden."
+  },
+  "optionsSuccessPrompt": {
+    "message": "Voorkeuren zijn opgeslagen"
+  },
+  "optionsSuccessPromptReloadRequired": {
+    "message": "Voorkeur wordt pas weergegeven na opnieuw laden"
+  },
+  "optionsFailurePrompt": {
+    "message": "We konden uw wijzigingen niet opslaan. Probeer het later opnieuw."
+  },
+  "web2pdfFrictionlessToggleDescription": {
+    "message": "Bij gebruik van de Adobe Acrobat-extensie worden PDF-tools aangeraden voor het uitvoeren van taken. Onze aanbevelingen zijn gebaseerd op uw zoekopdrachten en op uitgevoerde taken op uw apparaat. Zoekopdrachten worden niet naar Adobe verzonden."
+  },
+  "web2pdfSaveButton": {
+    "message": "Voorkeuren opslaan"
+  },
+  "web2pdfPreferencesNewText": {
+    "message": "Instellingen voor conversie…"
+  },
+  "fteSideCardPrimaryHeader": {
+    "message": "Acrobat gebruiken"
+  },
+  "fteSideCardSecondaryHeader": {
+    "message": "rechtstreeks in Chrome"
+  },
+  "pdfOwnershipDefSideCardcontent": {
+    "message": "Stel Adobe Acrobat in als standaard PDF-viewer en bekijk documenten, plaats opmerkingen en handtekeningen, vul formulieren in en doe nog veel meer."
+  },
+  "pdfOwnerShipDmbConfirmBtn": {
+    "message": "Doorgaan"
+  },
+  "pdfOwnerShipSideRedCardConfirmBtn": {
+    "message": "Doorgaan"
+  },
+  "fteOwnershipSideRedCardContent": {
+    "message": "Plaats opmerkingen, vul formulieren in en onderteken ze, en doe nog veel meer direct vanuit Chrome door Acrobat in te stellen als uw standaard PDF-viewer."
+  },
+  "appearancePrefTitle": {
+    "message": "Instellingen voor donkere modus"
+  },
+  "appearancePrefDesc": {
+    "message": "Schakelen tussen donker en licht thema"
+  },
+  "appearancePrefOp1": {
+    "message": "Systeeminstelling gebruiken"
+  },
+  "appearancePrefOp2": {
+    "message": "Donkere modus"
+  },
+  "appearancePrefOp3": {
+    "message": "Lichte modus"
+  },
+  "adobeYoloMessage": {
+    "message": "U wordt aangemeld bij Acrobat..."
+  },
+  "saveLocationPreferenceTitle": {
+    "message": "Bestandslocatie opslaan"
+  },
+  "saveLocationPreferenceDescription": {
+    "message": "Een opslaglocatie voor uw bestanden instellen"
+  },
+  "saveLocationOp1": {
+    "message": "Elke keer vragen"
+  },
+  "saveLocationOp2": {
+    "message": "Adobe-cloudopslag"
+  },
+  "saveLocationOp3": {
+    "message": "Deze computer"
+  },
+  "localFteTitle": {
+    "message": "Schakel naar Acrobat om uw lokale bestanden te openen"
+  },
+  "localFteDescription": {
+    "message": "Haal het beste uit de Acrobat-extensie en gebruik deze om alle PDF's te openen. Schakel de optie 'Toegang tot bestands-URL's toestaan' in bij de instellingen voor de extensie."
+  },
+  "localFteDontShowAgainText": {
+    "message": "Dit bericht niet meer tonen"
+  },
+  "localFteContinue": {
+    "message": "Naar de instellingen"
+  },
+  "localFileOptionTitle": {
+    "message": "Lokale PDF's openen in Acrobat"
+  },
+  "localFileOptionDesc": {
+    "message": "Geef de Acrobat-extensie toegang tot uw lokale bestands-URL's zodat u al uw PDF's in Acrobat in Chrome kunt openen."
+  },
+  "localFilePromptHeader": {
+    "message": "Open dit bestand in Acrobat om het bijvoorbeeld te bewerken en te ondertekenen"
+  },
+  "localFilePromptDescription": {
+    "message": "Geef Acrobat toegang tot bestanden op dit apparaat en gebruik rechtstreeks al uw tools, zodat u in een handomdraai PDF's bewerkt, bestanden converteert en elektronisch ondertekent."
+  },
+  "localFilePromptContinueButton": {
+    "message": "Doorgaan"
+  },
+  "localFileBlockingPageTitle": {
+    "message": "Acrobat-extensie inschakelen"
+  },
+  "localFileBlockingPageOpenInChrome": {
+    "message": "Open dit bestand in Chrome"
+  },
+  "localFileAnimationCoachmarkHeader": {
+    "message": "Nog één stap en u bent klaar!"
+  },
+  "localFileAnimationCoachmarkDescription": {
+    "message": "Geef toegang tot bestands-URL's om bestanden vanaf dit apparaat te openen in de Acrobat-extensie."
+  },
+  "localFileAccessAndSummaryCoachmarkHeader": {
+    "message": "Krijg een samenvatting van dit document"
+  },
+  "localFileAccessAndSummaryCoachmarkDescription": {
+    "message": "Krijg een snelle samenvatting op basis van AI door Acrobat toegang te geven tot het bestand."
+  },
+  "LocalFileAccessAndSummaryCoachmarkSubtext": {
+    "message": "Onderhevig aan beschikbare credits"
+  },
+  "LocalFileAccessAndSummaryCoachmarkButton": {
+    "message": "Samenvattingen inschakelen"
+  },
+  "localFileSummaryCoachmarkHeader": {
+    "message": "U bent er bijna. Geef Acrobat toegang tot bestands-URL's om samenvattingen mogelijk te maken."
+  },
+  "Enable": {
+    "message": "Uitzetten"
+  },
+  "Disable": {
+    "message": "Uitschakelen"
+  },
+  "adobeYoloErrorMessage": {
+    "message": "Deze koppeling is helaas ongeldig"
+  },
+  "popupNoConnection": {
+    "message": "Geen verbinding"
+  },
+  "popupOfflineMessage": {
+    "message": "Vraag uw beheerder de verbinding te herstellen"
+  },
+  "webpagePDFConversion": {
+    "message": "Instelling voor conversie van webpagina naar PDF"
+  },
+  "webpagePDFConversionDescription": {
+    "message": "Wanneer u een webpagina opslaat als een PDF, kunt u de marges, lettertypen en andere lay-outgegevens instellen"
+  },
+  "extensionMenuTitle": {
+    "message": "Acrobat Extension - Snelkoppeling naar al uw PDF-tools"
+  },
+  "userLocale": {
+    "message": "Landinstellingen van gebruiker"
+  },
+  "dcWebBookmarkTitle": {
+    "message": "Adobe Acrobat-startpagina"
+  },
+  "gsuiteEditWithAcrobat": {
+    "message": "Bewerken met Acrobat"
+  },
+  "gmailPromptFTETooltip": {
+    "message": "Open PDF's in Acrobat om tools voor bewerken, ondertekenen en meer te gebruiken"
+  },
+  "gsuiteOpenWithAcrobat": {
+    "message": "Openen in Acrobat"
+  },
+  "gDriveDVPCoachMarkTitle": {
+    "message": "Acrobat instellen als standaardviewer"
+  },
+  "gDriveDVPManageAppCoachMarkContent": {
+    "message": "Klik op 'Apps beheren' als u PDF's wilt weergeven, bewerken en opmerkingen wilt plaatsen door alle Google Drive-PDF's rechtstreeks te openen in Acrobat"
+  },
+  "gDriveDVPAppListCoachMarkContent": {
+    "message": "Schakel het selectievakje 'Standaard gebruiken' in om Google Drive-PDF's de volgende keer rechtstreeks te openen in Acrobat"
+  },
+  "gSuiteDVPAddOnDefaultDesc": {
+    "message": "De Acrobat-invoegtoepassing is nu ingesteld als standaard"
+  },
+  "genericDVPCoachMarkContent": {
+    "message": "Klik op 'Apps beheren' en schuif omlaag naar de Acrobat-invoegtoepassing. Klik vervolgens op het selectievakje 'Standaard gebruiken'"
+  },
+  "acrobatGsuiteTouchPointPreferenceTitle": {
+    "message": "Acrobat integreren in Gmail en Google Drive"
+  },
+  "acrobatGsuiteTouchPointPreferenceDescription": {
+    "message": "Voeg Acrobat-pictogrammen toe aan Gmail en Google Drive zodat u snel PDF's kunt openen in Acrobat en toegang krijgt tot PDF-tools."
+  },
+  "expressTouchpointPreferenceTitle": {
+    "message": "Adobe Express-acties in Acrobat inschakelen"
+  },
+  "expressTouchpointPreferenceDescription": {
+    "message": "Met de Adobe Acrobat-extensie kunt u afbeeldingen bewerken met Adobe Express. Als u deze functie uitschakelt, is dat niet meer mogelijk. U kunt de functie altijd weer inschakelen."
+  },
+  "expressExportOptionsDownloadLabel": {
+    "message": "Downloaden"
+  },
+  "expressExportOptionsSaveLabel": {
+    "message": "Opslaan"
+  },
+  "expressPublishModalTitle": {
+    "message": "Afbeelding downloaden..."
+  },
+  "expressHideforSession": {
+    "message": "Voor nu verbergen"
+  },
+  "expressManageinSettings": {
+    "message": "Voorkeuren"
+  },
+  "acrobatGmailFteToolTipTitle": {
+    "message": "Open deze PDF in Acrobat"
+  },
+  "acrobatGmailFteToolTipDescription": {
+    "message": "Bewerken, converteren, opmerkingen en ondertekenen - rechtstreeks in Chrome met Acrobat"
+  },
+  "acrobatGmailFteToolTipButton": {
+    "message": "OK"
+  },
+  "acrobatGdriveTripleDotMenuTouchPointText": {
+    "message": "Openen met Acrobat"
+  },
+  "downloadBannerText": {
+    "message": "Open alle gedownloade PDF's in Acrobat door de app in te stellen als de standaard PDF-viewer in Chrome"
+  },
+  "downloadBannerContinue": {
+    "message": "Inschakelen"
+  },
+  "doNotShowButton": {
+    "message": "Niet meer weergeven"
+  },
+  "closeButton": {
+    "message": "Sluiten"
+  },
+  "successToastText": {
+    "message": "Gedownloade PDF's worden nu geopend in Adobe Acrobat"
+  },
+  "failToastText": {
+    "message": "Onverwachte fout opgetreden. Probeer het later nogmaals."
+  },
+  "sessionExpiredToastText": {
+    "message": "Sessie verlopen. Vernieuw de pagina en probeer het nogmaals."
+  },
+  "refreshButtonInFailToast": {
+    "message": "Vernieuwen"
+  },
+  "sessionExpiredDocumentTitle": {
+    "message": "Sessie is verlopen"
+  },
+  "sessionExpiredTitle": {
+    "message": "Uw sessie heeft een time-out"
+  },
+  "sessionExpiredDescription": {
+    "message": "Upload het bestand en probeer het opnieuw."
+  },
+  "selectFileButton": {
+    "message": "Selecteer een bestand"
+  },
+  "unsupportedFileTypeToastText": {
+    "message": "Dit bestandstype wordt niet ondersteund. Probeer een ander bestand om te bewerken."
+  },
+  "acrobatGsuiteFteToolTipTitle": {
+    "message": "Open deze PDF in Acrobat"
+  },
+  "acrobatGsuiteFteToolTipDescription": {
+    "message": "Bewerken, converteren, opmerkingen en ondertekenen - rechtstreeks in Chrome met Acrobat"
+  },
+  "acrobatGsuiteFteToolTipButton": {
+    "message": "Begrepen"
+  },
+  "expressFTETitle": {
+    "message": "Afbeelding bewerken met Adobe Express"
+  },
+  "expressFTEDescription": {
+    "message": "Klik met de rechtermuisknop om een ​​afbeelding bij te snijden, de achtergrond te verwijderen of opnieuw vorm te geven met behulp van AI."
+  },
+  "expressFTEFooter": {
+    "message": "Via <b>Adobe Acrobat</b>"
+  },
+  "expressPopoverFTETitle": {
+    "message": "Afbeeldingen bewerken, rechtstreeks in uw browser"
+  },
+  "expressPopoverFTEDescription": {
+    "message": "Klik met de rechtermuisknop op een online afbeelding om snel de achtergrond te verwijderen, bij te snijden of opnieuw vorm te geven met AI in Adobe Express"
+  },
+  "acrobatGsuiteFteToolTipTitleDV": {
+    "message": "Alle PDF's openen in Adobe Acrobat"
+  },
+  "acrobatGsuiteFteToolTipDescriptionDV": {
+    "message": "Probeer PDF-tools uit zoals voor bewerken, opmerkingen, converteren en e-handtekeningen, rechtstreeks vanuit $surfaceName$ door Acrobat in te stellen als uw standaard-PDF-viewer.",
+    "placeholders": {
+      "surfaceName": {
+        "content": "$1"
+      }
+    }
+  },
+  "acrobatGsuiteFteToolTipButtonDV": {
+    "message": "OK"
+  },
+  "acrobatGsuiteFteToolTipTitleNonDV": {
+    "message": "Deze PDF openen in Adobe Acrobat"
+  },
+  "acrobatGsuiteFteToolTipDescriptionNonDV": {
+    "message": "Probeer Acrobat PDF-tools uit zoals voor bewerken, opmerkingen plaatsen, converteren en elektronisch ondertekenen, rechtstreeks vanuit $surfaceName$.",
+    "placeholders": {
+      "surfaceName": {
+        "content": "$1"
+      }
+    }
+  },
+  "acrobatGsuiteFteToolTipButtonNonDV": {
+    "message": "OK"
+  },
+  "surfaceNameGmail": {
+    "message": "Gmail"
+  },
+  "surfaceNameGdrive": {
+    "message": "Google Drive"
+  },
+  "aiAcHeader": {
+    "message": "Doe meer met uw Acrobat-extensie"
+  },
+  "aiAcBody": {
+    "message": "Gebruik de Acrobat AI-assistent voor een snelle samenvatting van webpagina's en de belangrijkste inzichten."
+  },
+  "hideForNow": {
+    "message": "Voor nu verbergen"
+  },
+  "hideFabForDomain": {
+    "message": "Uitschakelen voor deze site"
+  },
+  "neverDisplayFab": {
+    "message": "Nooit tonen"
+  },
+  "preferences": {
+    "message": "Voorkeuren"
+  },
+  "genAIFabPreferenceTitle": {
+    "message": "De knop AI-assistent"
+  },
+  "genAIFabPreferenceDescription": {
+    "message": "Zorg dat de knop Al-assistent altijd wordt weergegeven aan de rand van uw browservenster."
+  },
+  "sidepanelLocationPreferenceTitle": {
+    "message": "Locatie van deelvenster voor de AI-assistent"
+  },
+  "sidepanelLocationPreferenceDescription": {
+    "message": "Plaats het zijvenster links of rechts van het browservenster. Alleen beschikbaar in Google Chrome 11.4 of hoger."
+  },
+  "sidepanelLocationPreferenceButtonText": {
+    "message": "Wijzigen in browserinstellingen"
+  },
+  "domainPreferenceTitle": {
+    "message": "Websites waarop de AI-assistent FAB is verborgen"
+  },
+  "askAssistantBannerTitle": {
+    "message": "AI-assistent voor webpagina's"
+  },
+  "askAssistantBannerContentText": {
+    "message": "De AI-assistent biedt u direct samenvattingen en belangrijke inzichten van webpagina's."
+  },
+  "tooltipTextEnabled": {
+    "message": "Samenvattingen en de belangrijkste inzichten met de AI-assistent"
+  },
+  "tooltipTextSubText": {
+    "message": "aangedreven door Adobe Acrobat"
+  },
+  "tooltipTextDisabled": {
+    "message": "De AI-assistent is niet beschikbaar voor deze webpagina"
+  },
+  "openInAcrobat": {
+    "message": "Openen in Acrobat"
+  },
+  "getSummary": {
+    "message": "Samenvatting maken met AI"
+  },
+  "hidePopup": {
+    "message": "Verbergen voor deze sessie"
+  },
+  "openSettings": {
+    "message": "Beheren in instellingen"
+  },
+  "getInsight": {
+    "message": "Krijg een overzicht met Acrobat AI-assistent"
+  },
+  "canQuesBriefOverview": {
+    "message": "Geef een kort overzicht van dit artikel"
+  },
+  "canQuesSummarise": {
+    "message": "Vat dit artikel samen"
+  },
+  "canQuesImpTopics": {
+    "message": "Een lijst van alle belangrijke onderwerpen en trefwoorden maken"
+  },
+  "canQuesDraftEmail": {
+    "message": "Een e-mail opstellen met een samenvatting van de belangrijkste punten"
+  },
+  "canQuesCreateFAQ": {
+    "message": "Een lijst met veelgestelde vragen maken op basis van deze informatie"
+  },
+  "embeddedPDFTouchPointFTEBody": {
+    "message": "U kunt nu rechtstreeks vanuit de Acrobat-extensie een PDF bewerken, samenvatten en meer doen. Via het menu Voorkeuren kunt u deze snelkoppeling op elk moment verbergen."
+  },
+  "acrobatTouchPointInOtherSitesPreferenceTitle": {
+    "message": "Acrobat-opties tonen op andere websites"
+  },
+  "acrobatTouchPointInOtherSitesPreferenceDescription": {
+    "message": "Integreer Acrobat met websites, waaronder Gmail en Google Drive, voor eenvoudige toegang tot PDF-tools."
+  },
+  "embeddedPDFHideIconForNow": {
+    "message": "Pictogram voor nu verbergen"
+  },
+  "embeddedPDFOpenPDFInAcrobat": {
+    "message": "PDF openen in Acrobat"
+  },
+  "embeddedPDFTouchPointFTEHeader": {
+    "message": "Deze PDF openen in Adobe Acrobat"
+  },
+  "embeddedPDFOpenInAcrobatTooltip": {
+    "message": "Openen in Acrobat"
+  },
+  "embeddedPDFManagePreferences": {
+    "message": "Voorkeuren beheren"
+  },
+  "outlookPDFTouchPointFTEHeader": {
+    "message": "Deze PDF openen in Adobe Acrobat"
+  },
+  "addWebpageToProjectContextMenuTitle": {
+    "message": "Toevoegen aan PDF Space..."
+  },
+  "outlookPDFTouchPointFTEBody": {
+    "message": "U kunt PDF's bewerken, samenvatten en ondertekenen door ze te openen in Acrobat."
+  },
+  "linkedInOpenInAcrobat": {
+    "message": "Openen in Acrobat"
+  },
+  "linkedInSummarizePDF": {
+    "message": "PDF samenvatten"
+  },
+  "linkedInChatPDFTouchPointFTEHeader": {
+    "message": "PDF-tools van Adobe Acrobat uitproberen"
+  },
+  "linkedInChatPDFTouchPointFTEBody": {
+    "message": "Bewerk, onderteken elektronisch en krijg AI-powered inzichten door het gebruik van Adobe Acrobat."
+  },
+  "linkedInFeedPDFTouchPointFTEHeader": {
+    "message": "Deze PDF openen in Adobe Acrobat"
+  },
+  "acrobatTouchPointInOtherSurfacesPreferenceDescription": {
+    "message": "Integreer Acrobat met websites, waaronder Gmail, Google Drive en Outlook voor eenvoudige toegang tot PDF-tools."
+  },
+  "outlookErrorToastTitle": {
+    "message": "Kan bestand niet openen"
+  },
+  "outlookErrorToastDescription": {
+    "message": "Er is iets misgegaan. Sluit het bestand en probeer het nogmaals."
+  },
+  "acrobatEmbeddedTouchPointPreferenceTitle": {
+    "message": "Acrobat-sneltoets weergeven in ingesloten internet-PDF's"
+  },
+  "acrobatEmbeddedTouchPointPreferenceDescription": {
+    "message": "De snelkoppeling kan worden gebruikt om PDF's te openen in de extensie voor eenvoudig bewerken, samenvatten, opslaan en meer."
+  },
+  "gmailConvertToPdfFteToolTipTitle": {
+    "message": "Bestanden via Acrobat naar PDF's converteren"
+  },
+  "gmailConvertToPdfFteToolTipDescription": {
+    "message": "Converteer Gmail-bestanden naar PDF's en bewerk ze rechtstreeks in uw browser. Geen download vereist."
+  },
+  "gmailConvertToPdf": {
+    "message": "Converteren naar PDF"
+  },
+  "linkedInFeedPDFTouchPointFTEBody": {
+    "message": "Bewerk, vat samen en meer door deze PDF in de Acrobat-extensie te openen."
+  },
+  "acrobatLinkedInPDFTouchPointPreferenceDescription": {
+    "message": "Integreer Acrobat met websites waaronder Gmail, Google Drive, Outlook en LinkedIn voor eenvoudige toegang tot PDF-tools."
+  },
+  "whatsNewAutoOpenTitle": {
+    "message": "Automatisch openen van updatemeldingen inschakelen"
+  },
+  "whatsNewAutoOpenDescription": {
+    "message": "Sta toe dat Acrobat automatisch een webpagina opent wanneer nieuwe updates beschikbaar zijn."
+  },
+  "sidepanelLoaderText": {
+    "message": "Krijg samenvattingen en de belangrijkste inzichten met de Acrobat AI-assistent"
+  },
+  "gmailImplicitDVNotification": {
+    "message": "PDF-bijlagen worden geopend in Gmail."
+  },
+  "gmailImplicitDVFTEHeader": {
+    "message": "PDF’s op elk moment bekijken in Acrobat"
+  },
+  "gmailImplicitDVFTEBody": {
+    "message": "Open PDF’s in de Acrobat-extensie via het pictogram in Gmail. Stel dit in als standaard vanuit het Acrobat-menu Meer (...)."
+  },
+  "acrobatTouchPointInOtherSitesPrefDescription": {
+    "message": "Integreer Acrobat met websites als Gmail, Google Drive, Outlook, LinkedIn en meer voor eenvoudige toegang tot PDF-tools."
+  },
+  "convertToPDFFTEHeading": {
+    "message": "Dit bestand converteren naar een PDF"
+  },
+  "convertToPDFFTEBody": {
+    "message": "Converteer je $surfaceName$ rechtstreeks naar PDF’s met de Adobe Acrobat-extensie en gebruik tools voor bewerken, ondertekenen en meer.",
+    "placeholders": {
+      "surfaceName": {
+        "content": "$1"
+      }
+    }
+  },
+  "surfaceNameGoogleDocs": {
+    "message": "Google Documenten"
+  },
+  "convertToPDFTouchPointTooltip": {
+    "message": "Openen als PDF in Acrobat"
+  },
+  "fabPillsHeaderText": {
+    "message": "Adobe Acrobat"
+  },
+  "fabPillsFteHeaderText": {
+    "message": "Do more with your Acrobat extension"
+  },
+  "fabPillSummarize": {
+    "message": "Summarize with AI"
+  },
+  "fabPillAskAI": {
+    "message": "Ask AI about page"
+  },
+  "fabPillConvertToPDF": {
+    "message": "Convert to PDF"
+  },
+  "gdriveImplicitDVNotification": {
+    "message": "PDF's worden voortaan geopend in Google Drive."
+  },
+  "gdriveImplicitDVFTEHeader": {
+    "message": "PDF’s op elk moment bekijken in Acrobat"
+  },
+  "gdriveImplicitDVFTEBody": {
+    "message": "Open PDF’s in de Acrobat-extensie via het pictogram in Google Drive. Stel dit in als standaard vanuit het Acrobat-menu Meer (...)."
+  },
+  "gmailCompressPDFTouchPoint": {
+    "message": "Compress PDF"
+  },
+  "gmailCompressPDFTouchPointFTEHeader": {
+    "message": "Reduce file size with Adobe Acrobat"
+  },
+  "gmailCompressPDFTouchPointFTEDescription": {
+    "message": "Select the icon to reduce file size using the Compress tool in Acrobat for faster uploads and more space on Google Drive."
+  },
+  "gmailCompressPDFTouchPointOnHoverTooltip": {
+    "message": "Compress PDF to save space and upload faster"
+  },
+  "imageToolsDropdownFteTitle": {
+    "message": "Convert and edit images in Gmail"
+  },
+  "imageToolsDropdownFteDescription": {
+    "message": "Convert your images to PDFs using Adobe Acrobat or edit them in-browser with Adobe Express."
+  }
+}

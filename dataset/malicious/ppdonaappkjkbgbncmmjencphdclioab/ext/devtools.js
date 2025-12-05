@@ -1,0 +1,1 @@
+"use strict";!function(){let e=chrome.devtools.inspectedWindow.tabId,o=chrome.runtime.connect({name:"devtools-"+e});ext.onMessage=o.onMessage,ext.devtools=chrome.devtools}();

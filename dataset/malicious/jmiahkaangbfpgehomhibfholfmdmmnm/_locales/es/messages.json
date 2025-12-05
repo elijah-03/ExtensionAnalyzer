@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bass Boost esta pestaña"
+   },
+   "description": {
+      "message": "Haga un sonido desde su navegador realmente impresionante con esta aplicación de refuerzo de graves. Booster de bajos de trabajo para auriculares y altavoces."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Potenciador de bajo"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

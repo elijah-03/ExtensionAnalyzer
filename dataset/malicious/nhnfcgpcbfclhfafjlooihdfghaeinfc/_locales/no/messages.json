@@ -1,0 +1,53 @@
+{
+    "name": {
+        "message": "VPN Surf - Rask VPN ved å fjerne blokkering"
+    },
+    "description": {
+        "message": "VPN Surf er den beste gratis VPN Chrome-utvidelsen. Sikker VPN-tjeneste for å skjule din IP, raske og anonyme VPN."
+    },
+    "title": {
+        "message": "VPN Surf"
+    },
+    "select_geo": {
+        "message": "Select Geo"
+    },
+    "not_connected_title": {
+        "message": "VPN is not connected"
+    },
+    "not_connected_subtitle": {
+        "message": "Click to connect to VPN"
+    },
+    "loading_title": {
+        "message": "Connecting..."
+    },
+    "loading_subtitle": {
+        "message": "Please wait a moment"
+    },
+    "connected_title": {
+        "message": "Сonnected"
+    },
+    "pls_disconnect_other_vpn": {
+        "message": "You are using another VPN now. Please disable it to continue"
+    },
+    "proxy_connection_is_not_allowed": {
+        "message": "Proxy connection is not allowed by system settings"
+    },
+    "proxies_getting_error": {
+        "message": "Error when getting available proxies"
+    },
+    "noproxy": {
+        "message": "Proxy for this country not found"
+    },
+    "access_connect": {
+        "message": "Successful connection to"
+    },
+    "error": {
+        "message": "Connection error. <br> Please select another country."
+     },
+    "rate_it": {
+        "message": "Please, rate us!"
+    },
+    "rate_clear": {
+        "message": "clear"
+    }
+}

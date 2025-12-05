@@ -1,0 +1,26 @@
+{
+   "description": {
+      "message": "Lag en lyd fra nettleseren din, virkelig fantastisk med denne bassbooster-appen. Arbeidsbasert booster for hodetelefoner og høyttalere."
+   },
+   "name": {
+      "message": "Bass Booster - Bassbooster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "boostEnabledTitle": {
+      "message": "Bass Boost denne kategorien"
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   }
+}

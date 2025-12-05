@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "이 탭을 강조하는 저음"
+   },
+   "description": {
+      "message": "브라우저에서 소리를 내면이 저음 부스터 앱으로 정말 멋지게 만들 수 있습니다. 헤드폰 및 스피커 용 저음역 강화 장치."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - 베이스 부스터"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

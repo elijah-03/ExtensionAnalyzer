@@ -1,0 +1,93 @@
+:root, .__fb-light-mode {
+    /* Background 1 */
+    --web-wash: BG_ONE !important;
+    --comment-background: BG_ONE !important;
+    --wash: BG_ONE !important;
+
+    /* Background 2 */
+    --surface-background: BG_TWO !important;
+    --card-background: BG_TWO !important;
+    --press-overlay: BG_TWO !important;
+    --nav-bar-background: BG_TWO !important;
+    --messenger-card-background: BG_TWO !important;
+
+    /* Link color */
+    /* --accent: LINK; */
+    
+    /* Text */
+    --primary-text: TEXT_ONE !important;
+    --section-header-text: TEXT_ONE !important;
+
+    /* Secondary text */
+    --secondary-text: TEXT_TWO !important;
+
+    /* Divider */
+    --divider: DIVIDER !important;
+
+    /* HOVER */
+    --hover-overlay: HOVER !important;
+}
+
+#contentCol, #leftCol, html .CometSettingsPage, ._2sdm, ._4sp8 {
+    background-color: BG_ONE !important;
+}
+
+._hh7 {
+    background: BG_TWO;
+}
+
+._5irm._7mkm {
+    background: BG_TWO !important;
+}
+
+._4dfu {
+    background: transparent;
+}
+
+.CometSettingsPage .uiSideNav .selectedItem .item, .CometSettingsPage .uiSideNav .selectedItem .item:hover, .CometSettingsPage .uiSideNav .item:hover, .CometSettingsPage .uiNarrowSideNav .uiSideNav .item:hover,
+.fbSettingsList a.fbSettingsListLink:hover {
+    background-color: HOVER !important;
+}
+
+._4ks>li {
+    border-color: DIVIDER !important;
+}
+
+._89n_, ._8f1i  {
+    background: BG_ONE !important;
+}
+
+._hh7, ._6-xo, ._7st9, ._1lj0._6ybm, ._497p, ._3eur._6ybk a, ._3eus, ._5uh, ._1ht7, ._17w2, ._2v6o, ._5eu7, ._6krh, ._5rpu[contenteditable="true"], ._1htf {
+    color: TEXT_ONE !important;
+}
+
+._5iwm._6-_b ._58al::-webkit-input-placeholder {
+    color: TEXT_ONE !important;
+}
+
+div[data-tooltip-position="right"] {
+    color: white !important;
+}
+
+path {
+    fill: TEXT_ONE !important;
+}
+
+a[aria-label="Facebook"] svg path, .q676j6op svg path{
+    fill: inherit !important;
+}
+
+a[aria-label="Facebook"] svg path.p361ku9c {
+    fill: var(--always-white) !important;
+}
+
+._kmc._7kpg ._1p1t {
+    color: TEXT_ONE !important;
+    -webkit-text-fill-color: TEXT_ONE !important;
+}
+
+/*--------------------     ADS    --------------------*/
+
+.fbTimelineStickyHeader .stickyHeaderWrap, #u_ps_0_0_17>.userContentWrapper._5pcr, div.ego_column, div#pagelet_trending_tags_and_topics, div#friend_list_sidecol, a._54dd, div._5mym, div#pagelet_games_rhc, div#pagelet_canvas_nav_content, .ego_column, div[data-ft*=",\"ei\":"], iframe.fbEmuTracking, div[data-xt-vimpr="1"] {
+    display: none !important;
+}

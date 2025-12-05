@@ -1,0 +1,169 @@
+@INPROCEEDINGS{11130004,
+  author={Ciaramella, Giovanni and Martinelli, Fabio and Santone, Antonella and Mercaldo, Francesco},
+  booktitle={2025 IEEE International Conference on Cyber Security and Resilience (CSR)}, 
+  title={Explainable Malware Detection by means of Federated Machine Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={975-982},
+  keywords={Machine learning algorithms;Operating systems;Machine learning;Predictive models;Gray-scale;Prediction algorithms;Malware;Regulation;Security;Resilience;windows;malware;artificial intelligence;federated machine learning;explainability;security},
+  doi={10.1109/CSR64739.2025.11130004}}
+
+@unknown{unknown,
+author = {Lin, Yuzhou and Chang, Xiaolin},
+year = {2021},
+month = {01},
+pages = {},
+title = {Towards interpreting ML-based automated malware detection models: a survey},
+doi = {10.48550/arXiv.2101.06232}
+}
+
+@article{baghirov_2024, 
+title={ADVANCED MACHINE LEARNING AND INTERPRETABILITY FOR WINDOWS MALWARE DETECTION}, 
+volume={9}, 
+DOI={https://doi.org/10.62476/jmte93165}, 
+number={3}, 
+journal={Journal of Modern Technology and Engineering}, 
+author={Baghirov, Elshan}, year={2024}, 
+month={Dec}, 
+pages={165–177} }
+
+@INPROCEEDINGS{10288922,
+  author={To, Trong-Nghia and Hoang, Hien Do and Duy, Phan The and Pham, Van-Hau},
+  booktitle={2023 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)}, 
+  title={MalDEX: An Explainable Malware Detection System Based on Ensemble Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Training;Analytical models;Visualization;Closed box;Predictive models;Malware;Classification algorithms;Malware Detection;Ensemble Learning;Explainable AI;SHapley Additive exPlanations},
+  doi={10.1109/MAPR59823.2023.10288922}}
+
+@inproceedings {287202,
+author = {Young Min Kim and Byoungyoung Lee},
+title = {Extending a Hand to Attackers: Browser Privilege Escalation Attacks via Extensions},
+booktitle = {32nd USENIX Security Symposium (USENIX Security 23)},
+year = {2023},
+isbn = {978-1-939133-37-3},
+address = {Anaheim, CA},
+pages = {7055--7071},
+url = {https://www.usenix.org/conference/usenixsecurity23/presentation/kim-young-min},
+publisher = {USENIX Association},
+month = aug
+}
+
+@inproceedings {272161,
+author = {Pierre Laperdrix and Oleksii Starov and Quan Chen and Alexandros Kapravelos and Nick Nikiforakis},
+title = {Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets},
+booktitle = {30th USENIX Security Symposium (USENIX Security 21)},
+year = {2021},
+isbn = {978-1-939133-24-3},
+pages = {2507--2524},
+url = {https://www.usenix.org/conference/usenixsecurity21/presentation/laperdrix},
+publisher = {USENIX Association},
+month = aug
+}
+
+@inproceedings {203846,
+author = {Iskander Sanchez-Rola and Igor Santos and Davide Balzarotti},
+title = {Extension Breakdown: Security Analysis of Browsers Extension Resources Control Policies},
+booktitle = {26th USENIX Security Symposium (USENIX Security 17)},
+year = {2017},
+isbn = {978-1-931971-40-9},
+address = {Vancouver, BC},
+pages = {679--694},
+url = {https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/sanchez-rola},
+publisher = {USENIX Association},
+month = aug
+}
+
+@INPROCEEDINGS{9020870,
+  author={Stokes, Jack W. and Agrawal, Rakshit and McDonald, Geoff and Hausknecht, Matthew},
+  booktitle={MILCOM 2019 - 2019 IEEE Military Communications Conference (MILCOM)}, 
+  title={ScriptNet: Neural Static Analysis for Malicious JavaScript Detection}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Machine learning;Privacy-invasive software;Learning (artificial intelligence);Malware;Neural networks;Vectors;Java;Deep learning;Malware detection;Neural models;LSTM},
+  doi={10.1109/MILCOM47813.2019.9020870}}
+
+@InProceedings{10.1007/978-3-031-51476-0_13,
+author="Xia, Yifan
+and He, Ping
+and Zhang, Xuhong
+and Liu, Peiyu
+and Ji, Shouling
+and Wang, Wenhai",
+editor="Tsudik, Gene
+and Conti, Mauro
+and Liang, Kaitai
+and Smaragdakis, Georgios",
+title="Static Semantics Reconstruction for Enhancing JavaScript-WebAssembly Multilingual Malware Detection",
+booktitle="Computer Security -- ESORICS 2023",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="255--276",
+}
+
+@article{article,
+author = {Gaber, Matthew and Ahmed, Mohiuddin and Janicke, Helge},
+year = {2023},
+month = {12},
+pages = {},
+title = {Malware Detection with Artificial Intelligence: A Systematic Literature Review},
+volume = {56},
+journal = {ACM Computing Surveys},
+doi = {10.1145/3638552}
+}
+
+@article{10.1145/3656394,
+author = {Ferreira, Mafalda and Monteiro, Miguel and Brito, Tiago and Coimbra, Miguel E. and Santos, Nuno and Jia, Limin and Santos, Jos\'{e} Fragoso},
+title = {Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {PLDI},
+url = {https://doi.org/10.1145/3656394},
+doi = {10.1145/3656394},
+journal = {Proc. ACM Program. Lang.},
+month = jun,
+articleno = {164},
+numpages = {25},
+}
+
+@INPROCEEDINGS{10734052,
+  author={Gobbi, Matías F. and Kinder, Johannes},
+  booktitle={2024 IEEE Secure Development Conference (SecDev)}, 
+  title={GENIE: Guarding the npm Ecosystem with Semantic Malware Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={117-128},
+  doi={10.1109/SecDev61143.2024.00017}}
+
+  @INPROCEEDINGS{10606032,
+  author={Zeeshan Javed, Sh M and Amjad, Faisal},
+  booktitle={2024 IEEE 30th International Conference on Telecommunications (ICT)}, 
+  title={Unveiling Hidden Threats in PDFs with Hybrid Malware Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={01-06},
+  keywords={Support vector machines;Radio frequency;Runtime;Prevention and mitigation;Nearest neighbor methods;Portable document format;Feature extraction;PDF Malware;Malware Behavior;Dynamic Analysis;Machine Learning},
+  doi={10.1109/ICT62760.2024.10606032}}
+
+@INPROCEEDINGS{11130004,
+  author={Ciaramella, Giovanni and Martinelli, Fabio and Santone, Antonella and Mercaldo, Francesco},
+  booktitle={2025 IEEE International Conference on Cyber Security and Resilience (CSR)}, 
+  title={Explainable Malware Detection by means of Federated Machine Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={975-982},
+  keywords={Machine learning algorithms;Operating systems;Machine learning;Predictive models;Gray-scale;Prediction algorithms;Malware;Regulation;Security;Resilience;windows;malware;artificial intelligence;federated machine learning;explainability;security},
+  doi={10.1109/CSR64739.2025.11130004}}
+

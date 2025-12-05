@@ -1,0 +1,1 @@
+localStorage.enable_copy_doc88=eval(localStorage.super_js_copy_doc88);

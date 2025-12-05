@@ -1,0 +1,1 @@
+window.SendMailtoPlugToolbar=function(e,o){"undefined"!=typeof CustomizeSendMail2TmpluginToolbar?CustomizeSendMail2TmpluginToolbar(e):"undefined"!=typeof FireFoxSendMail2TmpluginToolbar?FireFoxSendMail2TmpluginToolbar(e):"undefined"==typeof safari&&"undefined"!=typeof chrome&&tbc_sendRequest(TB_ACTIONS.SEND_MAIL_2_TMPLUGIN_TOOLBAR,e,o)};

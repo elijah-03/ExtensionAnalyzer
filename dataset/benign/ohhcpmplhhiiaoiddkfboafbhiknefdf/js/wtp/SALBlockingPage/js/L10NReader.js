@@ -1,0 +1,1 @@
+!function(){var n,t=window,i=t.TMExt_$;n=i.toJSON(t.FullLocalization||t.Localization),i("#L10NString").attr("value",n),t.GetL10NString=function(n){if(!t.jsonL10N){var o=i("#L10NString").attr("value");t.jsonL10N=i.parseJSON(o)}return void 0===t.jsonL10N[n]?"undefined":t.jsonL10N[n]}}();

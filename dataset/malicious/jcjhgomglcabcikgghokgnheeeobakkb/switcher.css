@@ -1,0 +1,50 @@
+.ui-switcher {
+  background: #101010;
+  display: inline-block;
+  height: 20px;
+  width: 48px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  vertical-align: middle;
+  position: relative;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: -2px 4px 0 0;
+  box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+.ui-switcher:before {
+  font-family: 'Lato';
+  font-size: 10px;
+  font-weight: 400;
+  color: #ffffff;
+  line-height: 1;
+  display: inline-block;
+  position: absolute;
+  top: 5px;
+  height: 12px;
+  width: 20px;
+  text-align: center;
+}
+.ui-switcher[aria-checked=true] {
+  background-color: #D9D9D9;
+}
+.ui-switcher:after {
+  background: #0F0F0F;
+  box-sizing: border-box;
+  content: '\0020';
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  transition: left 0.25s;
+}
+.ui-switcher[aria-checked=false]:after {
+  left: 2px;
+  background: #ECECEC;
+  
+}
+.ui-switcher[aria-checked=true]:after {
+  left: 30px;
+}

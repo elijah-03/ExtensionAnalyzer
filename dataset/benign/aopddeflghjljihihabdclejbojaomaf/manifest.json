@@ -1,0 +1,71 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "1.4.3",
+  "icons": {
+    "16": "public/logo/icon-16.png",
+    "32": "public/logo/icon-32.png",
+    "48": "public/logo/icon-48.png",
+    "128": "public/logo/icon-128.png"
+  },
+  "action": {
+    "default_popup": "src/popup/index.html"
+  },
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "assets/index.ts-loader-BRTcK--3.js"
+      ],
+      "matches": [
+        "*://*/*"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "externally_connectable": {
+    "ids": [
+      "kdpelmjpfafjppnhbloffcjpeomlnpah",
+      "mjdgandcagmikhlbjnilkmfnjeamfikk"
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "resources": [
+        "locales/*",
+        "public/**/*",
+        "_locales/**/*",
+        "assets/BaseSwitch-Chx_y9q2.js",
+        "assets/academia-BTetjztC.js",
+        "assets/translations-DP6Nrkut.js",
+        "assets/index.ts-DyIt6urL.js"
+      ],
+      "use_dynamic_url": false
+    }
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "unlimitedStorage",
+    "clipboardWrite",
+    "tabs",
+    "scripting",
+    "activeTab",
+    "cookies",
+    "nativeMessaging"
+  ]
+}

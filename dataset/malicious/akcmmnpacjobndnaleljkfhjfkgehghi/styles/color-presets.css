@@ -1,0 +1,101 @@
+/* 1 row */
+.color-templates .color[data-color="sunlight"] .preview {
+    background: #F5FA57;
+}
+
+.color-templates .color[data-color="sunrise"] .preview {
+    background: #FFD417;
+}
+
+.color-templates .color[data-color="orange"] .preview {
+    background: #FFA000;
+}
+
+.color-templates .color[data-color="mandarine"] .preview {
+    background: #FF6F1C;
+}
+
+/* 2 row */
+.color-templates .color[data-color="yogurt"] .preview {
+    background: #FFA7B6;
+}
+
+.color-templates .color[data-color="pink-panter"] .preview {
+    background: #FE2868;
+}
+
+.color-templates .color[data-color="magenta"] .preview {
+    background:#E80C6C;
+}
+
+.color-templates .color[data-color="eggplant"] .preview {
+    background: #8C265E;
+}
+
+/* 3 row */
+.color-templates .color[data-color="light-red"] .preview {
+    background: #FF9D99;
+}
+
+.color-templates .color[data-color="strawberry"] .preview {
+    background: #FF4343;
+}
+
+.color-templates .color[data-color="redberry"] .preview {
+    background:#E90000;
+}
+
+.color-templates .color[data-color="cherry"] .preview {
+    background: #AD0606;
+}
+
+/* 4 row */
+.color-templates .color[data-color="light-blue"] .preview {
+    background: #C2DBFF;
+}
+
+.color-templates .color[data-color="blue-sky"] .preview {
+    background: #1ACEEB;
+}
+
+.color-templates .color[data-color="ocean"] .preview {
+    background:#049DBF;
+}
+
+.color-templates .color[data-color="blueberry"] .preview {
+    background: #18298C;
+}
+
+/* 5 row */
+.color-templates .color[data-color="light-green"] .preview {
+    background: #C2FFDA;
+}
+
+.color-templates .color[data-color="toxic"] .preview {
+    background: #1AF572;
+}
+
+.color-templates .color[data-color="grass"] .preview {
+    background:#04BF4F;
+}
+
+.color-templates .color[data-color="green-forest"] .preview {
+    background: #02840F;
+}
+
+/* 6 row */
+.color-templates .color[data-color="light-grey"] .preview {
+    background: #D1DEE1;
+}
+
+.color-templates .color[data-color="dark-sky"] .preview {
+    background: #7C9EA6;
+}
+
+.color-templates .color[data-color="road"] .preview {
+    background:#183540;
+}
+
+.color-templates .color[data-color="dark-theme"] .preview {
+    background: #080F11;
+}

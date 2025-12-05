@@ -1,0 +1,39 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+
+    "manifest_version": 3,
+    "name": "__MSG_name__",
+    "description": "__MSG_description__",
+    "version": "1.2.10",
+    "default_locale": "en",
+    "permissions": [
+        "proxy",
+        "storage",
+        "declarativeNetRequest"
+    ],
+    "icons":
+    {
+        "32": "icons/icon-32.png",
+        "128": "icons/icon-128.png"
+    },
+    "host_permissions": [
+        "https://proxies.sweet-vpn.com/*",
+        "<all_urls>"
+    ],
+
+    "background": {
+        "service_worker": "bg.js"
+    },
+    "action":
+    {
+        "default_icon":
+        {
+            "16": "icons/icon-16.png",
+            "24": "icons/icon-24.png",
+            "32": "icons/icon-32.png"
+        },
+        "default_title": "__MSG_name__",
+        "default_popup": "popup.html"
+    }
+}

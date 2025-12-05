@@ -1,0 +1,24 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+   "background": {
+      "scripts": ["background.js"],
+      "permanent": false
+   },
+   "browser_action": {
+      "default_icon": "icon-128.png",
+      "default_popup": "popup.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "icon-128.png",
+      "48": "icon-48.png",
+      "16": "icon-16.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": ["tabs", "\u003Call_urls>", "downloads" ],
+   "version": "3.5.2",
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://*.googleapis.com; object-src 'self'"
+}

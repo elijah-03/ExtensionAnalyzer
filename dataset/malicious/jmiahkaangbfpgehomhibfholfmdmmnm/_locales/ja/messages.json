@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bass Boostこのタブ"
+   },
+   "description": {
+      "message": "Bass Booster - customise bass settings in a browser. Working bass booster for headphones and speakers. Volume Booster"
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - バスブースター"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

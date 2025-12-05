@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Downloader for Instagram</title>
+    <link href="css/fonts.css" rel="stylesheet" type="text/css">
+    <link href="css/popup.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="links-no-found">Links no Found</div>
+    <div class="loader"></div>
+    <div class="install_now">
+        <p class="message"></p>
+        <div class="icon_wrap">
+            <span class="ext_icon"></span>
+            <span class="ext_text"></span>
+        </div>
+    </div>
+    <div class="it_is_stories_space_msg"></div>
+    <div class="tab_is_not_complete">
+        <div class="text"></div>
+        <div class="loader2"></div>
+    </div>
+    <div class="it_is_not_instagram">
+        <div class="instagram_no_msg"></div>
+        <div class="instagram_link_wrap"><a href="https://instagram.com" target="_blank"></a></div>
+    </div>
+    <header id="header">
+        <div class="logo_wrap">
+            <span class="logo_icon"></span>
+            <span class="logo_text"></span>
+        </div>
+
+        <div class="actions_wrap">
+
+            <span class="rating_ask">
+                <span class="ext_text"></span>
+                <span class="stars">
+                    <a class="star" data-pos="1">
+                        <span class="empty"></span>
+                        <span class="filled"></span>
+                    </a>
+                     <a class="star" data-pos="2">
+                       <span class="empty"></span>
+                        <span class="filled"></span>
+                    </a>
+                     <a class="star" data-pos="3">
+                        <span class="empty"></span>
+                        <span class="filled"></span>
+                    </a>
+                     <a class="star" data-pos="4">
+                       <span class="empty"></span>
+                        <span class="filled"></span>
+                    </a>
+                     <a class="star" data-pos="5">
+                        <span class="empty"></span>
+                        <span class="filled"></span>
+                    </a>
+                </span>
+            </span>
+
+            <span class="report_ask"><span class="ext_text"></span><span class="icon"></span></span>
+
+            <span class="settings_icon"></span>
+
+            <span class="phone_icon"></span>
+        </div>
+
+    </header>
+
+    <div class="comment-wrapper">
+        <div class="textarea_wrap">
+            <textarea rows="5" cols="600" maxlength="800"></textarea>
+        </div>
+        <div class="email_wrap">
+            <input id="email_input" type="email" name="email">
+            <div class="not_valid_email"></div>
+        </div>
+        <button class="comment_btn send_btn"></button>
+        <button class="comment_btn cancel_btn"></button>
+        <div class="symbols_left"><span class="text"></span><span class="count"></span></div>
+    </div>
+
+    <div id="download_item_container"></div>
+
+    <div class="settings_page_wrap">
+        <div class="btn_back"></div>
+        <div class="settings_title"></div>
+        <div class="settings_container">
+            <div class="settings_item upload_from_anywhere">
+                <span class="title">
+                    <span class="text"></span>
+                    <span class="title-help"></span>
+                </span>
+                <div class="push-toggle">
+                    <div class="point"></div>
+                </div>
+            </div>
+            <div class="settings_item add_video_control">
+                <span class="title">
+                    <span class="text"></span>
+                    <span class="title-help"></span>
+                </span>
+                <div class="push-toggle">
+                    <div class="point"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/tippy.all.js"></script>
+    <script src="js/globalUtils.js"></script>
+    <script src="js/popup.js"></script>
+
+</body>
+</html>

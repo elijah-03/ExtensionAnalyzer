@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title data-locale="name"></title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="sidebar-container">
+      <input type="checkbox" id="check">
+      <label for="check" class="sidebar-btn close-sidebar">
+        <img src="close-sidebar.png">
+      </label>
+      
+      <div class="sidebar sidebar-mini">
+        <header><img src="icon-128.png" width="37px" height="39px"></header>
+        <ul>
+          <li class="convert-btn active"><img src="img/convert.png" width="26px" height="26px"></li>
+          <li class="merge-btn"><img src="img/merge.png" width="26px" height="26px"></li>
+          <li class="append-btn"><img src="img/merge.png" width="26px" height="26px"></li>
+          <li class="pdfs-btn"><img src="img/PDFs.png" width="26px" height="33px"></li>
+        </ul>
+      </div>
+  
+      <div class="sidebar">
+        <header><img src="icon-128.png" width="37px" height="39px"> PDF Merge and Convert</header>
+        <ul>
+          <li class="convert-btn active"><img src="img/convert.png" width="26px" height="26px">Convert any format<img class="arrow" src="img/arrow.png" width="15px" height="15px"></li>
+          <li class="merge-btn"><img src="img/merge.png" width="26px" height="26px">Merge / Combine two PDF files<img class="arrow" src="img/arrow.png" width="15px" height="15px"></li>
+          <li class="append-btn"><img src="img/append.png" width="26px" height="26px">Append image to PDF file<img class="arrow" src="img/arrow.png" width="15px" height="15px"></li>
+          <li class="pdfs-btn">
+            <img src="img/PDFs.png" width="26px" height="33px">
+            <p class="download-pdf-title">Download Opened PDFs</p>
+            <p class="download-pdf-count">0 PDFs opened in your tabs</p>
+            <img class="arrow" src="img/arrow.png" width="15px" height="15px">
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <section class="content">
+      <div class="common convert-container">
+        <h1 class="action-title">Convert any format</h1>
+        <label for="convert-input">
+          <img src="img/convert.png" width="56px" height="56px">
+          <h1>Select your file</h1>
+          <h1>(.doc, .docx, .rtf...)</h1>
+
+        </label>
+        <input id="convert-input" type="file" style="display: none;">
+        <button class="btn">Convert</button>
+      </div>
+
+      <div class="common merge-container disabled-el">
+        <h1 class="action-title">Merge two PDF files</h1>
+
+        <div class="processing" style="display: none;">
+          <img src="img/merge.png" width="56px" height="56px">
+          <h1 class="processing-1">First</h1>
+          <h1 class="processing-2">Second</h1>
+          <h1>We're processing your request...</h1>
+        </div>
+
+        <label class="first-merge" for="merge-input-1" style="margin-bottom: 16px;">
+          <img src="img/merge.png" width="56px" height="56px">
+          <h1>Select first PDF</h1>
+        </label>
+        <input id="merge-input-1" type="file" style="display: none;" accept="application/pdf">
+
+        <label class="second-merge" for="merge-input-2">
+          <img src="img/merge.png" width="56px" height="56px">
+          <h1>Select second PDF</h1>
+        </label>
+        <input id="merge-input-2" type="file" style="display: none;" accept="application/pdf">
+        <button class="btn">Merge</button>
+      </div>
+
+      <div class="common append-container disabled-el">
+        <h1 class="action-title">Append image to PDF file</h1>
+
+        <div class="processing" style="display: none;">
+          <img src="img/append.png" width="56px" height="56px">
+          <h1 class="processing-1">First</h1>
+          <h1 class="processing-2">Second</h1>
+          <h1>We're processing your request...</h1>
+        </div>
+
+        <label class="first-append" for="append-input-1" style="margin-bottom: 16px;">
+          <img src="img/append.png" width="56px" height="56px">
+          <h1>Select PDF file</h1>
+        </label>
+        <input id="append-input-1" type="file" style="display: none;" accept="application/pdf">
+
+        <label class="second-append" for="append-input-2">
+          <img src="img/append.png" width="56px" height="56px">
+          <h1>Select image file</h1>
+        </label>
+        <input id="append-input-2" type="file" style="display: none;" accept="image/jpeg,image/png">
+        <div class="img-pos-wrapper">
+          <input type="radio" id="toBegin" name="imagePos">
+          <label class="imagePosLabel" for="toBegin">Append a picture to the beginning PDF</label>
+          <input type="radio" id="toEnd" name="imagePos" checked>
+          <label class="imagePosLabel" for="toEnd">Append a picture to the end of PDF</label>
+        </div>
+        <button class="btn">Append</button>
+
+      </div>
+
+      <div class="common pdfs-container disabled-el">
+        <h1 class="action-title">Download Opened PDFs</h1>
+        <div class="pdfs-wrapper">
+        </div>
+      </div>
+    </section>
+
+    <script src="jquery.js"></script>
+    <script src="pdf-lib.js"></script>
+    <script src="pdf.js"></script>
+  </body>
+</html>

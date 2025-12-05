@@ -1,0 +1,7 @@
+/*!
+  @brief
+  @param urlPathPattern :
+  @param selector :
+  @param options {isRated:function(node){}  return true if node is rated
+  ,}
+*/

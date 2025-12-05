@@ -1,0 +1,11 @@
+<svg width="28" height="24" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2406_15444" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="24">
+<path d="M0 3C0 1.34315 1.34315 0 3 0H25C26.6569 0 28 1.34315 28 3V21C28 22.6569 26.6569 24 25 24H3C1.34315 24 0 22.6569 0 21V3Z" fill="#9BFFE7" style="fill:#9BFFE7;fill:color(display-p3 0.6083 1.0000 0.9060);fill-opacity:1;"/>
+</mask>
+<g mask="url(#mask0_2406_15444)">
+<path d="M9 -2L9 26L-1 26L-0.999998 -2L9 -2Z" fill="#022A7F" style="fill:#022A7F;fill:color(display-p3 0.0078 0.1647 0.4980);fill-opacity:1;"/>
+<path d="M29 -2L29 26L19 26L19 -2L29 -2Z" fill="#CE1127" style="fill:#CE1127;fill:color(display-p3 0.8078 0.0667 0.1529);fill-opacity:1;"/>
+<path d="M19 -2L19 26L9 26L9 -2L19 -2Z" fill="#FED116" style="fill:#FED116;fill:color(display-p3 0.9961 0.8196 0.0863);fill-opacity:1;"/>
+</g>
+<path opacity="0.4" d="M3 0.5H25C26.3807 0.5 27.5 1.61929 27.5 3V21C27.5 22.3807 26.3807 23.5 25 23.5H3C1.61929 23.5 0.5 22.3807 0.5 21V3C0.5 1.61929 1.61929 0.5 3 0.5Z" stroke="white" stroke-opacity="0.5" style="stroke:white;stroke-opacity:0.5;"/>
+</svg>

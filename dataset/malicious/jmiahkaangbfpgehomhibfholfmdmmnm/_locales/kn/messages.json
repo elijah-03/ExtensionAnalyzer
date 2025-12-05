@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "ಬಾಸ್ ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಹೆಚ್ಚಿಸಿ"
+   },
+   "description": {
+      "message": "ಈ ಬಾಸ್ ಬೂಸ್ಟರ್ ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ನಿಜವಾಗಿಯೂ ನಿಮ್ಮ ಬ್ರೌಸರ್ನಿಂದ ಉತ್ತಮವಾದ ಧ್ವನಿಯನ್ನು ಮಾಡಿ. ಹೆಡ್ಫೋನ್ಗಳು ಮತ್ತು ಸ್ಪೀಕರ್ಗಳಿಗಾಗಿ ಕೆಲಸ ಮಾಡುವ ಬೂಸ್ ಬೂಸ್ಟರ್."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - ಬಾಸ್ ಬೂಸ್ಟರ್"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

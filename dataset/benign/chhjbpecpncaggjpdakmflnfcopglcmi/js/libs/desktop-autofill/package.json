@@ -1,0 +1,43 @@
+{
+  "name": "@fillr_letspop/desktop-autofill",
+  "version": "0.2.104",
+  "description": "JS Library For Fillr Desktop Autofill",
+  "scripts": {
+    "start": "./build.sh",
+    "test": "./build.sh && jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Fillr",
+  "license": "Copyright Pop Tech",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-proposal-class-properties": "^7.16.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-typescript": "^7.16.0",
+    "@peculiar/webcrypto": "^1.2.3",
+    "@types/expect-puppeteer": "^4.4.7",
+    "@types/jest": "^27.0.3",
+    "@types/jest-environment-puppeteer": "^4.4.1",
+    "@types/puppeteer": "^5.4.4",
+    "babel-loader": "^8.2.3",
+    "jest": "^27.4.3",
+    "jest-puppeteer": "^6.0.2",
+    "puppeteer": "^12.0.1",
+    "ts-jest": "^27.1.0",
+    "ts-loader": "^9.2.6",
+    "tslint": "^5.20.1",
+    "tslint-loader": "^3.5.4",
+    "tsutils": "^3.21.0",
+    "typescript": "^4.5.2",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "homepage": "https://www.fillr.com",
+  "keywords": [
+    "autofill"
+  ]
+}

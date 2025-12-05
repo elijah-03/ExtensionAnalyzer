@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Підсилити баси на цій вкладці"
+   },
+   "description": {
+      "message": "Зробіть звук у вашому браузері дійсно чудовим за допомогою цього додатка для підсилювання басів. Робочий басовий підсилювач для навушників та динаміків."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Підсилювач басів"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

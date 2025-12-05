@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Bassi Amplifica questa scheda"
+   },
+   "description": {
+      "message": "Crea un suono dal tuo browser davvero fantastico con questa app di bass booster. Booster di lavoro per cuffie e altoparlanti."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Bass Booster - Basso Amplifica"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Bass Booster"
+   }
+}

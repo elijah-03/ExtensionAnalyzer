@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "Бас Појачати ово Таб"
+   },
+   "description": {
+      "message": "Направите звук из вашег претраживача стварно страшан са овом апликацијом за бас бустер. Радни бас бустер за слушалице и звучнике."
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Sound Control - Sound Control"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Sound Control"
+   }
+}

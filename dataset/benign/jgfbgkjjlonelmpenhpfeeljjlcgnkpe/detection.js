@@ -1,0 +1,1 @@
+var _div;-1!==window.location.href.indexOf("browsersso/")&&((_div=document.createElement("div")).setAttribute("id","sCLExtInstalled"),_div.innerText="1",_div.setAttribute("data-version","12.5"),_div.style.display="none",document.body.appendChild(_div));

@@ -1,0 +1,1 @@
+!function(){$(".btn",".to_insta_wrap").on("click",function(){chrome.tabs.create({url:"https://instagram.com"})}),$(".btn",".to_ig_stories_wrap").on("click",function(){chrome.tabs.create({url:"chrome-extension://"+chrome.runtime.id+"/stories.html"})})}();

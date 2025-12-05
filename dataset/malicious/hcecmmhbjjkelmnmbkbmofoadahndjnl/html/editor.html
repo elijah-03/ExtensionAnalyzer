@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Screenshot Editor</title>
+  <link href='https://fonts.googleapis.com/css?family=Mulish' rel='stylesheet' />
+  <link rel="stylesheet" href="../styles/editor.css"/>
+</head>
+
+<body>
+  <header>
+    <div class="helpers">
+      <div class="colors">
+        <div id="black" class="selectedColor" style="background-color: black;"></div>
+        <div id="white" style="background-color: white;"></div>
+        <div id="red" style="background-color: red;"></div>
+        <div id="green" style="background-color: green;"></div>
+        <div id="blue" style="background-color: blue;"></div>
+        <div id="yellow" style="background-color: yellow;"></div>
+        <div id="orange" style="background-color: orange;"></div>
+        <div id="purple" style="background-color: purple;"></div>
+        <div id="gray" style="background-color: gray;"></div>
+        <div id="pink" style="background-color: pink;"></div>
+      </div>
+<!--      <img name="draw" class="active" src="../assets/icon_pen.png"/>-->
+      <div class="icon active" name="draw">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M21.586 6C21.9611 5.62506 22.4697 5.41443 23 5.41443C23.5303 5.41443 24.0389 5.62506 24.414 6L26 7.586C26.3749 7.96106 26.5856 8.46967 26.5856 9C26.5856 9.53033 26.3749 10.0389 26 10.414L24.414 12L20 7.586L21.586 6ZM18.586 9L13.586 14C13.2109 14.375 13.0001 14.8836 13 15.414V17C13 17.5304 13.2107 18.0391 13.5858 18.4142C13.9609 18.7893 14.4696 19 15 19H16.586C17.1164 18.9999 17.625 18.7891 18 18.414L23 13.414L18.586 9Z" fill="white"/>
+          <path d="M10 18H9C8.46957 18 7.96086 18.2107 7.58579 18.5858C7.21071 18.9609 7 19.4696 7 20C7 20.5304 7.21071 21.0391 7.58579 21.4142C7.96086 21.7893 8.46957 22 9 22H23C23.5304 22 24.0391 22.2107 24.4142 22.5858C24.7893 22.9609 25 23.4696 25 24C25 24.5304 24.7893 25.0391 24.4142 25.4142C24.0391 25.7893 23.5304 26 23 26H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="icon" name="text">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M8 9C8 8.73478 8.10536 8.48043 8.29289 8.29289C8.48043 8.10536 8.73478 8 9 8H21C21.2652 8 21.5196 8.10536 21.7071 8.29289C21.8946 8.48043 22 8.73478 22 9V12C22 12.2652 21.8946 12.5196 21.7071 12.7071C21.5196 12.8946 21.2652 13 21 13C20.7348 13 20.4804 12.8946 20.2929 12.7071C20.1054 12.5196 20 12.2652 20 12V10H16V22H17C17.2652 22 17.5196 22.1054 17.7071 22.2929C17.8946 22.4804 18 22.7348 18 23C18 23.2652 17.8946 23.5196 17.7071 23.7071C17.5196 23.8946 17.2652 24 17 24H13C12.7348 24 12.4804 23.8946 12.2929 23.7071C12.1054 23.5196 12 23.2652 12 23C12 22.7348 12.1054 22.4804 12.2929 22.2929C12.4804 22.1054 12.7348 22 13 22H14V10H10V12C10 12.2652 9.89464 12.5196 9.70711 12.7071C9.51957 12.8946 9.26522 13 9 13C8.73478 13 8.48043 12.8946 8.29289 12.7071C8.10536 12.5196 8 12.2652 8 12V9Z" fill="white"/>
+        </svg>
+      </div>
+      <div class="icon" name="arrow">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.4 22L20 12.4V21H22V9H10V11H18.6L9 20.6L10.4 22Z" fill="white"/>
+        </svg>
+      </div>
+      <div class="icon" name="rectangle">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M24.25 7.375H7.75C7.25272 7.375 6.77581 7.57254 6.42417 7.92417C6.07254 8.27581 5.875 8.75272 5.875 9.25V22.75C5.875 23.2473 6.07254 23.7242 6.42417 24.0758C6.77581 24.4275 7.25272 24.625 7.75 24.625H24.25C24.7473 24.625 25.2242 24.4275 25.5758 24.0758C25.9275 23.7242 26.125 23.2473 26.125 22.75V9.25C26.125 8.75272 25.9275 8.27581 25.5758 7.92417C25.2242 7.57254 24.7473 7.375 24.25 7.375ZM23.875 22.375H8.125V9.625H23.875V22.375Z" fill="white"/>
+        </svg>
+      </div>
+      <div class="icon" name="ellipse">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M16 25C20.9706 25 25 20.9706 25 16C25 11.0294 20.9706 7 16 7C11.0294 7 7 11.0294 7 16C7 20.9706 11.0294 25 16 25Z" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="icon" name="crop">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M21 9C21.5046 8.99984 21.9906 9.19041 22.3605 9.5335C22.7305 9.87659 22.9571 10.3468 22.995 10.85L23 11V21H25C25.2549 21.0003 25.5 21.0979 25.6854 21.2728C25.8707 21.4478 25.9822 21.687 25.9972 21.9414C26.0121 22.1958 25.9293 22.4464 25.7657 22.6418C25.6021 22.8373 25.3701 22.9629 25.117 22.993L25 23H23V25C22.9997 25.2549 22.9021 25.5 22.7271 25.6854C22.5522 25.8707 22.313 25.9822 22.0586 25.9972C21.8042 26.0121 21.5536 25.9293 21.3582 25.7657C21.1627 25.6021 21.0371 25.3701 21.007 25.117L21 25V11H13V9H21ZM9.99999 6C10.2449 6.00003 10.4813 6.08996 10.6644 6.25272C10.8474 6.41547 10.9643 6.63975 10.993 6.883L11 7V21H19V23H11C10.4954 23.0002 10.0094 22.8096 9.63944 22.4665C9.26946 22.1234 9.04283 21.6532 9.00499 21.15L8.99999 21V11H6.99999C6.74511 10.9997 6.49996 10.9021 6.31462 10.7272C6.12929 10.5522 6.01776 10.313 6.00282 10.0586C5.98788 9.80416 6.07067 9.55362 6.23426 9.35817C6.39785 9.16271 6.62989 9.0371 6.88299 9.007L6.99999 9H8.99999V7C8.99999 6.73478 9.10535 6.48043 9.29288 6.29289C9.48042 6.10536 9.73477 6 9.99999 6Z" fill="white"/>
+        </svg>
+      </div>
+      <button class="cutButton" id="cutButton">Cut</button>
+    </div>
+    <div class="downloadForm">
+      <select class="downloadFormat">
+        <option value="PNG" selected>PNG</option>
+        <option value="JPG">JPG</option>
+        <option value="PDF">PDF</option>
+      </select>
+      <button id="downloadButton"><img src="../assets/icon_download.svg" />Download</button>
+    </div>
+  </header>
+  <div id="editorContainer">
+    <canvas id="editorCanvas"></canvas>
+    <canvas id="newParts"></canvas>
+    <div id="cropFrame">
+      <div class="resize-handle top-left"></div>
+    </div>
+  </div>
+  <script src="../js/editor.js"></script>
+  <script src="../js/crop.js"></script>
+</body>
+
+</html>

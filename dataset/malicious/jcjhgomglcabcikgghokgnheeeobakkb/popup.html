@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title data-locale="name"></title>
+    <link href="switcher.css" rel="stylesheet">
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome.css">
+  </head>
+  <body>
+    <div class="day" id="custom-color-switch" class="form-check form-check-inline" style="position: absolute; top: 15px; left: 214px;">
+      <span id="ext-status">Enabled</span>
+      <input class="form-check-input" type="checkbox" id="custom-color" value="option1" checked>
+    </div>
+
+    <div class="wrapper">
+      <img id="logo" src="popup-enabled.png">
+
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" id="yellow-checkbox">
+        <label class="custom-control-label" for="yellow-checkbox">Disable yellow tint</label>
+      </div>
+
+      <div class="line"></div>
+      <div id="domainBtn">Add to blocklist</div>
+    </div>
+
+    <script src="jquery.js"></script>
+    <script src="jquery.switcher.js"></script>
+    <script src="popup.js"></script>
+  </body>
+</html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="css/photoswipe.css" rel="stylesheet" type="text/css">
+    <link href="css/photoswipe-default-skin.css" rel="stylesheet" type="text/css">
+    <link href="css/perfect-scrollbar.min.css" rel="stylesheet" type="text/css">
+    <link href="css/content.css" rel="stylesheet" type="text/css">
+    <link href="css/croppie.css" rel="stylesheet" type="text/css">
+    <link href="css/stories.css" rel="stylesheet" type="text/css">
+    <style>
+        .error_story_not_found{
+            display: none;
+            margin-top: 20%;
+            font-size: 30px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body class="story_page">
+<div class="error_story_not_found"></div>
+
+<div class="up_to_top_button"></div>
+<div class="page_wrap">
+
+    <div class="left_wrapper">
+        <div id="logo"></div>
+        <div class="title_wrap">
+            <div class="title_text"></div>
+        </div>
+        <div class="feedback_wrap">
+                <div id="rating-ask">
+                    <span class="ext_text"></span>
+                    <span class="stars">
+						<a class="star" data-pos="1">
+							<span class="empty"></span>
+							<span class="filled"></span>
+						</a>
+						 <a class="star" data-pos="2">
+						   <span class="empty"></span>
+							<span class="filled"></span>
+						</a>
+						 <a class="star" data-pos="3">
+							<span class="empty"></span>
+							<span class="filled"></span>
+						</a>
+						 <a class="star" data-pos="4">
+						   <span class="empty"></span>
+							<span class="filled"></span>
+						</a>
+						 <a class="star" data-pos="5">
+							<span class="empty"></span>
+							<span class="filled"></span>
+						</a>
+					</span>
+                </div>
+        </div>
+    </div>
+
+
+    <div class="page_container">
+        <div id="nav">
+            <div class="nav_item active" data-nav_name="friends">
+                <div class="nav_item_wrap">
+                    <span class="icon"></span><span class="text"></span></div>
+            </div>
+            <div class="nav_item" data-nav_name="locations">
+                <div class="nav_item_wrap">
+                    <span class="icon"></span><span class="text"></span></div>
+            </div>
+            <div class="nav_item" data-nav_name="search">
+                <div class="nav_item_wrap">
+                    <span class="icon"></span><span class="text"></span></div>
+            </div>
+            <div class="nav_item" data-nav_name="upload">
+                <div class="nav_item_wrap">
+                    <span class="icon"></span><span class="text"></span></div>
+            </div>
+            <div class="dark_mode_cfg_wrapper">
+                <div class="settings_item dark_mode">
+                    <div class="push-toggle">
+                        <div class="icon"></div>
+                        <span class="title"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content_container">
+            <div id="friends">
+                <div class="name_filter_wrap">
+                    <input type="text" name="name_filter_input">
+                </div>
+                <div class="content_list"></div>
+            </div>
+            <div id="locations">
+                <div class="name_filter_wrap">
+                    <input type="text" name="name_filter_input">
+                </div>
+                <div class="content_list"></div>
+            </div>
+            <div id="search">
+                <div class="search_input_wrap">
+                    <input type="text" name="search_input">
+                </div>
+                <div class="search_btns_wrap">
+                    <button class="search_button" id="search_users"></button>
+                    <button class="search_button" id="search_tags"></button>
+                    <button class="search_button" id="search_places"></button>
+                </div>
+                <div class="content_list"></div>
+            </div>
+            <div id="upload">
+                <div class="upload_from_anywhere">
+                    <div class="push-toggle selector">
+                        <div class="point"></div>
+                    </div>
+                    <span class="title"></span>
+                    <span class="title-help"><span class="img-icon"></span></span>
+
+                </div>
+                <div class="upload_btn_wrap"><button class="ext_upload_btn"></button></div>
+            </div>
+            <div class="nav_update_loader"></div>
+        </div>
+    </div>
+    <div style="clear: both"></div>
+</div>
+
+
+<script src="js/jquery.js"></script>
+<script src="js/photoswipe.js"></script>
+<script src="js/photoswipe-ui-default.js"></script>
+<script src="js/dash.all.min.js"></script>
+<script src="js/perfect-scrollbar.jquery.min.js"></script>
+<script src="js/perfect-scrollbar.min.js"></script>
+<script src="js/jszip.min.js"></script>
+<script src="js/FileSaver.js"></script>
+<script src="js/jszip_utils.js"></script>
+
+<script src="js/utils.js"></script>
+<script src="js/countryList.js"></script>
+<script src="js/croppie.min.js"></script>
+<script src="js/tippy.all.js"></script>
+<script src="js/stories.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener(function(e){chrome.storage.local.set({status:1},null)});chrome.runtime.onMessage.addListener(function(request,sender,sendResponse){if(request.type==="toggle_ext"){chrome.tabs.executeScript({file:"inject.js"})}});

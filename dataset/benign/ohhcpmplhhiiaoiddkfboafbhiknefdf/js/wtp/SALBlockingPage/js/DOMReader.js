@@ -1,0 +1,1 @@
+window.browser.runtime.onMessage.addListener((e,n,t)=>{"GetScriptsList"==e.action&&t({tab:e.tab,head:document.head.innerHTML,body:document.body.innerHTML})});

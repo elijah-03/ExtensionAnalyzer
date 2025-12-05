@@ -1,0 +1,14 @@
+{
+  "ext_name": {
+    "message": "TextSpeecher : Text to Speech",
+    "description": "TextSpeecher : Text to Speech"
+  },
+  "ext_short_name": {
+    "message": "TextSpeecher",
+    "description": "TextSpeecher"
+  },
+  "ext_description": {
+    "message": "Turns any selected text into a pleasant voice. Listen instead of reading!",
+    "description": "Turns any selected text into a pleasant voice. Listen instead of reading!"
+  }
+}

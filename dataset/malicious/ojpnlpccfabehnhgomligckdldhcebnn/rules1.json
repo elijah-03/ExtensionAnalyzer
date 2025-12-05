@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"priority": 1,
+		"action": {
+			"type": "modifyHeaders",
+			"responseHeaders": [
+				{ "header": "content-origin-options-list-n", "operation": "remove" },
+				{ "header": "content-security-policy", "operation": "remove" },
+				{ "header": "content-visual-position-x", "operation": "remove" },
+				{ "header": "content-visual-position-y", "operation": "remove" },
+				{ "header": "x-frame-origin-options-last-test", "operation": "remove" },
+				{ "header": "x-frame-options", "operation": "remove" }
+			]
+		},
+		"condition": { "urlFilter": "*", "resourceTypes": ["main_frame","sub_frame"] }
+	}
+]

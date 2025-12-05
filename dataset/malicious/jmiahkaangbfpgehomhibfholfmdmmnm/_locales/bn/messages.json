@@ -1,0 +1,26 @@
+{
+   "boostEnabledTitle": {
+      "message": "বাস এই ট্যাব বুস্ট"
+   },
+   "description": {
+      "message": "Make a sound from your browser really awesome with this bass booster app. Working bass booster for headphones and speakers. Volume Booster"
+   },
+   "disable_bass_boost": {
+      "message": "OFF"
+   },
+   "enable_bass_boost": {
+      "message": "ON"
+   },
+   "name": {
+      "message": "Sound Booster"
+   },
+   "popupAppName": {
+      "message": "Bass Booster"
+   },
+   "short_name": {
+      "message": "Bass Booster"
+   },
+   "title": {
+      "message": "Sound Booster"
+   }
+}

@@ -1,0 +1,102 @@
+@font-face { font-family: lato; src: url('lato-bold.ttf'); font-weight: 900; } 
+@font-face { font-family: lato; src: url('lato-regular.ttf'); font-weight: 400;} 
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+html, body {
+    background-color: #fff;
+    height: 100%;
+    width: 450px;
+}
+
+.wrapper {
+    width: 450px;
+    height: 100%;
+    background:#FFFFFF;
+    transition: .5s;
+}
+
+.wrapper header {
+    padding-left: 35px;
+    font-size: 18px;
+    font-family: 'lato';
+    color: #0E0E20;
+    font-weight: 900;
+    line-height: 100px;
+    user-select: none;
+}
+
+.wrapper header img{
+    margin-right: 15px;
+}
+
+.wrapper ul li {
+    padding-left: 35px;
+    display: block;
+    height: 60px;
+    width: 100%;
+    line-height: 55px;
+    font-size: 20px;
+    color: #12112E;
+    font-family: "lato";
+    box-sizing: border-box;
+    border-top: 1px solid #00000010;
+    cursor: pointer;
+}
+
+.wrapper ul li.active {
+    background: #F0F0F0 !important;
+    box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.15) !important;
+}
+
+.wrapper ul li.active .arrow {
+    transform: rotate(180deg);
+}
+
+.wrapper ul li:last-child {
+    border-bottom: 1px solid #00000010;
+}
+
+.wrapper ul li img {
+    margin-right: 15px;
+}
+
+.wrapper ul li:hover {
+    background: #F5F5F5 !important;
+}
+
+.wrapper ul li:active {
+    background: #F0F0F0 !important;
+    box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.15) !important;
+}
+
+.arrow {
+    float: right;
+    margin-right: 24px !important;
+    margin-top: 5%;
+}
+
+
+.pdfs-btn {
+    position: relative;
+}
+
+.download-pdf-title {
+    display: inline-block;
+    position: absolute;
+    top: -5px;
+    color: #12112E;
+}
+
+.download-pdf-count {
+    display: inline-block;
+    font-size: 12px;
+    position: absolute;
+    top: 12px;
+    color: #12112E;
+}

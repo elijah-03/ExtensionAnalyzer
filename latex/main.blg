@@ -1,48 +1,58 @@
 This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-The style file: plain.bst
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty journal in unknown
+
+Done.
 You've used 10 entries,
-            2118 wiz_defined-function locations,
-            550 strings with 5879 characters,
-and the built_in function-call counts, 4116 in all, are:
-= -- 410
-> -- 169
-< -- 7
-+ -- 66
-- -- 56
-* -- 250
-:= -- 626
-add.period$ -- 33
+            4087 wiz_defined-function locations,
+            874 strings with 9195 characters,
+and the built_in function-call counts, 7839 in all, are:
+= -- 592
+> -- 174
+< -- 64
++ -- 98
+- -- 28
+* -- 371
+:= -- 1125
+add.period$ -- 23
 call.type$ -- 10
-change.case$ -- 58
-chr.to.int$ -- 0
+change.case$ -- 10
+chr.to.int$ -- 159
 cite$ -- 11
-duplicate$ -- 186
-empty$ -- 340
-format.name$ -- 56
-if$ -- 930
+duplicate$ -- 564
+empty$ -- 695
+format.name$ -- 37
+if$ -- 1853
 int.to.chr$ -- 0
 int.to.str$ -- 10
-missing$ -- 10
+missing$ -- 96
 newline$ -- 53
-num.names$ -- 20
-pop$ -- 74
+num.names$ -- 10
+pop$ -- 243
 preamble$ -- 1
-purify$ -- 48
-quote$ -- 0
-skip$ -- 153
+purify$ -- 0
+quote$ -- 2
+skip$ -- 607
 stack$ -- 0
-substring$ -- 255
-swap$ -- 73
-text.length$ -- 7
+substring$ -- 381
+swap$ -- 434
+text.length$ -- 11
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 40
+top$ -- 5
+type$ -- 10
 warning$ -- 1
-while$ -- 38
+while$ -- 37
 width$ -- 12
-write$ -- 113
+write$ -- 112
 (There was 1 warning)

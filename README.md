@@ -84,7 +84,7 @@ This project introduces a novel hybrid interpretable approach that bridges the g
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/elijah-03/ExRay
    cd ExtensionAnalyzer
    ```
 

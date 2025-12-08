@@ -4,6 +4,10 @@
 
 An advanced security analysis tool for Chrome browser extensions that combines rule-based static analysis with interpretable machine learning to detect malicious behavior. Unlike traditional approaches that rely solely on heuristic rules (high false positives) or black-box ML models (unexplainable), this tool provides both accurate threat detection and human-understandable explanations.
 
+https://github.com/user-attachments/assets/f2f5aabc-2ad9-46fb-b3be-9ac1446258fc
+
+
+
 ## Novel Contributions
 
 ### 1. Hybrid Interpretable ML System
